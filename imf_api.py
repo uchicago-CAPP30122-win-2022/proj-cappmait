@@ -12,11 +12,12 @@ Key should be
     ?startPeriod={start date}&endPeriod={end date}
 
 This retrieves
-    dimension1: quarterly (frequency: Q)
-    dimension2: countries, which are Japan and the U.K. (reference area: JP, GB)
-    dimension3: External Trade, Goods, Deflator/Unit Value of Exports, 
-                Free on Board (FOB), in US Dollars, Index (indicator: TXG_D_FOB_USD_IX)
+    data type: CompactData
     database ID: the International Financial Statistics (IFS) series.
+    frequency: quarterly (frequency: Q)
+    dimension1: countries, which are Japan and the U.K. (reference area: JP, GB)
+    dimension2: External Trade, Goods, Deflator/Unit Value of Exports, 
+                Free on Board (FOB), in US Dollars, Index (indicator: TXG_D_FOB_USD_IX)
     time period: startPeriod = 2017 and endPeriod = 2020
 '''
 
@@ -28,9 +29,7 @@ country_code = data[0]['@REF_AREA']
 data_list = [[obs.get('@TIME_PERIOD'), obs.get('@OBS_VALUE')]
              for obs in data[0]['Obs']]
 df = pd.DataFrame(data_list, columns=['date', 'value'])
-print(df.head())
 df['date'] = pd.to_datetime(df['date'])
-#df = df.set_index(pd.to_datetime(df['date']))['value'].astype('float')
 
 print('Country Code:', country_code)
 print(df.head())
