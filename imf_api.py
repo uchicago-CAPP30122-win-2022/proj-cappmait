@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import matplotlib.pyplot as plt
 
 url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 key = 'CompactData/IFS/Q.JP+GB.TXG_D_FOB_USD_IX?startPeriod=2017&endPeriod=2020'
@@ -29,7 +30,12 @@ country_code = data[0]['@REF_AREA']
 data_list = [[obs.get('@TIME_PERIOD'), obs.get('@OBS_VALUE')]
              for obs in data[0]['Obs']]
 df = pd.DataFrame(data_list, columns=['date', 'value'])
-df['date'] = pd.to_datetime(df['date'])
+df = df.set_index(pd.to_datetime(df['date']))['value'].astype('float')
 
-print('Country Code:', country_code)
-print(df.head())
+plt.figure()
+title = f'{country_code}, External Trade, Goods, Deflator/Unit Value of Exports,\n\
+        Free on Board (FOB)'
+df.plot(title=title, colormap='Set1')
+plt.xlabel('date')
+plt.ylabel('US Dollars')
+plt.show()
