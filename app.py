@@ -6,7 +6,7 @@ from dash import Dash, dcc, html, Input, Output
 app = Dash(__name__)
 
 # Load Data
-product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", index_col= "ReporterCode")
+product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv")
 covid_data = pd.read_csv("WHO-COVID-19-global-data.csv")
 
 # Clean the data (specifically for covid_data)
