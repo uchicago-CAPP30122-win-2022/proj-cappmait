@@ -159,7 +159,7 @@ def download_un_comtrade(path, year, reporters, partners):
     '''
 
     for reporter in reporters:
-        export = un_comtrade_json(year, reporter["id"])
+        export = un_comtrade_json(year, reporter)
         print(reporter["text"])
     
         if export['validation']['status']['value'] == 5003:
