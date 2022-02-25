@@ -48,3 +48,4 @@ def extract_export_data(target_country):
                 df_dict_col[i['@TIME_PERIOD']] = round(float(i['@OBS_VALUE']), 1)
             trading_data[s['@COUNTERPART_AREA']] = df_dict_col
     return pd.DataFrame(trading_data).T, missing_country
+
