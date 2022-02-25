@@ -18,6 +18,7 @@ covid_data[['Year', 'Month', 'Day']] = covid_data['Date_reported'].\
                                     str.split("-", expand = True)
 covid_data_2020 = covid_data[covid_data.Year == '2020'].groupby(\
                                 'Country')['Cumulative_cases'].sum()
+# also we may want to clean the country of covid_data and of product
 
 # Define Layout (dash components should be inside app layout)
 app.layout = html.Div([
