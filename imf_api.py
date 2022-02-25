@@ -49,3 +49,7 @@ def extract_export_data(target_country):
             trading_data[s['@COUNTERPART_AREA']] = df_dict_col
     return pd.DataFrame(trading_data).T, missing_country
 
+
+def extract_import_data(target_country):
+    pass
+
