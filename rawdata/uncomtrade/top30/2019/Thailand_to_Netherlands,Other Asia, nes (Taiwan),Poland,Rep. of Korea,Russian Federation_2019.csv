@@ -1,0 +1,450 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,52226,,,4
+1,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,01,Animals; live,1,No Quantity,,,0,,,,44283,,,4
+2,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,880,,,4
+3,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,200,,,4
+4,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,330,,,4
+5,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,27824112,,,4
+6,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,16965,,,4
+7,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,139540864,,,4
+8,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,153,,,4
+9,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,8065768,,,4
+10,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,86812842,,,4
+11,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,60260140,,,4
+12,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,3830028,,,4
+13,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,699813,,,4
+14,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,11258920,,,4
+15,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,539372,,,4
+16,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,8345808,,,4
+17,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,2087571,,,4
+18,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,289652,,,4
+19,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1940678,,,4
+20,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,65943,,,4
+21,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,7569551,,,4
+22,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1340414,,,4
+23,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,7380119,,,4
+24,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,265399,,,4
+25,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1395857,,,4
+26,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,4086057,,,4
+27,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,21991736,,,4
+28,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,8325154,,,4
+29,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,378770,,,4
+30,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,3513059,,,4
+31,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,43214629,,,4
+32,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,17415573,,,4
+33,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,9468343,,,4
+34,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,41398,,,4
+35,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,9241989,,,4
+36,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,707538,,,4
+37,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,1388436,,,4
+38,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,8212476,,,4
+39,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,738217,,,4
+40,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,188724,,,4
+41,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,379390,,,4
+42,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,14212256,,,4
+43,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,37664362,,,4
+44,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,5555992,,,4
+45,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,17785677,,,4
+46,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,4043687,,,4
+47,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,118298165,,,4
+48,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,11683033,,,4
+49,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,237714,,,4
+50,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,364764,,,4
+51,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,,,4255301,,,4
+52,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,10043355,,,4
+53,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,24887612,,,4
+54,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,2910,,,4
+55,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,11614,,,4
+56,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,480855,,,4
+57,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,180280,,,4
+58,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,81522,,,4
+59,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,53279,,,4
+60,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,649656,,,4
+61,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,100654,,,4
+62,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,20161563,,,4
+63,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,1852762,,,4
+64,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,14431189,,,4
+65,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,128887,,,4
+66,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,1020191,,,4
+67,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,186981150,,,4
+68,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,32800346,,,4
+69,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,180509865,,,4
+70,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,543502,,,4
+71,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,19417605,,,4
+72,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,274836190,,,4
+73,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,152885455,,,4
+74,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,9313339,,,4
+75,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,27889,,,4
+76,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,810879,,,4
+77,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,3642953,,,4
+78,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,686559,,,4
+79,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,421255,,,4
+80,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,61133,,,4
+81,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,492033,,,4
+82,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,27836875,,,4
+83,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,26780609,,,4
+84,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,58531147,,,4
+85,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,1933785,,,4
+86,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2262412,,,4
+87,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,64841335,,,4
+88,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,51147612,,,4
+89,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,58488972,,,4
+90,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,12471124,,,4
+91,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,47255699,,,4
+92,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,44835360,,,4
+93,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,140635020,,,4
+94,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,63281963,,,4
+95,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,10087067,,,4
+96,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,14317962,,,4
+97,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,29551760,,,4
+98,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,14366403,,,4
+99,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,5579247,,,4
+100,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,444302,,,4
+101,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,2541122,,,4
+102,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,45831704,,,4
+103,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,59919020,,,4
+104,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,7722087,,,4
+105,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,43655,,,4
+106,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,8221561,,,4
+107,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,5872346,,,4
+108,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,695023,,,4
+109,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,612463,,,4
+110,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,2959094,,,4
+111,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,1256396,,,4
+112,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,8179748,,,4
+113,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,21364178,,,4
+114,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,5098,,,4
+115,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,19688,,,4
+116,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,233399,,,4
+117,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,,,17936586,,,4
+118,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,96353,,,4
+119,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,4599471,,,4
+120,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,151529,,,4
+121,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,733865,,,4
+122,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,200003821,,,4
+123,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,26753524,,,4
+124,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,1822556,,,4
+125,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,72749,,,4
+126,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,10514133,,,4
+127,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,10749046,,,4
+128,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,14157572,,,4
+129,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,4910517,,,4
+130,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,5147251,,,4
+131,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,1781042,,,4
+132,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,143077447,,,4
+133,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,170685341,,,4
+134,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,43748463,,,4
+135,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,1866924,,,4
+136,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,2058113,,,4
+137,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,1124600,,,4
+138,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,6983311,,,4
+139,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,2873858,,,4
+140,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,963509,,,4
+141,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,2886476,,,4
+142,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,92949,,,4
+143,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,230453,,,4
+144,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,433058,,,4
+145,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,,,7601925,,,4
+146,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,11067410,,,4
+147,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,,,9687502,,,4
+148,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,,,38764,,,4
+149,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,,,809529,,,4
+150,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,107226747,,,4
+151,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,136567352,,,4
+152,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,5526859,,,4
+153,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,2025710,,,4
+154,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,13726924,,,4
+155,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,14267262,,,4
+156,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,10120111,,,4
+157,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,882166,,,4
+158,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,4393565,,,4
+159,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,1901070,,,4
+160,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,60142410,,,4
+161,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,24010444,,,4
+162,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,8699616,,,4
+163,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,61326,,,4
+164,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,3140934,,,4
+165,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,289424,,,4
+166,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,21,,,4
+167,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,21412,,,4
+168,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,12,,,4
+169,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,1039,,,0
+170,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,99826,,,4
+171,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,66378,,,4
+172,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,2149,,,4
+173,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,1404,,,4
+174,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,2157,,,0
+175,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,22492112,,,4
+176,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,18488345,,,4
+177,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,19683895,,,4
+178,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,801104,,,4
+179,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,1450282,,,4
+180,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,238116339,,,4
+181,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,159937550,,,4
+182,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,91714311,,,4
+183,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,16222533,,,4
+184,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,40497780,,,4
+185,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,367757907,,,4
+186,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,136144713,,,4
+187,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,230879961,,,4
+188,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,79645260,,,4
+189,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,106132704,,,4
+190,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,10547103,,,4
+191,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,12978086,,,4
+192,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,3264642,,,4
+193,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,4189762,,,4
+194,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,626188,,,4
+195,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,21733453,,,4
+196,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,3593134,,,4
+197,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,8284117,,,4
+198,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,672125,,,4
+199,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,4036381,,,4
+200,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,7802451,,,4
+201,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,478,,,0
+202,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,1624156,,,4
+203,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,13366,,,4
+204,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,176963200,,,4
+205,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,28308297,,,4
+206,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,2074218,,,4
+207,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,349538,,,4
+208,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,987896,,,4
+209,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,2134,,,4
+210,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,869,,,4
+211,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,120,,,4
+212,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,185528,,,4
+213,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,43128,,,4
+214,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,29881,,,4
+215,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,,,295,,,4
+216,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,7394,,,4
+217,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,5959127,,,4
+218,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,632814,,,4
+219,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,40287,,,4
+220,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,135923030,,,4
+221,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,48907017,,,4
+222,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,4018647,,,4
+223,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,114503,,,4
+224,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,1085632,,,4
+225,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,715876,,,4
+226,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,317623,,,4
+227,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,122526,,,4
+228,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,19307,,,4
+229,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,98370,,,4
+230,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,309526,,,4
+231,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,31954,,,4
+232,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,2049,,,4
+233,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,76,,,4
+234,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,1974,,,4
+235,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,1022,,,4
+236,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,31804783,,,4
+237,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,70684,,,4
+238,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,13334249,,,4
+239,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,425683,,,4
+240,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,348,,,0
+241,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,49874,,,4
+242,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,78439,,,4
+243,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,53055,,,4
+244,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,84,,,4
+245,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,9982464,,,4
+246,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,7711987,,,4
+247,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,760046,,,4
+248,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,708038,,,4
+249,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,180375,,,4
+250,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,27040346,,,4
+251,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2111450,,,4
+252,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,11170103,,,4
+253,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,12849601,,,4
+254,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2164192,,,4
+255,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,22498372,,,4
+256,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,6492696,,,4
+257,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,2246608,,,4
+258,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,3477062,,,4
+259,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,521086,,,4
+260,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,2142783,,,4
+261,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,738977,,,4
+262,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,100665,,,4
+263,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,232,,,4
+264,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,566211,,,4
+265,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,478851,,,4
+266,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,881919,,,4
+267,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,399543,,,4
+268,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,87918,,,4
+269,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,81914,,,4
+270,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1599703,,,4
+271,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,636648,,,4
+272,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1011241,,,4
+273,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,230789,,,4
+274,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,876,,,4
+275,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,871242,,,4
+276,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,1909218,,,4
+277,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,15974,,,4
+278,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,333878,,,4
+279,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,23,,,4
+280,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,27168213,,,4
+281,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,10486831,,,4
+282,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,18524607,,,4
+283,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,971078,,,4
+284,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,4643784,,,4
+285,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,10264965,,,4
+286,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,,,10234437,,,4
+287,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,11587930,,,4
+288,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,615612,,,4
+289,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,2587601,,,4
+290,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,3163086,,,4
+291,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,2549968,,,4
+292,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,,,6080122,,,4
+293,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,829309,,,4
+294,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,1039687,,,4
+295,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,12235523,,,4
+296,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2173991,,,4
+297,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,11210900,,,4
+298,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2261674,,,4
+299,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,11224442,,,4
+300,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,477490,,,4
+301,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,372815,,,4
+302,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1148180,,,4
+303,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,118402,,,4
+304,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,301000,,,4
+305,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,26269,,,4
+306,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,2188,,,4
+307,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,28187,,,4
+308,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,39660,,,4
+309,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,35358,,,4
+310,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,96267,,,4
+311,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,319406,,,4
+312,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,8823,,,4
+313,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,83404,,,4
+314,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,10429814,,,4
+315,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,7571922,,,4
+316,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,116013,,,4
+317,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,170580,,,4
+318,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,393700,,,4
+319,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,,,7405684,,,4
+320,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,17570638,,,4
+321,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,7157751,,,4
+322,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,3511474,,,4
+323,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,945114,,,4
+324,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,21036654,,,4
+325,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,7709419,,,4
+326,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,1352837,,,4
+327,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,1858207,,,4
+328,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,1782631,,,4
+329,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,,,65838105,,,4
+330,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,31943171,,,4
+331,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,27937046,,,4
+332,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,10287835,,,4
+333,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,30261478,,,4
+334,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,89318942,,,4
+335,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,61093103,,,4
+336,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,5225178,,,4
+337,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,6203827,,,4
+338,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,128563,,,4
+339,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,28818657,,,4
+340,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,72623884,,,4
+341,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,37585024,,,4
+342,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,7406341,,,4
+343,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,6995563,,,4
+344,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,45198372,,,4
+345,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,87699305,,,4
+346,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,531645,,,4
+347,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,37042,,,4
+348,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,480826,,,4
+349,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,151440,,,4
+350,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,41939,,,4
+351,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,,,185366,,,4
+352,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,158079295,,,4
+353,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,13784866,,,4
+354,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,9404208,,,4
+355,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,3213453,,,4
+356,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,57366,,,4
+357,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,277369,,,4
+358,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,302357,,,4
+359,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,,,1659,,,4
+360,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,1200413,,,4
+361,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,7915277,,,4
+362,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,3579,,,4
+363,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,93188,,,4
+364,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,84,,,4
+365,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,24364266,,,4
+366,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,14635184,,,4
+367,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,17722340,,,4
+368,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,1516,,,4
+369,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,9111,,,4
+370,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,231152,,,4
+371,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,124491,,,4
+372,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,,,215901,,,4
+373,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,4672848,,,4
+374,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,2469309,,,4
+375,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,3889609,,,4
+376,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,140983,,,4
+377,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,901695,,,4
+378,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,1856613,,,4
+379,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,10652151,,,4
+380,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,2451937,,,4
+381,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,324213,,,4
+382,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,2610551,,,4
+383,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,635704293,,,4
+384,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,625073858,,,4
+385,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,1653964939,,,4
+386,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,123586911,,,4
+387,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,114518236,,,4
+388,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,591964346,,,4
+389,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,754715887,,,4
+390,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,888785204,,,4
+391,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,54317066,,,4
+392,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,46735400,,,4
+393,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,235548,,,4
+394,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,1058518,,,4
+395,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,3785735,,,4
+396,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,107229504,,,4
+397,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,241483423,,,4
+398,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,216886358,,,4
+399,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,24302301,,,4
+400,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,303548261,,,4
+401,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,,,11729944,,,4
+402,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,16200288,,,4
+403,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,40039662,,,4
+404,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,866373,,,4
+405,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,1417128,,,4
+406,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,,,1766743,,,4
+407,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,,,58507,,,4
+408,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1595341,,,4
+409,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,486097,,,4
+410,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,8599,,,4
+411,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,77265981,,,4
+412,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,56286098,,,4
+413,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,291318958,,,4
+414,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,21155191,,,4
+415,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,23687911,,,4
+416,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,4709585,,,4
+417,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,,,62540085,,,4
+418,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,,,229587,,,4
+419,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,,,121171,,,4
+420,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1734302,,,4
+421,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,531822,,,4
+422,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,97707,,,4
+423,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,321354,,,4
+424,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,14168,,,4
+425,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,86131,,,4
+426,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,3375427,,,4
+427,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,5219,,,4
+428,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,95946,,,4
+429,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,16261860,,,4
+430,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,15233620,,,4
+431,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,7567375,,,4
+432,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,6220542,,,4
+433,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,8609099,,,4
+434,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,23675707,,,4
+435,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,4797142,,,4
+436,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,16367950,,,4
+437,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,2401895,,,4
+438,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,7262710,,,4
+439,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,15121868,,,4
+440,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,30818778,,,4
+441,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1188295,,,4
+442,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1341412,,,4
+443,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,2025946,,,4
+444,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,54568,,,4
+445,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,111461,,,4
+446,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,40727,,,4
+447,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,4859,,,4
+448,H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,4631,,,4

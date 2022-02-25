@@ -1,0 +1,65 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,806097,,,0
+1,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,3506,,,0
+2,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,10886,,,0
+3,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,16416,,,0
+4,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,2586,,,0
+5,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,112545,,,4
+6,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,12350,,,0
+7,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,235,,,0
+8,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,186,,,0
+9,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,302488,,,0
+10,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,410936,,,0
+11,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,15890,,,0
+12,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,746501,,,0
+13,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,68697,,,0
+14,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,223631,,,0
+15,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,1003469,,,0
+16,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,267410,,,0
+17,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,203158,,,0
+18,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,35517,,,4
+19,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,12902,,,4
+20,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,839721,,,4
+21,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,57946,,,4
+22,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,146845,,,4
+23,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,30992,,,4
+24,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,1621,,,0
+25,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,166052,,,0
+26,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,189336,,,4
+27,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,9957,,,4
+28,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,32734,,,4
+29,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,637,,,0
+30,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,129655,,,0
+31,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,3069,,,0
+32,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,5394265,,,4
+33,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,3122,,,0
+34,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,12974,,,0
+35,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,813,,,0
+36,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1804,,,0
+37,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,73595,,,4
+38,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,171194,,,4
+39,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,9743,,,0
+40,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,58225,,,0
+41,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,382,,,4
+42,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,1578,,,4
+43,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,9339,,,0
+44,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,3869,,,0
+45,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,112147,,,4
+46,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,293962,,,4
+47,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,25233,,,0
+48,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,153645,,,4
+49,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,49480,,,0
+50,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,2452,,,0
+51,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,119,,,4
+52,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,6826,,,0
+53,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,70467,,,4
+54,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,606348,,,4
+55,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,7473064,,,4
+56,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,6523722,,,4
+57,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,8120,,,0
+58,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,2349188,,,0
+59,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,776021,,,4
+60,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,390143,,,4
+61,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,110226,,,4
+62,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,27227,,,4
+63,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,25966,,,4

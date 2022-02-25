@@ -1,0 +1,94 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,49151,,,0
+1,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,6684985,,,0
+2,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,1191,,,0
+3,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,2220,,,0
+4,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,14741,,,4
+5,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,2357593,,,0
+6,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,384970,,,4
+7,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,2113,,,0
+8,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,1603,,,0
+9,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,506296,,,4
+10,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,531,,,0
+11,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,254,,,0
+12,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,269035,,,0
+13,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,7534037,,,0
+14,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,201293,,,0
+15,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,698725,,,0
+16,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,4456080,,,0
+17,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,3302047,,,4
+18,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,3451522,,,0
+19,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,9601066,,,0
+20,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,3387304,,,0
+21,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,203291,,,0
+22,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,211114,,,0
+23,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,3361489,,,0
+24,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,42820444,,,4
+25,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,13784154,,,0
+26,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,431785,,,0
+27,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,4806664,,,0
+28,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,1422318,,,0
+29,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,1265069,,,0
+30,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,470833,,,0
+31,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,232795,,,0
+32,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,38696,,,0
+33,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,12197765,,,0
+34,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,43998630,,,4
+35,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,3114596,,,4
+36,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,31604,,,0
+37,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,665975,,,0
+38,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,3743,,,4
+39,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,5100273,,,0
+40,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,82,,,0
+41,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1210,,,0
+42,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,125878,,,0
+43,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,6562176,,,4
+44,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,530800,,,4
+45,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,1208,,,0
+46,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,870557,,,0
+47,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,183424,,,0
+48,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,5144,,,0
+49,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,180748,,,4
+50,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,11777601,,,4
+51,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,2934740,,,0
+52,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,436672,,,0
+53,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,576931,,,4
+54,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,4843118,,,0
+55,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,108183,,,0
+56,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,3684130,,,4
+57,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,3776259,,,4
+58,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,366491,,,0
+59,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,9734616,,,0
+60,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,730455,,,4
+61,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,274096,,,0
+62,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,3649,,,4
+63,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,4381007,,,0
+64,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,2365947,,,0
+65,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,3134650,,,0
+66,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1183972,,,4
+67,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,11515020,,,0
+68,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,26012043,,,0
+69,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1264817,,,0
+70,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,235047,,,0
+71,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,9697080,,,0
+72,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,80397,,,0
+73,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,1669,,,0
+74,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,181,,,0
+75,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,593940,,,0
+76,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,4340266,,,4
+77,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,13961028,,,4
+78,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,226065680,,,0
+79,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,85957396,,,4
+80,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,1954805,,,0
+81,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,58024137,,,4
+82,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,3887364,,,0
+83,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,4748,,,0
+84,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,17506160,,,4
+85,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,512506,,,4
+86,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,210767,,,0
+87,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,2426148,,,0
+88,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,8562810,,,0
+89,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,13397423,,,4
+90,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,403279,,,4
+91,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,2072,,,0
+92,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,28842,,,0

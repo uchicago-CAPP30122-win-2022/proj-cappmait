@@ -18,8 +18,16 @@ def get_json(url, params = None):
     '''
 
     resp = requests.get(url, params = params)
-    if resp.status_code == 200:
+    time.sleep(5)
+    if resp.status_code == 200:    
         return resp.json()
+    if resp.status_code == 409:
+        # if encounter this error, wait for 1 hr as complying to the API 
+        # provider rule
+        time.sleep(3600)
+        return get_json(url, params)
+    else:
+        return []
 
 # COVID our world in data
 def owid_csv(data, path):
@@ -81,6 +89,7 @@ def un_comtrade_countries(path):
 
     f = open(path, 'r')
     data = json.loads(f.read())
+
     return data
 
 def un_comtrade_json(year, reporter, partner = {'id':'all', 'text':'all'}):
@@ -101,12 +110,6 @@ def un_comtrade_json(year, reporter, partner = {'id':'all', 'text':'all'}):
               'rg':2, 'cc':'AG2', 'max':100000}
     url = "https://comtrade.un.org/api/get"
     json_data = get_json(url, params)
-    
-    if json_data['validation']['status']['value'] == 409:
-        # Encounter a usage limit, we have to wait for 1 hr
-        time.sleep(3600)
-        return get_json(url, params)
-    
     return json_data
 
 
@@ -141,7 +144,11 @@ def large_un_comtrade_json(path, year, reporter, partners):
         partners (list): a list of trade partner dict with id, text as keys
     '''
 
-    for partner in partners:
+    for i in range(0, len(partners), 5):
+        partner = {}
+        partner["id"] = ",".join([coun["id"] for coun in partners[i:i + 5]])
+        partner["text"] = ",".join([coun["text"] for coun in partners[i:i + 5]])
+        
         export = un_comtrade_json(year, reporter, partner)
         print(reporter["text"], " to ", partner["text"])
         un_comtrade_to_csv(export['dataset'], path, year, reporter, partner)
@@ -167,9 +174,6 @@ def download_un_comtrade(path, year, reporters, partners):
             large_un_comtrade_json(path, year, reporter, partners)
         else:
             un_comtrade_to_csv(export['dataset'], path, year, reporter)
-
-        # Delaying
-        time.sleep(5)
 
 
 def call_un_comtrade(reporters_path, partners_path, csv_path):

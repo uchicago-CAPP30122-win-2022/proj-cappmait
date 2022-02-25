@@ -1,0 +1,447 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,92468,,,0
+1,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,26394910,,,4
+2,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,80574,,,4
+3,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,27946,,,0
+4,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,761,,,0
+5,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,58607470,,,0
+6,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,458430123,,,4
+7,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,21319729,,,0
+8,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,12669687,,,0
+9,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,8969956,,,0
+10,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,155349611,,,0
+11,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,5046750,,,0
+12,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,13916218,,,0
+13,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,135086086,,,4
+14,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,5109652,,,0
+15,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,10729767,,,0
+16,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,270535,,,0
+17,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,14653,,,4
+18,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,18687394,,,4
+19,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,7477847,,,0
+20,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,143072,,,0
+21,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,3522,,,0
+22,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,539550,,,4
+23,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,13983485,,,4
+24,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,17224,,,4
+25,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,65840,,,0
+26,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,6336066,,,4
+27,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,59119193,,,4
+28,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,501535,,,0
+29,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,1022,,,0
+30,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,106038,,,0
+31,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,5847218,,,4
+32,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,16724083,,,4
+33,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,1178556,,,0
+34,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,24093,,,0
+35,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1576338,,,4
+36,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,16517994,,,4
+37,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,4130183,,,0
+38,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,95339,,,0
+39,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,752650,,,0
+40,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,2413866,,,0
+41,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,12994335,,,4
+42,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,51389,,,0
+43,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,2187344,,,0
+44,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,3957590,,,4
+45,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,1218836,,,0
+46,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,4974860,,,0
+47,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,13956227,,,0
+48,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,403921,,,4
+49,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,18016392,,,4
+50,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,776740,,,0
+51,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,28085,,,4
+52,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,87011,,,0
+53,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,50494,,,4
+54,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,817856,,,4
+55,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,2099,,,4
+56,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,242,,,0
+57,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,438,,,4
+58,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,163504,,,4
+59,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,18269,,,0
+60,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,3733,,,0
+61,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,866301,,,4
+62,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,6887227,,,4
+63,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,93733,,,0
+64,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,333203,,,0
+65,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,38242388,,,4
+66,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,67652887,,,4
+67,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,2380722,,,0
+68,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,5276401,,,0
+69,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,19461019,,,4
+70,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,1638956,,,0
+71,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,190520,,,0
+72,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,2131157,,,0
+73,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,4127549,,,0
+74,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,66375586,,,4
+75,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,3962569,,,0
+76,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,253279,,,0
+77,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,843711,,,0
+78,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,36780173,,,0
+79,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,97183139,,,0
+80,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,976487,,,0
+81,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,4568979,,,0
+82,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,5487594,,,0
+83,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,9381370,,,4
+84,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,19606792,,,4
+85,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,4764834,,,0
+86,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,27938,,,0
+87,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,1092330,,,0
+88,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,26954018,,,4
+89,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,104694723,,,4
+90,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,2349512,,,0
+91,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,692316,,,0
+92,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,10314903,,,0
+93,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,14119492,,,0
+94,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,32584669,,,0
+95,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,1736056,,,0
+96,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,42623,,,0
+97,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,1357768,,,0
+98,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,8607324,,,4
+99,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,117131768,,,4
+100,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,4057100,,,0
+101,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,350500,,,0
+102,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,391648,,,0
+103,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,43566950,,,0
+104,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,457924462,,,0
+105,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,647709,,,0
+106,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,279928,,,0
+107,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,1710061,,,0
+108,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,251702,,,4
+109,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,10904007,,,4
+110,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,65578,,,4
+111,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,79408,,,0
+112,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,652707,,,0
+113,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,2125830,,,0
+114,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,165764,,,0
+115,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,4982,,,0
+116,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,7206812,,,4
+117,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,85064050,,,4
+118,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,1077270,,,4
+119,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,215382,,,0
+120,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,5664739,,,0
+121,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,2329749,,,4
+122,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,39964448,,,4
+123,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,2347543,,,4
+124,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,297886,,,4
+125,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,4291928,,,4
+126,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,7111155,,,4
+127,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,57685838,,,4
+128,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,6347681,,,4
+129,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1553819,,,0
+130,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1186078,,,0
+131,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,19241960,,,4
+132,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,101906298,,,4
+133,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,4088407,,,4
+134,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,910888,,,4
+135,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,2434815,,,4
+136,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,1788689,,,0
+137,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,12491597,,,0
+138,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,190748,,,0
+139,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,376978,,,0
+140,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,3674514,,,0
+141,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,4510801,,,4
+142,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,36791514,,,4
+143,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,110160,,,4
+144,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,59314,,,4
+145,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,940451,,,4
+146,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,9068163,,,4
+147,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,143934371,,,4
+148,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,2891571,,,4
+149,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,1104162,,,4
+150,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,16810461,,,0
+151,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,3290340,,,4
+152,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,92891317,,,4
+153,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,8385580,,,0
+154,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,1056143,,,4
+155,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,4384442,,,4
+156,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,2205982,,,4
+157,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,14442225,,,4
+158,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,3346491,,,4
+159,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,4460778,,,4
+160,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,545254,,,4
+161,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,20565,,,4
+162,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1672383,,,4
+163,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,25047,,,0
+164,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,81,,,0
+165,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,43226,,,4
+166,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,1728512,,,4
+167,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,10098,,,0
+168,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,4227364,,,4
+169,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,75878789,,,4
+170,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,15445323,,,4
+171,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,854924,,,0
+172,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,3402635,,,4
+173,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,41508017,,,4
+174,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,590310910,,,4
+175,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,11926132,,,4
+176,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,8721619,,,4
+177,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,25704330,,,4
+178,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,11528444,,,4
+179,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,255296015,,,4
+180,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,18650534,,,4
+181,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,5098709,,,4
+182,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,44061860,,,4
+183,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,40386389,,,4
+184,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,231611,,,0
+185,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,99428,,,4
+186,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,171667,,,0
+187,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,982329,,,4
+188,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,25988740,,,0
+189,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,2251624,,,4
+190,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,94985,,,4
+191,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,964493,,,4
+192,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,21361,,,4
+193,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,710165,,,4
+194,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,6749,,,0
+195,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,672,,,0
+196,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,26074389,,,4
+197,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,196889265,,,4
+198,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,1360799,,,4
+199,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,1939878,,,4
+200,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,933139,,,4
+201,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,3763,,,4
+202,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,125022,,,4
+203,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,63452,,,4
+204,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1022,,,0
+205,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,12574,,,4
+206,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,535190,,,4
+207,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,826,,,0
+208,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,64,,,0
+209,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,3355991,,,0
+210,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,13767943,,,4
+211,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,184987551,,,4
+212,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,1720461,,,4
+213,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,3177055,,,4
+214,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,13784573,,,4
+215,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,8107208,,,4
+216,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,36040616,,,4
+217,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1111136,,,4
+218,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,51309,,,4
+219,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,740599,,,4
+220,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,61541,,,0
+221,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,4147,,,4
+222,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,27381781,,,4
+223,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,6954,,,4
+224,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,359,,,0
+225,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,418,,,0
+226,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,3341,,,4
+227,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,1535238,,,4
+228,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,7941,,,4
+229,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,3031,,,4
+230,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,9592,,,4
+231,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,2124838,,,4
+232,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,584437,,,0
+233,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,969,,,0
+234,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,24079,,,0
+235,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,277036,,,4
+236,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,12735065,,,4
+237,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,104775,,,4
+238,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,1968,,,0
+239,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,324877,,,0
+240,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,59563,,,4
+241,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,12017427,,,4
+242,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,339,,,0
+243,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,5388,,,0
+244,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,1547,,,0
+245,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,2205744,,,4
+246,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,23733775,,,4
+247,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,60716,,,0
+248,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,41736,,,4
+249,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,4681810,,,4
+250,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,133607,,,4
+251,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,1735820,,,4
+252,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,56201,,,0
+253,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,11795,,,0
+254,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,68240,,,0
+255,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,105382,,,4
+256,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1631657,,,4
+257,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,47865,,,4
+258,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,31781,,,0
+259,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1218483,,,0
+260,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1745763,,,4
+261,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,18204490,,,4
+262,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,2987022,,,4
+263,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,40401,,,4
+264,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1123417,,,0
+265,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,70058,,,4
+266,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,11464723,,,4
+267,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,1899,,,4
+268,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,287854,,,0
+269,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,5010750,,,4
+270,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,83239834,,,4
+271,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,1865521,,,4
+272,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,193452,,,4
+273,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,542332,,,4
+274,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,12442450,,,4
+275,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,108664341,,,4
+276,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,11437136,,,4
+277,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,127376,,,4
+278,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,474181,,,4
+279,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,3564858,,,4
+280,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,30850263,,,4
+281,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,1061947,,,4
+282,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,64844,,,4
+283,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,95350,,,4
+284,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,3102270,,,4
+285,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,118670212,,,4
+286,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,674205,,,4
+287,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,58434,,,4
+288,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,704765,,,4
+289,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,989463,,,4
+290,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,6048540,,,4
+291,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,203774,,,4
+292,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,14230,,,4
+293,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,136403,,,4
+294,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,124667,,,4
+295,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,806331,,,0
+296,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,7305,,,0
+297,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,545,,,4
+298,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,3455,,,0
+299,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,43128,,,4
+300,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,301029,,,4
+301,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,4238,,,4
+302,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,799,,,4
+303,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,3596639,,,4
+304,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,36584955,,,4
+305,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,2396585,,,4
+306,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,111492,,,4
+307,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,12023886,,,0
+308,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,2321909,,,4
+309,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,29294317,,,4
+310,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,42151677,,,0
+311,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,9825601,,,0
+312,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,4168681,,,0
+313,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,10182047,,,4
+314,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,98627262,,,4
+315,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,1241402,,,4
+316,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,23498,,,4
+317,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,1438975,,,4
+318,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,329240,,,4
+319,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,49827817,,,4
+320,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,4127775,,,4
+321,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,90350,,,4
+322,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,156298,,,4
+323,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,2668493,,,4
+324,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,172004626,,,4
+325,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,44257,,,0
+326,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,350898,,,0
+327,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,9451405,,,4
+328,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,17764436,,,4
+329,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,193334805,,,4
+330,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,12704145,,,4
+331,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,9974811,,,4
+332,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,12566847,,,4
+333,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,3107337,,,4
+334,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,359131757,,,4
+335,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,16593170,,,4
+336,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,12017392,,,0
+337,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,56410,,,4
+338,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,62,,,4
+339,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,688637,,,4
+340,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,187935,,,0
+341,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,280325,,,0
+342,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,8752314,,,4
+343,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,121586946,,,4
+344,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,4190351,,,4
+345,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,1076955,,,4
+346,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,18532271,,,0
+347,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,1137,,,4
+348,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,3889850,,,4
+349,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,8642,,,0
+350,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,53173,,,0
+351,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,13843486,,,0
+352,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,570760,,,0
+353,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,87,,,0
+354,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,82531,,,0
+355,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,46,,,4
+356,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,1250423,,,0
+357,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,6097370,,,0
+358,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,115445,,,4
+359,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,893158,,,4
+360,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,375370,,,4
+361,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,2276,,,0
+362,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,1416142,,,4
+363,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,51140735,,,4
+364,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,17524656,,,4
+365,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,363093,,,4
+366,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,8164717,,,4
+367,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,2507740,,,4
+368,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,99848346,,,4
+369,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,995867,,,4
+370,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,85273,,,4
+371,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,17431378,,,4
+372,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,281683916,,,4
+373,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1597918643,,,4
+374,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,167883496,,,4
+375,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,41308264,,,4
+376,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,74265571,,,4
+377,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,96763652,,,4
+378,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,1320506533,,,4
+379,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,91765763,,,4
+380,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,20644658,,,4
+381,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,295987590,,,4
+382,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,334773,,,0
+383,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,119070612,,,4
+384,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,39461,,,0
+385,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,1222809,,,0
+386,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,533483,,,0
+387,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,50026898,,,4
+388,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1298591392,,,4
+389,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,101115892,,,4
+390,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,3114729,,,4
+391,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,118598717,,,4
+392,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,740599,,,0
+393,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,127659034,,,4
+394,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,1533734,,,4
+395,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,155145,,,4
+396,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,379650,,,4
+397,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,473086,,,0
+398,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,10950686,,,4
+399,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,2939876,,,0
+400,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,269289,,,0
+401,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,491400,,,0
+402,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,17689093,,,4
+403,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,223089139,,,4
+404,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,19676733,,,4
+405,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,6959017,,,4
+406,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,27861571,,,4
+407,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,302546,,,4
+408,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,6052771,,,4
+409,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,333599,,,4
+410,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,60222,,,4
+411,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,18717,,,4
+412,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,72339,,,4
+413,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,2469364,,,4
+414,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,565018,,,4
+415,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,3041,,,0
+416,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,35120,,,4
+417,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,312187,,,0
+418,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,307621,,,4
+419,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,87050,,,4
+420,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,250,,,4
+421,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,45720497,,,4
+422,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,294270807,,,0
+423,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,21704162,,,4
+424,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,1265606,,,4
+425,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,23709113,,,4
+426,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,6384964,,,4
+427,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,55337660,,,4
+428,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,3179667,,,4
+429,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,292511,,,4
+430,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,316374,,,4
+431,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,1396259,,,4
+432,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,43665908,,,4
+433,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,274100,,,4
+434,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,82970,,,4
+435,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,166121,,,4
+436,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,4788,,,4
+437,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,149635,,,4
+438,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,102028,,,4
+439,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,10971,,,4
+440,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,17713,,,0
+441,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,501,,,0
+442,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,1546,,,0
+443,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,625152,,,0
+444,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,12359,,,0
+445,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,37957,,,0

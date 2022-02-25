@@ -1,0 +1,476 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,270580,,,0
+1,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,7981215,,,0
+2,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,17375858,,,0
+3,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,2730895,,,0
+4,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,2046218,,,0
+5,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,16781254,,,0
+6,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,5316069,,,0
+7,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,39593,,,0
+8,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,200129767,,,0
+9,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,56294514,,,0
+10,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,6097201,,,0
+11,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,3430438,,,0
+12,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,14291365,,,0
+13,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,47537969,,,0
+14,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,122597532,,,0
+15,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,5769947,,,0
+16,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,6173631,,,0
+17,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,25893,,,0
+18,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,67654064,,,0
+19,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,100855552,,,0
+20,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,5322397,,,0
+21,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,2921792,,,0
+22,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,4634030,,,0
+23,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,20703309,,,0
+24,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,39137,,,0
+25,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,2491832,,,0
+26,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1462349,,,0
+27,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,12566252,,,0
+28,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,521258,,,0
+29,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,358908,,,0
+30,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,22124166,,,0
+31,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,1567479,,,0
+32,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,1072370289,,,0
+33,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,117123575,,,0
+34,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,538158,,,0
+35,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,43968514,,,0
+36,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,8814384,,,0
+37,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,1129144312,,,0
+38,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,97515574,,,0
+39,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,76824,,,0
+40,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,5763914,,,0
+41,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,942846,,,0
+42,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,47902443,,,0
+43,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,76647778,,,0
+44,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,10020,,,0
+45,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,2556341,,,0
+46,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,44916335,,,0
+47,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,52609050,,,0
+48,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,27096418,,,4
+49,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,5982,,,0
+50,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,1414912,,,0
+51,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,43811,,,0
+52,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,17291828,,,0
+53,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,3344779,,,0
+54,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,3189528,,,0
+55,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,112610767,,,4
+56,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,8429130,,,0
+57,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,31819418,,,4
+58,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,12823266,,,0
+59,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,962023,,,0
+60,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,641749,,,0
+61,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,2732506,,,0
+62,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,15636140,,,0
+63,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,108482192,,,0
+64,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,7628,,,0
+65,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,104443,,,0
+66,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,61443,,,0
+67,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2398684,,,0
+68,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,30781613,,,0
+69,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,4212125,,,0
+70,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,190725909,,,0
+71,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,546675624,,,0
+72,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,370011,,,0
+73,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,993854,,,0
+74,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,981401,,,0
+75,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,149954291,,,0
+76,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,62710540,,,0
+77,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,459539,,,0
+78,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,2776072,,,0
+79,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,239604,,,4
+80,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,55633332,,,0
+81,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,110272869,,,0
+82,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,148691,,,0
+83,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,8771425,,,0
+84,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,4547907,,,0
+85,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,62972440,,,0
+86,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,27139824,,,0
+87,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,5661327,,,0
+88,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,14905320,,,0
+89,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,5538200,,,0
+90,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,219265281,,,0
+91,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,66382118,,,0
+92,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,3641774,,,4
+93,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,15369252,,,0
+94,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,7573756,,,0
+95,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,327078478,,,0
+96,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,295408777,,,0
+97,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,7214201,,,0
+98,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,11116748,,,0
+99,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,24402799,,,0
+100,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,211170822,,,0
+101,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,34590136,,,0
+102,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,5774274,,,0
+103,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,17586967,,,0
+104,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,7263749,,,0
+105,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,476921246,,,0
+106,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,395432738,,,0
+107,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,5091169,,,0
+108,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,2206898,,,0
+109,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,11372495,,,0
+110,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,35885939,,,0
+111,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,7897235,,,0
+112,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,728502,,,0
+113,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,12386,,,0
+114,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,1170387,,,0
+115,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,10795024,,,0
+116,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,1972368,,,0
+117,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,1247366,,,0
+118,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,4617827,,,4
+119,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,22984180,,,0
+120,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,122188920,,,0
+121,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,50136732,,,4
+122,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,618667,,,0
+123,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,290402,,,0
+124,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,827254,,,0
+125,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,21757369,,,0
+126,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,9860150,,,4
+127,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,1387391,,,0
+128,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,42575257,,,0
+129,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,335901470,,,0
+130,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,,,765722253,,,4
+131,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,1678364840,,,4
+132,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,1503266,,,0
+133,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,6642784,,,0
+134,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,,,34602465,,,4
+135,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,52407176,,,4
+136,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,42615653,,,4
+137,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,4110300,,,4
+138,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,6545094,,,0
+139,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,210296677,,,4
+140,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,154531146,,,4
+141,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,314069230,,,4
+142,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,28364021,,,0
+143,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,46441329,,,0
+144,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,128097038,,,0
+145,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,575186657,,,0
+146,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,652622208,,,0
+147,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,1802383,,,0
+148,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,1933312,,,0
+149,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,21521401,,,0
+150,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,84198029,,,0
+151,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,12545703,,,0
+152,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,30632656,,,0
+153,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,34919974,,,0
+154,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,94676797,,,0
+155,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,104757608,,,4
+156,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,91542855,,,0
+157,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,9597788,,,0
+158,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,130229603,,,0
+159,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,53089849,,,0
+160,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,338236691,,,0
+161,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,329226298,,,0
+162,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,3070978,,,0
+163,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,5894619,,,0
+164,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,18525599,,,0
+165,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,79439945,,,0
+166,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,32598437,,,0
+167,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1025585,,,0
+168,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,683323,,,0
+169,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,2757543,,,0
+170,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,8864924,,,0
+171,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,5908523,,,0
+172,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,192668,,,0
+173,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,283798,,,0
+174,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,1028262,,,0
+175,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,2709936,,,0
+176,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,12010284,,,0
+177,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,4336626,,,0
+178,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,157678,,,0
+179,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,309089,,,0
+180,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,1319951,,,4
+181,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,4480539,,,4
+182,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,12869215,,,0
+183,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,11250007,,,0
+184,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,57669187,,,4
+185,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,294729696,,,0
+186,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,232472127,,,0
+187,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,23838870,,,0
+188,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,49487484,,,4
+189,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,420343246,,,4
+190,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,504718882,,,0
+191,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,326855206,,,4
+192,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,2196870,,,0
+193,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,11266168,,,0
+194,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,53988194,,,0
+195,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,202353292,,,0
+196,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,273962178,,,0
+197,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,13327157,,,0
+198,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,74123,,,0
+199,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,17390689,,,0
+200,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,7419710,,,0
+201,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,5636351,,,0
+202,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,380886,,,0
+203,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,11596560,,,0
+204,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,21906626,,,0
+205,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,85534806,,,0
+206,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,54953327,,,4
+207,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,579960,,,0
+208,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,72675,,,0
+209,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,4943748,,,0
+210,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,2796006,,,0
+211,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,1578911,,,0
+212,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,3766273,,,0
+213,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,11661609,,,4
+214,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,4508872,,,4
+215,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,173498375,,,4
+216,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,104249125,,,4
+217,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,5470,,,0
+218,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,292888,,,0
+219,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,353813,,,0
+220,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,29772795,,,0
+221,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,7512,,,0
+222,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,275027,,,0
+223,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,823644,,,0
+224,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,3590826,,,0
+225,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,935219,,,0
+226,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,8506276,,,0
+227,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,548799,,,0
+228,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,59568879,,,0
+229,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,28771034,,,0
+230,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,140510,,,4
+231,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,2266013,,,0
+232,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,12700781,,,4
+233,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,93928192,,,0
+234,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,156927790,,,0
+235,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,150575258,,,0
+236,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,63672,,,0
+237,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,455600,,,0
+238,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,2428622,,,0
+239,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,61741914,,,0
+240,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,24867923,,,0
+241,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,4106,,,0
+242,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,1199,,,0
+243,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,1888,,,0
+244,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,659836,,,0
+245,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,95655,,,0
+246,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,207947,,,0
+247,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,40178,,,0
+248,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,198219,,,0
+249,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,2794508,,,0
+250,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,1089511,,,4
+251,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,17171815,,,0
+252,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,2700132,,,0
+253,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,32361774,,,0
+254,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,11684214,,,0
+255,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,6440019,,,0
+256,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,293266,,,0
+257,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,127807,,,0
+258,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,878724,,,0
+259,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,1362249,,,0
+260,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,701494,,,0
+261,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,1474749,,,0
+262,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,795533,,,0
+263,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,27314489,,,0
+264,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,27758539,,,0
+265,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,4817003,,,0
+266,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,337458,,,0
+267,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,1867598,,,0
+268,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,22712578,,,0
+269,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,10282924,,,0
+270,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,47572949,,,4
+271,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,953621,,,0
+272,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,1725225,,,0
+273,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,6376730,,,0
+274,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,27414672,,,0
+275,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,34331467,,,0
+276,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,13045,,,0
+277,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,840988,,,0
+278,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,689416,,,0
+279,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,7911196,,,0
+280,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,9109494,,,0
+281,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,212380,,,0
+282,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,392897,,,0
+283,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,3720749,,,0
+284,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,10914163,,,0
+285,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,2997050,,,0
+286,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,486960,,,0
+287,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1620309,,,0
+288,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,6605444,,,0
+289,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,7063278,,,0
+290,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,6586319,,,0
+291,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,882059,,,0
+292,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,216409,,,0
+293,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,3918925,,,0
+294,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,5727381,,,0
+295,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,4230134,,,0
+296,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,25819692,,,0
+297,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,55092589,,,0
+298,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,141597661,,,0
+299,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,302854541,,,0
+300,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,163958973,,,0
+301,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,22136622,,,0
+302,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,92000848,,,0
+303,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,242526718,,,0
+304,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,496114359,,,0
+305,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,291338423,,,0
+306,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,279119,,,0
+307,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,11744696,,,0
+308,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,4689028,,,0
+309,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,69682127,,,0
+310,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,7515678,,,0
+311,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,736053,,,0
+312,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,17053960,,,0
+313,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,40711168,,,0
+314,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,201805560,,,0
+315,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,252494018,,,0
+316,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,46336,,,0
+317,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,288816,,,0
+318,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,884597,,,0
+319,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,6826858,,,0
+320,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,10048611,,,0
+321,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,146033,,,0
+322,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,100956,,,0
+323,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,865416,,,0
+324,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,169422,,,0
+325,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,1143,,,0
+326,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,89818,,,0
+327,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,24535,,,0
+328,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,311096,,,0
+329,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,603443,,,0
+330,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,2070266,,,0
+331,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,19788330,,,0
+332,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,17121551,,,0
+333,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,210393692,,,0
+334,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,418331742,,,0
+335,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,12911616,,,0
+336,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,56384888,,,0
+337,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,7627038,,,0
+338,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,234011222,,,0
+339,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,394563900,,,0
+340,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,1425400,,,0
+341,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,4323187,,,0
+342,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,7261529,,,0
+343,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,67680708,,,0
+344,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,50685428,,,0
+345,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,43319,,,0
+346,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,13563335,,,0
+347,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,5107586,,,0
+348,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,645450726,,,0
+349,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,90468944,,,0
+350,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,6347774,,,0
+351,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,20531011,,,0
+352,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,341960853,,,0
+353,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,,,533132539,,,4
+354,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,162565416,,,4
+355,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,2710569,,,0
+356,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,96534512,,,0
+357,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,50546437,,,4
+358,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,285668204,,,0
+359,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,389204757,,,4
+360,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,187433,,,0
+361,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,46575200,,,0
+362,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,50540726,,,0
+363,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,61825547,,,0
+364,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,11704438,,,0
+365,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,77012,,,0
+366,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,4125701,,,0
+367,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,57475,,,0
+368,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,5237753,,,0
+369,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,5616959,,,0
+370,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,4298456,,,0
+371,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,10456107,,,0
+372,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,13585431,,,0
+373,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,257138198,,,0
+374,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,128727622,,,4
+375,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,5700,,,0
+376,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,3071739,,,0
+377,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,3749,,,0
+378,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,6672451,,,0
+379,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,43563494,,,0
+380,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,192956116,,,0
+381,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,48500313,,,0
+382,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,82188595,,,0
+383,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,87930,,,0
+384,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,815834,,,0
+385,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,3103881,,,0
+386,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,177073,,,0
+387,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,407422,,,0
+388,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,744153,,,0
+389,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,6026523,,,0
+390,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,9088210,,,0
+391,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,2532568,,,0
+392,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,2477969,,,0
+393,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,5298467,,,0
+394,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,47867567,,,0
+395,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,59541181,,,0
+396,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,877022,,,0
+397,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,5650107,,,0
+398,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,19277827,,,0
+399,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,87472001,,,0
+400,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,102628967,,,4
+401,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,52592752,,,0
+402,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,202914652,,,4
+403,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,378511944,,,4
+404,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,1283173644,,,4
+405,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,2442779442,,,4
+406,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,58663551,,,0
+407,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,175366546,,,4
+408,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,372140251,,,4
+409,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,1054262251,,,4
+410,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,1179226292,,,4
+411,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,413596,,,0
+412,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,880746,,,0
+413,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,11295305,,,0
+414,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,795477889,,,0
+415,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,49880491,,,0
+416,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,13843810,,,0
+417,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,160233753,,,0
+418,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,686154444,,,0
+419,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,5915226539,,,4
+420,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,1033455520,,,0
+421,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,166216,,,0
+422,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,176436355,,,0
+423,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,313698173,,,0
+424,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,357909166,,,0
+425,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,349936173,,,0
+426,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1891548,,,0
+427,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,2289806,,,0
+428,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,3696912,,,0
+429,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,14505089,,,0
+430,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,53029225,,,0
+431,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,7166240,,,0
+432,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,46185137,,,0
+433,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,43393252,,,0
+434,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,166889574,,,0
+435,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,241521446,,,0
+436,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,25363,,,0
+437,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1677148,,,0
+438,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,680581,,,0
+439,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,8250288,,,0
+440,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,16324397,,,0
+441,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,48178,,,0
+442,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,437234,,,0
+443,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,168294,,,0
+444,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,3745548,,,0
+445,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,3743840,,,0
+446,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,18070150,,,0
+447,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,11502666,,,0
+448,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,38938813,,,0
+449,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,75404506,,,0
+450,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,4553236,,,0
+451,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,53126167,,,0
+452,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,18280689,,,0
+453,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,189028670,,,0
+454,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,165309798,,,0
+455,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,487604,,,0
+456,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,4619085,,,0
+457,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,2663316,,,0
+458,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,77912500,,,0
+459,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,24324139,,,0
+460,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,398669,,,0
+461,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,12484908,,,0
+462,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,6795767,,,0
+463,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,20256456,,,4
+464,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,30326395,,,0
+465,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,232,,,0
+466,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,1383995,,,0
+467,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,67886,,,0
+468,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,27821667,,,0
+469,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,37718418,,,0
+470,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,12652773,,,0
+471,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,13065868,,,0
+472,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,68759825,,,0
+473,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,98543551,,,0
+474,H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,194233745,,,0

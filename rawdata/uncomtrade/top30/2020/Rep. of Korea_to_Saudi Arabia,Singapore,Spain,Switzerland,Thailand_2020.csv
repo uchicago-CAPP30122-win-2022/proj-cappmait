@@ -1,0 +1,437 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,2430,,,0
+1,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,16542,,,0
+2,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,4400,,,0
+3,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,1500,,,0
+4,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,80354,,,0
+5,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,6812,,,0
+6,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,72305,,,0
+7,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,7443705,,,4
+8,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,38130711,,,0
+9,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,118962253,,,0
+10,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,2128649,,,0
+11,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,551,,,4
+12,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,71844,,,0
+13,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,51708,,,0
+14,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,19656,,,0
+15,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,269936,,,0
+16,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,14138,,,0
+17,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,32025,,,0
+18,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,22200,,,0
+19,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,448277,,,0
+20,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,1774,,,0
+21,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,3268576,,,0
+22,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,427970,,,0
+23,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,34172,,,0
+24,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,221507,,,0
+25,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,3932,,,0
+26,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,20704358,,,4
+27,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,19,,,0
+28,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,4086,,,0
+29,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,10600561,,,0
+30,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,190218,,,4
+31,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,722753,,,4
+32,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,5903,,,4
+33,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,19878,,,4
+34,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,243976,,,0
+35,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,7540,,,0
+36,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,426469,,,0
+37,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1040,,,0
+38,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,7150,,,0
+39,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1496,,,0
+40,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,416,,,0
+41,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,2649926,,,4
+42,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,21990,,,0
+43,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,5547,,,0
+44,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,3932918,,,0
+45,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,137937,,,4
+46,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,2844138,,,4
+47,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,1046647,,,0
+48,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,36619,,,4
+49,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,42070640,,,0
+50,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,41886,,,4
+51,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1265639,,,0
+52,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,177458,,,4
+53,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,36103,,,0
+54,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1851272,,,4
+55,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,5520,,,0
+56,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,10690,,,0
+57,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,137316,,,0
+58,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,3801281,,,0
+59,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,3994202,,,0
+60,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,28879,,,0
+61,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,1071265,,,0
+62,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,123163,,,4
+63,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,4866795,,,4
+64,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,851651,,,0
+65,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,2784797,,,0
+66,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,312935,,,4
+67,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,8613493,,,4
+68,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,100145,,,4
+69,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,21688,,,0
+70,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,973386,,,0
+71,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,10034,,,0
+72,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,574302,,,0
+73,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,2447,,,0
+74,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,998493,,,4
+75,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,13728572,,,0
+76,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,22906403,,,4
+77,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,721381,,,0
+78,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,2143745,,,0
+79,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,35193570,,,4
+80,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,343145,,,4
+81,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,10385133,,,0
+82,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,1002585,,,0
+83,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,2243607,,,0
+84,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,5022514,,,0
+85,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,5367574,,,4
+86,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,42597555,,,0
+87,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,630586,,,4
+88,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,230090,,,4
+89,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,29097061,,,0
+90,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,471719,,,0
+91,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,14039258,,,0
+92,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,1453450,,,0
+93,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,320243,,,0
+94,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,5682726,,,0
+95,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,79163,,,0
+96,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,397484,,,0
+97,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,30,,,4
+98,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,40373149,,,0
+99,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,120691,,,0
+100,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,4152780,,,4
+101,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,87408,,,0
+102,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,67302,,,4
+103,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,60119303,,,0
+104,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,224165,,,0
+105,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,471690,,,0
+106,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,34184,,,0
+107,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,78,,,4
+108,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,7331599,,,4
+109,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,7884860,,,0
+110,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,1388255,,,0
+111,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,33628411,,,0
+112,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,2044425180,,,4
+113,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,1340775,,,0
+114,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,53277,,,0
+115,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,225287571,,,4
+116,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,11340677,,,0
+117,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,48328581,,,4
+118,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,11602641,,,4
+119,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,2136733,,,4
+120,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,78946988,,,4
+121,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,64800318,,,4
+122,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,118669539,,,4
+123,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,150710685,,,4
+124,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,37511478,,,4
+125,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,232530605,,,4
+126,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,14214662,,,4
+127,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,33376752,,,4
+128,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,9129430,,,4
+129,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,207825721,,,4
+130,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,80924287,,,0
+131,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,2003896,,,0
+132,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,24425,,,4
+133,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,11039,,,4
+134,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,76655960,,,4
+135,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,5419772,,,4
+136,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,14092539,,,4
+137,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,1359629,,,4
+138,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,5402640,,,4
+139,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,62599487,,,4
+140,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,23431614,,,4
+141,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,120262900,,,4
+142,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,11856561,,,4
+143,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,3497451,,,0
+144,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,126965499,,,4
+145,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,10536946,,,4
+146,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,39281062,,,4
+147,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,2422256,,,4
+148,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,78562,,,4
+149,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,30563531,,,0
+150,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,1167695,,,0
+151,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,2620479,,,4
+152,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,438489,,,4
+153,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,51492,,,0
+154,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,24534614,,,4
+155,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1844238,,,0
+156,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1232847,,,4
+157,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,311360,,,0
+158,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,1965,,,0
+159,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,12259392,,,4
+160,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,307379,,,0
+161,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,2612329,,,4
+162,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,50527638,,,0
+163,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,133109875,,,4
+164,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,126497581,,,4
+165,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,15796760,,,4
+166,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,68297242,,,4
+167,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,165958679,,,4
+168,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,183208981,,,4
+169,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,256797070,,,4
+170,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,25117058,,,4
+171,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,536238089,,,4
+172,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,153670846,,,4
+173,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,17890083,,,4
+174,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,64081182,,,4
+175,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,5706531,,,0
+176,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,180666203,,,4
+177,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,2613,,,0
+178,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,3135,,,0
+179,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,2009,,,0
+180,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,2076024,,,0
+181,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,239755,,,4
+182,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,22825593,,,4
+183,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,275455,,,4
+184,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,759075,,,4
+185,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,13302904,,,4
+186,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,134875,,,4
+187,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,23268,,,0
+188,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,31362,,,0
+189,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,192860,,,4
+190,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,620003,,,4
+191,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,778601,,,4
+192,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,15373,,,4
+193,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,164577,,,4
+194,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,5685,,,0
+195,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,159,,,4
+196,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1,,,4
+197,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,129,,,0
+198,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,91881,,,0
+199,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,83,,,4
+200,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,5447334,,,0
+201,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,24156259,,,4
+202,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,16118119,,,4
+203,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,6206450,,,4
+204,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,51600,,,4
+205,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,80205702,,,4
+206,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1690789,,,4
+207,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,574722,,,4
+208,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,481349,,,4
+209,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,72561,,,4
+210,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,132498519,,,4
+211,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,507796,,,0
+212,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,80606,,,4
+213,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,12095,,,4
+214,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,1144,,,4
+215,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,86101,,,0
+216,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,120,,,0
+217,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,2749,,,4
+218,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,221,,,0
+219,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,617,,,4
+220,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1116890,,,0
+221,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,132360,,,4
+222,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,273153,,,4
+223,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,403804,,,0
+224,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,26401,,,4
+225,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,2684549,,,0
+226,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,4184,,,0
+227,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,6241,,,0
+228,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,8065,,,0
+229,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,5426,,,0
+230,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,32656962,,,4
+231,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,771664,,,4
+232,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,38675132,,,4
+233,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,988540,,,4
+234,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,17337761,,,4
+235,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,18213494,,,0
+236,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,50739,,,4
+237,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,20713390,,,4
+238,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,9337,,,4
+239,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,19085878,,,4
+240,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1387363,,,0
+241,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,19302305,,,4
+242,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,6338878,,,4
+243,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,705737,,,4
+244,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,11893011,,,4
+245,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,158943,,,0
+246,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,8862,,,0
+247,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,189769,,,0
+248,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,2486544,,,0
+249,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,686891,,,4
+250,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,264921,,,4
+251,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,45665,,,0
+252,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,2532797,,,4
+253,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,750380,,,4
+254,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,4732961,,,4
+255,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,3095640,,,0
+256,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,113156,,,4
+257,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,38368433,,,0
+258,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,5820311,,,0
+259,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,684052,,,0
+260,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,15042344,,,4
+261,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,65546,,,4
+262,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,8990535,,,0
+263,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,397374,,,4
+264,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,4772983,,,4
+265,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,581767,,,4
+266,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,441130,,,4
+267,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,4297661,,,4
+268,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,1622404,,,4
+269,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,4040991,,,4
+270,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,261685,,,4
+271,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,366561,,,4
+272,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,3351986,,,4
+273,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,6131834,,,4
+274,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,5935518,,,4
+275,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,5497428,,,4
+276,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,1535445,,,0
+277,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,35037250,,,4
+278,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,352894,,,4
+279,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,2608263,,,4
+280,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,600204,,,4
+281,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,939311,,,4
+282,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,6095110,,,4
+283,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,82476,,,4
+284,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,3570070,,,4
+285,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,60146,,,0
+286,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,228651,,,4
+287,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,852218,,,4
+288,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,11252,,,0
+289,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,42324,,,0
+290,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,27690,,,4
+291,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,78806,,,4
+292,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,151252,,,0
+293,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,96948,,,0
+294,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,393166,,,4
+295,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,1871350,,,4
+296,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,9285246,,,4
+297,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,7077911,,,4
+298,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,1177229,,,4
+299,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,9859420,,,4
+300,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,211625,,,4
+301,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,5002563,,,4
+302,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,563722,,,4
+303,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,244316,,,4
+304,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,6425559,,,4
+305,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,1734390,,,4
+306,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,10937031,,,4
+307,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,2035837,,,4
+308,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,1550401,,,4
+309,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,10240843,,,4
+310,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1353797,,,4
+311,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,519532529,,,4
+312,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,5249075,,,4
+313,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,76622374,,,4
+314,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,78379025,,,4
+315,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,267903826,,,4
+316,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,78891223,,,4
+317,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,173332172,,,0
+318,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,1758568,,,4
+319,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,1362207945,,,4
+320,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,76810339,,,4
+321,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,114732906,,,4
+322,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,59838775,,,4
+323,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,2178733,,,4
+324,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,177980679,,,4
+325,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,12520037,,,4
+326,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,19635742,,,4
+327,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,11497023,,,0
+328,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,2115328,,,4
+329,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,164580373,,,4
+330,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,494023,,,4
+331,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1562898,,,4
+332,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,72232,,,4
+333,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1700,,,0
+334,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,741216,,,4
+335,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,54964055,,,4
+336,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,16134210,,,4
+337,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,73266476,,,0
+338,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,461495,,,4
+339,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,123553739,,,0
+340,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,43304,,,0
+341,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,134377,,,0
+342,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,535946,,,0
+343,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,42779193,,,4
+344,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,32785525,,,0
+345,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,4036008,,,4
+346,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,10288,,,0
+347,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,926,,,0
+348,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,72751586,,,0
+349,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,7894,,,4
+350,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,10156,,,0
+351,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,2245753,,,4
+352,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,15689,,,4
+353,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,1616515,,,4
+354,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,22485,,,4
+355,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,371462,,,4
+356,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,2204078,,,4
+357,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,14503007,,,4
+358,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,6773692,,,4
+359,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,24467464,,,4
+360,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,8010685,,,4
+361,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,51172191,,,4
+362,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,9971346,,,4
+363,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,14040402,,,4
+364,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,10073834,,,4
+365,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,560781,,,4
+366,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,14227897,,,4
+367,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,425443679,,,4
+368,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1273533699,,,4
+369,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,157039587,,,4
+370,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,62403554,,,4
+371,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,721260621,,,4
+372,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,317787297,,,4
+373,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,3003000098,,,4
+374,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,166369047,,,4
+375,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,34263826,,,4
+376,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,1132617411,,,4
+377,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,860515,,,0
+378,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,575274,,,4
+379,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,72769,,,0
+380,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,3162015,,,0
+381,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,9691091,,,0
+382,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1222532463,,,0
+383,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,67218022,,,4
+384,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,774883673,,,4
+385,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,152697288,,,4
+386,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,126351785,,,0
+387,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,11150144,,,0
+388,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,6356807,,,4
+389,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,2064409,,,0
+390,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,739904,,,0
+391,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,96409820,,,0
+392,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,820,,,0
+393,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,1461816208,,,0
+394,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,3200,,,0
+395,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,11363821,,,0
+396,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,69413940,,,4
+397,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,163450825,,,4
+398,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,40611745,,,4
+399,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,22984787,,,4
+400,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,128469242,,,4
+401,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,3937592,,,4
+402,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,2480164,,,4
+403,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,2732,,,4
+404,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,29652835,,,4
+405,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,694322,,,4
+406,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,7399,,,0
+407,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,255190,,,4
+408,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,550382,,,4
+409,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,267701,,,4
+410,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,412124,,,0
+411,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,104493058,,,0
+412,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,3550426,,,0
+413,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,441184,,,0
+414,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,1328229,,,4
+415,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,3701469,,,4
+416,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,8338940,,,4
+417,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,9717022,,,4
+418,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,1708713,,,4
+419,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,2436371,,,4
+420,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,8068013,,,4
+421,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,4569408,,,4
+422,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,5669870,,,4
+423,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,2653911,,,4
+424,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,2253970,,,4
+425,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,2154807,,,4
+426,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,1181172,,,4
+427,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,3873420,,,4
+428,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,3297402,,,4
+429,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,817619,,,4
+430,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,10379572,,,4
+431,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,28,,,4
+432,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,2823279,,,4
+433,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,149010,,,4
+434,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,934284,,,4
+435,H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,18,,,4

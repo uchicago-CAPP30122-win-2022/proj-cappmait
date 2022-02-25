@@ -1,0 +1,96 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,4921,,,0
+1,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,34586827,,,0
+2,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,15509,,,4
+3,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,9270643,,,0
+4,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,301428,,,0
+5,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,947388,,,4
+6,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,5316246,,,0
+7,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,5384431,,,0
+8,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,2488762,,,4
+9,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,34773671,,,0
+10,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,8064296,,,0
+11,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,11779530,,,4
+12,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,95818,,,0
+13,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,169174,,,0
+14,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,3013562,,,0
+15,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,14420540,,,0
+16,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,20135029,,,0
+17,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,14424657,,,0
+18,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,53927149,,,0
+19,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,40198800,,,0
+20,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,12219483,,,0
+21,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,20334209,,,0
+22,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,27998324,,,0
+23,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,4690169,,,0
+24,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,2582132,,,0
+25,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,2250531,,,4
+26,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,45964143,,,4
+27,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1041216309,,,0
+28,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,378425159,,,0
+29,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,5006685,,,0
+30,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,27570643,,,0
+31,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,17047750,,,4
+32,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,6157152,,,0
+33,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,5865636,,,0
+34,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1867940,,,0
+35,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,351205,,,4
+36,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,74258318,,,0
+37,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,448872217,,,4
+38,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,30943918,,,0
+39,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,2770907,,,0
+40,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,13073470,,,0
+41,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,629224,,,0
+42,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,220625909,,,0
+43,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,10002,,,4
+44,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,28353,,,0
+45,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,9152626,,,0
+46,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,176765386,,,0
+47,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,9921708,,,0
+48,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,1893,,,0
+49,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,752954,,,0
+50,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,16986116,,,4
+51,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,142731,,,0
+52,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,2303807,,,0
+53,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,37695074,,,0
+54,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,18905115,,,4
+55,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,1710949,,,0
+56,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,2572391,,,0
+57,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,9195449,,,0
+58,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,3937279,,,4
+59,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,36626480,,,4
+60,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,28882794,,,4
+61,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,12765366,,,0
+62,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,35664800,,,0
+63,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,4750455,,,4
+64,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,628510,,,0
+65,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,1204924,,,4
+66,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,29893508,,,4
+67,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,6376653,,,0
+68,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,54718702,,,4
+69,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,85019144,,,4
+70,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,241117942,,,4
+71,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,247579726,,,0
+72,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,219756005,,,4
+73,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,9144418,,,0
+74,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,149363488,,,0
+75,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,2730,,,0
+76,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,2835329,,,0
+77,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,23867144,,,0
+78,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,33453383,,,4
+79,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,92861330,,,0
+80,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1441954987,,,0
+81,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,521019378,,,4
+82,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,39014565,,,0
+83,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,719793570,,,0
+84,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,142802166,,,0
+85,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,1845217,,,0
+86,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,158744051,,,4
+87,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,6319862,,,4
+88,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,1818623,,,0
+89,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,10127970,,,0
+90,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,91064538,,,0
+91,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,89411070,,,0
+92,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,16414917,,,0
+93,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,4202413,,,4
+94,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,203776,,,0
