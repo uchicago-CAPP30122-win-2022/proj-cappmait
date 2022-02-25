@@ -7,10 +7,6 @@ app = Dash(__name__)
 
 # Load Data
 product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", index_col= "ReporterCode")
-product = product[["Indicator", "ReporterISO3A", "Reporter", "ProductCode", "Product", "Year", "Value"]]
-product.loc[product["Indicator"]=="Merchandise imports by product group - annual", "Indicator"] = "Import"
-product.loc[product["Indicator"]=="Merchandise exports by product group - annual", "Indicator"] = "Export"
-product["Year"] = product["Year"].astype('category')
 covid_data = pd.read_csv("WHO-COVID-19-global-data.csv")
 
 # Clean the data (specifically for covid_data)
