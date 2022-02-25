@@ -34,7 +34,6 @@ def extract_export_data(target_country):
             * including the case when there is data in either 2019 or 2020.
     '''
     trading_data = {}
-    missing_country = []
     for k in key_d3:
         key = f'CompactData/DOT/A.{target_country}.TXG_FOB_USD.{k}\
             ?startPeriod=2019&endPeriod=2020'
@@ -42,12 +41,11 @@ def extract_export_data(target_country):
         for s in data:
             df_dict_col = {}
             if 'Obs' not in s.keys() or type(s['Obs']) != list:
-                missing_country.append(s['@COUNTERPART_AREA'])
                 continue
             for i in s['Obs']:
                 df_dict_col[i['@TIME_PERIOD']] = round(float(i['@OBS_VALUE']), 1)
             trading_data[s['@COUNTERPART_AREA']] = df_dict_col
-    return pd.DataFrame(trading_data).T, missing_country
+    return pd.DataFrame(trading_data).T
 
 
 def extract_import_data(target_country):
@@ -57,12 +55,8 @@ def extract_import_data(target_country):
         target_country(str): a country's code
     Outputs:
         trading data(pd.DataFrame): trading data of the target country
-        missing_country(list):
-            country codes which the target country doesn't have data about
-            * including the case when there is data in either 2019 or 2020.
     '''
     trading_data = {}
-    missing_country = []
     for k in key_d3:
         key = f'CompactData/DOT/A.{k}.TMG_FOB_USD.{target_country}\
             ?startPeriod=2019&endPeriod=2020'
@@ -72,9 +66,8 @@ def extract_import_data(target_country):
             if type(s) != dict:
                 continue
             if 'Obs' not in s.keys() or type(s['Obs']) != list:
-                missing_country.append(s['@REF_AREA'])
                 continue
             for i in s['Obs']:
                 df_dict_col[i['@TIME_PERIOD']] = round(float(i['@OBS_VALUE']), 1)
             trading_data[s['@REF_AREA']] = df_dict_col
-    return pd.DataFrame(trading_data).T, missing_country
+    return pd.DataFrame(trading_data).T
