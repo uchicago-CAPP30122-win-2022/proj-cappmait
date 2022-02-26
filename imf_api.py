@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import csv
 
 url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 
@@ -15,6 +16,10 @@ country_codes = {}
 for code in code_list_d2:
     country_codes[code['@value']] = code['Description']['#text']
 code_list = list(country_codes.keys())
+
+with open('rawdata/imf_import_export_country_codes.csv', 'w') as f:
+    for key in country_codes.keys():
+        f.write("%s,%s\n"%(key,country_codes[key]))
 
 # Separating the key because there seems to be URL's length limitation.
 key_d3 = []
