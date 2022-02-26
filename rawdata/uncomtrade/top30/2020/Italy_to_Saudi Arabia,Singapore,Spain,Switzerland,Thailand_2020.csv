@@ -1,0 +1,479 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,47760,,,0
+1,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,3186198,,,0
+2,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,1383367,,,0
+3,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,329526,,,0
+4,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,4499188,,,0
+5,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,68778445,,,0
+6,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,49072763,,,0
+7,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,7984437,,,0
+8,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,1164,,,0
+9,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,86285,,,0
+10,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,107159132,,,0
+11,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,20906924,,,4
+12,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,193602,,,0
+13,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,16519746,,,0
+14,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,5403367,,,0
+15,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,182196625,,,0
+16,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,190443559,,,0
+17,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,4516433,,,0
+18,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,334151,,,0
+19,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,17177002,,,0
+20,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,4562232,,,0
+21,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,2328986,,,4
+22,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,403059,,,0
+23,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,378720,,,0
+24,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,35064206,,,0
+25,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,54055543,,,0
+26,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,414649,,,0
+27,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,545992,,,0
+28,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,1167428,,,0
+29,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,20188297,,,0
+30,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,121346423,,,0
+31,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,437250,,,0
+32,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,57212554,,,0
+33,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,4505167,,,0
+34,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,240268130,,,0
+35,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,221294492,,,0
+36,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,1147698,,,0
+37,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,14216495,,,0
+38,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,2602783,,,0
+39,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,32373695,,,0
+40,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,48484929,,,0
+41,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,2062482,,,0
+42,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1149640,,,0
+43,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,183685,,,0
+44,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,17835190,,,0
+45,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,28007461,,,4
+46,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,67204,,,0
+47,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,12610249,,,0
+48,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,436851,,,0
+49,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,25564512,,,0
+50,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,10894016,,,0
+51,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,3267864,,,0
+52,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,47133545,,,0
+53,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,130612,,,0
+54,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,22195755,,,0
+55,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,40024909,,,4
+56,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,1118537,,,0
+57,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,573141,,,0
+58,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,256385,,,0
+59,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,13970796,,,0
+60,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,3506550,,,0
+61,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,3820896,,,0
+62,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,16674,,,0
+63,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,2182,,,0
+64,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,644792,,,0
+65,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,323383,,,0
+66,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,64558,,,0
+67,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,6339540,,,0
+68,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,6670874,,,0
+69,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,77986100,,,0
+70,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,75335047,,,0
+71,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,4218989,,,0
+72,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,10950228,,,0
+73,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,852528,,,0
+74,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,55903614,,,0
+75,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,85002796,,,0
+76,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,911590,,,0
+77,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,1397331,,,0
+78,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,361116,,,0
+79,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,15676592,,,0
+80,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,7526790,,,0
+81,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,1292436,,,0
+82,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,55870232,,,0
+83,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,20617963,,,0
+84,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,109859895,,,0
+85,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,19767241,,,0
+86,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,4933919,,,0
+87,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,121612936,,,0
+88,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,15271484,,,0
+89,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,304224294,,,0
+90,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,181557520,,,0
+91,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,11423045,,,0
+92,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,27612162,,,0
+93,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,7722807,,,0
+94,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,63017907,,,0
+95,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,99499384,,,0
+96,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,3331648,,,0
+97,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,30201922,,,0
+98,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,8552463,,,0
+99,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,182578726,,,0
+100,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,92175231,,,0
+101,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,5193849,,,0
+102,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,7492104,,,0
+103,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,30175173,,,4
+104,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,150583497,,,0
+105,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,608751570,,,0
+106,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,15832754,,,0
+107,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,7807471,,,0
+108,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,7470649,,,0
+109,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,60490947,,,0
+110,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,19724964,,,0
+111,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,17235421,,,0
+112,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,2277077,,,0
+113,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,624076,,,0
+114,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,19026880,,,0
+115,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,727244,,,0
+116,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,10501,,,0
+117,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,14158049,,,0
+118,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,2182898,,,0
+119,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,60000109,,,0
+120,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,43983282,,,0
+121,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,4342153,,,4
+122,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,1893,,,0
+123,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,7550760,,,0
+124,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,1184665,,,0
+125,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,157716,,,0
+126,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,54376129,,,0
+127,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,186800042,,,0
+128,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,980633190,,,0
+129,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,254364380,,,0
+130,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,318496,,,0
+131,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,14721338,,,4
+132,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,12402035,,,4
+133,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,94129742,,,0
+134,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,35195892,,,4
+135,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,11535234,,,0
+136,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,22552570,,,0
+137,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,78550710,,,0
+138,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,354749482,,,4
+139,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,471643327,,,4
+140,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,19849724,,,4
+141,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,54180473,,,0
+142,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,39055822,,,0
+143,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,1185381478,,,0
+144,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,3256453319,,,0
+145,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,53996602,,,0
+146,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,1730887,,,0
+147,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,977084,,,0
+148,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,36373663,,,0
+149,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,4035109,,,0
+150,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,1492932,,,0
+151,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,19426448,,,0
+152,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,4528847,,,0
+153,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,217818364,,,0
+154,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,49801414,,,0
+155,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,13121704,,,0
+156,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,54895010,,,0
+157,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,64300458,,,0
+158,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,303445933,,,0
+159,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,71059583,,,0
+160,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,4689935,,,0
+161,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,31042308,,,0
+162,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,3739721,,,0
+163,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,196373725,,,0
+164,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,67698536,,,0
+165,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,10750693,,,0
+166,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,8840785,,,0
+167,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,3513136,,,0
+168,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,46878819,,,0
+169,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,17820430,,,0
+170,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,6764789,,,0
+171,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,199261,,,0
+172,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,18197,,,0
+173,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,749576,,,0
+174,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,134241,,,0
+175,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,97954,,,0
+176,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,189903,,,0
+177,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,61418,,,0
+178,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,2109626,,,0
+179,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,2163150,,,0
+180,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,147362,,,0
+181,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,109444614,,,0
+182,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,51544888,,,0
+183,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,465977342,,,0
+184,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,131258507,,,4
+185,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,32883245,,,0
+186,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,79284871,,,0
+187,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,55361036,,,0
+188,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,1378335375,,,0
+189,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,594254736,,,0
+190,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,48455524,,,0
+191,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,12652978,,,0
+192,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,8023402,,,0
+193,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,302263821,,,0
+194,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,97612983,,,0
+195,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,19681715,,,0
+196,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,209997,,,0
+197,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,2952358,,,0
+198,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,153878256,,,0
+199,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,20389563,,,0
+200,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,17016259,,,0
+201,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,17720332,,,0
+202,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,45035607,,,0
+203,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,145475682,,,0
+204,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,2819212796,,,0
+205,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,29000231,,,0
+206,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,419611,,,0
+207,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,797927,,,0
+208,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,6087859,,,0
+209,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,15351798,,,0
+210,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,931281,,,0
+211,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,18450362,,,0
+212,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,1929599,,,0
+213,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,48816201,,,4
+214,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,129847877,,,0
+215,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,2115082,,,0
+216,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,195894,,,0
+217,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1958,,,0
+218,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,7502922,,,0
+219,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,866530,,,0
+220,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,9990,,,0
+221,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,87210,,,0
+222,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,115311,,,0
+223,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1270220,,,0
+224,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,773767,,,0
+225,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,89925,,,0
+226,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,319734,,,0
+227,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,464983,,,0
+228,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,6522108,,,0
+229,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,2256507,,,4
+230,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,7428835,,,0
+231,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,31655864,,,0
+232,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,5902960,,,4
+233,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,439373396,,,0
+234,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,251440189,,,4
+235,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,8698801,,,0
+236,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1712047,,,0
+237,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1815060,,,0
+238,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,55039104,,,0
+239,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,87472709,,,0
+240,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1171829,,,0
+241,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,380398,,,0
+242,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,167152,,,0
+243,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,4990134,,,0
+244,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,3357726,,,0
+245,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,300341,,,0
+246,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,4021717,,,0
+247,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,2114039,,,0
+248,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,69117870,,,0
+249,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,33625912,,,0
+250,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,4080129,,,0
+251,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,793753,,,0
+252,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,505800,,,0
+253,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,54000796,,,0
+254,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,16947379,,,4
+255,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,3888938,,,0
+256,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,553891,,,0
+257,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,243435,,,0
+258,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,12045581,,,0
+259,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,4498385,,,0
+260,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,1050619,,,0
+261,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,2745301,,,0
+262,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,571196,,,0
+263,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,126877830,,,0
+264,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,30622142,,,0
+265,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,12746854,,,4
+266,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,2226567,,,0
+267,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,254267,,,0
+268,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,80137752,,,0
+269,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,11658021,,,0
+270,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,1622333,,,0
+271,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1708033,,,0
+272,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,146357,,,4
+273,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,86691095,,,0
+274,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,37006960,,,0
+275,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,2041076,,,0
+276,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,527644,,,0
+277,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,541411,,,0
+278,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,9726481,,,0
+279,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,7388880,,,0
+280,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,337153,,,0
+281,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,540200,,,0
+282,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,121612,,,0
+283,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,18807876,,,0
+284,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,11168262,,,0
+285,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,2676443,,,0
+286,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,2338239,,,0
+287,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1881319,,,0
+288,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,37577555,,,0
+289,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,14299632,,,0
+290,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,2255083,,,0
+291,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,160425,,,0
+292,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,356362,,,0
+293,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,31528056,,,0
+294,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,7059330,,,0
+295,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,1554448,,,0
+296,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,23027743,,,4
+297,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,16827470,,,0
+298,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,500822126,,,0
+299,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,862282570,,,0
+300,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,6448323,,,4
+301,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,40048351,,,0
+302,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,26534511,,,4
+303,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,545294349,,,0
+304,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,1365011201,,,0
+305,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,9904459,,,4
+306,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,4516735,,,0
+307,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,1125074,,,0
+308,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,35653607,,,0
+309,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,52358833,,,0
+310,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,500840,,,0
+311,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,18255316,,,4
+312,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,24272944,,,0
+313,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,359605129,,,0
+314,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,1939144711,,,0
+315,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,10114300,,,0
+316,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,369794,,,0
+317,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,1682075,,,0
+318,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,25231179,,,0
+319,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,57580054,,,0
+320,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,1901432,,,0
+321,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,74388,,,0
+322,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,13984,,,0
+323,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,2494349,,,0
+324,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,1155561,,,0
+325,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,21325,,,0
+326,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,46346,,,0
+327,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,94952,,,0
+328,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,2316014,,,0
+329,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,2059619,,,0
+330,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,9429,,,0
+331,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,74678563,,,0
+332,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,7586903,,,0
+333,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,100024792,,,0
+334,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,149291142,,,0
+335,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,5336946,,,0
+336,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,43735153,,,0
+337,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,11633707,,,0
+338,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,135287739,,,0
+339,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,194045863,,,0
+340,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,15362186,,,0
+341,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,8676887,,,4
+342,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,4468544,,,0
+343,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,184577004,,,0
+344,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,91511229,,,0
+345,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,3539835,,,4
+346,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,14200070,,,4
+347,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,37226359,,,0
+348,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,448107172,,,4
+349,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,6542059865,,,0
+350,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,63428497,,,0
+351,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,10454744,,,0
+352,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,8418904,,,0
+353,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,588538397,,,0
+354,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,510969892,,,0
+355,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,4815241,,,0
+356,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,196930334,,,0
+357,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,68005142,,,4
+358,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,735793159,,,0
+359,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,449999695,,,0
+360,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,77906511,,,4
+361,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,6227978,,,0
+362,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,605986,,,0
+363,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,241262144,,,0
+364,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,95255763,,,0
+365,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,8917879,,,0
+366,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1557679,,,0
+367,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,11210285,,,0
+368,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,9139416,,,0
+369,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,7504150,,,0
+370,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1849086,,,0
+371,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,22502782,,,0
+372,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,11848215,,,0
+373,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,326210519,,,0
+374,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,245172477,,,0
+375,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,4674928,,,0
+376,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,19738,,,0
+377,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,52417416,,,0
+378,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,158655,,,0
+379,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,383610,,,0
+380,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,2809,,,0
+381,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,8798322,,,0
+382,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,6123941,,,4
+383,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,272060,,,0
+384,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,316549,,,0
+385,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,446924,,,0
+386,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,783701,,,0
+387,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,6291,,,0
+388,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,1513114,,,4
+389,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,49731,,,0
+390,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,3096427,,,0
+391,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,10966944,,,4
+392,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,545451,,,0
+393,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,17959621,,,4
+394,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,2457330,,,0
+395,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,77875914,,,0
+396,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,41629952,,,0
+397,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,4253107,,,4
+398,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,42631078,,,0
+399,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,5389587,,,0
+400,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,235303819,,,0
+401,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,52912599,,,0
+402,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,7445832,,,0
+403,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1317881889,,,4
+404,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,481616422,,,4
+405,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,4129255335,,,4
+406,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,2200490154,,,0
+407,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,597132127,,,0
+408,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,272372788,,,4
+409,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,449896078,,,4
+410,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,2201427610,,,0
+411,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,1006328040,,,4
+412,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,190284364,,,4
+413,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,3147489,,,0
+414,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,9325801,,,0
+415,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,24672898,,,4
+416,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,29044728,,,0
+417,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,2990715,,,0
+418,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,126750591,,,0
+419,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,61881880,,,0
+420,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,2190833942,,,4
+421,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1006606212,,,4
+422,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,77487973,,,0
+423,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,140402253,,,0
+424,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,16582196,,,0
+425,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,26801275,,,0
+426,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,102028352,,,0
+427,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,3917708,,,0
+428,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,1359161,,,0
+429,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,15085123,,,0
+430,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,61711517,,,0
+431,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,42908733,,,0
+432,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,219622,,,0
+433,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,105874016,,,4
+434,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,67504529,,,4
+435,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,561476353,,,0
+436,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,345047404,,,4
+437,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,64667049,,,4
+438,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,1181329,,,4
+439,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,3124547,,,4
+440,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,11215017,,,4
+441,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,171547810,,,4
+442,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,767079,,,4
+443,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,75358,,,0
+444,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,706111,,,0
+445,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,5174684,,,0
+446,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,4014426,,,0
+447,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,318022,,,0
+448,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,6940265,,,0
+449,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,14410420,,,0
+450,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,27470619,,,0
+451,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,6172383,,,0
+452,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,5929832,,,0
+453,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,167539617,,,0
+454,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,48165287,,,0
+455,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,439732495,,,0
+456,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,560398332,,,0
+457,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,25041490,,,0
+458,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,9974243,,,0
+459,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,3459087,,,0
+460,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,109292557,,,0
+461,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,46816078,,,0
+462,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,3588814,,,0
+463,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,11014444,,,4
+464,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,2332786,,,4
+465,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,106233386,,,0
+466,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,48158434,,,0
+467,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,4560895,,,0
+468,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,224812,,,0
+469,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1090546,,,0
+470,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,2030249,,,0
+471,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,57927055,,,0
+472,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,94843,,,0
+473,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,79442,,,0
+474,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,111167,,,0
+475,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,547706,,,0
+476,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,2051024,,,0
+477,H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,212821,,,0

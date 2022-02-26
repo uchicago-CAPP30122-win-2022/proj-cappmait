@@ -1,0 +1,480 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,214133,,,0
+1,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,1088015,,,0
+2,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,338281,,,0
+3,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,11205090,,,0
+4,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,32120723,,,0
+5,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,8798237,,,0
+6,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,532383,,,0
+7,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,172011993,,,0
+8,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,13122,,,0
+9,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,97262,,,0
+10,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,3628,,,0
+11,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,25001,,,0
+12,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,4218394,,,0
+13,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,1610,,,0
+14,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,6066507,,,0
+15,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,21390725,,,0
+16,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,1532407,,,0
+17,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,250989286,,,0
+18,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,6638093,,,0
+19,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,1105534,,,0
+20,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,83717,,,0
+21,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,1169808,,,0
+22,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,27630656,,,0
+23,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,3389998,,,0
+24,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,162132,,,0
+25,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,1573147,,,0
+26,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,191277,,,4
+27,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,49969823,,,0
+28,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,178721,,,0
+29,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,187260,,,0
+30,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,10555165,,,0
+31,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,754699,,,0
+32,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,211988678,,,0
+33,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,57030817,,,0
+34,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,366177,,,0
+35,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,1311165,,,0
+36,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,12136,,,0
+37,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,90826759,,,0
+38,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,960737,,,0
+39,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,426886,,,0
+40,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,974152,,,0
+41,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,25139709,,,0
+42,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,2264760,,,0
+43,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,426412,,,0
+44,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,23802,,,0
+45,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,4673,,,0
+46,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,36282746,,,0
+47,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1910893,,,0
+48,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,12206943,,,0
+49,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,488720,,,0
+50,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,7864750,,,0
+51,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,41731467,,,0
+52,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,67515235,,,0
+53,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,18907,,,0
+54,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,94067,,,0
+55,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,726771,,,0
+56,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,28511889,,,4
+57,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,837383,,,4
+58,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,96316,,,0
+59,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,7634,,,0
+60,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,873151,,,0
+61,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,2491894,,,0
+62,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,4273242,,,0
+63,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,11541,,,0
+64,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,6749,,,0
+65,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,3010,,,0
+66,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,109139,,,0
+67,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,99349,,,0
+68,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,579901,,,4
+69,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,1798650,,,0
+70,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,1544586,,,0
+71,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,110538976,,,4
+72,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,7878005,,,0
+73,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,43039,,,0
+74,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,759925,,,0
+75,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,22850,,,0
+76,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,66366725,,,0
+77,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,111189,,,0
+78,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,1434366,,,0
+79,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,3337593,,,0
+80,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,5376366,,,0
+81,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,85824635,,,0
+82,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,17173359,,,0
+83,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,1379110,,,0
+84,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,11860434,,,0
+85,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,12381106,,,0
+86,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,220430452,,,0
+87,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,121307570,,,0
+88,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,665088,,,0
+89,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,10908433,,,0
+90,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,11436547,,,0
+91,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,307636830,,,0
+92,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,90811781,,,0
+93,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,4639160,,,0
+94,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,16933632,,,0
+95,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,1284942,,,0
+96,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,498763718,,,0
+97,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,129670593,,,0
+98,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,1786946,,,0
+99,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,10109283,,,0
+100,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,5377309,,,0
+101,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,145076113,,,0
+102,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,29603256,,,4
+103,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,4454756,,,0
+104,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,24036149,,,0
+105,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,2400128,,,0
+106,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,179640604,,,0
+107,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,282513175,,,0
+108,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,9305993,,,0
+109,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,4702419,,,0
+110,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,10439199,,,0
+111,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,62008246,,,0
+112,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,22920503,,,0
+113,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,309392,,,0
+114,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,116607,,,0
+115,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,1090609,,,0
+116,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,16219666,,,0
+117,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,619080,,,4
+118,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,3638650,,,0
+119,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,2225345,,,0
+120,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,3341677,,,4
+121,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,21895054,,,0
+122,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,14923102,,,0
+123,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,224906,,,0
+124,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,24614,,,0
+125,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,73387,,,0
+126,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,758726,,,0
+127,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,12849820,,,0
+128,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,4196876,,,0
+129,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,13193687,,,0
+130,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,77261544,,,0
+131,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,789909399,,,4
+132,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,327057272,,,0
+133,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,1992026,,,4
+134,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,6550024,,,0
+135,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,55179966,,,4
+136,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,112906051,,,4
+137,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,147191801,,,4
+138,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,8272716,,,4
+139,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,9234210,,,4
+140,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,285300156,,,4
+141,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,418660941,,,0
+142,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,2390445021,,,4
+143,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,225976487,,,4
+144,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,140015358,,,0
+145,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,292603039,,,0
+146,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,1544120681,,,0
+147,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,14673747036,,,0
+148,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,16808302,,,4
+149,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,1195889,,,0
+150,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,9562284,,,0
+151,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,85952999,,,0
+152,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,25799841,,,0
+153,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,4585911,,,0
+154,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,20222848,,,0
+155,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,63363938,,,0
+156,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,156445149,,,0
+157,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,83960610,,,0
+158,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,416119,,,0
+159,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,22196309,,,0
+160,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,25082504,,,0
+161,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,161051870,,,0
+162,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,118802273,,,0
+163,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,2388342,,,0
+164,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,11250222,,,0
+165,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,128000671,,,0
+166,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,237993033,,,0
+167,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,75310225,,,0
+168,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,2712737,,,0
+169,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,1479684,,,0
+170,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,8165246,,,0
+171,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,32765261,,,0
+172,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,58875907,,,0
+173,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,8151,,,0
+174,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,46600,,,0
+175,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,977,,,0
+176,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,2538708,,,0
+177,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,2102072,,,0
+178,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,393741,,,0
+179,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,1942168,,,0
+180,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,7145532,,,0
+181,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,38499190,,,4
+182,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,123292638,,,0
+183,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,7925989,,,0
+184,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,17123059,,,0
+185,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,55325421,,,4
+186,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,321236558,,,0
+187,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,191518113,,,0
+188,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,21672919,,,0
+189,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,57120310,,,4
+190,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,639500823,,,0
+191,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,1128084521,,,4
+192,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,462844787,,,4
+193,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,2583015,,,0
+194,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,20654055,,,4
+195,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,58473228,,,4
+196,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,153666006,,,0
+197,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,74271625,,,0
+198,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,14481,,,0
+199,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,71277,,,0
+200,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,43415,,,0
+201,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,1725998,,,0
+202,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,4094174,,,0
+203,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,1365656,,,0
+204,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,417983,,,0
+205,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,1425545,,,0
+206,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,33159270,,,0
+207,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,3444311,,,0
+208,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,234,,,0
+209,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,2080,,,0
+210,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,23031,,,0
+211,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,107538,,,0
+212,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,70685,,,0
+213,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,21770244,,,0
+214,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,1409594,,,0
+215,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,3595193,,,0
+216,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,156443613,,,0
+217,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,40532514,,,4
+218,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,9,,,0
+219,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1487,,,0
+220,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,3429,,,0
+221,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,22828,,,0
+222,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,222107,,,0
+223,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,9350,,,0
+224,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,18741,,,0
+225,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,645,,,0
+226,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,141745,,,0
+227,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,71922,,,0
+228,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,292783,,,0
+229,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,84141,,,0
+230,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,962981,,,0
+231,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,2705579,,,4
+232,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,6476,,,0
+233,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,508536,,,4
+234,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,2081571,,,0
+235,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,14734451,,,0
+236,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,191396763,,,0
+237,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,26462904,,,4
+238,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,22355,,,0
+239,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,371370,,,0
+240,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,529293,,,0
+241,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,22756600,,,4
+242,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,24412617,,,0
+243,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,481,,,0
+244,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,63764,,,0
+245,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,303623,,,0
+246,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,36487,,,0
+247,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,306163,,,0
+248,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,123794,,,0
+249,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,104816,,,0
+250,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,2710174,,,4
+251,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,6378267,,,0
+252,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,66753,,,0
+253,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,36940,,,0
+254,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,343304,,,0
+255,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,4597537,,,4
+256,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,1969396,,,4
+257,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,848836,,,0
+258,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,16744,,,0
+259,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,7057188,,,0
+260,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,9755974,,,0
+261,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,25234147,,,0
+262,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,474007,,,0
+263,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,851493,,,4
+264,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,28483375,,,0
+265,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,38256223,,,4
+266,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,29189335,,,0
+267,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,665407,,,0
+268,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,3642901,,,0
+269,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,51342500,,,0
+270,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,22371259,,,4
+271,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,10828116,,,0
+272,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,411474,,,0
+273,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,623134,,,4
+274,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,3703726,,,0
+275,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,29558193,,,0
+276,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,13090767,,,0
+277,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,537732,,,0
+278,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,6398056,,,0
+279,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,3577618,,,4
+280,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,348572690,,,0
+281,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,60807284,,,0
+282,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,319684,,,0
+283,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,147263,,,0
+284,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,838125,,,0
+285,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,34144812,,,0
+286,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,6725924,,,0
+287,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1470609,,,0
+288,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,954374,,,0
+289,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,4044705,,,0
+290,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,26713786,,,4
+291,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,25222635,,,0
+292,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,142012,,,0
+293,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,251148,,,0
+294,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,542152,,,0
+295,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,15932223,,,0
+296,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,2760826,,,0
+297,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,31026,,,0
+298,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,517586,,,0
+299,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,3497191,,,4
+300,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,41081955,,,4
+301,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,3996742,,,4
+302,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,299665,,,0
+303,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,1281759,,,4
+304,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,1466634,,,0
+305,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,50368078,,,4
+306,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,13326995,,,0
+307,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,248003,,,0
+308,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,6218760,,,0
+309,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,7487364,,,0
+310,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,27614419,,,0
+311,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,6322901,,,0
+312,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,10192,,,0
+313,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,1264228,,,4
+314,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,42202,,,4
+315,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,15712964,,,0
+316,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,2594047,,,0
+317,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,874,,,0
+318,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,98613,,,0
+319,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,90767,,,4
+320,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,3064405,,,4
+321,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,266502,,,0
+322,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,201,,,0
+323,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,204049,,,0
+324,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,6543,,,0
+325,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,1626305,,,0
+326,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,807139,,,0
+327,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,1969,,,0
+328,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,20080,,,0
+329,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,47442,,,0
+330,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,146215,,,0
+331,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,30499,,,0
+332,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,68364,,,0
+333,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,2020969,,,0
+334,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,2642674,,,0
+335,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,66254913,,,4
+336,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,18670354,,,0
+337,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,14543,,,0
+338,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,373665,,,0
+339,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,422104,,,4
+340,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,67204208,,,4
+341,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,5317329,,,0
+342,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,171682,,,0
+343,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,27627807,,,4
+344,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,20046242,,,0
+345,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,102480056,,,4
+346,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,59145849,,,4
+347,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,71002957,,,0
+348,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1599260718,,,4
+349,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,443038218,,,0
+350,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1239375296,,,4
+351,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1187441817,,,0
+352,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,7925568,,,4
+353,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,24424752,,,4
+354,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,580576973,,,0
+355,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,403524423,,,4
+356,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,111884176,,,4
+357,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,5318341,,,4
+358,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,14887205,,,4
+359,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,14357631,,,4
+360,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,170813864,,,4
+361,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,75927279,,,4
+362,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,2957478,,,0
+363,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,505097,,,4
+364,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,11794637,,,4
+365,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,164391104,,,0
+366,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,10111229,,,4
+367,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,168179,,,0
+368,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,2542863,,,0
+369,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,20965569,,,0
+370,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,13130684,,,0
+371,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,3239689,,,0
+372,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,3216055,,,4
+373,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,28248232,,,4
+374,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,106910117,,,4
+375,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,55627645,,,0
+376,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,51430,,,0
+377,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,867,,,0
+378,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,694457,,,4
+379,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,1552926,,,0
+380,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,169123,,,0
+381,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,651054,,,0
+382,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,282834,,,0
+383,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,3718540,,,0
+384,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,4764130,,,0
+385,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,37512649,,,0
+386,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,153,,,0
+387,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,7069,,,0
+388,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,15999041,,,0
+389,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,4288564,,,0
+390,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,10213281,,,0
+391,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,56074,,,0
+392,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,117304,,,0
+393,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,2127293,,,0
+394,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,7448537,,,0
+395,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,24388158,,,4
+396,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,88936,,,0
+397,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,2890638,,,4
+398,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,6104859,,,0
+399,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,54471477,,,0
+400,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,93543952,,,0
+401,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,388502,,,0
+402,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,1179547,,,4
+403,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,2402350,,,0
+404,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,21671772,,,0
+405,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,12663721,,,0
+406,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,48229093,,,0
+407,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,106964523,,,4
+408,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,436915941,,,4
+409,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1135378103,,,4
+410,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1658440886,,,0
+411,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,27989105,,,0
+412,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,39072226,,,4
+413,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,96005327,,,4
+414,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,652943342,,,4
+415,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,612883201,,,4
+416,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,97175,,,0
+417,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,568179,,,0
+418,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,149362,,,0
+419,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,8986526,,,0
+420,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,5183288,,,0
+421,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1286840,,,4
+422,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,35539919,,,4
+423,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,411512833,,,4
+424,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,3359263242,,,4
+425,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1165667760,,,0
+426,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,9594,,,0
+427,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,2260228,,,0
+428,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,5488037,,,0
+429,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,230358069,,,0
+430,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,32693588,,,0
+431,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,2725,,,0
+432,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,530353,,,0
+433,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,223158,,,0
+434,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,753819,,,0
+435,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,2401867,,,0
+436,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,18099780,,,4
+437,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,47264245,,,4
+438,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,81276300,,,0
+439,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,477075260,,,4
+440,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,586762027,,,0
+441,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,153223,,,0
+442,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,538714,,,0
+443,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,494280,,,0
+444,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,3296707,,,4
+445,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,7709045,,,0
+446,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,10085,,,0
+447,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,32276,,,0
+448,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,59,,,0
+449,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,2733526,,,0
+450,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,1048388,,,0
+451,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,54373,,,0
+452,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,10623736,,,0
+453,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,781431,,,0
+454,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,632933,,,0
+455,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,5224992,,,0
+456,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,1160545,,,0
+457,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,47946400,,,0
+458,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,31854577,,,0
+459,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,940267,,,0
+460,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,2746163,,,0
+461,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,354141,,,0
+462,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,36970017,,,0
+463,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,27078977,,,0
+464,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,139509,,,0
+465,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,5486143,,,4
+466,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,10351294,,,0
+467,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,261728405,,,4
+468,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,9638134,,,0
+469,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,598296,,,0
+470,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1797872,,,0
+471,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,74635,,,0
+472,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,2964524,,,0
+473,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,48993990,,,0
+474,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,833325,,,0
+475,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,15900540,,,0
+476,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,23045999,,,0
+477,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,128079919,,,0
+478,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,80761242,,,0

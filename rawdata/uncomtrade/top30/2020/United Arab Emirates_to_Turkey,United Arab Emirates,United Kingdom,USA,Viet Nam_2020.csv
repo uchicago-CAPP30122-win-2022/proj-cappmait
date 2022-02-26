@@ -1,0 +1,359 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,242,,,4
+1,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,107555,,,0
+2,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,10393331,,,4
+3,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,88739,,,0
+4,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,1699,,,0
+5,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,174944,,,0
+6,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,385884,,,4
+7,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,10200,,,0
+8,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,2337772,,,0
+9,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,20149,,,0
+10,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,1201812,,,0
+11,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,582742,,,0
+12,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,948125,,,0
+13,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,9804,,,0
+14,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,381,,,0
+15,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,4324,,,0
+16,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,3519,,,0
+17,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,15699,,,0
+18,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,37371,,,0
+19,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,1846,,,0
+20,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,608981,,,0
+21,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,354562,,,0
+22,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,3904430,,,0
+23,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,1551939,,,0
+24,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,680491,,,0
+25,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,3947558,,,0
+26,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,1699522,,,0
+27,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,8166586,,,0
+28,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,2955313,,,0
+29,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,3577725,,,0
+30,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,7278858,,,0
+31,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,12221775,,,4
+32,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,25505,,,0
+33,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,42837,,,0
+34,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,3563635,,,0
+35,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,4514941,,,4
+36,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,53523,,,0
+37,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,223510,,,0
+38,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,1261542,,,0
+39,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,8326,,,0
+40,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,801422,,,0
+41,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,158180,,,0
+42,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,359610,,,0
+43,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,224017,,,0
+44,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,35650,,,0
+45,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,31378,,,0
+46,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,27096135,,,0
+47,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,21076,,,0
+48,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,74711,,,0
+49,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,386303,,,0
+50,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,897084,,,0
+51,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,8875753,,,0
+52,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,614269,,,0
+53,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,1221672,,,0
+54,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,1479582,,,0
+55,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,118528,,,0
+56,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,5451230,,,0
+57,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,4171740,,,0
+58,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,13903463,,,0
+59,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,222464,,,0
+60,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,1224399,,,0
+61,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,857,,,0
+62,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,862246,,,0
+63,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,1662453,,,0
+64,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,1951377,,,0
+65,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,115145,,,0
+66,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,470822,,,0
+67,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,1461863,,,0
+68,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,21962848,,,0
+69,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,63335,,,0
+70,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,1455034,,,0
+71,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,2690306,,,0
+72,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,10814592,,,0
+73,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,95252,,,0
+74,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,1533364,,,0
+75,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,2553846,,,0
+76,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,3394354,,,0
+77,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,6384842,,,0
+78,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,3993813,,,0
+79,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,11414468,,,0
+80,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,5966246,,,0
+81,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,24639537,,,0
+82,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,48620,,,0
+83,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,1210,,,0
+84,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,5503,,,0
+85,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,113549049,,,0
+86,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,42177178,,,0
+87,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,52043,,,0
+88,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,21917226,,,0
+89,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,1718327,,,0
+90,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,152737,,,4
+91,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,119182,,,0
+92,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,3668309,,,4
+93,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,87,,,0
+94,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,1547645,,,0
+95,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,14667,,,4
+96,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,351,,,0
+97,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,15482053,,,0
+98,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,12735682,,,0
+99,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,1764776,,,4
+100,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,5313284,,,4
+101,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,98493,,,0
+102,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,708445,,,0
+103,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,220944,,,0
+104,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,1251908,,,4
+105,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,972323,,,0
+106,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,2850182,,,0
+107,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,788944,,,0
+108,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,9218286,,,4
+109,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,82885,,,0
+110,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,17905406,,,0
+111,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,3851285,,,0
+112,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,6208901,,,0
+113,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,57846,,,0
+114,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,134,,,0
+115,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,2702914,,,0
+116,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,3191713,,,0
+117,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,1634581,,,0
+118,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,2129274,,,4
+119,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,10138311,,,0
+120,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,14521611,,,0
+121,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,38657004,,,0
+122,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,238897954,,,0
+123,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,678010,,,0
+124,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,3521371,,,0
+125,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,6140309,,,0
+126,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,16530010,,,0
+127,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,229643,,,0
+128,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,560741,,,0
+129,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,192831,,,0
+130,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,1736144,,,0
+131,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,26858,,,0
+132,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,317390,,,0
+133,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,66035,,,0
+134,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,847036,,,0
+135,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,406395,,,0
+136,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,6353563,,,0
+137,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,1712985,,,0
+138,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,4176620,,,0
+139,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,4045914,,,0
+140,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,36851639,,,0
+141,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,103094078,,,0
+142,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,142290018,,,0
+143,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,28994304,,,0
+144,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,42593022,,,4
+145,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,2195859,,,0
+146,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,3995925,,,0
+147,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,7106537,,,0
+148,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,12741268,,,0
+149,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,529033,,,0
+150,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,1667525,,,0
+151,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,2382851,,,0
+152,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,180550,,,0
+153,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,258391,,,0
+154,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,3124602,,,0
+155,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,9488027,,,0
+156,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,1226,,,0
+157,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,18788,,,0
+158,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,72603,,,0
+159,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,176592,,,0
+160,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,289524,,,0
+161,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,931058,,,0
+162,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,940701,,,0
+163,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,52108,,,0
+164,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,23668,,,0
+165,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,50242,,,0
+166,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,214728,,,0
+167,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,3153,,,0
+168,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,44203,,,0
+169,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,132947,,,0
+170,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,42240,,,0
+171,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,868326,,,0
+172,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,310,,,0
+173,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,2823235,,,0
+174,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,7832703,,,0
+175,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,279759394,,,4
+176,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,274170769,,,4
+177,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1058337,,,0
+178,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1063465,,,0
+179,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,13720217,,,0
+180,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,11382729,,,0
+181,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,109226,,,0
+182,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,119244,,,0
+183,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,564811,,,0
+184,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,519838,,,0
+185,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,454,,,0
+186,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,263132,,,0
+187,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,541211,,,0
+188,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,52570,,,0
+189,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,13841,,,0
+190,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,45444,,,0
+191,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,19005,,,0
+192,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,1048366,,,0
+193,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,6981146,,,0
+194,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,2871014,,,0
+195,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,31908770,,,0
+196,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,3576246,,,0
+197,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,1063314,,,0
+198,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,184357,,,0
+199,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,4214793,,,0
+200,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,3951235,,,0
+201,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1615227,,,0
+202,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,658456,,,0
+203,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,5063812,,,4
+204,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,135442,,,0
+205,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,670841,,,0
+206,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,260544,,,0
+207,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,7190437,,,0
+208,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,28751,,,0
+209,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,116138,,,0
+210,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,57604,,,0
+211,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,25299,,,0
+212,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,18466,,,0
+213,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,552186,,,0
+214,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,127909,,,0
+215,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1031500,,,0
+216,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,19875,,,0
+217,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,518674,,,0
+218,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,138387,,,0
+219,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,450083,,,0
+220,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,718346,,,4
+221,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,6078155,,,0
+222,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,32773784,,,0
+223,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,11543072,,,0
+224,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,415270,,,0
+225,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,2018208,,,0
+226,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,24191883,,,0
+227,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,15637077,,,0
+228,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,57673,,,4
+229,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,9411463,,,0
+230,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,27147622,,,0
+231,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,13917130,,,0
+232,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,54572,,,0
+233,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,1486274,,,0
+234,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,5695067,,,0
+235,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,36631382,,,0
+236,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,11834,,,0
+237,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,20891,,,0
+238,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,259467,,,0
+239,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,316403,,,0
+240,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,358,,,0
+241,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,3712,,,0
+242,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,1477,,,0
+243,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,2565,,,0
+244,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,554803,,,0
+245,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,128691,,,0
+246,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,73742,,,0
+247,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,2514611,,,0
+248,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,2382019,,,0
+249,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,17926170,,,0
+250,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,84041,,,0
+251,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,417854,,,0
+252,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,29942346,,,0
+253,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,11693381,,,0
+254,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,614350,,,0
+255,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,952582,,,0
+256,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,12838010,,,0
+257,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,22310843,,,0
+258,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,285294,,,0
+259,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,5112500098,,,0
+260,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,290134699,,,0
+261,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,936678283,,,0
+262,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,2462685,,,0
+263,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,5594556,,,0
+264,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,3059413,,,4
+265,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,110137978,,,4
+266,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,3291131,,,4
+267,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,18558232,,,0
+268,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,295849492,,,0
+269,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,179212523,,,0
+270,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,28617,,,0
+271,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1006989,,,0
+272,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1618158,,,4
+273,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,455817,,,0
+274,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,482653,,,0
+275,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,13742,,,0
+276,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,861617,,,0
+277,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1264949,,,0
+278,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,13471465,,,0
+279,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,106081683,,,0
+280,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,71178343,,,0
+281,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,817946329,,,4
+282,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,1355714,,,0
+283,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,51,,,0
+284,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,904,,,0
+285,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,4163,,,0
+286,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,219860,,,0
+287,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,537921,,,0
+288,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,1213531,,,0
+289,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,3267,,,0
+290,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,4592,,,0
+291,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,24397,,,0
+292,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,2036,,,0
+293,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,33327,,,0
+294,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,233864,,,0
+295,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,242016,,,0
+296,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,494306,,,0
+297,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,4321782,,,0
+298,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,1325726,,,0
+299,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,6902048,,,4
+300,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,103818,,,0
+301,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,1576600,,,0
+302,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,4322347,,,0
+303,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,7356641,,,0
+304,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,139745348,,,0
+305,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,91459177,,,4
+306,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,405327013,,,0
+307,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,572291379,,,0
+308,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,249063926,,,0
+309,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,130797357,,,0
+310,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,190996619,,,4
+311,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,699952592,,,4
+312,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,1122,,,0
+313,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,664330,,,0
+314,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,459223,,,0
+315,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,2826699,,,0
+316,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,20594539,,,0
+317,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,59946683,,,0
+318,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,46878050,,,0
+319,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,110458803,,,0
+320,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,649441,,,0
+321,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,5595724,,,0
+322,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,186768968,,,0
+323,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,531405473,,,0
+324,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,15852515,,,0
+325,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,1488629,,,0
+326,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,2767103,,,0
+327,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,1389597,,,0
+328,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,20237117,,,0
+329,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,36897791,,,0
+330,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,129004802,,,0
+331,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,311180,,,0
+332,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,8499914,,,0
+333,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,26873355,,,0
+334,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,62155722,,,0
+335,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,831,,,0
+336,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,37661,,,0
+337,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,84031,,,0
+338,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,71718,,,0
+339,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,575649,,,0
+340,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,2885937,,,0
+341,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,14002362,,,0
+342,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,29454565,,,0
+343,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,190129,,,0
+344,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,1838071,,,0
+345,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,11399390,,,0
+346,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,23436925,,,0
+347,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,136746,,,0
+348,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,1226549,,,0
+349,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,3893731,,,0
+350,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,11776127,,,0
+351,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,59431,,,0
+352,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,17715119,,,0
+353,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,133735909,,,0
+354,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,5473,,,0
+355,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,77155,,,0
+356,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,2182425,,,0
+357,H5,2020,2020,2020,2,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,725816,,,0

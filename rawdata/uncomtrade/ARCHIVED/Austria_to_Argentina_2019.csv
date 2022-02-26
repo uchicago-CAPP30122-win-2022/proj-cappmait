@@ -1,0 +1,68 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,4764,,,0
+1,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,6222,,,0
+2,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,102764,,,0
+3,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,153,,,0
+4,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,195293,,,0
+5,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,72639,,,0
+6,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,10,,,4
+7,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,239028,,,0
+8,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,3736720,,,0
+9,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,549495,,,0
+10,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,546843,,,0
+11,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,42816,,,0
+12,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,409556,,,4
+13,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1358059,,,4
+14,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,13789634,,,0
+15,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,24760,,,0
+16,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,675009,,,0
+17,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,170887,,,0
+18,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,554810,,,4
+19,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,10791,,,0
+20,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,20456,,,0
+21,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,1140,,,0
+22,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,6875660,,,4
+23,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,4493616,,,4
+24,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,1630988,,,4
+25,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,57212,,,0
+26,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,36097,,,0
+27,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,4629738,,,0
+28,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,4946376,,,4
+29,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,114220,,,0
+30,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,11550,,,0
+31,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,270713,,,0
+32,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,76002,,,0
+33,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1253,,,4
+34,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,37213,,,0
+35,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,313,,,0
+36,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,108013,,,4
+37,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,525600,,,4
+38,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,22024,,,4
+39,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,213538,,,0
+40,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,138820,,,0
+41,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,1730,,,0
+42,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,1261316,,,4
+43,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,1087673,,,0
+44,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,253114,,,4
+45,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,179975,,,4
+46,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,2326400,,,4
+47,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,4052460,,,4
+48,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,12043,,,4
+49,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1952,,,4
+50,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,3223227,,,4
+51,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,415356,,,0
+52,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,881402,,,4
+53,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,1351506,,,4
+54,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,32872198,,,4
+55,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,26158331,,,4
+56,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,155048,,,0
+57,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,8799740,,,0
+58,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,111979,,,0
+59,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,11672597,,,4
+60,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,6090,,,4
+61,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,54698,,,0
+62,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,990419,,,0
+63,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,977188,,,0
+64,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,3578716,,,4
+65,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,317147,,,4
+66,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,2185,,,4

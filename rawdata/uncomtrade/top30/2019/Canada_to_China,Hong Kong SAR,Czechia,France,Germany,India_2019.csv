@@ -1,0 +1,451 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,624893,,,4
+1,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,63699,,,4
+2,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,3637083,,,4
+3,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,01,Animals; live,1,No Quantity,,,0,,,,14431,,,4
+4,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,349142,,,4
+5,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,9107546,,,0
+6,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,4200452,,,0
+7,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,144529591,,,0
+8,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,59120647,,,4
+9,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,9528590,,,0
+10,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,185162676,,,4
+11,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,920438,,,0
+12,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,3042206,,,4
+13,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,579636,,,4
+14,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,1761136,,,4
+15,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,142919,,,0
+16,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,615204,,,4
+17,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,2722149,,,4
+18,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,2984038,,,4
+19,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,16414319,,,4
+20,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,111806,,,0
+21,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,785,,,0
+22,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,120565,,,4
+23,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,5154,,,4
+24,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,21616,,,4
+25,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,531934,,,0
+26,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,15288076,,,4
+27,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,9138992,,,0
+28,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,1122994,,,0
+29,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,318122050,,,0
+30,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,926627,,,0
+31,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,10797912,,,0
+32,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,36334595,,,0
+33,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,4489018,,,0
+34,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,355627,,,0
+35,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,1018638,,,0
+36,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,635703,,,0
+37,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,382320,,,0
+38,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,125113,,,0
+39,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,1085635,,,4
+40,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,984421,,,0
+41,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,357472,,,0
+42,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,299092,,,0
+43,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,19811,,,0
+44,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,516741,,,0
+45,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,64037,,,0
+46,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,1105263,,,0
+47,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,17293,,,0
+48,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,650510,,,0
+49,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,279768471,,,4
+50,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,174621123,,,4
+51,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,94733829,,,4
+52,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,1383835,,,0
+53,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,3679437,,,4
+54,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1826004,,,0
+55,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,261018,,,0
+56,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,247797,,,0
+57,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,2765,,,0
+58,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,14913,,,4
+59,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,8177,,,0
+60,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,822910,,,0
+61,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,871476,,,0
+62,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,21449412,,,0
+63,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,8957349,,,0
+64,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,1466420,,,4
+65,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,853126,,,0
+66,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,2386884,,,0
+67,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,36157,,,0
+68,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,699610,,,0
+69,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,12935563,,,4
+70,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,32899330,,,0
+71,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,1595313,,,0
+72,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,45954,,,0
+73,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,694817,,,0
+74,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,132242,,,0
+75,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,839590,,,4
+76,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,17083,,,0
+77,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2102858,,,0
+78,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2271017,,,0
+79,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,1291446,,,0
+80,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2447,,,0
+81,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,25283,,,0
+82,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,4354259,,,0
+83,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,9302270,,,0
+84,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,961697,,,0
+85,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,466475,,,0
+86,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,2060057,,,0
+87,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,4906243,,,0
+88,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,3109845,,,0
+89,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,13652901,,,0
+90,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,1115047,,,0
+91,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,1156410,,,4
+92,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,7497303,,,4
+93,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,3236544,,,4
+94,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,2433651,,,0
+95,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,235072,,,4
+96,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,5821596,,,0
+97,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,10341483,,,0
+98,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,8176221,,,0
+99,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,13934616,,,0
+100,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,1803174,,,0
+101,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,304574,,,4
+102,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,713466,,,0
+103,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,93613,,,0
+104,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,3253230,,,4
+105,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,9940669,,,4
+106,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,121251,,,4
+107,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,237120,,,4
+108,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,451239814,,,0
+109,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,566063910,,,4
+110,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,399,,,0
+111,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,243812162,,,4
+112,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,206908,,,4
+113,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,36029218,,,4
+114,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,175816528,,,4
+115,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,472451,,,0
+116,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,775517081,,,0
+117,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,594252,,,4
+118,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,43761971,,,4
+119,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,279577312,,,4
+120,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,4250515,,,4
+121,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,87089093,,,4
+122,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,2803820,,,0
+123,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,24628345,,,4
+124,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,20310803,,,4
+125,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,7167434,,,4
+126,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,10134845,,,4
+127,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,2831616,,,4
+128,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,133223538,,,4
+129,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,56261963,,,4
+130,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,37452063,,,4
+131,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,17194837,,,4
+132,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,298131,,,0
+133,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,495358,,,0
+134,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,104091,,,0
+135,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,334845026,,,0
+136,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,52979,,,0
+137,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,539855,,,4
+138,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,8448990,,,4
+139,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,790882,,,4
+140,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,7089216,,,4
+141,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,17485832,,,4
+142,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,21158115,,,4
+143,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,28854407,,,4
+144,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,27326244,,,4
+145,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,1109643,,,4
+146,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,361841,,,4
+147,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,2234638,,,4
+148,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,3931575,,,4
+149,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,1419687,,,4
+150,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,1264074,,,4
+151,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,184410,,,4
+152,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,834623,,,4
+153,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,4279449,,,4
+154,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,329093,,,4
+155,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,111246,,,4
+156,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,188,,,4
+157,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,6794,,,4
+158,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,228839,,,4
+159,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,,,365872,,,4
+160,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,,,1537788,,,4
+161,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,12793,,,4
+162,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,354,,,4
+163,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,,,171499,,,4
+164,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,6029,,,4
+165,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,4928738,,,4
+166,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,30696686,,,4
+167,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,74776275,,,4
+168,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,3355218,,,4
+169,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,15993644,,,4
+170,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,4654452,,,4
+171,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,25142185,,,4
+172,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,35727513,,,4
+173,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,45326745,,,4
+174,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,23597977,,,4
+175,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,1042893,,,4
+176,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,11621033,,,4
+177,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,,,5992587,,,4
+178,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,,,885597,,,4
+179,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,,,3563345,,,4
+180,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,2246,,,4
+181,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,2821432,,,4
+182,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,1160834,,,4
+183,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,696601,,,4
+184,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,564822,,,4
+185,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,210048,,,4
+186,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,,,1881380,,,4
+187,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,978220,,,4
+188,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,12617742,,,4
+189,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,66228,,,4
+190,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,1168,,,4
+191,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,1309064,,,4
+192,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,,,2875872,,,4
+193,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,,,7917967,,,4
+194,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,2418250,,,4
+195,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,,,20315603,,,4
+196,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,16080727,,,4
+197,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,12133294,,,4
+198,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,7578650,,,4
+199,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,13,,,4
+200,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,269,,,4
+201,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,2199,,,4
+202,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,113,,,4
+203,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,3747,,,4
+204,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,4517,,,4
+205,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,678,,,4
+206,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,216,,,0
+207,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,8104297,,,0
+208,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,21488667,,,4
+209,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,5444213,,,0
+210,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,231511520,,,4
+211,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,153265,,,4
+212,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,21308250,,,4
+213,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,42036052,,,4
+214,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,25954487,,,4
+215,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,191547159,,,4
+216,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,,,902107,,,4
+217,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,,,43348207,,,4
+218,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,6133364,,,4
+219,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,1122301,,,4
+220,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,797851,,,4
+221,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,41425,,,0
+222,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,191929,,,0
+223,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,260712,,,0
+224,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,36494,,,0
+225,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,8865,,,0
+226,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,12206,,,0
+227,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,14890,,,0
+228,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,6687,,,0
+229,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,8813,,,0
+230,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,2875,,,0
+231,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,2343,,,0
+232,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,2775,,,0
+233,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,551,,,0
+234,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,9395,,,0
+235,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,17728,,,0
+236,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,79957,,,0
+237,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,495609,,,0
+238,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,206845,,,0
+239,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,1618,,,0
+240,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,14021,,,0
+241,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,48098,,,4
+242,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,101316,,,0
+243,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,360028,,,0
+244,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,42617,,,0
+245,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,15871,,,4
+246,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,143080,,,4
+247,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,631707,,,4
+248,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,73260,,,4
+249,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,229961,,,0
+250,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,12633,,,4
+251,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,2859,,,4
+252,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,135301,,,4
+253,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,16332,,,4
+254,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,164440,,,0
+255,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,17241,,,4
+256,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,5319,,,0
+257,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,1135528,,,0
+258,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,83432,,,0
+259,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,778664,,,4
+260,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,222334,,,4
+261,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,808050,,,4
+262,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1019537,,,4
+263,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,500890,,,4
+264,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,38983,,,0
+265,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,2537,,,0
+266,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,3833,,,0
+267,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,214691,,,0
+268,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,125947,,,0
+269,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,49923,,,4
+270,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,4753137,,,4
+271,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,13715854,,,4
+272,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,3877594,,,4
+273,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,294173,,,4
+274,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,136887,,,4
+275,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,2894251,,,4
+276,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,,,8795184,,,4
+277,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,,,21883359,,,4
+278,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,686304,,,4
+279,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,48788,,,4
+280,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,996624,,,4
+281,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,944404,,,4
+282,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,723595,,,4
+283,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,11251609,,,4
+284,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,18329,,,4
+285,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,1227934,,,4
+286,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,1422017,,,4
+287,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,3009349,,,4
+288,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,38542,,,4
+289,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,179937,,,4
+290,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,499529,,,4
+291,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,674513,,,4
+292,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,202162,,,4
+293,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,258159,,,4
+294,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,400,,,4
+295,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,44863,,,4
+296,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,120048,,,4
+297,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,18424,,,4
+298,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,690,,,4
+299,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,,,123350,,,4
+300,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,,,99008,,,4
+301,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,590582,,,4
+302,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,11698,,,4
+303,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,184886,,,4
+304,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,117667,,,4
+305,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,7500935,,,4
+306,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,2915453,,,4
+307,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,110053,,,4
+308,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,1579889,,,4
+309,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,,,516874,,,4
+310,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,279873,,,4
+311,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,2468610,,,4
+312,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,74992,,,4
+313,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,335428,,,4
+314,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,459407,,,4
+315,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,3461993,,,4
+316,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,1785371,,,4
+317,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,543701,,,4
+318,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,274674,,,4
+319,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,,,38802,,,4
+320,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,5988010,,,4
+321,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,364466165,,,4
+322,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,1745622533,,,4
+323,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,666555395,,,4
+324,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,566167,,,0
+325,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,1511562,,,0
+326,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,4259023,,,4
+327,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,6786346,,,0
+328,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,84631107,,,0
+329,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,1476104,,,4
+330,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,24350921,,,4
+331,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,45243970,,,4
+332,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,3808332,,,4
+333,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,7548725,,,4
+334,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,1190,,,4
+335,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,398353,,,4
+336,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,11075859,,,4
+337,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,4009796,,,4
+338,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,11410947,,,4
+339,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,69246,,,0
+340,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,,,47102130,,,4
+341,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,10037147,,,4
+342,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,6766295,,,4
+343,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,19277929,,,4
+344,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,2849287,,,4
+345,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,,,5998813,,,4
+346,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,10636220,,,4
+347,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,7659356,,,4
+348,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,28379631,,,4
+349,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,,,41077,,,4
+350,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,,,16415,,,4
+351,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,3581231,,,4
+352,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,6470,,,0
+353,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,19538,,,0
+354,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,23437,,,0
+355,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,4297407,,,0
+356,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,1793576,,,0
+357,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,1060,,,4
+358,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,3466,,,4
+359,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,9691,,,4
+360,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,97936,,,0
+361,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,1175310,,,0
+362,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,10897422,,,0
+363,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,14200045,,,4
+364,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,728523,,,0
+365,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,1125692,,,0
+366,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,1351320,,,4
+367,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,8847188,,,4
+368,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,10900655,,,4
+369,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,337961,,,4
+370,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,,,2310864,,,4
+371,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,422163,,,4
+372,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,,,7078135,,,4
+373,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,,,14696898,,,4
+374,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,482274,,,4
+375,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,795817,,,4
+376,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,20043696,,,4
+377,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,632375606,,,4
+378,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,762451029,,,4
+379,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,92996195,,,4
+380,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,170104473,,,4
+381,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,28443620,,,4
+382,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,154976826,,,4
+383,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,231030028,,,4
+384,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,173175816,,,4
+385,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,,,71977636,,,4
+386,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,294866,,,4
+387,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,159499,,,4
+388,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,22546,,,4
+389,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,1067072,,,4
+390,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,13607865,,,4
+391,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,41022976,,,4
+392,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,270037060,,,4
+393,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,3431851,,,4
+394,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,2328472,,,4
+395,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,89817575,,,4
+396,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,218423549,,,4
+397,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,422566856,,,4
+398,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,36730907,,,4
+399,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,191138612,,,4
+400,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,13285,,,4
+401,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,,,432750,,,4
+402,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1453084,,,4
+403,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,,,2008374,,,4
+404,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,,,46694,,,4
+405,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,9929510,,,4
+406,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,149884148,,,4
+407,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,288178748,,,4
+408,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,,,82640565,,,4
+409,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,53015156,,,4
+410,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,,,97,,,4
+411,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1621760,,,4
+412,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,290465,,,4
+413,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,,,31384129,,,4
+414,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,29385,,,4
+415,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,401525,,,4
+416,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,2416440,,,4
+417,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,3761202,,,4
+418,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,729701,,,4
+419,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,107453,,,4
+420,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,272458,,,4
+421,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,7150646,,,4
+422,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,6795390,,,4
+423,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,311572,,,4
+424,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,4256,,,4
+425,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,520515,,,4
+426,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,10103112,,,4
+427,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,14336452,,,4
+428,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,2643375,,,4
+429,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,7356946,,,4
+430,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,4539506,,,4
+431,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,11796038,,,4
+432,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,5382023,,,4
+433,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,5004446,,,4
+434,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,1423931,,,4
+435,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,625705,,,4
+436,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,557574,,,4
+437,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1559815,,,4
+438,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,2639997,,,4
+439,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1179088,,,4
+440,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,230596,,,4
+441,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,5352559,,,4
+442,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,51736724,,,4
+443,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,2905482,,,4
+444,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,47319,,,4
+445,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,2558573,,,0
+446,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,54437746,,,0
+447,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,329323915,,,0
+448,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,48873146,,,0
+449,H5,2019,2019,2019,2,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,15289173,,,0

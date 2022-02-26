@@ -16,8 +16,7 @@ def get_wtodata():
     '''
     r = requests.get("http://stats.wto.org/assets/UserGuide/merchandise_values_annual_dataset.zip")
     file = ZipFile(BytesIO(r.content))
-    df = pd.read_csv(file.open("merchandise_values_annual_dataset.csv"), encoding = "ISO-8859-1", 
-                    dtype={"ReporterCode":"string", "PartnerCode":"string", "Year":"category", "Value":"int"})
+    df = pd.read_csv(file.open("merchandise_values_annual_dataset.csv"), encoding = "ISO-8859-1", dtype="object")
 
     return df
 
@@ -37,5 +36,5 @@ def clean_wtodata(df, path="rawdata/merchandise_values_annual_dataset.csv"):
     df = df[["Indicator", "ReporterCode", "ReporterISO3A", "Reporter", "ProductCode", "Product","Year", "Value"]]
     df["Indicator"].replace(regex={r'.+imports.+': 'Import', r'.+exports.+': 'Export'}, inplace=True)
 
-    df.to_csv(path, sep=',')
+    df.to_csv(path, sep=',', index=False)
 

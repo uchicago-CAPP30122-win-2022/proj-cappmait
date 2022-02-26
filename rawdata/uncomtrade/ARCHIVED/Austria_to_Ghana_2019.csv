@@ -1,0 +1,61 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,16,,,0
+1,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,34,,,4
+2,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,3,,,0
+3,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,4,,,0
+4,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,15,,,0
+5,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,22583,,,0
+6,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,12382,,,0
+7,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,1437110,,,0
+8,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,70689,,,0
+9,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,1870,,,4
+10,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,26700,,,0
+11,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,8505,,,0
+12,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,14904,,,4
+13,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,87237,,,4
+14,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,161496,,,0
+15,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,40432,,,4
+16,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,63322,,,0
+17,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,2139,,,0
+18,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,719,,,0
+19,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,842450,,,4
+20,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,1027066,,,0
+21,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,277111,,,0
+22,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,17569,,,4
+23,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,72091,,,0
+24,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,729020,,,4
+25,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,28329,,,0
+26,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,13919,,,0
+27,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,595,,,0
+28,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,12855,,,0
+29,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,31,,,0
+30,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,440548,,,0
+31,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,9822,,,4
+32,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,12650,,,0
+33,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,58283,,,0
+34,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,15486,,,0
+35,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,26485,,,4
+36,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,3299,,,0
+37,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,441,,,0
+38,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,38233,,,0
+39,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,23590,,,0
+40,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,50072,,,0
+41,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,3053,,,0
+42,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,74096,,,0
+43,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,1173960,,,4
+44,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1852,,,4
+45,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,63316,,,4
+46,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,60,,,0
+47,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,147570,,,4
+48,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,210404,,,4
+49,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,5583981,,,4
+50,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,2576800,,,4
+51,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,1754,,,0
+52,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,332991,,,0
+53,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,239,,,4
+54,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,3677,,,0
+55,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,602259,,,4
+56,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,35,,,0
+57,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,306322,,,4
+58,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,193551,,,0
+59,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,61054,,,4

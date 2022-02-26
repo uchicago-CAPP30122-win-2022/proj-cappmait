@@ -1,0 +1,98 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,14371267,,,0
+1,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,93355149,,,0
+2,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,1685401,,,4
+3,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,21810310,,,0
+4,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,4270865,,,0
+5,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,5060952,,,0
+6,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,22171161,,,0
+7,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,20164379,,,0
+8,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,11030164,,,0
+9,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,12653133,,,0
+10,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,13585211,,,0
+11,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,12414011,,,0
+12,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,317526,,,0
+13,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,5944,,,0
+14,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,15111934,,,4
+15,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,18222927,,,0
+16,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,12845977,,,0
+17,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,15928915,,,0
+18,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,44314461,,,0
+19,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,19931150,,,0
+20,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,27159819,,,0
+21,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,57658328,,,0
+22,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,63530787,,,0
+23,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,379,,,0
+24,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,26224266,,,0
+25,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,647331,,,0
+26,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,1030140281,,,4
+27,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,16296728,,,4
+28,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,20990659,,,4
+29,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,152968845,,,0
+30,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,49178878,,,0
+31,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,50047766,,,0
+32,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,11332201,,,4
+33,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,84105642,,,0
+34,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,4078044,,,0
+35,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,12579119,,,0
+36,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,238301,,,4
+37,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,90612202,,,4
+38,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,304062176,,,0
+39,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,49540022,,,0
+40,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,16126000,,,0
+41,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,5578505,,,0
+42,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,250638,,,0
+43,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,93474499,,,0
+44,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,396715,,,0
+45,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,205122,,,0
+46,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,5514649,,,0
+47,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,220275888,,,0
+48,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,11760091,,,0
+49,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,417960,,,0
+50,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1727538,,,0
+51,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,1159665,,,4
+52,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,534836,,,0
+53,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,2512962,,,0
+54,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,3863438,,,4
+55,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,3386035,,,0
+56,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,4394830,,,0
+57,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,5504450,,,4
+58,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,7068916,,,0
+59,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,10455988,,,4
+60,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,105843053,,,0
+61,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,56664820,,,0
+62,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,15147132,,,4
+63,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,83351740,,,0
+64,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,2207143,,,0
+65,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,781840,,,0
+66,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,390488,,,0
+67,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,41699850,,,0
+68,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,4501246,,,0
+69,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,29783016,,,4
+70,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,13026625,,,4
+71,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,216985322,,,0
+72,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,177860607,,,0
+73,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,20631459,,,0
+74,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,2939954,,,0
+75,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,135374524,,,0
+76,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,5908850,,,0
+77,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,24868242,,,0
+78,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,1990464,,,0
+79,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,4302870,,,0
+80,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,32599155,,,4
+81,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,43776150,,,0
+82,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,570612886,,,4
+83,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,782564604,,,4
+84,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,34402810,,,0
+85,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,672419545,,,0
+86,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,6183704,,,0
+87,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,5211472,,,0
+88,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,122775897,,,4
+89,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,3936046,,,4
+90,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,680954,,,0
+91,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,2427755,,,0
+92,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,69812158,,,0
+93,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,23662888,,,0
+94,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,10260102,,,0
+95,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,168184,,,4
+96,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,343464,,,0

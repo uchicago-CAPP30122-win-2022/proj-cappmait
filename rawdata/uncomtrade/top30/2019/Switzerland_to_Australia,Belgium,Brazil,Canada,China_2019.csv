@@ -1,0 +1,445 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,34,,,0
+1,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,966086,,,4
+2,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,19563,,,4
+3,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,13116,,,4
+4,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,157139,,,0
+5,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,56958,,,0
+6,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,12277,,,0
+7,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,2782477,,,0
+8,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,6914503,,,0
+9,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,176891,,,4
+10,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,23306534,,,4
+11,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,22899657,,,4
+12,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,29078,,,4
+13,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,3872,,,4
+14,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,38071,,,4
+15,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,78,,,4
+16,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,151016,,,4
+17,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,21092,,,0
+18,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,118389,,,4
+19,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,1457,,,4
+20,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,212726,,,4
+21,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,9086,,,0
+22,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,181681,,,4
+23,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,36,,,0
+24,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,5818,,,4
+25,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,82717474,,,4
+26,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,83824459,,,4
+27,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,56390914,,,4
+28,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,84257680,,,4
+29,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,9826394,,,4
+30,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,771869,,,0
+31,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,15,,,0
+32,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,2933,,,0
+33,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,13914,,,0
+34,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,3931,,,4
+35,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,2231,,,0
+36,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,2047292,,,4
+37,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,15,,,4
+38,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,22266,,,0
+39,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,55380,,,4
+40,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1436430,,,4
+41,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1246842,,,4
+42,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,349000,,,4
+43,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,900269,,,4
+44,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1269372,,,4
+45,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,170,,,4
+46,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,9,,,4
+47,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,206,,,0
+48,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,214,,,4
+49,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,19575,,,0
+50,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,481355,,,4
+51,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2938070,,,4
+52,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,391526,,,0
+53,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,1609115,,,4
+54,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,1275,,,0
+55,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,3603,,,0
+56,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,2714933,,,0
+57,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,5439654,,,4
+58,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,422894,,,4
+59,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,5423125,,,0
+60,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,3186034,,,4
+61,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,24303928,,,4
+62,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,19669839,,,4
+63,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,9820026,,,0
+64,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,69197534,,,0
+65,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,16667647,,,4
+66,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,3847699,,,4
+67,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,13761396,,,4
+68,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,54461,,,0
+69,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2647361,,,4
+70,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,84564511,,,0
+71,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,745757,,,0
+72,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,429812,,,4
+73,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,73145,,,0
+74,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,1201889,,,0
+75,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,3400415,,,0
+76,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,13721782,,,4
+77,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,24369900,,,4
+78,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,8030514,,,4
+79,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,24493847,,,4
+80,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,20032313,,,4
+81,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,21335460,,,0
+82,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,155682041,,,4
+83,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,11773128,,,0
+84,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,67782714,,,4
+85,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,3013844,,,4
+86,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,406780,,,0
+87,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,1072527,,,0
+88,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,1381860,,,0
+89,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,862134,,,0
+90,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,46840,,,0
+91,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,1207,,,0
+92,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,2717656,,,4
+93,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,6452,,,4
+94,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,1997114,,,4
+95,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,9217,,,0
+96,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,9421,,,4
+97,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,286533,,,4
+98,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,61126,,,4
+99,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,360457,,,4
+100,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,629489,,,4
+101,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,2704001,,,4
+102,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,8873,,,0
+103,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,1481005,,,4
+104,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,3861500,,,4
+105,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,413680,,,4
+106,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,24400684,,,4
+107,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,35384561,,,4
+108,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,81345,,,4
+109,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,5350141,,,4
+110,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,195599,,,4
+111,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,182298,,,4
+112,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,5415985,,,4
+113,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,18380634,,,4
+114,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,166853024,,,4
+115,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,655438208,,,4
+116,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,152062966,,,4
+117,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,770975670,,,4
+118,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,1181002877,,,4
+119,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,2557564624,,,4
+120,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,1214004448,,,4
+121,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,2707654180,,,4
+122,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,4277184802,,,4
+123,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,23869,,,0
+124,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,6822,,,0
+125,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,1284406,,,0
+126,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,3117,,,0
+127,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,11113060,,,4
+128,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,40155823,,,4
+129,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,29121651,,,4
+130,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,3385902,,,4
+131,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,44236067,,,4
+132,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,15348863,,,4
+133,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,102576129,,,4
+134,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,13670989,,,4
+135,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,12498677,,,4
+136,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,285471349,,,4
+137,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,3609780,,,4
+138,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,15771817,,,4
+139,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,4353166,,,4
+140,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,1515460,,,4
+141,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,21895010,,,4
+142,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,2936434,,,4
+143,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,8165245,,,4
+144,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,572106,,,4
+145,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1120335,,,4
+146,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,17637891,,,4
+147,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,58622,,,4
+148,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,207260,,,4
+149,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,49,,,0
+150,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,2393,,,0
+151,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,39249,,,4
+152,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,38187,,,4
+153,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,111878,,,4
+154,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,,,31199,,,4
+155,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,199204,,,4
+156,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,2503956,,,4
+157,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,4652023,,,4
+158,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,88800265,,,4
+159,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,14770800,,,4
+160,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,6789307,,,4
+161,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,69504267,,,4
+162,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,22521324,,,4
+163,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,83745764,,,4
+164,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,30899358,,,4
+165,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,15777340,,,4
+166,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,208206533,,,4
+167,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,2682714,,,4
+168,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,5034104,,,4
+169,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,2248310,,,4
+170,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,4174782,,,4
+171,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,21331146,,,4
+172,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,16998,,,4
+173,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,249745,,,4
+174,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,34433,,,0
+175,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,4450,,,4
+176,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,1171523,,,4
+177,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,6265296,,,4
+178,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,2503175,,,4
+179,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,864265,,,4
+180,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,5117925,,,4
+181,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,61601219,,,4
+182,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,8373,,,4
+183,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,8629,,,0
+184,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,8084,,,4
+185,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,160784,,,0
+186,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,4719934,,,4
+187,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,4726208,,,4
+188,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,462030,,,4
+189,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,8770012,,,4
+190,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,19738551,,,4
+191,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,103,,,4
+192,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,31504,,,4
+193,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,103,,,4
+194,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,12,,,4
+195,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,21317,,,4
+196,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,940,,,0
+197,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,8193,,,0
+198,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,3422,,,0
+199,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,239,,,4
+200,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,1811,,,0
+201,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,29087,,,0
+202,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,3353,,,0
+203,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,302,,,0
+204,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,49610,,,0
+205,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,2577486,,,4
+206,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,41365920,,,4
+207,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,1409033,,,4
+208,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,2365026,,,4
+209,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,28717170,,,4
+210,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,2140951,,,4
+211,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,2540358,,,4
+212,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,508642,,,4
+213,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,2711275,,,4
+214,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,7289106,,,4
+215,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,40114,,,4
+216,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,20969,,,4
+217,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,267,,,0
+218,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,153906,,,4
+219,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,22508,,,4
+220,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,238872,,,4
+221,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,570238,,,4
+222,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,1392,,,0
+223,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,179488,,,0
+224,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,88903,,,0
+225,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,123751,,,4
+226,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,18971483,,,4
+227,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,27608,,,0
+228,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,197384,,,4
+229,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,2289957,,,4
+230,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,6881,,,4
+231,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,74876,,,4
+232,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,17869,,,0
+233,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,53646,,,4
+234,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,71536,,,4
+235,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,371418,,,4
+236,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,252107,,,0
+237,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,884359,,,4
+238,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,5975548,,,4
+239,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,1170506,,,4
+240,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,641243,,,4
+241,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,419961,,,4
+242,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2531258,,,4
+243,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,9216028,,,4
+244,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,175652,,,4
+245,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,488159,,,4
+246,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,199638,,,4
+247,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,3648503,,,4
+248,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,1496394,,,4
+249,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,312440,,,0
+250,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,342696,,,4
+251,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,444742,,,0
+252,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,161622,,,0
+253,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,222525,,,4
+254,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,218165,,,4
+255,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,1202012,,,4
+256,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,646766,,,4
+257,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,607175,,,4
+258,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,5120733,,,4
+259,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,736791,,,4
+260,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,8734104,,,4
+261,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,2754373,,,4
+262,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1434046,,,4
+263,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,27127591,,,4
+264,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,28615,,,4
+265,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,405345,,,4
+266,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,1326,,,0
+267,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,118563,,,0
+268,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,981027,,,4
+269,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,2625118,,,4
+270,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,7726208,,,4
+271,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,170138,,,4
+272,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,3789155,,,4
+273,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,15165199,,,4
+274,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,3632871,,,4
+275,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,8811599,,,4
+276,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,861898,,,4
+277,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,7995513,,,4
+278,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,50974690,,,4
+279,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,296726,,,4
+280,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,4392778,,,4
+281,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,99448,,,4
+282,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,319126,,,4
+283,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,1363614,,,4
+284,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,6399106,,,4
+285,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2124138,,,4
+286,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,749290,,,4
+287,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2632359,,,4
+288,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,37692094,,,4
+289,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,139931,,,4
+290,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,112084,,,4
+291,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,140101,,,0
+292,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,80376,,,4
+293,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,391574,,,4
+294,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,26892,,,4
+295,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,236413,,,4
+296,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,4768,,,4
+297,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,96409,,,4
+298,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,93535,,,4
+299,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,10801,,,4
+300,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,19335,,,4
+301,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,3453,,,0
+302,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,8263,,,4
+303,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,2981569,,,4
+304,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,1722606,,,4
+305,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,3109757,,,4
+306,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,2292843,,,4
+307,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,19116169,,,4
+308,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,546416,,,4
+309,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,575585,,,4
+310,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,353635,,,4
+311,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,853307,,,4
+312,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,35560514,,,4
+313,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,2910843,,,4
+314,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,8159574,,,4
+315,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,3210671,,,4
+316,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,4783944,,,4
+317,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,23717340,,,4
+318,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,55941168,,,4
+319,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,298259646,,,4
+320,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,5479425,,,4
+321,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,60553167,,,4
+322,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,8937790067,,,4
+323,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,488068,,,4
+324,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,9128519,,,4
+325,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,3565693,,,4
+326,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,1415167,,,4
+327,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,13185323,,,4
+328,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,14788528,,,4
+329,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,31840086,,,4
+330,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,12853120,,,4
+331,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,15487744,,,4
+332,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,105637052,,,4
+333,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,184199,,,4
+334,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,14764722,,,4
+335,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,334519,,,4
+336,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,2980312,,,4
+337,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,10008046,,,4
+338,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,334966,,,4
+339,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,196674,,,4
+340,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,1697405,,,4
+341,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,23547,,,4
+342,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,21001597,,,4
+343,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,9812188,,,4
+344,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,19376843,,,4
+345,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,7241493,,,4
+346,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,3714826,,,4
+347,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,12501405,,,4
+348,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,251,,,0
+349,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,410263,,,0
+350,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,499,,,0
+351,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,25097,,,0
+352,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,159077,,,4
+353,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,2727442,,,4
+354,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,18818,,,4
+355,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,35447,,,4
+356,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,3053361,,,4
+357,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,316455,,,4
+358,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,1154,,,0
+359,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,47595,,,4
+360,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,82696,,,4
+361,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,1337452,,,4
+362,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,593572,,,4
+363,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,137656,,,4
+364,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,4053711,,,4
+365,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,19540884,,,4
+366,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,18666158,,,4
+367,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,8457143,,,4
+368,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,18296532,,,4
+369,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,63526596,,,4
+370,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,2647932,,,4
+371,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,6026718,,,4
+372,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,333030,,,4
+373,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,1691329,,,4
+374,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,7761633,,,4
+375,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,209107247,,,4
+376,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,376683131,,,4
+377,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,194164363,,,4
+378,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,149037327,,,4
+379,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,1822444572,,,4
+380,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,104453608,,,4
+381,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,128974383,,,4
+382,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,76181219,,,4
+383,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,73223938,,,4
+384,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,919885744,,,4
+385,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,2653783,,,0
+386,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,8133830,,,0
+387,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,25898652,,,0
+388,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,1094064,,,0
+389,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,3291520,,,0
+390,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,15680383,,,4
+391,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,37717528,,,4
+392,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,5317615,,,4
+393,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,74997043,,,4
+394,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,58840433,,,4
+395,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,230202337,,,4
+396,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,31609792,,,0
+397,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,351134,,,4
+398,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,8677645,,,4
+399,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,68473665,,,0
+400,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,12577,,,0
+401,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,567985,,,0
+402,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,421617,,,0
+403,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,59,,,0
+404,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,246923657,,,4
+405,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,783681066,,,4
+406,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,73079822,,,4
+407,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,135500602,,,4
+408,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,1122567993,,,4
+409,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,239299321,,,4
+410,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,114300137,,,4
+411,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,30782971,,,4
+412,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,195654227,,,4
+413,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,2006447254,,,4
+414,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,417281,,,0
+415,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,100171,,,0
+416,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,40199,,,0
+417,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,424076,,,4
+418,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,529038,,,4
+419,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,461072,,,0
+420,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,4047318,,,4
+421,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,111562,,,0
+422,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,886691,,,4
+423,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,1608147,,,0
+424,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,3481942,,,4
+425,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,16080786,,,4
+426,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,321869,,,4
+427,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,4753157,,,4
+428,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,9401208,,,4
+429,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,1417490,,,4
+430,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,2647589,,,4
+431,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,129958,,,4
+432,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,1525191,,,4
+433,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,13721906,,,4
+434,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1257809,,,4
+435,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,23033261,,,4
+436,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,6315369,,,4
+437,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,3988021,,,4
+438,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,7493222,,,4
+439,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,2127335,,,4
+440,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,25720544,,,4
+441,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,1300022,,,4
+442,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,452994785,,,4
+443,H5,2019,2019,2019,2,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,42824230,,,4

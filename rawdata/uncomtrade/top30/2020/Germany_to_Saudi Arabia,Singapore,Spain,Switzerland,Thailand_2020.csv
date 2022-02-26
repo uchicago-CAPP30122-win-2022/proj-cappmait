@@ -1,0 +1,481 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,253252,,,0
+1,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,444941,,,0
+2,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,18634919,,,4
+3,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,35040508,,,4
+4,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,615324,,,0
+5,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,15758767,,,0
+6,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,207566055,,,0
+7,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,106366608,,,0
+8,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,10420841,,,0
+9,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,4297,,,0
+10,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,743338,,,0
+11,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,60803501,,,4
+12,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,68282664,,,4
+13,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,1253652,,,0
+14,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,121412706,,,0
+15,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,21836804,,,4
+16,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,423577160,,,4
+17,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,156731943,,,4
+18,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,19362275,,,0
+19,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,18648,,,0
+20,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,533747,,,4
+21,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,43279390,,,4
+22,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,30747742,,,4
+23,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,8028308,,,0
+24,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,35192,,,0
+25,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,48823,,,0
+26,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,12097017,,,4
+27,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,106865289,,,4
+28,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,113149,,,0
+29,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,6920207,,,0
+30,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,638369,,,0
+31,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,22412216,,,4
+32,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,44100707,,,4
+33,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,5255060,,,0
+34,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,284499,,,0
+35,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,88902,,,4
+36,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,93876583,,,4
+37,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,94690175,,,4
+38,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,6941,,,0
+39,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,7193044,,,4
+40,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,2863311,,,4
+41,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,157650778,,,4
+42,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,125672674,,,4
+43,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,341714,,,4
+44,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,216594413,,,0
+45,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,21033,,,0
+46,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,43001174,,,4
+47,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,57670437,,,0
+48,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,2183,,,0
+49,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,4905812,,,0
+50,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,2794963,,,4
+51,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,51034728,,,4
+52,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,40985612,,,0
+53,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,29794322,,,0
+54,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,1559568,,,0
+55,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,736980,,,0
+56,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,30241378,,,4
+57,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,106739304,,,4
+58,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,7784609,,,0
+59,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1432477,,,0
+60,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,8130213,,,4
+61,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,32109418,,,4
+62,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,27821619,,,4
+63,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,5603443,,,0
+64,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,7838,,,0
+65,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,102104,,,0
+66,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1757960,,,4
+67,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,4916,,,0
+68,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2915904,,,4
+69,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2174921,,,4
+70,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,33801301,,,4
+71,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,83301239,,,4
+72,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2794616,,,4
+73,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,16035,,,0
+74,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,749599,,,4
+75,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,147215712,,,4
+76,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,86174037,,,4
+77,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,279804,,,0
+78,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,11198048,,,4
+79,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,3797339,,,4
+80,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,66079531,,,4
+81,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,74083404,,,4
+82,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,5145523,,,4
+83,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,35571762,,,0
+84,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,15827769,,,0
+85,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,171230712,,,4
+86,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,182384447,,,4
+87,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,8910597,,,0
+88,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,43279760,,,0
+89,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,7085201,,,0
+90,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,282564957,,,4
+91,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,292553253,,,4
+92,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,6476264,,,4
+93,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,23513395,,,0
+94,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,1851546,,,0
+95,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,90481621,,,4
+96,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,146643424,,,4
+97,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,3196313,,,0
+98,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,51024289,,,4
+99,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,12057867,,,4
+100,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,266991096,,,4
+101,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,273345490,,,4
+102,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,18373861,,,4
+103,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,5067388,,,4
+104,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,13314083,,,4
+105,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,199858802,,,0
+106,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,273947210,,,4
+107,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,4962902,,,4
+108,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,7465953,,,0
+109,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,9503404,,,0
+110,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,215674926,,,4
+111,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,239978362,,,4
+112,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,34436823,,,0
+113,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,64027178,,,0
+114,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,5577308,,,4
+115,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,499105801,,,4
+116,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,73160756,,,0
+117,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,270143,,,4
+118,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,2554750,,,0
+119,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,1463319,,,4
+120,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,23290998,,,4
+121,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,153905454,,,4
+122,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,1997562,,,4
+123,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,4701019,,,0
+124,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,6407081,,,0
+125,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,17882,,,0
+126,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,10097128,,,0
+127,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,16023515,,,4
+128,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,193123281,,,4
+129,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,,,2230864198,,,4
+130,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,12960441,,,4
+131,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,155616172,,,4
+132,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,118167838,,,4
+133,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,308142537,,,4
+134,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,300812017,,,4
+135,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,108651884,,,4
+136,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,42161919,,,4
+137,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,171381234,,,4
+138,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,966566513,,,4
+139,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,1205310771,,,4
+140,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,83885740,,,4
+141,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,714200407,,,4
+142,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,216777051,,,4
+143,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,2891760277,,,4
+144,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,9531994848,,,4
+145,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,319891877,,,4
+146,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,4052147,,,4
+147,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,2229655,,,0
+148,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,60181130,,,4
+149,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,49625067,,,4
+150,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,38022383,,,4
+151,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,71198975,,,4
+152,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,72932132,,,4
+153,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,531301330,,,4
+154,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,482391180,,,4
+155,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,50177283,,,4
+156,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,118454416,,,4
+157,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,108680061,,,4
+158,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,438457083,,,4
+159,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,574536783,,,4
+160,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,27097991,,,4
+161,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,38671194,,,4
+162,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,54155200,,,4
+163,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,278032401,,,4
+164,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,392163045,,,4
+165,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,41070257,,,4
+166,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,12159575,,,4
+167,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,43880170,,,4
+168,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,146253431,,,4
+169,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,110726608,,,4
+170,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,27168213,,,4
+171,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,63158,,,4
+172,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,3060113,,,0
+173,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,7085268,,,4
+174,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,23543805,,,4
+175,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,1194831,,,4
+176,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,7372088,,,4
+177,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,24150224,,,4
+178,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,65655190,,,4
+179,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,29838280,,,4
+180,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,1591515,,,0
+181,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,310566022,,,4
+182,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,162452714,,,4
+183,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,938452155,,,4
+184,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,897771650,,,4
+185,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,173005818,,,4
+186,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,186038104,,,4
+187,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,183898645,,,4
+188,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,2008690373,,,4
+189,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,2579441488,,,4
+190,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,183141169,,,4
+191,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,46170151,,,4
+192,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,72255371,,,4
+193,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,591856909,,,4
+194,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,629078186,,,4
+195,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,55881011,,,4
+196,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,17043,,,0
+197,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,118005,,,4
+198,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,11475555,,,4
+199,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,4008551,,,4
+200,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,2420997,,,0
+201,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,4264221,,,4
+202,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,8344623,,,4
+203,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,67045634,,,4
+204,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,269129000,,,4
+205,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,1448838,,,4
+206,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,70892,,,4
+207,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,26792,,,0
+208,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,902421,,,4
+209,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,8489215,,,0
+210,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,8878,,,0
+211,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,39897942,,,4
+212,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,3858113,,,4
+213,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,193787503,,,4
+214,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,888390697,,,4
+215,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,6434632,,,4
+216,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,27836,,,4
+217,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,6520,,,4
+218,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,679128,,,4
+219,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,4470420,,,4
+220,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,21432,,,4
+221,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,28369,,,4
+222,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,86797,,,4
+223,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,3063481,,,4
+224,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,9236297,,,4
+225,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,9070,,,0
+226,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,1555619,,,0
+227,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,726704,,,0
+228,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,21087132,,,0
+229,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,27766145,,,0
+230,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,4773743,,,0
+231,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,48672770,,,4
+232,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,21922021,,,4
+233,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,647005265,,,4
+234,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,799978603,,,4
+235,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,55142219,,,4
+236,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,13953118,,,4
+237,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,7019810,,,4
+238,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,82284757,,,4
+239,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,655155267,,,4
+240,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,4232816,,,4
+241,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,6462,,,0
+242,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,1653,,,0
+243,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,308964,,,4
+244,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,844312,,,4
+245,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,1089,,,0
+246,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,845941,,,0
+247,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,2073973,,,4
+248,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,6947645,,,4
+249,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,21615,,,0
+250,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,597543,,,4
+251,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,6738,,,4
+252,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,6792110,,,4
+253,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,21513531,,,4
+254,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,171044,,,0
+255,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,31789,,,0
+256,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,21871,,,0
+257,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,467459,,,4
+258,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,2275181,,,4
+259,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,49771,,,0
+260,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,944854,,,4
+261,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,353773,,,4
+262,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,42171478,,,4
+263,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,45672431,,,4
+264,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,3345823,,,4
+265,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,172910,,,0
+266,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,64164,,,4
+267,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,22843376,,,4
+268,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,13484897,,,4
+269,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2753922,,,0
+270,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,13132884,,,4
+271,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,1218017,,,4
+272,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,98023795,,,4
+273,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,105339450,,,4
+274,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,3007997,,,4
+275,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,647145,,,0
+276,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,724006,,,0
+277,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,13098842,,,4
+278,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,78123575,,,4
+279,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,1769639,,,0
+280,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,238269,,,4
+281,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,194097,,,4
+282,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,10778894,,,4
+283,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,16355433,,,4
+284,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,2402775,,,4
+285,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,6524695,,,4
+286,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,15915389,,,4
+287,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,69968538,,,4
+288,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,56176807,,,4
+289,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,11301287,,,4
+290,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,208037,,,4
+291,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,3902504,,,4
+292,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,7379986,,,4
+293,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,25427689,,,4
+294,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,1309332,,,4
+295,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,10816686,,,4
+296,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,2782202,,,4
+297,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,371318010,,,4
+298,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,1621035042,,,4
+299,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,2470711,,,4
+300,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,9125497,,,4
+301,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,3175374,,,4
+302,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,364803712,,,4
+303,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,2019776025,,,4
+304,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,2085821,,,4
+305,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,5110780,,,4
+306,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,4133608,,,4
+307,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,211174115,,,4
+308,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,387505466,,,4
+309,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,1282862,,,4
+310,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,4604127,,,0
+311,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,4726911,,,4
+312,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,262624384,,,4
+313,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,962540205,,,4
+314,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,3167866,,,4
+315,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,796608,,,4
+316,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1197185,,,4
+317,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,20727769,,,4
+318,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,65059277,,,4
+319,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,334069,,,4
+320,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,96307,,,4
+321,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,91775,,,4
+322,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,2531984,,,4
+323,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,10302455,,,4
+324,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,9557,,,4
+325,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,33244,,,4
+326,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,60819,,,0
+327,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,6712531,,,4
+328,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,11528563,,,4
+329,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,46526,,,0
+330,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,14432269,,,4
+331,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,21642402,,,4
+332,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,166401787,,,4
+333,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,413655977,,,4
+334,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,9096239,,,4
+335,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,19731785,,,4
+336,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,9416737,,,4
+337,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,67786126,,,4
+338,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,225248437,,,4
+339,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,11299261,,,4
+340,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,7601840,,,4
+341,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,27043696,,,4
+342,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,239859927,,,4
+343,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,403832832,,,4
+344,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,22758136,,,4
+345,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,5297201,,,4
+346,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,34095653,,,4
+347,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,172009891,,,4
+348,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,4569480997,,,4
+349,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,134406053,,,4
+350,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,35948124,,,4
+351,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,34209435,,,4
+352,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,1018108989,,,4
+353,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,867780933,,,4
+354,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,46835455,,,4
+355,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,186420797,,,4
+356,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,116607329,,,4
+357,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,743318977,,,4
+358,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,1572099161,,,4
+359,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,74532740,,,4
+360,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,25450916,,,4
+361,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,122487054,,,4
+362,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,246236257,,,4
+363,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,433032310,,,4
+364,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,33063087,,,4
+365,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,2181754,,,4
+366,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,16974328,,,4
+367,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,24851227,,,4
+368,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,26613088,,,4
+369,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,5927859,,,4
+370,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,86725553,,,4
+371,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,28062511,,,4
+372,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,487811606,,,4
+373,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,1068588318,,,4
+374,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,36343546,,,4
+375,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,293521,,,4
+376,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,434625,,,0
+377,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,1913930,,,4
+378,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,3676247,,,4
+379,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,40965,,,0
+380,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,230147,,,4
+381,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,1041547,,,4
+382,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,3819773,,,4
+383,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,12278981,,,4
+384,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,1812595,,,4
+385,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,118204,,,4
+386,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,220914,,,4
+387,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,1324834,,,4
+388,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,2890912,,,4
+389,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,144222,,,4
+390,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,1384269,,,4
+391,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,4278790,,,4
+392,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,25305538,,,4
+393,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,78418468,,,4
+394,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,2752972,,,4
+395,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,24724892,,,4
+396,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,39297481,,,4
+397,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,261496672,,,4
+398,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,587467758,,,4
+399,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,31137669,,,4
+400,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,14754428,,,4
+401,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,26139545,,,4
+402,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,293652280,,,4
+403,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,283711651,,,4
+404,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,23934235,,,4
+405,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,1220306765,,,4
+406,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,1801048387,,,4
+407,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,7441948614,,,4
+408,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,7516899340,,,4
+409,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,1194007845,,,4
+410,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,434876523,,,4
+411,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,1485274041,,,4
+412,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,5138528546,,,4
+413,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,4540297427,,,4
+414,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,770892426,,,4
+415,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,191244316,,,4
+416,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,3120211,,,4
+417,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,99334645,,,4
+418,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,449412052,,,4
+419,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,2017170,,,4
+420,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,927697012,,,4
+421,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,523116024,,,4
+422,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,6727122657,,,4
+423,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,5640494443,,,4
+424,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,452345283,,,4
+425,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,312515377,,,0
+426,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,53034657,,,4
+427,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,574142264,,,4
+428,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,648041405,,,4
+429,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,4412048,,,0
+430,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1150791,,,0
+431,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,78557489,,,4
+432,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,23279291,,,0
+433,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,30553539,,,0
+434,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,208589,,,0
+435,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,577336296,,,4
+436,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,735465460,,,4
+437,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,2175156914,,,4
+438,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,2804804230,,,4
+439,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,366073341,,,4
+440,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,6582472,,,4
+441,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,16283403,,,4
+442,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,75031737,,,4
+443,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,226163348,,,4
+444,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,3361970,,,4
+445,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,405632,,,4
+446,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,4289241,,,4
+447,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,27014620,,,4
+448,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,58839609,,,4
+449,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,1583630,,,4
+450,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,2376527,,,4
+451,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,1443713,,,4
+452,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,14247063,,,4
+453,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,36416136,,,4
+454,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,341636,,,4
+455,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,82384193,,,4
+456,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,36230633,,,4
+457,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,518125087,,,4
+458,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,1885650571,,,4
+459,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,20785731,,,4
+460,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,2483802,,,4
+461,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,4603272,,,4
+462,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,203402195,,,4
+463,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,347694477,,,4
+464,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,1462958,,,4
+465,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,21407077,,,4
+466,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,13142061,,,4
+467,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,141047040,,,4
+468,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,282632265,,,4
+469,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,6754684,,,4
+470,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,161107,,,4
+471,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,4839446,,,4
+472,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,3144582,,,4
+473,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,252230116,,,4
+474,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,698154,,,4
+475,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,99303538,,,0
+476,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,401201309,,,0
+477,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,928561699,,,0
+478,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,853080266,,,0
+479,H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,156943315,,,0

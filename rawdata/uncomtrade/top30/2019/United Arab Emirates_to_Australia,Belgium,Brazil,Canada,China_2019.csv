@@ -1,0 +1,424 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,20843,,,0
+1,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,81923,,,0
+2,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,599,,,0
+3,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,17421,,,0
+4,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,8158574,,,0
+5,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,345137,,,0
+6,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,3283639,,,0
+7,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,108439,,,0
+8,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,402,,,0
+9,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,964,,,0
+10,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,3609802,,,0
+11,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,3626134,,,4
+12,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,1338,,,0
+13,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,122545,,,0
+14,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,147726,,,0
+15,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,9321501,,,0
+16,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,53294,,,0
+17,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,759113,,,0
+18,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,25243,,,0
+19,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,33046,,,0
+20,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,1626222,,,0
+21,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,447497,,,0
+22,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,2256050,,,0
+23,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,316706,,,0
+24,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,145304,,,0
+25,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,2454354,,,0
+26,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,5680679,,,0
+27,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,13436473,,,0
+28,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,293802,,,0
+29,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,263377,,,0
+30,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,5172523,,,0
+31,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,2170719,,,0
+32,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,116013,,,4
+33,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,7972,,,0
+34,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,45814,,,0
+35,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,24826,,,0
+36,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,39044,,,0
+37,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,1086,,,0
+38,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,202360,,,0
+39,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,110385,,,0
+40,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,16836,,,0
+41,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,1262,,,0
+42,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,23050,,,0
+43,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,389960,,,0
+44,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,5987,,,0
+45,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,6607,,,0
+46,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,20851373,,,0
+47,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,5875,,,0
+48,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,9255,,,0
+49,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,7525,,,0
+50,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,343131,,,0
+51,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2747,,,0
+52,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,35271,,,0
+53,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,1425643,,,0
+54,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,161796481,,,0
+55,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,1002194,,,0
+56,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,155250,,,0
+57,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,178216,,,0
+58,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,121940,,,0
+59,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,67378,,,0
+60,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,17956,,,0
+61,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,862789,,,0
+62,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,114473,,,0
+63,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,228544,,,0
+64,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,40783,,,0
+65,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,616094,,,0
+66,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,13056,,,0
+67,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,174382,,,0
+68,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,509654,,,0
+69,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2410345,,,4
+70,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,74043,,,0
+71,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,37199,,,0
+72,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2808829,,,0
+73,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,8777614,,,0
+74,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,2331550,,,0
+75,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,250264,,,0
+76,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,125017,,,0
+77,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,849182,,,0
+78,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,472498,,,0
+79,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,2857642,,,0
+80,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,199270,,,0
+81,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,889847,,,0
+82,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,822615,,,0
+83,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,1519268,,,0
+84,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,4982822,,,0
+85,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,117196,,,0
+86,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,135656,,,0
+87,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,1081631,,,0
+88,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,11608321,,,0
+89,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,520,,,0
+90,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,37183070,,,0
+91,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,1533313,,,0
+92,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,899801,,,0
+93,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,87577,,,0
+94,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,49480,,,0
+95,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,33794090,,,0
+96,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,4161968,,,0
+97,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,29691,,,0
+98,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,110620,,,0
+99,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,634727,,,0
+100,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,571682,,,0
+101,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,5347,,,0
+102,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,927826,,,0
+103,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,8712297,,,0
+104,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,3289456,,,4
+105,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,4730763,,,0
+106,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,5293658,,,0
+107,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,2733826,,,0
+108,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,559886226,,,4
+109,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,6800615,,,4
+110,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,182766,,,0
+111,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,340,,,0
+112,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,22326,,,0
+113,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,2361042,,,0
+114,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,404831,,,0
+115,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,1297977,,,0
+116,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,24107140,,,0
+117,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,801197,,,0
+118,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,2650436,,,4
+119,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,2087547,,,0
+120,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,857625,,,0
+121,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,207,,,0
+122,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,54354,,,0
+123,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,2545116,,,0
+124,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,153552,,,0
+125,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,4902,,,0
+126,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,557684,,,0
+127,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,1373537,,,0
+128,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,5167407,,,0
+129,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,223169,,,0
+130,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,100845,,,0
+131,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,3415741,,,0
+132,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,15155914,,,0
+133,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,1435352,,,0
+134,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,431911,,,0
+135,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,3065734,,,0
+136,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,17797319,,,0
+137,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,459246,,,4
+138,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,692411,,,0
+139,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,7436,,,0
+140,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,849857,,,0
+141,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,3385348,,,0
+142,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,112309,,,0
+143,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,31900,,,0
+144,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,357,,,0
+145,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,808193,,,0
+146,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,5604337,,,4
+147,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,103429,,,0
+148,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,138980,,,0
+149,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,14338,,,0
+150,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,683,,,0
+151,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,8098,,,0
+152,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,2352726,,,0
+153,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,569869,,,0
+154,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,12114901,,,0
+155,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,65143,,,0
+156,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,1774600,,,0
+157,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,6367777,,,4
+158,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,32052826,,,4
+159,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,12928809,,,0
+160,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,8602713,,,0
+161,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,8276806,,,0
+162,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,1325723820,,,0
+163,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,10850808,,,0
+164,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,7289576,,,4
+165,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,955742,,,0
+166,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,1152327,,,0
+167,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,158091668,,,0
+168,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,92902,,,0
+169,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,384261,,,0
+170,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,155,,,0
+171,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,238049,,,0
+172,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,898855,,,0
+173,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,332936,,,0
+174,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,58409,,,0
+175,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,616016,,,0
+176,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,46030257,,,0
+177,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,119587,,,0
+178,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,202807,,,0
+179,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,128261,,,4
+180,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,101335,,,0
+181,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,30143,,,0
+182,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,16994965,,,0
+183,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,3372,,,0
+184,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,20824,,,0
+185,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,137,,,0
+186,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,7003860,,,0
+187,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,85033,,,0
+188,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,7850,,,0
+189,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,9010,,,0
+190,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,3848095,,,0
+191,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,,,1742,,,4
+192,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,62,,,0
+193,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,2570157,,,0
+194,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,9031875,,,0
+195,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,1030390,,,0
+196,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,337683,,,4
+197,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,1410596,,,4
+198,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,36074677,,,4
+199,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,1503623,,,0
+200,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,7739959,,,0
+201,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,68166,,,0
+202,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,192944,,,0
+203,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,8295461,,,0
+204,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,629,,,0
+205,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,168,,,0
+206,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,1344,,,0
+207,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,847195,,,0
+208,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,79119,,,0
+209,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,2958,,,0
+210,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,62490,,,0
+211,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,1060,,,0
+212,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,18924,,,0
+213,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,7074,,,0
+214,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,740303,,,0
+215,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,1583,,,0
+216,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,11491,,,0
+217,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,14833,,,0
+218,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,5987001,,,0
+219,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,40715571,,,0
+220,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,2115465,,,0
+221,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,18432809,,,0
+222,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,1243,,,0
+223,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,466140,,,0
+224,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,1325460,,,0
+225,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,84658,,,0
+226,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,9021226,,,0
+227,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,239844,,,0
+228,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,1838,,,0
+229,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,87994,,,0
+230,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,59439,,,0
+231,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,2972745,,,0
+232,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,16821104,,,0
+233,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,49350,,,0
+234,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,99785,,,0
+235,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,3836095,,,0
+236,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,685703,,,0
+237,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,9206,,,0
+238,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,33263,,,0
+239,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,9342,,,0
+240,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,164,,,0
+241,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,576859,,,0
+242,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,14479,,,0
+243,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,87570,,,0
+244,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,9902,,,0
+245,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1765,,,0
+246,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,803144,,,0
+247,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,139,,,0
+248,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,65304,,,0
+249,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,9295,,,0
+250,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,1932314,,,0
+251,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,1850041,,,0
+252,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,862907,,,0
+253,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,343900,,,0
+254,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,1515184,,,0
+255,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,98865025,,,0
+256,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,1701023,,,0
+257,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,2591950,,,0
+258,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,74392,,,0
+259,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,4090273,,,4
+260,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,17900663,,,0
+261,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,27311865,,,0
+262,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,5344617,,,0
+263,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,187875,,,0
+264,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,3493489,,,0
+265,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,39414538,,,0
+266,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,3111158,,,0
+267,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,1170459,,,0
+268,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,122250,,,0
+269,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2779835,,,4
+270,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,20395271,,,0
+271,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,20536,,,0
+272,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,26939,,,0
+273,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1780,,,0
+274,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,5521,,,0
+275,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,917790,,,0
+276,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,114,,,0
+277,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,21,,,0
+278,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,181170,,,0
+279,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,170026,,,0
+280,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,5197,,,0
+281,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,940,,,0
+282,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,6057,,,0
+283,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,906472,,,0
+284,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,686957,,,0
+285,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,127073,,,0
+286,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,1657461,,,0
+287,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,1929852,,,0
+288,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,5057414,,,4
+289,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,5060561,,,0
+290,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,24779619,,,0
+291,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,171943,,,0
+292,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,1301486,,,0
+293,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,5821978,,,4
+294,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,39755892,,,0
+295,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,10975717,,,0
+296,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,2398164,,,0
+297,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,2312242,,,0
+298,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,9160689,,,4
+299,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,50463037,,,4
+300,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,2661641292,,,0
+301,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,2199230,,,4
+302,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,59856691,,,4
+303,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,123102721,,,0
+304,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,23902418,,,4
+305,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,4227379,,,4
+306,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,6279939,,,0
+307,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,31272075,,,0
+308,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,15785800,,,4
+309,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,66937574,,,4
+310,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,10555117,,,4
+311,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,5150716,,,0
+312,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,30670087,,,4
+313,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,33165271,,,0
+314,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,79922505,,,0
+315,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,2920642,,,4
+316,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,166526,,,0
+317,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,77168,,,0
+318,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,179253155,,,4
+319,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,72603,,,0
+320,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,478730,,,0
+321,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,4755,,,0
+322,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,73000,,,0
+323,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,130444977,,,0
+324,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,7064087,,,0
+325,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,31972141,,,0
+326,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,11220703,,,4
+327,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,9019983,,,0
+328,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,40676372,,,4
+329,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,155,,,0
+330,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,708910,,,0
+331,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,38637,,,0
+332,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,137095,,,0
+333,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,2238,,,0
+334,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,2940,,,0
+335,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,74265519,,,0
+336,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,37225,,,0
+337,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,99263,,,0
+338,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,101830,,,0
+339,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,2457,,,0
+340,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,25923,,,0
+341,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,8003,,,0
+342,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,1032431,,,4
+343,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,1251092,,,0
+344,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,257963,,,0
+345,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,331933,,,0
+346,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,570238,,,0
+347,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,8294921,,,0
+348,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,8120498,,,0
+349,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,339432,,,4
+350,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,85536,,,0
+351,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,101564,,,0
+352,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,11171131,,,0
+353,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,69197461,,,0
+354,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,68737574,,,4
+355,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,22706528,,,0
+356,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,95177386,,,0
+357,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,864504791,,,4
+358,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,43380641,,,4
+359,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,31279614,,,0
+360,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,21409221,,,0
+361,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,17131241,,,0
+362,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,2878075792,,,4
+363,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,47218,,,0
+364,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,156439,,,4
+365,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,123381,,,0
+366,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,55248,,,0
+367,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,1161500,,,0
+368,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,27378618,,,0
+369,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,29188275,,,0
+370,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,1679811,,,0
+371,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,13279942,,,4
+372,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,2043536549,,,0
+373,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,9339361,,,0
+374,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,18168978,,,0
+375,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,1845415,,,0
+376,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,22132980,,,0
+377,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,29633470,,,0
+378,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1722807,,,0
+379,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,69929,,,0
+380,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,141574,,,0
+381,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,39569249,,,4
+382,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,6199673,,,0
+383,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,7327339,,,0
+384,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,5541008,,,4
+385,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,7832285,,,0
+386,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,61019273,,,4
+387,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,409473,,,0
+388,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,428086,,,0
+389,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,58521,,,0
+390,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1332645,,,0
+391,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,18192286,,,4
+392,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,3924,,,0
+393,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,19918,,,0
+394,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,591,,,0
+395,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,2476,,,0
+396,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,228251,,,0
+397,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,18181,,,0
+398,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,4231096,,,0
+399,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,3126082,,,0
+400,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,77065,,,0
+401,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,4941190,,,0
+402,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,21388970,,,0
+403,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,2005800,,,0
+404,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,717732,,,0
+405,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,3308,,,0
+406,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,1768797,,,0
+407,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,13871127,,,0
+408,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1274143,,,0
+409,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,186883,,,0
+410,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,331330,,,0
+411,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,290016,,,0
+412,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,9649744,,,0
+413,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,134282,,,0
+414,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,6322056,,,0
+415,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,152295,,,0
+416,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,251420,,,0
+417,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,5936702,,,0
+418,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,95340,,,0
+419,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,129132,,,0
+420,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,7455,,,0
+421,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,348361,,,0
+422,H5,2019,2019,2019,2,0,2,Export,784,United Arab Emirates,ARE,156,China,CHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,313137,,,0

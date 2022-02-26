@@ -1,0 +1,45 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,32243,,,0
+1,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,27,,,0
+2,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,31663,,,0
+3,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,13,,,0
+4,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,13,,,0
+5,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,90,,,0
+6,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,516,,,0
+7,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,69,,,0
+8,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,1265,,,0
+9,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,42446,,,4
+10,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,443,,,0
+11,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,411277,,,0
+12,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,106,,,0
+13,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,284,,,4
+14,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,1546,,,0
+15,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,310,,,4
+16,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,12163,,,0
+17,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,29078,,,4
+18,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,196461,,,0
+19,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,114,,,0
+20,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,17434,,,4
+21,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1843,,,4
+22,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,635,,,0
+23,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,62,,,0
+24,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,436,,,0
+25,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,673,,,0
+26,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,27,,,4
+27,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,86,,,0
+28,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,71,,,0
+29,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,11,,,0
+30,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,914,,,0
+31,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,1426,,,0
+32,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,763015,,,4
+33,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,2712,,,0
+34,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,2884,,,0
+35,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,161211,,,4
+36,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,32858,,,4
+37,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,26068,,,0
+38,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,33502,,,4
+39,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,50,,,0
+40,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,15604,,,0
+41,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,87233,,,0
+42,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,127,,,0
+43,H5,2019,2019,2019,2,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,17306,,,4
