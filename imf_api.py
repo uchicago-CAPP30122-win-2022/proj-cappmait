@@ -36,7 +36,10 @@ def extract_export_data(target_country):
     for k in key_d3:
         key = f'CompactData/DOT/A.{target_country}.TXG_FOB_USD.{k}\
             ?startPeriod=2019&endPeriod=2020'
-        data = requests.get(f'{url}{key}').json()['CompactData']['DataSet']['Series']
+        data = requests.get(f'{url}{key}').json()['CompactData']['DataSet']
+        if 'Series' not in data.keys():
+            continue
+        data = data['Series']
         for s in data:
             df_dict_col = {}
             if 'Obs' not in s.keys() or type(s['Obs']) != list:
@@ -44,7 +47,24 @@ def extract_export_data(target_country):
             for i in s['Obs']:
                 df_dict_col[i['@TIME_PERIOD']] = round(float(i['@OBS_VALUE']), 1)
             trading_data[s['@COUNTERPART_AREA']] = df_dict_col
-    return pd.DataFrame(trading_data).T
+
+    df = pd.DataFrame(trading_data).T
+    if '2019' in df.columns:
+        df.sort_values(by=['2019'], inplace=True, ascending=False)
+    return df
+
+
+def creating_export_import_data():
+    df = pd.DataFrame(index=[], columns=['from', 'to', '2019', '2020'])
+    for code in country_codes.keys():
+#    for code in list(country_codes.keys())[:3]:
+        print(code)
+        one_country = extract_export_data(code)
+        one_country.reset_index(level=0, inplace=True)
+        one_country.rename(columns={'index': 'to'}, inplace=True)
+        one_country.insert(0, "from", code, True)
+        df = pd.concat([df, one_country])
+    return df.to_csv('rawdata/imf_import_export.csv')
 
 
 def extract_import_data(target_country):
