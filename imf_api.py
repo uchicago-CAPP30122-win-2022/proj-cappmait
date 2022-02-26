@@ -19,7 +19,7 @@ code_list = list(country_codes.keys())
 
 with open('rawdata/imf_import_export_country_codes.csv', 'w') as f:
     for key in country_codes.keys():
-        f.write("%s,%s\n"%(key,country_codes[key]))
+        f.write("%s;%s\n"%(key,country_codes[key]))
 
 # Separating the key because there seems to be URL's length limitation.
 key_d3 = []
