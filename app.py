@@ -2,20 +2,21 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
+import data_analysis as da
 
 app = Dash(__name__)
 
 # Load Data
 product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"Value":"int", "Year":"category"})
-partners = pd.read_excel("rawdata/Direction_of_Trade_Statistics_Japan_test.xlsx")
-covid_data = pd.read_csv("WHO-COVID-19-global-data.csv")
+partners = pd.read_csv("rawdata/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
+country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv") # Later delete? 
+# covid_data = pd.read_csv("WHO-COVID-19-global-data.csv")
 
-# Clean the data (specifically for covid_data)
-covid_data[['Year', 'Month', 'Day']] = covid_data['Date_reported'].\
-                                    str.split("-", expand = True)
-covid_data_2020 = covid_data[covid_data.Year == '2020'].groupby(\
-                                'Country')['Cumulative_cases'].sum()
-# also we may want to clean the country of covid_data and of product
+# # Clean the data (specifically for covid_data)
+# covid_data[['Year', 'Month', 'Day']] = covid_data['Date_reported'].\
+#                                     str.split("-", expand = True)
+# covid_data_2020 = covid_data[covid_data.Year == '2020'].groupby(\
+#                                 'Country')['Cumulative_cases'].sum()
 
 # Define Layout (dash components should be inside app layout)
 app.layout = html.Div([
@@ -34,9 +35,9 @@ app.layout = html.Div([
     html.Div([
         dcc.Dropdown(
             id='slt_country',
-            options=[{'label': c, 'value': c} \
-                        for c in product["Reporter"].unique()],
-            value="Japan",
+            options=[{'label': name, 'value': code} \
+                        for name, _, code, _, _, _ in country_code.itertuples(index=False)],
+            value="JPN",
             searchable=True,),
         dcc.Graph(id="barplot"),
 
@@ -75,8 +76,8 @@ def update_output(val_selected):
     Outputs:
         (A tuple of graph objects
     '''
-    
-    df = product[product["Reporter"]==val_selected]
+    df = product[product["ReporterISO3A"] == val_selected] 
+
     # df_l = covid_data_2020[covid_data_2020['Country'] == val_selected]
     # container = 'The dashboard is for the selected country: {}'.format(val_selected)
 
@@ -93,32 +94,61 @@ def update_output(val_selected):
     bar_plt = px.bar(df[df["ProductCode"] == "TO"], x="Indicator", y="Value", 
                  color="Year", barmode="group")
 
-    sankey_plt = px.bar(df[df["ProductCode"] == "TO"], x="Indicator", y="Value", 
-                 color="Year", barmode="group")
+    node_df, link_df = da.structure_node_link(partners, val_selected)
+    sankey_plt = plot_sankey(node_df, link_df)
 
-    line_plt = plot_line(df)
-    # line_plt.update_layout(title=dict(font=dict(size=28),x=0.5,xanchor='center'),
-    #                 margin=dict(l=60, r=60, t=50, b=50))
+    print(node_df)
+    line_plt = px.line(da.find_top3_products(df), x="Year", y="Value", color="Product")
 
     return (bar_plt, sankey_plt, line_plt)
 
-def plot_line(df):
+def plot_sankey(node_df, link_df):
     '''
-    Create a slopgraph given the product details df and selected country.
+    Create a sankey graph object
 
     Inputs:
-        df(Pandas Dataframe) : Product details in the selected country.
+        node_df(Pandas Dataframe): a data of nodes
+        links_df(Pandas Dataframe): a data of links
 
     Outputs:
-        line_plt(graph object)
+        fig(a graph object)
     '''
+    fig = go.Figure(data=[go.Sankey(
+        node = dict(
+        pad = 15,
+        thickness = 5,
+        line = dict(color = "black", width = 0.5),
+        label = node_df,
+        color = "gray"
+        ),
+        link = dict(
+        source = link_df['Source'].to_list(), 
+        target = link_df['Target'].to_list(),
+        value =  link_df['Value'].to_list(),
+        color = link_df['LinkColor'].to_list()
+    ))])
 
-    grouped_product = df[df["ProductCode"] != "TO"].groupby(["Product","Year"]).sum().sort_values(by="Value", ascending=False).reset_index()
-    selected_products = grouped_product[grouped_product["Year"]=="2019"].nlargest(3, "Value")["Product"]
+    fig.update_layout(title_text="", font_size=10)
+    fig.add_annotation(text="2019",
+                    xref="paper", yref="paper",
+                    x=0.3, y=1.00, showarrow=False), 
+    fig.add_annotation(text="2020",
+                    xref="paper", yref="paper",
+                    x=0.75, y=1.00, showarrow=False)
 
-    line_plt = px.line(grouped_product[grouped_product["Product"].isin(selected_products)], x="Year", y="Value", color="Product")
-
-    return line_plt
+    fig.update_layout(
+        autosize=False,
+        width=500,
+        height=700,
+        margin=dict(
+            l=50,
+            r=50,
+            b=100,
+            t=100,
+            pad=4
+        )
+    )
+    return fig
 
 if __name__ == '__main__':
     app.run_server(debug=True)
