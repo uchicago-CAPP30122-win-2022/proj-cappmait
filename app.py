@@ -40,11 +40,14 @@ app.layout = html.Div([
             value="JPN",
             searchable=True,),
         dcc.Graph(id="barplot"),
-
-        dcc.Graph(id="sankeyplot"),
-
-        dcc.Graph(id="lineplot")],
-        style={"display": "inline-block", "width": "40%"}
+        dcc.Graph(id="sankeyplot")],
+    style={"display": "inline-block", "width": "40%"}
+    ),
+    
+    # Bottom
+    html.Div([
+        dcc.Graph(id="treeplot")], 
+    style={"display": "inline-block", "width": "100%","vertical-align": "bottom"} 
     )
 
 ])
@@ -54,7 +57,7 @@ app.layout = html.Div([
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
-    Output(component_id="lineplot", component_property="figure")],
+    Output(component_id="treeplot", component_property="figure")],
     [Input(component_id="slt_country", component_property="value")]
 )
 
@@ -97,10 +100,10 @@ def update_output(val_selected):
     node_df, link_df = da.structure_node_link(partners, val_selected)
     sankey_plt = plot_sankey(node_df, link_df)
 
-    print(node_df)
-    line_plt = px.line(da.find_top3_products(df), x="Year", y="Value", color="Product")
+    tree_plt = px.treemap(df[df["ProductCode"] != "TO"], path=[px.Constant("Total"), "Indicator", "Year", "Product"], values="Value")
 
-    return (bar_plt, sankey_plt, line_plt)
+    return (bar_plt, sankey_plt, tree_plt)
+
 
 def plot_sankey(node_df, link_df):
     '''
@@ -138,7 +141,7 @@ def plot_sankey(node_df, link_df):
 
     fig.update_layout(
         autosize=False,
-        width=500,
+        width=550,
         height=700,
         margin=dict(
             l=50,
