@@ -12,6 +12,7 @@ product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"V
 partners = pd.read_csv("rawdata/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
 country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
 
+
 def prepare_covid_data():
     '''
     Do data wrangling for covid data:
@@ -79,8 +80,6 @@ app.layout = html.Div([
 
 # Use callback to connect graphs with dash components
 @app.callback(
-    Output("covid-graph", "figure"),
-    [Input("data-type-selected", "value")],
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
     Output(component_id="treeplot", component_property="figure")],
@@ -161,7 +160,13 @@ def plot_sankey(node_df, link_df):
     return fig
 
 
-def plot_world_map(selected):
+@app.callback(
+    Output("covid-graph", "figure"),
+    [Input("data-type-selected", "value")]
+)
+
+
+def update_world_map(selected):
     '''
     Plot worldwide covid cases situation
 
