@@ -47,7 +47,7 @@ app.layout = html.Div(
         html.Div(
             id="header",
         children=[
-            html.H4("Dashboard of Covid Impact and World Trading"),
+            html.H1("Dashboard of Covid Impact and World Trading"),
             html.P(id="description",
                     children="† Description here",
                 )]
@@ -70,24 +70,33 @@ app.layout = html.Div(
                 ),
 
         # Right
-        html.Div([
-            dcc.Dropdown(
-                id='slt_country',
-                options=[{'label': name, 'value': code} \
-                            for name, _, code, _, _, _ in country_code.itertuples(index=False)],
-                value="JPN",
-                searchable=True,),
-            dcc.Graph(id="barplot"),
-            dcc.Graph(id="sankeyplot")],
-        style={"display": "inline-block", "width": "40%"}
-        ),
+        html.Div(
+            id="graph-container",
+            children=[html.Div(
+                id="countrydashboard",
+                children=[
+                    dcc.Dropdown(
+                        id='slt_country',
+                        options=[{'label': name, 'value': code} \
+                                    for name, _, code, _, _, _ in country_code.itertuples(index=False)],
+                        value="JPN",
+                        searchable=True,),
+                    dcc.Graph(id="barplot"),
+                    dcc.Graph(id="sankeyplot")]
+                )],
+                style={"display": "inline-block", "width": "30%"}
+                ),
         
         # Bottom
-        html.Div([
-            dcc.Graph(id="treeplot")], 
-        style={"display": "inline-block", "width": "100%","vertical-align": "bottom"} 
-        )
-])
+        html.Div(
+            id="graph-container-bottom",
+            children=[html.Div(
+                id="countrydashboard-bottom",
+                children=[dcc.Graph(id="treeplot")], 
+                style={"display": "inline-block", "width": "100%","vertical-align": "bottom"} 
+            )]
+        )]       
+)
 
 
 # Use callback to connect graphs with dash components
