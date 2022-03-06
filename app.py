@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
@@ -9,26 +10,49 @@ app = Dash(__name__)
 # Load Data
 product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"Value":"int", "Year":"category"})
 partners = pd.read_csv("rawdata/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
-country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv") # Later delete? 
-# covid_data = pd.read_csv("WHO-COVID-19-global-data.csv")
 
-# # Clean the data (specifically for covid_data)
-# covid_data[['Year', 'Month', 'Day']] = covid_data['Date_reported'].\
-#                                     str.split("-", expand = True)
-# covid_data_2020 = covid_data[covid_data.Year == '2020'].groupby(\
-#                                 'Country')['Cumulative_cases'].sum()
 
-# Define Layout (dash components should be inside app layout)
+def prepare_covid_data():
+    '''
+    Do data wrangling for covid data:
+    i) Join two datasets on 2 digit code
+    ii) Align country name to the standard names
+    iii) Filter out "2020-12-31" data for all countries
+    iv) Extract needed columns for plotting, e.g. alpha 3 code
+
+    Input:
+        None, running this py file would call this function and start
+            data wrangling
+    
+    Outputs:
+        dff: a cleaned dataframe for next step of plotting
+    '''
+
+    covid_data = pd.read_csv('rawdata/WHO-COVID-19-global-data.csv')
+    country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
+    country_code = country_code.rename({'Country': 'country_name'}, axis = 1)
+
+    df = covid_data.join(country_code.set_index('Alpha-2code'), on = 'Country_code')
+    dff = df[["country_name", "Date_reported", "Cumulative_cases", "Cumulative_deaths", "Alpha-3code"]]
+    dff = extracted_df[extracted_df.Date_reported == '2020/12/31']
+
+    return dff
+
+
+# Define Layout (dash components inside)
 app.layout = html.Div([
 
     # Title
-    html.H1("Dashboard of Covid Trade Impact",
+    html.H1("Dashboard of Covid Impact and World Trading",
             style={'textAlign': 'center'}),
 
     # Left Top
     html.Div([
-        dcc.Graph(id="worldmap")], 
-    style={"display": "inline-block", "width": "60%","vertical-align": "top"} 
+        dcc.Dropdown(id='data-type-selected', value='Cumulative_deaths',
+                    options = [{'label': 'Cumulative_cases', 'value': 'Cumulative_cases'},
+                                {'label': 'Cumulative_deaths', 'value': 'Cumulative_deaths'}]),
+        dcc.Graph(id="Covid World Map")], 
+        style={"display": "inline-block", "width": "60%","vertical-align": "top"} 
     ),
 
     # Right
@@ -52,22 +76,17 @@ app.layout = html.Div([
 
 ])
 
-# callback is supposed to connect graphs with dash components
-# added worldmap as an output, added component to be shown on the dashboard
+
+# Use callback to connect graphs with dash components
 @app.callback(
+    Output("covid-graph", "figure"),
+    [Input("data-type-selected", "value")],
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
     Output(component_id="treeplot", component_property="figure")],
     [Input(component_id="slt_country", component_property="value")]
 )
 
-# @app.callback(
-#     [Output(component_id="worldmap", component_property="figure"),
-#     Output(component_id="barplot", component_property="figure"),
-#     Output(component_id="sankeyplot", component_property="figure"),
-#     Output(component_id="lineplot", component_property="figure")],
-#     [Input(component_id="slt_country", component_property="value")]
-# )
 
 def update_output(val_selected):
     '''
@@ -79,20 +98,8 @@ def update_output(val_selected):
     Outputs:
         (A tuple of graph objects
     '''
+
     df = product[product["ReporterISO3A"] == val_selected] 
-
-    # df_l = covid_data_2020[covid_data_2020['Country'] == val_selected]
-    # container = 'The dashboard is for the selected country: {}'.format(val_selected)
-
-    # try with the tentative covid data and use plotly express
-    # worldmap = px.choropleth(
-    #     data_frame=df_l,
-    #     locations='Country',
-    #     color='Cumulative_cases',
-    #     hover_data=['Country', 'Cumulative_cases'],
-    #     color_continuous_scale=px.colors.sequential.YlOrRd,
-    #     template='plotly_dark'
-    # )
 
     bar_plt = px.bar(df[df["ProductCode"] == "TO"], x="Indicator", y="Value", 
                  color="Year", barmode="group")
@@ -151,6 +158,38 @@ def plot_sankey(node_df, link_df):
             pad=4
         )
     )
+    return fig
+
+
+def plot_world_map(selected):
+    '''
+    Plot worldwide covid cases situation
+
+    Inputs:
+        selected: the data type selected by user
+
+    Outputs:
+        fig: the world map graph
+    '''
+
+    dff = prepare_covid_data()
+    dff['hover_text'] = dff['country_name'] + ": " + dff[selected].apply(str)
+
+    fig = px.choropleth(dff, locations = 'Alpha-3code',
+                    z = np.log(dff[selected]),
+                    text = dff['hover_text'],
+                    hoverinfo = 'text',
+                    marker_line_color='white',
+                    autocolorscale = False,
+                    reversescale = True,
+                    colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}})
+
+    fig.update_layout(annotations = [dict(
+        x = 0.52,
+        y = 0.05,
+        text = 'Source : WHO Coronavirus (COVID-19) Dashboard'
+    )])
+
     return fig
 
 if __name__ == '__main__':
