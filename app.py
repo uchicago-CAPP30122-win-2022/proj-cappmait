@@ -10,7 +10,7 @@ app = Dash(__name__)
 # Load Data
 product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"Value":"int", "Year":"category"})
 partners = pd.read_csv("rawdata/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
-
+country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
 
 def prepare_covid_data():
     '''
