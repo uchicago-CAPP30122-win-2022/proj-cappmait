@@ -41,40 +41,52 @@ def prepare_covid_data():
 
 
 # Define Layout (dash components inside)
-app.layout = html.Div([
-
-    # Title
-    html.H1("Dashboard of Covid Impact and World Trading",
-            style={'textAlign': 'center'}),
+app.layout = html.Div(
+    id="root",
+    children=[
+        html.Div(
+            id="header",
+        children=[
+            html.H4("Dashboard of Covid Impact and World Trading"),
+            html.P(id="description",
+                    children="† Description here",
+                )]
+        ),
 
     # Left Top
-    html.Div([
-        dcc.Dropdown(id='data-type-selected', value='Cumulative_deaths',
-                    options = [{'label': 'Cumulative_cases', 'value': 'Cumulative_cases'},
-                                {'label': 'Cumulative_deaths', 'value': 'Cumulative_deaths'}]),
-        dcc.Graph(id="covid-graph")], 
-        style={"display": "inline-block", "width": "60%","vertical-align": "top"} 
-    ),
+        html.Div(
+            id="app-container",
+            children=[html.Div(
+                id="world-map",
+                children=[
+                    html.P(id="chart-selector", children="Select chart:"),
+                    dcc.Dropdown(id='data-type-selected', value='Cumulative_deaths',
+                                options = [{'label': 'Cumulative_cases', 'value': 'Cumulative_cases'},
+                                            {'label': 'Cumulative_deaths', 'value': 'Cumulative_deaths'}]),
+                    dcc.Graph(id="covid-graph"),
+                        ]
+                    )],
+                style={"display": "inline-block", "width": "60%", "vertical-align":"top", "backgroundColor":"#252e3f"}
+                ),
 
-    # Right
-    html.Div([
-        dcc.Dropdown(
-            id='slt_country',
-            options=[{'label': name, 'value': code} \
-                        for name, _, code, _, _, _ in country_code.itertuples(index=False)],
-            value="JPN",
-            searchable=True,),
-        dcc.Graph(id="barplot"),
-        dcc.Graph(id="sankeyplot")],
-    style={"display": "inline-block", "width": "40%"}
-    ),
-    
-    # Bottom
-    html.Div([
-        dcc.Graph(id="treeplot")], 
-    style={"display": "inline-block", "width": "100%","vertical-align": "bottom"} 
-    )
-
+        # Right
+        html.Div([
+            dcc.Dropdown(
+                id='slt_country',
+                options=[{'label': name, 'value': code} \
+                            for name, _, code, _, _, _ in country_code.itertuples(index=False)],
+                value="JPN",
+                searchable=True,),
+            dcc.Graph(id="barplot"),
+            dcc.Graph(id="sankeyplot")],
+        style={"display": "inline-block", "width": "40%"}
+        ),
+        
+        # Bottom
+        html.Div([
+            dcc.Graph(id="treeplot")], 
+        style={"display": "inline-block", "width": "100%","vertical-align": "bottom"} 
+        )
 ])
 
 
@@ -95,23 +107,67 @@ def update_output(val_selected):
         val_selected(str) : The user selected country
     
     Outputs:
-        (A tuple of graph objects
+        A tuple of graph objects
     '''
-
     df = product[product["ReporterISO3A"] == val_selected] 
+    country_name = country_code.loc[country_code["Alpha-3code"] ==val_selected, "Country"].item()
 
-    bar_plt = px.bar(df[df["ProductCode"] == "TO"], x="Indicator", y="Value", 
-                 color="Year", barmode="group")
+    bar_plt = plot_bar(df, country_name)
 
     node_df, link_df = da.structure_node_link(partners, val_selected)
-    sankey_plt = plot_sankey(node_df, link_df)
+    sankey_plt = plot_sankey(node_df, link_df, country_name)
 
-    tree_plt = px.treemap(df[df["ProductCode"] != "TO"], path=[px.Constant("Total"), "Indicator", "Year", "Product"], values="Value")
+    tree_plt = plot_tree(df, country_name)
 
     return (bar_plt, sankey_plt, tree_plt)
 
 
-def plot_sankey(node_df, link_df):
+def plot_bar(df, country_name):
+    '''
+    Create a bar graph object
+
+    Inputs:
+        df (Pandas Dataframe): a data of products
+
+    Outputs:
+        fig(a bar graph object)
+    '''
+    fig = px.bar(df[df["ProductCode"] == "TO"], x="Indicator", y="Value", 
+                 color="Year", barmode="group")
+
+    fig.update_layout(
+        font_color="#7fafdf",
+        title=f'{country_name}\'s Total Trade Volume in before/after Covid',
+        xaxis=dict(
+            title= '',
+            titlefont_size=16,
+            tickfont_size=14,
+            title_standoff=50
+        ),
+        yaxis=dict(
+            title= 'Trade Volume',
+            titlefont_size=16,
+            tickfont_size=14,
+        ),
+        autosize=False,
+        width=550,
+        height=450,
+        margin=dict(
+            l=150,
+            r=0,
+            b=50,
+            t=100,
+            pad=4
+        ),
+        paper_bgcolor= '#1f2630',
+        bargap=0.15, # gap between bars of adjacent location coordinates.
+        bargroupgap=0.1 # gap between bars of the same location coordinate.
+    )
+
+    return fig
+
+
+def plot_sankey(node_df, link_df, country_name):
     '''
     Create a sankey graph object
 
@@ -120,7 +176,7 @@ def plot_sankey(node_df, link_df):
         links_df(Pandas Dataframe): a data of links
 
     Outputs:
-        fig(a graph object)
+        fig(a sankey graph object)
     '''
     fig = go.Figure(data=[go.Sankey(
         node = dict(
@@ -137,7 +193,6 @@ def plot_sankey(node_df, link_df):
         color = link_df['LinkColor'].to_list()
     ))])
 
-    fig.update_layout(title_text="", font_size=10)
     fig.add_annotation(text="2019",
                     xref="paper", yref="paper",
                     x=0.3, y=1.00, showarrow=False), 
@@ -146,17 +201,46 @@ def plot_sankey(node_df, link_df):
                     x=0.75, y=1.00, showarrow=False)
 
     fig.update_layout(
+        title = f'{country_name}\'s Trade flows in before/after Covid',
+        font_color="#7fafdf",
         autosize=False,
         width=550,
         height=700,
         margin=dict(
-            l=50,
-            r=50,
-            b=100,
-            t=100,
+            l=100,
+            r=0,
+            b=50,
+            t=50,
             pad=4
-        )
+        ),
+        paper_bgcolor="#1f2630",
+        plot_bgcolor="#1f2630"
     )
+    return fig
+
+
+def plot_tree(df, country_name):
+    '''
+    Create a tree graph object
+
+    Inputs:
+        df (Pandas Dataframe): a data of products
+
+    Outputs:
+        fig(a tree graph object)
+    '''
+    fig = px.treemap(df[df["ProductCode"] != "TO"], \
+        path=[px.Constant("Total"), "Indicator", "Year", "Product"], values="Value")
+    fig.update_traces(root_color="lightgrey")
+    fig.update_layout(
+        title=dict(
+            text=f'{country_name}\'s Tree map in before/after Covid',
+            font_color="#7fafdf"
+        ),
+        autosize=False,
+        paper_bgcolor= '#1f2630'
+    )
+
     return fig
 
 
@@ -203,7 +287,10 @@ def update_world_map(selected):
         x = 0.52,
         y = 0.05,
         text = 'Source : WHO Coronavirus (COVID-19) Dashboard'
-    )])
+    )],
+    paper_bgcolor= "#252e3f",
+    font_color="#7fafdf"
+    )
 
     return fig
 
