@@ -274,15 +274,6 @@ def update_world_map(selected):
                     reversescale = True,
                     colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
 
-    # fig = px.choropleth(dff, locations = 'Alpha-3code',
-    #                 z = np.log(dff[selected]),
-    #                 text = dff['hover_text'],
-    #                 hoverinfo = 'text',
-    #                 marker_line_color='white',
-    #                 autocolorscale = False,
-    #                 reversescale = True,
-    #                 colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}})
-
     fig.update_layout(annotations = [dict(
         x = 0.52,
         y = 0.05,
