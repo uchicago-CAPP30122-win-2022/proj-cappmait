@@ -35,7 +35,7 @@ def prepare_covid_data():
 
     df = covid_data.join(country_code.set_index('Alpha-2code'), on = 'Country_code')
     dff = df[["country_name", "Date_reported", "Cumulative_cases", "Cumulative_deaths", "Alpha-3code"]]
-    dff = extracted_df[extracted_df.Date_reported == '2020/12/31']
+    dff = dff[dff.Date_reported == '2020/12/31']
 
     return dff
 
@@ -52,7 +52,7 @@ app.layout = html.Div([
         dcc.Dropdown(id='data-type-selected', value='Cumulative_deaths',
                     options = [{'label': 'Cumulative_cases', 'value': 'Cumulative_cases'},
                                 {'label': 'Cumulative_deaths', 'value': 'Cumulative_deaths'}]),
-        dcc.Graph(id="Covid World Map")], 
+        dcc.Graph(id="covid-graph")], 
         style={"display": "inline-block", "width": "60%","vertical-align": "top"} 
     ),
 
@@ -180,14 +180,24 @@ def update_world_map(selected):
     dff = prepare_covid_data()
     dff['hover_text'] = dff['country_name'] + ": " + dff[selected].apply(str)
 
-    fig = px.choropleth(dff, locations = 'Alpha-3code',
+    fig = go.Figure(data = go.Choropleth(
+                    locations = dff['Alpha-3code'],
                     z = np.log(dff[selected]),
                     text = dff['hover_text'],
                     hoverinfo = 'text',
                     marker_line_color='white',
                     autocolorscale = False,
                     reversescale = True,
-                    colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}})
+                    colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
+
+    # fig = px.choropleth(dff, locations = 'Alpha-3code',
+    #                 z = np.log(dff[selected]),
+    #                 text = dff['hover_text'],
+    #                 hoverinfo = 'text',
+    #                 marker_line_color='white',
+    #                 autocolorscale = False,
+    #                 reversescale = True,
+    #                 colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}})
 
     fig.update_layout(annotations = [dict(
         x = 0.52,
