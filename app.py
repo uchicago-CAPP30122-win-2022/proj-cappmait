@@ -4,6 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
 import data_analysis as da
+import network_analysis as net
 
 app = Dash(__name__)
 
@@ -12,7 +13,7 @@ product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"V
 partners = pd.read_csv("rawdata/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
 country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
 
-
+# go to another file? 
 def prepare_covid_data():
     '''
     Do data wrangling for covid data:
@@ -123,8 +124,9 @@ def update_output(val_selected):
 
     bar_plt = plot_bar(df, country_name)
 
-    node_df, link_df = da.structure_node_link(partners, val_selected)
-    sankey_plt = plot_sankey(node_df, link_df, country_name)
+    graph = net.draw_networkgraph()
+    sankey_nodes, sankey_links = graph.draw_sankey(val_selected)
+    sankey_plt = plot_sankey(sankey_nodes, sankey_links, country_name)
 
     tree_plt = plot_tree(df, country_name)
 
@@ -176,7 +178,7 @@ def plot_bar(df, country_name):
     return fig
 
 
-def plot_sankey(node_df, link_df, country_name):
+def plot_sankey(nodes, edges, country_name):
     '''
     Create a sankey graph object
 
@@ -187,19 +189,20 @@ def plot_sankey(node_df, link_df, country_name):
     Outputs:
         fig(a sankey graph object)
     '''
+    
     fig = go.Figure(data=[go.Sankey(
         node = dict(
-        pad = 15,
+        pad = 5,
         thickness = 5,
         line = dict(color = "black", width = 0.5),
-        label = node_df,
+        label = nodes,
         color = "gray"
         ),
         link = dict(
-        source = link_df['Source'].to_list(), 
-        target = link_df['Target'].to_list(),
-        value =  link_df['Value'].to_list(),
-        color = link_df['LinkColor'].to_list()
+        source = [source for source, _, _, _ in edges], 
+        target = [target for _, target, _, _ in edges],
+        value =  [value for _, _, value, _ in edges],
+        color = [color for _, _, _, color in edges]
     ))])
 
     fig.add_annotation(text="2019",
@@ -216,8 +219,8 @@ def plot_sankey(node_df, link_df, country_name):
         width=550,
         height=700,
         margin=dict(
-            l=100,
-            r=0,
+            l=50,
+            r=20,
             b=50,
             t=50,
             pad=4
