@@ -3,6 +3,7 @@ import requests
 import json
 import pandas as pd
 import time
+import os
 
 # Helper function
 def get_json(url, params = None):
@@ -45,7 +46,7 @@ def owid_csv(data, path):
     col = df.pop("iso_code")
     df.insert(0, "iso_code", col)
 
-    df.to_csv(path)
+    df.to_csv(path, index = False)
 
 
 def get_owid():
@@ -129,7 +130,7 @@ def un_comtrade_to_csv(data, path, year, reporter,
     df = pd.DataFrame(data)
     filename = path + reporter['text'] + "_to_" + partner['text'] + "_" +\
                str(year) + ".csv"
-    df.to_csv(filename)
+    df.to_csv(filename, index = False)
 
 
 def large_un_comtrade_json(path, year, reporter, partners):
@@ -189,3 +190,24 @@ def call_un_comtrade(reporters_path, partners_path, csv_path):
     partners = un_comtrade_countries(partners_path) 
     download_un_comtrade(csv_path, 2019, reporters, partners)
     download_un_comtrade(csv_path, 2020, reporters, partners)
+
+
+def check_error(path):
+    '''
+    List the error file
+
+    Input:
+        path (str): a folder kept files
+    
+    Return:
+        (list): list of error files
+    '''
+    dir_list = os.listdir(path)
+    blank = []
+    for file in dir_list:
+        path = "rawdata/uncomtrade/top30/2020/" + file
+        df = pd.read_csv(path)
+        if df.shape[0] == 0:
+            blank.append(file)
+    
+    return blank
