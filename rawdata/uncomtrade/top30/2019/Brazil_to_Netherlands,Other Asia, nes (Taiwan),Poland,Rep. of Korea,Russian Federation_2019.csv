@@ -1,0 +1,408 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,127,,,0
+1,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,17500,,,0
+2,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,232914946,,,0
+3,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,3331,,,0
+4,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,322729229,,,0
+5,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,1265,,,0
+6,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,431069403,,,0
+7,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,7662192,,,0
+8,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,14574106,,,4
+9,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,148643,,,0
+10,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,36940,,,0
+11,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,1399,,,0
+12,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,87728,,,4
+13,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,1648413,,,4
+14,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,1111321,,,4
+15,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,349,,,0
+16,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,4990121,,,0
+17,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,324804,,,0
+18,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,230944,,,0
+19,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,4518572,,,0
+20,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,768777,,,0
+21,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,14097355,,,0
+22,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,775,,,4
+23,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,6229281,,,0
+24,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,12385,,,0
+25,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,12895,,,0
+26,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,1871601,,,0
+27,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,3682375,,,0
+28,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,3346,,,0
+29,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,90875,,,4
+30,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,944921,,,0
+31,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,80985,,,0
+32,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,300672395,,,4
+33,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,1729813,,,0
+34,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,14581043,,,0
+35,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,73199625,,,4
+36,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,16410247,,,0
+37,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,106028833,,,4
+38,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,19764699,,,0
+39,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,87509144,,,0
+40,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,581079313,,,0
+41,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,470125705,,,0
+42,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,71560669,,,0
+43,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,10288,,,0
+44,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,956699,,,0
+45,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,214933,,,4
+46,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,652089,,,0
+47,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,979,,,0
+48,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,3485,,,0
+49,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,47112510,,,0
+50,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,232264380,,,0
+51,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,633074534,,,4
+52,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,14355742,,,4
+53,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,450088520,,,0
+54,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1789602,,,0
+55,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,434401,,,0
+56,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,191520,,,0
+57,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,253760,,,0
+58,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,908,,,0
+59,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,15743,,,0
+60,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,16354,,,0
+61,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,3678367,,,4
+62,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,2053139,,,0
+63,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,10021254,,,4
+64,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,4815,,,0
+65,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,2975456,,,4
+66,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,68067,,,4
+67,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,106,,,0
+68,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,82325009,,,4
+69,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,2179,,,0
+70,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,5040653,,,4
+71,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,483786,,,0
+72,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,7807222,,,4
+73,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,42955,,,0
+74,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,89812181,,,4
+75,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,781757,,,4
+76,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,20302,,,0
+77,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,16416851,,,0
+78,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,3985,,,0
+79,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,3114,,,0
+80,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,163758,,,0
+81,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,12118,,,0
+82,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,418546,,,4
+83,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,14933,,,0
+84,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,414,,,0
+85,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,4550722,,,4
+86,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,2537937,,,0
+87,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,529711572,,,4
+88,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,26607,,,0
+89,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,6289049,,,0
+90,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,13371623,,,4
+91,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,5531992,,,4
+92,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,10749882,,,4
+93,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,14439717,,,0
+94,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,60394266,,,4
+95,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,250918248,,,0
+96,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,1249,,,0
+97,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,37138994,,,0
+98,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,79881,,,0
+99,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,40273,,,0
+100,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,504305758,,,0
+101,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,8324472,,,0
+102,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,946375885,,,0
+103,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,197858402,,,0
+104,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,10526332,,,0
+105,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,41900246,,,0
+106,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,2983680,,,0
+107,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,25984688,,,0
+108,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,51175830,,,4
+109,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,76929817,,,0
+110,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,6231571,,,0
+111,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,5979555,,,0
+112,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,20957329,,,4
+113,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,4421518,,,0
+114,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,582732,,,0
+115,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,731090693,,,0
+116,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,339803587,,,0
+117,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,912487528,,,0
+118,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,307580232,,,0
+119,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,3238,,,0
+120,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,66277098,,,0
+121,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,1195918,,,0
+122,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,652437537,,,4
+123,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,6571040,,,0
+124,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,642497,,,0
+125,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,53530702,,,4
+126,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,1029573,,,0
+127,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,98280822,,,4
+128,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,7386655,,,0
+129,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,127018270,,,0
+130,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,92008011,,,4
+131,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,31597407,,,0
+132,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,195036221,,,4
+133,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,4945505,,,0
+134,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,13626934,,,0
+135,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,1118938,,,0
+136,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,368297,,,4
+137,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,8457405,,,4
+138,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,208776,,,4
+139,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,1326676,,,4
+140,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,28260,,,0
+141,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,16500,,,0
+142,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,1500,,,0
+143,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,1373231,,,4
+144,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,382383,,,4
+145,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,389838,,,4
+146,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,338237,,,0
+147,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,479445,,,4
+148,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,4147225,,,4
+149,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,479643,,,0
+150,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,33815053,,,4
+151,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,844560,,,4
+152,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,1355488,,,4
+153,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,138197,,,0
+154,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,53571,,,4
+155,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,141875,,,0
+156,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,53,,,0
+157,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,68472,,,4
+158,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,825095,,,0
+159,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,390201,,,0
+160,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,31782290,,,4
+161,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,141406,,,0
+162,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,12476497,,,0
+163,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1144,,,0
+164,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,43,,,0
+165,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,658390,,,0
+166,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,25799,,,0
+167,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,19690,,,0
+168,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,1020,,,0
+169,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,1560046,,,4
+170,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,978575,,,0
+171,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,6449935,,,0
+172,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,135302,,,0
+173,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,1900370,,,4
+174,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,5274778,,,4
+175,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,2358072,,,4
+176,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,35387720,,,4
+177,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,4866877,,,4
+178,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,3962520,,,4
+179,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,3286923,,,4
+180,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,1830574,,,4
+181,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,13803585,,,4
+182,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,722893,,,4
+183,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,2169871,,,4
+184,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,16696539,,,0
+185,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,24383700,,,0
+186,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,10843305,,,0
+187,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,1721235,,,0
+188,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,764070,,,0
+189,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,41815,,,4
+190,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,128902,,,4
+191,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,122372,,,4
+192,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,12981,,,4
+193,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,96305,,,4
+194,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,7882,,,0
+195,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,16672,,,0
+196,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,3212330,,,0
+197,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,10554,,,0
+198,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,43411,,,0
+199,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,16186276,,,4
+200,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,5210252,,,0
+201,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,54737625,,,4
+202,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,826144,,,0
+203,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,286954,,,0
+204,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,2307,,,0
+205,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,100,,,4
+206,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,8712,,,0
+207,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,12557,,,0
+208,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,154729402,,,0
+209,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,139429228,,,0
+210,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,651276697,,,0
+211,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,2379003,,,0
+212,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,745595,,,0
+213,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,10215974,,,4
+214,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,2939535,,,4
+215,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,1382788,,,4
+216,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,1989148,,,0
+217,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,1829177,,,4
+218,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,7740,,,4
+219,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,11551,,,4
+220,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,15023,,,4
+221,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,14455,,,4
+222,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,4816,,,4
+223,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,219828,,,0
+224,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,76247986,,,0
+225,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,7146363,,,0
+226,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,2163805,,,4
+227,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,4517,,,4
+228,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,120,,,0
+229,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,42845,,,0
+230,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,174019,,,0
+231,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,191726,,,0
+232,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,12390,,,0
+233,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,151708,,,4
+234,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,90643,,,0
+235,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,231,,,0
+236,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,16,,,4
+237,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,28,,,4
+238,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,28493,,,4
+239,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,2311,,,0
+240,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,38997,,,0
+241,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,470941,,,4
+242,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,104530,,,0
+243,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1203481,,,4
+244,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,2021,,,0
+245,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,206,,,0
+246,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,74,,,0
+247,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,4789,,,4
+248,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,893508,,,0
+249,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,19395,,,0
+250,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,12159,,,4
+251,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,2240096,,,4
+252,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,2871,,,0
+253,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,10844,,,4
+254,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,155967,,,0
+255,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,21051,,,0
+256,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,11,,,4
+257,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,18048,,,0
+258,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,82106,,,4
+259,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,16825,,,4
+260,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,115493,,,4
+261,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,38151,,,4
+262,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,303290,,,4
+263,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,73383,,,0
+264,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,28441,,,4
+265,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,21979,,,4
+266,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,18892,,,4
+267,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,309913,,,4
+268,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,3475,,,0
+269,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,1479,,,0
+270,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,70388,,,4
+271,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,773,,,4
+272,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,41709,,,4
+273,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,5580641,,,4
+274,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,3543282,,,4
+275,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,21001790,,,4
+276,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,5676585,,,4
+277,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,7414043,,,4
+278,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,287,,,4
+279,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,1410,,,0
+280,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,45487,,,0
+281,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,12684,,,0
+282,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,2766,,,0
+283,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,14,,,0
+284,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,27,,,0
+285,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,1195,,,0
+286,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,2603658,,,4
+287,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,1594088,,,4
+288,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,2674567,,,4
+289,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,2076083,,,4
+290,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,5968047,,,4
+291,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,77328,,,4
+292,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,692174,,,0
+293,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,227361,,,0
+294,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,574476,,,4
+295,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,329724,,,4
+296,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,91486,,,4
+297,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,176706,,,4
+298,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,191465,,,4
+299,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,1016722,,,0
+300,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,951728,,,4
+301,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,61754,,,4
+302,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,8926214,,,0
+303,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1028444,,,4
+304,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,118280,,,4
+305,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,384777,,,4
+306,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,355190894,,,4
+307,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,144560233,,,4
+308,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,728952297,,,4
+309,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,25488910,,,0
+310,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,72555879,,,4
+311,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,5806343,,,4
+312,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,436069,,,4
+313,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,30703497,,,4
+314,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,2661075,,,4
+315,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,5089652,,,4
+316,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,25753716,,,4
+317,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,492400,,,4
+318,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,815621,,,4
+319,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,3943,,,4
+320,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,15203228,,,4
+321,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,601022,,,4
+322,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,9514,,,4
+323,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,2817763,,,0
+324,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,13276,,,4
+325,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,742568,,,4
+326,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,11610,,,4
+327,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,190639,,,4
+328,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,50210,,,4
+329,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,28484,,,4
+330,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,227270,,,0
+331,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,643953,,,0
+332,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,55,,,0
+333,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,486,,,4
+334,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,29559545,,,0
+335,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,84903,,,0
+336,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,45149852,,,4
+337,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,2183,,,4
+338,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,13488,,,4
+339,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,803296,,,4
+340,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,42911,,,4
+341,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,24017659,,,4
+342,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,766440,,,0
+343,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,5397473,,,4
+344,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,287490,,,4
+345,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,2623,,,4
+346,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,734193,,,4
+347,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,53984,,,4
+348,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,3163,,,4
+349,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,21416711,,,4
+350,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,12750011,,,4
+351,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,254743049,,,4
+352,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,36143294,,,4
+353,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,66820233,,,4
+354,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,9977558,,,4
+355,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,5769153,,,4
+356,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,21531986,,,4
+357,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,15647075,,,4
+358,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,7177285,,,4
+359,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,353087,,,0
+360,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,149418,,,0
+361,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,194136,,,0
+362,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,115075,,,0
+363,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,2599577,,,4
+364,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,747473,,,4
+365,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,25640451,,,4
+366,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,18540836,,,0
+367,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,5712671,,,4
+368,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,4966,,,4
+369,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,78780,,,4
+370,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,1520249,,,4
+371,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,91549753,,,4
+372,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,78541,,,4
+373,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,282,,,0
+374,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,128010,,,0
+375,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,1558766,,,4
+376,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,1322283,,,4
+377,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,7113534,,,4
+378,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,2258198,,,4
+379,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,4526587,,,4
+380,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,15194,,,0
+381,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,85619,,,4
+382,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,89520,,,4
+383,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,238507,,,4
+384,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,798,,,0
+385,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,7589,,,4
+386,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,10493564,,,0
+387,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,39787,,,0
+388,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,246485,,,4
+389,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,4087,,,0
+390,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,15206202,,,4
+391,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,506806,,,4
+392,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,55852,,,4
+393,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,26556,,,0
+394,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,34522,,,4
+395,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,249595,,,4
+396,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,5464,,,0
+397,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,1759,,,0
+398,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,21655,,,4
+399,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,12814,,,0
+400,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,82684,,,4
+401,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,3168,,,4
+402,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,18054,,,4
+403,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,2470000,,,0
+404,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,80021736,,,0
+405,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,54593,,,0
+406,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,579,,,0
