@@ -122,7 +122,7 @@ app.layout = html.Div(
                     cyto.Cytoscape(id='network-graph',
                         elements=build_networkelements(True),
                         style={'width': '100%', 'height': '600px'},
-                        layout={'name': 'cose'},
+                        layout={'name': 'cose','animate': 'end'},
                         stylesheet=network_stylesheet)
                         ]
                     )],
