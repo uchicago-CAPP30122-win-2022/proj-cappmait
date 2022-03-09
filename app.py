@@ -3,6 +3,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
+import dash_cytoscape as cyto
 import data_analysis as da
 import network_analysis as net
 
@@ -41,6 +42,36 @@ def prepare_covid_data():
     return dff
 
 
+graph = net.draw_networkgraph()
+nodes, edges, weight = net.draw_wholenetwork(graph)
+country_node, country_edges = net.draw_countrynetwork(graph, "LVA")
+
+graph_nodes = [
+    {'data': {'id': node.country_code, 'label': node.label, 'pagerank': node.pagerank}} for node in nodes.values()
+]
+
+graph_edges = [
+    {'data': {'source': source, 'target': target}} for source, target in edges
+]
+
+elements = graph_nodes + graph_edges
+
+stylesheet = [
+    {
+        "selector": "node",
+        "style": {
+            "width": "mapData(pagerank, 0, 0.02, 1, 100)",
+            "height": "mapData(pagerank, 0, 0.02, 1, 100)",
+            "content": "data(id)",
+            "font-size": "12px",
+            "text-valign": "center",
+            "text-halign": "center",
+        }
+    }
+]
+
+
+
 # Define Layout (dash components inside)
 app.layout = html.Div(
     id="root",
@@ -65,6 +96,12 @@ app.layout = html.Div(
                                 options = [{'label': 'Cumulative_cases', 'value': 'Cumulative_cases'},
                                             {'label': 'Cumulative_deaths', 'value': 'Cumulative_deaths'}]),
                     dcc.Graph(id="covid-graph"),
+                    cyto.Cytoscape(id='network',
+                        elements=elements,
+                        style={'width': '100%', 'height': '500px'},
+                        layout={'name': 'cose'},
+                        stylesheet=stylesheet
+                        )
                         ]
                     )],
                 style={"display": "inline-block", "width": "60%", "vertical-align":"top", "backgroundColor":"#252e3f"}
@@ -100,7 +137,49 @@ app.layout = html.Div(
 )
 
 
-# Use callback to connect graphs with dash components
+@app.callback(
+    Output("covid-graph", "figure"),
+    [Input("data-type-selected", "value")]
+)
+
+
+def update_world_map(selected):
+    '''
+    Plot worldwide covid cases situation
+
+    Inputs:
+        selected: the data type selected by user
+
+    Outputs:
+        fig: the world map graph
+    '''
+
+    dff = prepare_covid_data()
+    dff['hover_text'] = dff['country_name'] + ": " + dff[selected].apply(str)
+
+    fig = go.Figure(data = go.Choropleth(
+                    locations = dff['Alpha-3code'],
+                    z = np.log(dff[selected]),
+                    text = dff['hover_text'],
+                    hoverinfo = 'text',
+                    marker_line_color='white',
+                    autocolorscale = False,
+                    reversescale = True,
+                    colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
+
+    fig.update_layout(annotations = [dict(
+        x = 0.52,
+        y = 0.05,
+        text = 'Source : WHO Coronavirus (COVID-19) Dashboard'
+    )],
+    paper_bgcolor= "#252e3f",
+    font_color="#7fafdf"
+    )
+
+    return fig
+
+
+
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
@@ -256,46 +335,6 @@ def plot_tree(df, country_name):
     return fig
 
 
-@app.callback(
-    Output("covid-graph", "figure"),
-    [Input("data-type-selected", "value")]
-)
-
-
-def update_world_map(selected):
-    '''
-    Plot worldwide covid cases situation
-
-    Inputs:
-        selected: the data type selected by user
-
-    Outputs:
-        fig: the world map graph
-    '''
-
-    dff = prepare_covid_data()
-    dff['hover_text'] = dff['country_name'] + ": " + dff[selected].apply(str)
-
-    fig = go.Figure(data = go.Choropleth(
-                    locations = dff['Alpha-3code'],
-                    z = np.log(dff[selected]),
-                    text = dff['hover_text'],
-                    hoverinfo = 'text',
-                    marker_line_color='white',
-                    autocolorscale = False,
-                    reversescale = True,
-                    colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
-
-    fig.update_layout(annotations = [dict(
-        x = 0.52,
-        y = 0.05,
-        text = 'Source : WHO Coronavirus (COVID-19) Dashboard'
-    )],
-    paper_bgcolor= "#252e3f",
-    font_color="#7fafdf"
-    )
-
-    return fig
 
 if __name__ == '__main__':
     app.run_server(debug=True)
