@@ -4,7 +4,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
 import dash_cytoscape as cyto
-import data_analysis as da
 import network_analysis as net
 
 app = Dash(__name__)
