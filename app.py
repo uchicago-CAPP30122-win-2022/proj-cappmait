@@ -3,11 +3,13 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-from dash import Dash, dcc, html, Input, Output
+import dash_html_components as html
+import dash_core_components as dcc
+from dash_extensions.enrich import DashProxy, MultiplexerTransform, Input, Output
 import dash_cytoscape as cyto
 import network_analysis as net
 
-app = Dash(__name__)
+app = DashProxy(transforms=[MultiplexerTransform()])
 
 # Load Data
 product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"Value":"int", "Year":"category"})
@@ -66,6 +68,152 @@ def build_networkelements(is_exporter):
     ]
 
     return graph_nodes + graph_edges
+
+def draw_countrydashboard(val_selected):
+    '''
+    Update graphs given the user selected country
+
+    Inputs:
+        val_selected(str) : The user selected country
+    
+    Outputs:
+        A tuple of graph objects
+    '''
+    df = product[product["ReporterISO3A"] == val_selected] 
+    country_name = country_code.loc[country_code["Alpha-3code"] == val_selected, "Country"].item()
+
+    bar_plt = plot_bar(df, country_name)
+
+    graph = net.construct_networkgraph()
+    sankey_nodes, sankey_links = graph.draw_sankey(val_selected)
+    sankey_plt = plot_sankey(sankey_nodes, sankey_links, country_name)
+
+    tree_plt = plot_tree(df, country_name)
+
+    return (bar_plt, sankey_plt, tree_plt)
+
+
+def plot_bar(df, country_name):
+    '''
+    Create a bar graph object
+
+    Inputs:
+        df (Pandas Dataframe): a data of products
+
+    Outputs:
+        fig(a bar graph object)
+    '''
+    fig = px.bar(df[df["ProductCode"] == "TO"], x="Indicator", y="Value", 
+                 color="Year", barmode="group")
+
+    fig.update_layout(
+        font_color="#7fafdf",
+        title=f'{country_name}\'s Total Trade Volume in before/after Covid',
+        xaxis=dict(
+            title= '',
+            titlefont_size=16,
+            tickfont_size=14,
+            title_standoff=50
+        ),
+        yaxis=dict(
+            title= 'Trade Volume',
+            titlefont_size=16,
+            tickfont_size=14,
+        ),
+        autosize=False,
+        width=550,
+        height=450,
+        margin=dict(
+            l=150,
+            r=0,
+            b=50,
+            t=100,
+            pad=4
+        ),
+        paper_bgcolor= '#1f2630',
+        bargap=0.15, # gap between bars of adjacent location coordinates.
+        bargroupgap=0.1 # gap between bars of the same location coordinate.
+    )
+
+    return fig
+
+
+def plot_sankey(nodes, edges, country_name):
+    '''
+    Create a sankey graph object
+
+    Inputs:
+        node_df(Pandas Dataframe): a data of nodes
+        links_df(Pandas Dataframe): a data of links
+
+    Outputs:
+        fig(a sankey graph object)
+    '''
+    
+    fig = go.Figure(data=[go.Sankey(
+        node = dict(
+        pad = 5,
+        thickness = 5,
+        line = dict(color = "black", width = 0.5),
+        label = nodes,
+        color = "gray"
+        ),
+        link = dict(
+        source = [source for source, _, _, _ in edges], 
+        target = [target for _, target, _, _ in edges],
+        value =  [value for _, _, value, _ in edges],
+        color = [color for _, _, _, color in edges]
+    ))])
+
+    fig.add_annotation(text="2019",
+                    xref="paper", yref="paper",
+                    x=0.3, y=1.00, showarrow=False), 
+    fig.add_annotation(text="2020",
+                    xref="paper", yref="paper",
+                    x=0.75, y=1.00, showarrow=False)
+
+    fig.update_layout(
+        title = f'{country_name}\'s Trade flows in before/after Covid',
+        font_color="#7fafdf",
+        autosize=False,
+        width=550,
+        height=700,
+        margin=dict(
+            l=50,
+            r=20,
+            b=50,
+            t=50,
+            pad=4
+        ),
+        paper_bgcolor="#1f2630",
+        plot_bgcolor="#1f2630"
+    )
+    return fig
+
+
+def plot_tree(df, country_name):
+    '''
+    Create a tree graph object
+
+    Inputs:
+        df (Pandas Dataframe): a data of products
+
+    Outputs:
+        fig(a tree graph object)
+    '''
+    fig = px.treemap(df[df["ProductCode"] != "TO"], \
+        path=[px.Constant("Total"), "Indicator", "Year", "Product"], values="Value")
+    fig.update_traces(root_color="lightgrey")
+    fig.update_layout(
+        title=dict(
+            text=f'{country_name}\'s Tree map in before/after Covid',
+            font_color="#7fafdf"
+        ),
+        autosize=False,
+        paper_bgcolor= '#1f2630'
+    )
+
+    return fig
 
 
 network_stylesheet = [
@@ -222,161 +370,33 @@ def update_networkgraph(val_selected):
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
     Output(component_id="treeplot", component_property="figure")],
-    [Input(component_id="slt_country", component_property="value"),
-    Input(component_id="network-graph", component_property="tapNodeData"),
-    Input(component_id="covid-graph", component_property="clickData")]
+    [Input(component_id="slt_country", component_property="value")]
 )
 
-def update_output(val_selected, node_clicked, map_clicked):
-    '''
-    Update graphs given the user selected country
+def update_fromdropdown(val_selected):
+    return draw_countrydashboard(val_selected)
 
-    Inputs:
-        val_selected(str) : The user selected country
-    
-    Outputs:
-        A tuple of graph objects
-    '''
-    if map_clicked:
-        val_selected = map_clicked["points"][0]["location"]
+@app.callback(
+    [Output(component_id="barplot", component_property="figure"),
+    Output(component_id="sankeyplot", component_property="figure"),
+    Output(component_id="treeplot", component_property="figure")],
+    [Input(component_id="network-graph", component_property="tapNodeData")]
+)
+
+def update_fromnode(node_clicked):
     if node_clicked:
-        val_selected = node_clicked["id"]
-    df = product[product["ReporterISO3A"] == val_selected] 
-    country_name = country_code.loc[country_code["Alpha-3code"] == val_selected, "Country"].item()
+        return draw_countrydashboard(node_clicked["id"])
 
-    bar_plt = plot_bar(df, country_name)
+@app.callback(
+    [Output(component_id="barplot", component_property="figure"),
+    Output(component_id="sankeyplot", component_property="figure"),
+    Output(component_id="treeplot", component_property="figure")],
+    [Input(component_id="covid-graph", component_property="clickData")]
+)
 
-    graph = net.construct_networkgraph()
-    sankey_nodes, sankey_links = graph.draw_sankey(val_selected)
-    sankey_plt = plot_sankey(sankey_nodes, sankey_links, country_name)
-
-    tree_plt = plot_tree(df, country_name)
-
-    return (bar_plt, sankey_plt, tree_plt)
-
-
-def plot_bar(df, country_name):
-    '''
-    Create a bar graph object
-
-    Inputs:
-        df (Pandas Dataframe): a data of products
-
-    Outputs:
-        fig(a bar graph object)
-    '''
-    fig = px.bar(df[df["ProductCode"] == "TO"], x="Indicator", y="Value", 
-                 color="Year", barmode="group")
-
-    fig.update_layout(
-        font_color="#7fafdf",
-        title=f'{country_name}\'s Total Trade Volume in before/after Covid',
-        xaxis=dict(
-            title= '',
-            titlefont_size=16,
-            tickfont_size=14,
-            title_standoff=50
-        ),
-        yaxis=dict(
-            title= 'Trade Volume',
-            titlefont_size=16,
-            tickfont_size=14,
-        ),
-        autosize=False,
-        width=550,
-        height=450,
-        margin=dict(
-            l=150,
-            r=0,
-            b=50,
-            t=100,
-            pad=4
-        ),
-        paper_bgcolor= '#1f2630',
-        bargap=0.15, # gap between bars of adjacent location coordinates.
-        bargroupgap=0.1 # gap between bars of the same location coordinate.
-    )
-
-    return fig
-
-
-def plot_sankey(nodes, edges, country_name):
-    '''
-    Create a sankey graph object
-
-    Inputs:
-        node_df(Pandas Dataframe): a data of nodes
-        links_df(Pandas Dataframe): a data of links
-
-    Outputs:
-        fig(a sankey graph object)
-    '''
-    
-    fig = go.Figure(data=[go.Sankey(
-        node = dict(
-        pad = 5,
-        thickness = 5,
-        line = dict(color = "black", width = 0.5),
-        label = nodes,
-        color = "gray"
-        ),
-        link = dict(
-        source = [source for source, _, _, _ in edges], 
-        target = [target for _, target, _, _ in edges],
-        value =  [value for _, _, value, _ in edges],
-        color = [color for _, _, _, color in edges]
-    ))])
-
-    fig.add_annotation(text="2019",
-                    xref="paper", yref="paper",
-                    x=0.3, y=1.00, showarrow=False), 
-    fig.add_annotation(text="2020",
-                    xref="paper", yref="paper",
-                    x=0.75, y=1.00, showarrow=False)
-
-    fig.update_layout(
-        title = f'{country_name}\'s Trade flows in before/after Covid',
-        font_color="#7fafdf",
-        autosize=False,
-        width=550,
-        height=700,
-        margin=dict(
-            l=50,
-            r=20,
-            b=50,
-            t=50,
-            pad=4
-        ),
-        paper_bgcolor="#1f2630",
-        plot_bgcolor="#1f2630"
-    )
-    return fig
-
-
-def plot_tree(df, country_name):
-    '''
-    Create a tree graph object
-
-    Inputs:
-        df (Pandas Dataframe): a data of products
-
-    Outputs:
-        fig(a tree graph object)
-    '''
-    fig = px.treemap(df[df["ProductCode"] != "TO"], \
-        path=[px.Constant("Total"), "Indicator", "Year", "Product"], values="Value")
-    fig.update_traces(root_color="lightgrey")
-    fig.update_layout(
-        title=dict(
-            text=f'{country_name}\'s Tree map in before/after Covid',
-            font_color="#7fafdf"
-        ),
-        autosize=False,
-        paper_bgcolor= '#1f2630'
-    )
-
-    return fig
-
+def update_frommap(map_clicked):
+    if map_clicked:
+        return draw_countrydashboard(map_clicked["points"][0]["location"])
 
 
 if __name__ == '__main__':
