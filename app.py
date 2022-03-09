@@ -1,3 +1,4 @@
+from platform import node
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -40,22 +41,34 @@ def prepare_covid_data():
 
     return dff
 
+def build_networkelements(is_exporter):
+    '''
+    Build a network elements. Node is each country. Source of edge is country node, 
+    and target is the best trading partner. In the exporter view, the country serve as an exporter and 
+    export the most to the best trading partner. In the importer view, the country serve as an importer and
+    import the most from the best trading partner. 
 
-graph = net.draw_networkgraph()
-nodes, edges, weight = net.draw_wholenetwork(graph)
-country_node, country_edges = net.draw_countrynetwork(graph, "LVA")
+    Input:
+        is_exporter(boolean): True if the country node is exporter, and False otherwise. 
 
-graph_nodes = [
-    {'data': {'id': node.country_code, 'label': node.label, 'pagerank': node.pagerank}} for node in nodes.values()
-]
+    Output:
+        elements(list): A list of graph nodes and edges. 
+    '''
+    graph = net.construct_networkgraph()
+    nodes, edges = graph.find_best_partners(1, is_exporter)
 
-graph_edges = [
-    {'data': {'source': source, 'target': target}} for source, target in edges
-]
+    graph_nodes = [
+        {'data': {'id': node.country_code, 'label': node.label, 'pagerank': node.pagerank}} for node in nodes.values()
+    ]
 
-elements = graph_nodes + graph_edges
+    graph_edges = [
+        {'data': {'source': source, 'target': target, 'weight': weight}} for source, target, weight in edges
+    ]
 
-stylesheet = [
+    return graph_nodes + graph_edges
+
+
+network_stylesheet = [
     {
         "selector": "node",
         "style": {
@@ -66,10 +79,14 @@ stylesheet = [
             "text-valign": "center",
             "text-halign": "center",
         }
+    },
+    {
+        "selector": "edge",
+        "style": {
+            "line-color": "mapData(weight, -0.01, 0.01, red, blue)"
+    }
     }
 ]
-
-
 
 # Define Layout (dash components inside)
 app.layout = html.Div(
@@ -94,13 +111,19 @@ app.layout = html.Div(
                     dcc.Dropdown(id='data-type-selected', value='Cumulative_deaths',
                                 options = [{'label': 'Cumulative_cases', 'value': 'Cumulative_cases'},
                                             {'label': 'Cumulative_deaths', 'value': 'Cumulative_deaths'}]),
-                    dcc.Graph(id="covid-graph"),
-                    cyto.Cytoscape(id='network',
-                        elements=elements,
-                        style={'width': '100%', 'height': '500px'},
+                    dcc.Graph(id="covid-graph")]
+                    ),
+                    html.Div(
+                id="network",
+                children=[
+                    html.P(id="chart-selector-2", children="Select chart:"),
+                    dcc.RadioItems(id='import-or-export', options=[{'label':'Exporter view', 'value':True},
+                                                                    {'label':'Importer view', 'value':False}], value=True, inline=True),
+                    cyto.Cytoscape(id='network-graph',
+                        elements=build_networkelements(True),
+                        style={'width': '100%', 'height': '600px'},
                         layout={'name': 'cose'},
-                        stylesheet=stylesheet
-                        )
+                        stylesheet=network_stylesheet)
                         ]
                     )],
                 style={"display": "inline-block", "width": "60%", "vertical-align":"top", "backgroundColor":"#252e3f"}
@@ -137,28 +160,27 @@ app.layout = html.Div(
 
 
 @app.callback(
-    Output("covid-graph", "figure"),
-    [Input("data-type-selected", "value")]
+    Output(component_id="covid-graph", component_property="figure"),
+    [Input(component_id="data-type-selected", component_property="value")]
 )
 
-
-def update_world_map(selected):
+def update_world_map(val_selected):
     '''
     Plot worldwide covid cases situation
 
     Inputs:
-        selected: the data type selected by user
+        val_selected: the data type selected by user
 
     Outputs:
         fig: the world map graph
     '''
 
     dff = prepare_covid_data()
-    dff['hover_text'] = dff['country_name'] + ": " + dff[selected].apply(str)
+    dff['hover_text'] = dff['country_name'] + ": " + dff[val_selected].apply(str)
 
     fig = go.Figure(data = go.Choropleth(
                     locations = dff['Alpha-3code'],
-                    z = np.log(dff[selected]),
+                    z = np.log(dff[val_selected]),
                     text = dff['hover_text'],
                     hoverinfo = 'text',
                     marker_line_color='white',
@@ -178,16 +200,34 @@ def update_world_map(selected):
     return fig
 
 
+@app.callback(
+    Output(component_id="network-graph", component_property="elements"),
+    [Input(component_id="import-or-export", component_property="value")]
+)
+
+def update_networkgraph(val_selected):
+    '''
+    Update the network graph
+
+    Inputs:
+        val_selected(boolean): True if exporter view and false if importer view. 
+
+    Output:
+        elements(list): A list of graph nodes and edges. 
+    '''
+    return build_networkelements(val_selected)
+
 
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
     Output(component_id="treeplot", component_property="figure")],
-    [Input(component_id="slt_country", component_property="value")]
+    [Input(component_id="slt_country", component_property="value"),
+    Input(component_id="network-graph", component_property="tapNodeData"),
+    Input(component_id="covid-graph", component_property="clickData")]
 )
 
-
-def update_output(val_selected):
+def update_output(val_selected, node_clicked, map_clicked):
     '''
     Update graphs given the user selected country
 
@@ -197,12 +237,16 @@ def update_output(val_selected):
     Outputs:
         A tuple of graph objects
     '''
+    if map_clicked:
+        val_selected = map_clicked["points"][0]["location"]
+    if node_clicked:
+        val_selected = node_clicked["id"]
     df = product[product["ReporterISO3A"] == val_selected] 
-    country_name = country_code.loc[country_code["Alpha-3code"] ==val_selected, "Country"].item()
+    country_name = country_code.loc[country_code["Alpha-3code"] == val_selected, "Country"].item()
 
     bar_plt = plot_bar(df, country_name)
 
-    graph = net.draw_networkgraph()
+    graph = net.construct_networkgraph()
     sankey_nodes, sankey_links = graph.draw_sankey(val_selected)
     sankey_plt = plot_sankey(sankey_nodes, sankey_links, country_name)
 
