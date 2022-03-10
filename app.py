@@ -104,33 +104,38 @@ def plot_bar(df, country_name):
         fig(a bar graph object)
     '''
     fig = px.bar(df[df["ProductCode"] == "TO"], x="Indicator", y="Value", 
-                 color="Year", barmode="group")
+                 color="Year", barmode="group",
+                 color_discrete_map = {
+                    '2019': '#36559c',
+                    '2020': '#b5442d'}
+                 )
 
     fig.update_layout(
-        font_color="#7fafdf",
+        font_color="#e7ecf5",
         title=f'{country_name}\'s Total Trade Volume in before/after Covid',
         xaxis=dict(
             title= '',
-            titlefont_size=16,
-            tickfont_size=14,
+            titlefont_size=12,
+            tickfont_size=10,
             title_standoff=50
         ),
         yaxis=dict(
             title= 'Trade Volume',
-            titlefont_size=16,
-            tickfont_size=14,
+            titlefont_size=12,
+            tickfont_size=10,
         ),
         autosize=False,
-        width=550,
+        width=600,
         height=450,
         margin=dict(
-            l=150,
+            l=100,
             r=0,
             b=50,
             t=100,
             pad=4
         ),
-        paper_bgcolor= '#1f2630',
+        paper_bgcolor= 'rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)',
         bargap=0.15, # gap between bars of adjacent location coordinates.
         bargroupgap=0.1 # gap between bars of the same location coordinate.
     )
@@ -154,9 +159,9 @@ def plot_sankey(nodes, edges, country_name):
         node = dict(
         pad = 5,
         thickness = 5,
-        line = dict(color = "black", width = 0.5),
+        line = dict(color = "#aab0bf", width = 0.5),
         label = nodes,
-        color = "gray"
+        color = "#aab0bf"
         ),
         link = dict(
         source = [source for source, _, _, _ in edges], 
@@ -167,16 +172,16 @@ def plot_sankey(nodes, edges, country_name):
 
     fig.add_annotation(text="2019",
                     xref="paper", yref="paper",
-                    x=0.3, y=1.00, showarrow=False), 
+                    x=0.2, y=1.00, showarrow=False), 
     fig.add_annotation(text="2020",
                     xref="paper", yref="paper",
                     x=0.75, y=1.00, showarrow=False)
 
     fig.update_layout(
         title = f'{country_name}\'s Trade flows in before/after Covid',
-        font_color="#7fafdf",
+        font_color="#e7ecf5",
         autosize=False,
-        width=550,
+        width=600,
         height=700,
         margin=dict(
             l=50,
@@ -185,8 +190,8 @@ def plot_sankey(nodes, edges, country_name):
             t=50,
             pad=4
         ),
-        paper_bgcolor="#1f2630",
-        plot_bgcolor="#1f2630"
+        paper_bgcolor= 'rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)'
     )
     return fig
 
@@ -202,15 +207,19 @@ def plot_tree(df, country_name):
         fig(a tree graph object)
     '''
     fig = px.treemap(df[df["ProductCode"] != "TO"], \
-        path=[px.Constant("Total"), "Indicator", "Year", "Product"], values="Value")
-    fig.update_traces(root_color="lightgrey")
+        path=[px.Constant("Total"), "Indicator", "Year", "Product"], 
+        color = 'Value',
+        color_continuous_scale = px.colors.sequential.ice,
+        values="Value")
+
     fig.update_layout(
         title=dict(
             text=f'{country_name}\'s Tree map in before/after Covid',
-            font_color="#7fafdf"
+            font_color="#e7ecf5"
         ),
         autosize=False,
-        paper_bgcolor= '#1f2630'
+        paper_bgcolor= 'rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)',
     )
 
     return fig
@@ -245,7 +254,8 @@ app.layout = html.Div(
         children=[
             html.H1("Dashboard of Covid Impact and World Trading"),
             html.P(id="description",
-                    children="† Description here",
+                    children="LHS of dashboard presents worldwide situation of covid and trade network, while RHS and bottom parts enable users to\
+                    dive into countries of interest and view changes in trading volumes, partners and categories from 2019 to 2020.",
                 )]
         ),
 
@@ -255,7 +265,7 @@ app.layout = html.Div(
             children=[html.Div(
                 id="world-map",
                 children=[
-                    html.P(id="chart-selector", children="Select chart:"),
+                    html.P(id="chart-selector", children = "Covid Impact Worldwide: "),
                     dcc.Dropdown(id='data-type-selected', value='Cumulative_deaths',
                                 options = [{'label': 'Cumulative_cases', 'value': 'Cumulative_cases'},
                                             {'label': 'Cumulative_deaths', 'value': 'Cumulative_deaths'}]),
@@ -264,7 +274,7 @@ app.layout = html.Div(
                     html.Div(
                 id="network",
                 children=[
-                    html.P(id="chart-selector-2", children="Select chart:"),
+                    html.P(id="chart-selector-2", children="Global Trading Network: "),
                     dcc.RadioItems(id='import-or-export', options=[{'label':'Exporter view', 'value':True},
                                                                     {'label':'Importer view', 'value':False}], value=True, inline=True),
                     cyto.Cytoscape(id='network-graph',
@@ -274,7 +284,7 @@ app.layout = html.Div(
                         stylesheet=network_stylesheet)
                         ]
                     )],
-                style={"display": "inline-block", "width": "60%", "vertical-align":"top", "backgroundColor":"#252e3f"}
+                style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
                 ),
 
         # Right
@@ -283,6 +293,7 @@ app.layout = html.Div(
             children=[html.Div(
                 id="countrydashboard",
                 children=[
+                    html.P("Country Zoom - In: "),
                     dcc.Dropdown(
                         id='slt_country',
                         options=[{'label': name, 'value': code} \
@@ -292,7 +303,7 @@ app.layout = html.Div(
                     dcc.Graph(id="barplot"),
                     dcc.Graph(id="sankeyplot")]
                 )],
-                style={"display": "inline-block", "width": "30%"}
+                style={"display": "inline-block", "width": "40%"}
                 ),
         
         # Bottom
@@ -331,18 +342,16 @@ def update_world_map(val_selected):
                     z = np.log(dff[val_selected]),
                     text = dff['hover_text'],
                     hoverinfo = 'text',
-                    marker_line_color='white',
+                    marker_line_color='black',
+                    colorbar_title = 'Log Value',
                     autocolorscale = False,
                     reversescale = True,
                     colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
 
-    fig.update_layout(annotations = [dict(
-        x = 0.52,
-        y = 0.05,
-        text = 'Source : WHO Coronavirus (COVID-19) Dashboard'
-    )],
+    fig.update_layout(
     paper_bgcolor= "#252e3f",
-    font_color="#7fafdf"
+    plot_bgcolor = "rgba(0,0,0,0)",
+    font_color= "#edeff7"
     )
 
     return fig
