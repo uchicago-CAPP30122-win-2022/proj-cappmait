@@ -325,12 +325,12 @@ app.layout = html.Div(
                                 style={'width': '100%', 'height': '600px'},
                                 layout={'name': 'cose','animate': 'end'},
                                 stylesheet=network_stylesheet)
-                                ],
-                    ),
+                                ]
+                            )],
+                        ),
                 ],
-                style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
-                ),
-
+            style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
+        ),
 
     # Right
         html.Div(
