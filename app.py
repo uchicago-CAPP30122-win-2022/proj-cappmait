@@ -350,7 +350,7 @@ def update_world_map(val_selected):
                     colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
 
     fig.update_layout(
-    paper_bgcolor= "#252e3f",
+    paper_bgcolor= "rgba(0,0,0,0)",
     plot_bgcolor = "rgba(0,0,0,0)",
     font_color= "#edeff7"
     )
