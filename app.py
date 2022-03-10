@@ -296,7 +296,7 @@ app.layout = html.Div(
                                     1: '2020Q1',
                                     2: '2020Q2',
                                     3: '2020Q3',
-                                    4: '2020Q4'
+                                    4: '2020Q4',
                                 },
                                 value = 4
                             ),
@@ -325,12 +325,12 @@ app.layout = html.Div(
                                 style={'width': '100%', 'height': '600px'},
                                 layout={'name': 'cose','animate': 'end'},
                                 stylesheet=network_stylesheet)
-                                ]
-                            )],
-                        style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
-                        ),
-            ],
-        ),
+                                ],
+                    ),
+                ],
+                style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
+                ),
+
 
     # Right
         html.Div(
