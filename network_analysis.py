@@ -176,7 +176,7 @@ class Graph:
         link = list()
         partners_lst = country_node.sort_partners(is_exporter, is_2019)[:10]
         for i, (partner, vol_2019, vol_2020) in enumerate(partners_lst):
-            color = 'lightblue' if is_exporter else 'pink'
+            color = '#36559c' if is_exporter else '#b5442d'
 
             # Set the index of country serves as an exporter to 10 because we only look up 
             # top 10 partners. If the country serves as an importer, set to the given inporter_index. 
