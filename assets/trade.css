@@ -7,7 +7,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 html {
     font-size: 50%;
-    background-color: #1f2630;
+    background-color: #243144;
     max-width: 100% !important;
     width: 100% !important;
     margin: 0;
@@ -18,7 +18,7 @@ body {
     line-height: 1.6;
     font-weight: 400;
     font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #7fafdf;
+    color: #e7ecf5;
     margin: 0;
 }
 
@@ -46,11 +46,16 @@ p {
     margin-top: 0;
 }
 
+#worldmap-title {
+    font-family: "Playfair Display", sans-serif;
+    font-size: 1rem;
+}
+
 #description {
-    font-size: 1.5rem;
-    border-left: #2cfec1 solid 1rem;
+    font-size: 1.8rem;
+    border-left: #edeff7 solid 1rem;
     padding-left: 1rem;
-    max-width: 100rem;
+    max-width: 169rem;
     margin: 2rem 0 3rem 0;
 }
 
@@ -60,16 +65,16 @@ p {
 }
 
 
-/* Heatmap
+/* Worldmap
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-#world-map {
+#worldmap-container {
     margin: 2.5rem 0 0 0;
-    background-color: #252e3f;
+    background-color: #243144;
 }
 
-#covid-graph {
+#worldmap-title {
     margin: 0;
-    flex-grow: 1;
+    padding: 1rem;
 }
 
 /* Graph
