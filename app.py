@@ -352,7 +352,8 @@ def update_world_map(val_selected):
     fig.update_layout(
     paper_bgcolor= "rgba(0,0,0,0)",
     plot_bgcolor = "rgba(0,0,0,0)",
-    font_color= "#edeff7"
+    font_color= "#edeff7",
+    margin=dict(l=0, r=50, t=50, b=50)
     )
 
     return fig
