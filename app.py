@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import dash_html_components as html
 import dash_core_components as dcc
+from dash.exceptions import PreventUpdate
 from dash_extensions.enrich import DashProxy, MultiplexerTransform, Input, Output
 import dash_cytoscape as cyto
 import network_analysis as net
@@ -395,6 +396,8 @@ def update_fromdropdown(val_selected):
 def update_fromnode(node_clicked):
     if node_clicked:
         return draw_countrydashboard(node_clicked["id"])
+    else:
+        raise PreventUpdate
 
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
@@ -406,7 +409,8 @@ def update_fromnode(node_clicked):
 def update_frommap(map_clicked):
     if map_clicked:
         return draw_countrydashboard(map_clicked["points"][0]["location"])
-
+    else:
+        raise PreventUpdate
 
 if __name__ == '__main__':
     app.run_server(debug=True)
