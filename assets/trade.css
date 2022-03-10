@@ -46,11 +46,6 @@ p {
     margin-top: 0;
 }
 
-#worldmap-title {
-    font-family: "Playfair Display", sans-serif;
-    font-size: 1rem;
-}
-
 #description {
     font-size: 1.8rem;
     border-left: #edeff7 solid 1rem;
@@ -62,6 +57,7 @@ p {
 #slider-text, #chart-selector {
     margin-bottom: 2rem !important;
     font-size: 2rem;
+    color: #edeff7;
 }
 
 
@@ -69,7 +65,7 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 #worldmap-container {
     margin: 2.5rem 0 0 0;
-    background-color: #243144;
+    background-color: #252e3f;
 }
 
 #worldmap-title {
