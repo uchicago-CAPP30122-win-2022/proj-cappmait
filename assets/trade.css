@@ -129,6 +129,27 @@ p {
     border-radius: 4px !important;
 }
 
+/* Slider
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#slider-container {
+    background-color: #252e3f;
+    padding: 2rem 6rem 4rem 4rem;
+    height: 8rem;
+}
+
+.rc-slider-dot-active, .rc-slider-handle {
+    border-color: #2cfec1 !important;
+}
+
+.rc-slider-track {
+    background-color: #2cfec1 !important
+}
+
+.rc-slider-rail {
+    background-color: #1d2731 !important
+}
+
 /* Placement
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 #app-container {

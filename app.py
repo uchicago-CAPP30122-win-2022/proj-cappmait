@@ -327,9 +327,9 @@ app.layout = html.Div(
                                 stylesheet=network_stylesheet)
                                 ]
                             )],
-                        style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
                         ),
-            ],
+                ],
+            style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
         ),
 
     # Right
