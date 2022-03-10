@@ -18,7 +18,18 @@ partners = pd.read_csv("rawdata/imf_import_export_cleaned.csv", dtype={"2019":"f
 country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
 
 # go to another file? 
-def prepare_covid_data():
+def f(row):
+    if row['Date_reported'] == '2020/3/31':
+        val = '2020Q1'
+    elif row['Date_reported'] == '2020/6/30':
+        val = '2020Q2'
+    elif row['Date_reported'] == '2020/9/30':
+        val = '2020Q3'
+    else:
+        val = '2020Q4'
+    return val
+
+def prepare_covid_data(time_selected):
     '''
     Do data wrangling for covid data:
     i) Join two datasets on 2 digit code
@@ -37,12 +48,16 @@ def prepare_covid_data():
     covid_data = pd.read_csv('rawdata/WHO-COVID-19-global-data.csv')
     country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
     country_code = country_code.rename({'Country': 'country_name'}, axis = 1)
+    dic = {'2020/3/31': '2020Q1', '2020/6/30': '2020Q2', '2020/9/30': '2020Q3', '2020/12/31': '2020Q4'}
 
     df = covid_data.join(country_code.set_index('Alpha-2code'), on = 'Country_code')
     dff = df[["country_name", "Date_reported", "Cumulative_cases", "Cumulative_deaths", "Alpha-3code"]]
-    dff = dff[dff.Date_reported == '2020/12/31']
+    dff = dff[dff.Date_reported.isin(dic.keys())]
 
-    return dff
+    dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
+    dff['Quarter'] = dff.apply(f, axis=1)
+
+    return dff[dff.Quarter == dic.get(time_selected)]
 
 def build_networkelements(is_exporter):
     '''
@@ -263,32 +278,61 @@ app.layout = html.Div(
     # Left Top
         html.Div(
             id="app-container",
-            children=[html.Div(
-                id="world-map",
+            children=[
+                html.Div(
+                id="left-top",
                 children=[
-                    html.P(id="chart-selector", children = "Covid Impact Worldwide: "),
-                    dcc.Dropdown(id='data-type-selected', value='Cumulative_deaths',
-                                options = [{'label': 'Cumulative_cases', 'value': 'Cumulative_cases'},
-                                            {'label': 'Cumulative_deaths', 'value': 'Cumulative_deaths'}]),
-                    dcc.Graph(id="covid-graph")]
+                    html.Div(
+                        id = 'slider-container',
+                        children = [
+                            html.P(
+                                id = 'slider-text',
+                                children = 'Drag the slider to choose the time span: ',
+                            ),
+                            dcc.Slider(
+                                id = 'time-slider',
+                                step=None,
+                                marks = {
+                                    1: '2020Q1',
+                                    2: '2020Q2',
+                                    3: '2020Q3',
+                                    4: '2020Q4'
+                                },
+                                value = 4
+                            ),
+                        ],
                     ),
                     html.Div(
-                id="network",
-                children=[
-                    html.P(id="chart-selector-2", children="Global Trading Network: "),
-                    dcc.RadioItems(id='import-or-export', options=[{'label':'Exporter view', 'value':True},
-                                                                    {'label':'Importer view', 'value':False}], value=True, inline=True),
-                    cyto.Cytoscape(id='network-graph',
-                        elements=build_networkelements(True),
-                        style={'width': '100%', 'height': '600px'},
-                        layout={'name': 'cose','animate': 'end'},
-                        stylesheet=network_stylesheet)
-                        ]
-                    )],
-                style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
-                ),
+                        id = 'covidmap-container',
+                        children = [
+                            html.P(
+                                "Worldwide covid cases of selected quarter",
+                                id="covidmap title",),
+                                dcc.RadioItems(id='data-type-selected', value='Cumulative_deaths',
+                                options = [{'label': 'cumulative cases', 'value': 'Cumulative_cases'},
+                                            {'label': 'cumulative deaths', 'value': 'Cumulative_deaths'}]),
+                                dcc.Graph(id="covid-map")]
+                            ),
+                    
+                    html.Div(
+                        id="network",
+                        children=[
+                            html.P(id="chart-selector-2", children="Global Trading Network: "),
+                            dcc.RadioItems(id='import-or-export', options=[{'label':'Exporter view', 'value':True},
+                                                                            {'label':'Importer view', 'value':False}], value=True, inline=True),
+                            cyto.Cytoscape(id='network-graph',
+                                elements=build_networkelements(True),
+                                style={'width': '100%', 'height': '600px'},
+                                layout={'name': 'cose','animate': 'end'},
+                                stylesheet=network_stylesheet)
+                                ]
+                            )],
+                        style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
+                        ),
+            ],
+        ),
 
-        # Right
+    # Right
         html.Div(
             id="graph-container",
             children=[html.Div(
@@ -307,7 +351,7 @@ app.layout = html.Div(
                 style={"display": "inline-block", "width": "40%"}
                 ),
         
-        # Bottom
+    # Bottom
         html.Div(
             id="graph-container-bottom",
             children=[html.Div(
@@ -320,11 +364,13 @@ app.layout = html.Div(
 
 
 @app.callback(
-    Output(component_id="covid-graph", component_property="figure"),
-    [Input(component_id="data-type-selected", component_property="value")]
+    Output("covid-map", "figure"),
+    [Input('time-slider', 'value'),
+    Input("data-type-selected", "value"),
+    ],
 )
 
-def update_world_map(val_selected):
+def update_world_map(time_selected, val_selected):
     '''
     Plot worldwide covid cases situation
 
@@ -335,12 +381,12 @@ def update_world_map(val_selected):
         fig: the world map graph
     '''
 
-    dff = prepare_covid_data()
+    dff = prepare_covid_data(time_selected)
     dff['hover_text'] = dff['country_name'] + ": " + dff[val_selected].apply(str)
 
     fig = go.Figure(data = go.Choropleth(
                     locations = dff['Alpha-3code'],
-                    z = np.log(dff[val_selected]),
+                    z = np.log(dff[val_selected]), # need to fix log(0) here? maybe with list compre?
                     text = dff['hover_text'],
                     hoverinfo = 'text',
                     marker_line_color='black',
@@ -353,7 +399,7 @@ def update_world_map(val_selected):
     paper_bgcolor= "rgba(0,0,0,0)",
     plot_bgcolor = "rgba(0,0,0,0)",
     font_color= "#edeff7",
-    margin=dict(l=0, r=50, t=50, b=50)
+    margin=dict(l=15, r=50, t=80, b=50)
     )
 
     return fig
@@ -404,7 +450,7 @@ def update_fromnode(node_clicked):
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
     Output(component_id="treeplot", component_property="figure")],
-    [Input(component_id="covid-graph", component_property="clickData")]
+    [Input(component_id="covid-map", component_property="clickData")]
 )
 
 def update_frommap(map_clicked):
