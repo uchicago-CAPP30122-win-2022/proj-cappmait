@@ -61,32 +61,54 @@ p {
 }
 
 
-/* Worldmap
+/* LHS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-#worldmap-container {
-    margin: 2.5rem 0 0 0;
+#covidmap-container {
+    margin: 2rem 0 0 0;
     background-color: #252e3f;
-}
+    font-size: 2rem;
+} 
 
-#worldmap-title {
-    margin: 0;
+#network {
+    margin: 2rem 0 0 0;
+    background-color: #252e3f;
+    font-size: 2rem;
+} 
+
+#covidmap-title {
+    margin-left: 4rem;
     padding: 1rem;
-}
-
-/* Graph
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-#graph-container {
-    background-color: #252e3f;
-    padding: 5rem;
-    margin: 0;
+    font-size: 2rem;
 }
 
 #data-type-selected {
-    margin-bottom: 6.6rem !important;
-    margin-left: 6.6rem !important;
+    margin-bottom: 1rem !important;
+    margin-left: 6rem !important;
     width: 450px !important;
+    font-size: 1.7rem;
 }
+
+#chart-selector-2 {
+    margin-left: 4rem;
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+#import-or-export {
+    margin-bottom: 1rem !important;
+    margin-left: 6rem !important;
+    width: 450px !important;
+    font-size: 1.7rem;
+}
+
+/* RHS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#graph-container {
+    background-color: #252e3f;
+    padding: 5rem;
+    margin: 1.5rem;
+}
+
 
 /* Dropdown
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -95,16 +117,16 @@ p {
 }
 
 .Select-control {
-    color: #7fafdf !important;
+    color: #edeff7 !important;
 }
 
 .Select {
-    color: #7fafdf !important;
+    color: #edeff7 !important;
 }
 
 .Select-menu-outer {
     background-color: #252e3f !important;
-    border: 1px solid #7fafdf !important;
+    border: 1px solid #edeff7 !important;
 }
 
 .Select div {
@@ -117,11 +139,11 @@ p {
 }
 
 .Select-value-label {
-    color: #7fafdf !important;
+    color: #edeff7 !important;
 }
 
 .Select--single > .Select-control .Select-value, .Select-placeholder {
-    border: 1px solid #7fafdf !important;
+    border: 1px solid #edeff7 !important;
     border-radius: 4px !important;
 }
 
@@ -135,20 +157,20 @@ p {
 }
 
 .rc-slider-dot-active, .rc-slider-handle {
-    border-color: #2cfec1 !important;
+    border-color: #edeff7 !important;
 }
 
 .rc-slider-track {
-    background-color: #2cfec1 !important
+    background-color: #49516ba6 !important
 }
 
 .rc-slider-rail {
-    background-color: #1d2731 !important
+    background-color: #49516ba6 !important
 }
 
 /* Placement
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-#app-container {
+/* #app-container {
         display: flex;
         flex-direction: row;
         justify-content: flex-start;
@@ -156,6 +178,8 @@ p {
         height: 100rem;
         margin-bottom: 5rem;
     }
+
+     */
 
 #header {
     margin-left: 1.5%;
