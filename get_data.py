@@ -4,6 +4,7 @@ import json
 import pandas as pd
 import time
 import os
+import pycountry as pc
 
 # Helper function
 def get_json(url, params = None):
@@ -211,3 +212,22 @@ def check_error(path):
             blank.append(file)
     
     return blank
+
+
+def find_iso3a(country_list):
+    """
+    find ISO Alpha-3 Country Codes.
+
+    Arg: country_list (list or pd.series):
+            the names of country you need to find the ISO code. 
+    return: iso3a(list): list of the ISO codes.
+    """
+    iso3a = []
+    for c in country_list:
+        try:
+            addval = pc.countries.search_fuzzy(c)[0].alpha_3
+        except:
+            addval = 'Sorry, find by yourself!'
+        iso3a.append(addval)
+    
+    return iso3a
