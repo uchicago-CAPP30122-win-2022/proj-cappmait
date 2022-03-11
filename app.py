@@ -164,7 +164,7 @@ def plot_bar(df, country_name):
 
     fig.update_layout(
         font_color="#e7ecf5",
-        title=f'{country_name}\'s Total Trade Volume in before/after Covid',
+        title=f'{country_name}\'s Total Trade Volume before/after Covid',
         xaxis=dict(
             title= '',
             titlefont_size=12,
@@ -230,7 +230,7 @@ def plot_sankey(val_selected, country_name):
                     x=0.75, y=1.00, showarrow=False)
 
     fig.update_layout(
-        title = f'{country_name}\'s Trade flows in before/after Covid',
+        title = f'{country_name}\'s Trade Partners before/after Covid',
         font_color="#e7ecf5",
         autosize=False,
         width=600,
@@ -283,7 +283,7 @@ def plot_dot(df, country_name):
         name="2020",
     ))
     fig.update_layout(
-        title = f'{country_name}\'s Product Trade Volume in before/after Covid',
+        title = f'{country_name}\'s Product Category Volume before/after Covid',
         xaxis = dict(showgrid=False, showline=True),
         font_color="#e7ecf5",
         autosize=False,
@@ -340,8 +340,9 @@ app.layout = html.Div(
         children=[
             html.H1("Dashboard of Covid Impact and World Trading"),
             html.P(id="description",
-                    children="LHS of dashboard presents worldwide situation of covid and trade network, while RHS and bottom parts enable users to\
-                    dive into countries of interest and view changes in trading volumes, partners and categories from 2019 to 2020.",
+                    children="Left-hand-side of the dashboard presents worldwide situation of covid and trade network, while right-hand-side dive\
+                    into specific countries' trading volumes, partners and categories from 2019 to 2020.\
+                    Users can interact with the dashboard through clicking into covid & network map; or select / input in dropdown box.",
                 )]
         ),
 
