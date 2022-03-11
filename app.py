@@ -234,8 +234,8 @@ def plot_tree(df, country_name):
             font_color="#e7ecf5"
         ),
         autosize=False,
-        paper_bgcolor= 'rgba(0,0,0,0)',
-        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor= 'rgb(0,0,0,0)',
+        plot_bgcolor='rgb(0,0,0,0)',
     )
 
     return fig
@@ -275,7 +275,7 @@ app.layout = html.Div(
                 )]
         ),
 
-    # Left Top
+    # Left
         html.Div(
             id="app-container",
             children=[
@@ -287,7 +287,7 @@ app.layout = html.Div(
                         children = [
                             html.P(
                                 id = 'slider-text',
-                                children = 'Drag the slider to choose the time span: ',
+                                children = 'Drag the slider to choose time span: ',
                             ),
                             dcc.Slider(
                                 id = 'time-slider',
@@ -307,7 +307,7 @@ app.layout = html.Div(
                         children = [
                             html.P(
                                 "Worldwide covid cases of selected quarter",
-                                id="covidmap title",),
+                                id="covidmap-title",),
                                 dcc.RadioItems(id='data-type-selected', value='Cumulative_deaths',
                                 options = [{'label': 'cumulative cases', 'value': 'Cumulative_cases'},
                                             {'label': 'cumulative deaths', 'value': 'Cumulative_deaths'}]),
@@ -317,7 +317,8 @@ app.layout = html.Div(
                     html.Div(
                         id="network",
                         children=[
-                            html.P(id="chart-selector-2", children="Global Trading Network: "),
+                            html.P("Global Trading Network",
+                            id="chart-selector-2",),
                             dcc.RadioItems(id='import-or-export', options=[{'label':'Exporter view', 'value':True},
                                                                             {'label':'Importer view', 'value':False}], value=True, inline=True),
                             cyto.Cytoscape(id='network-graph',
@@ -338,7 +339,6 @@ app.layout = html.Div(
             children=[html.Div(
                 id="countrydashboard",
                 children=[
-                    html.P("Country Zoom - In: "),
                     dcc.Dropdown(
                         id='slt_country',
                         options=[{'label': name, 'value': code} \
@@ -348,7 +348,7 @@ app.layout = html.Div(
                     dcc.Graph(id="barplot"),
                     dcc.Graph(id="sankeyplot")]
                 )],
-                style={"display": "inline-block", "width": "40%"}
+                style={"display": "inline-block", "width": "40%", "vertical-align":"top"}
                 ),
         
     # Bottom
@@ -396,9 +396,10 @@ def update_world_map(time_selected, val_selected):
                     colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
 
     fig.update_layout(
-    paper_bgcolor= "rgba(0,0,0,0)",
-    plot_bgcolor = "rgba(0,0,0,0)",
+    paper_bgcolor= "#252e3f",
+    plot_bgcolor = "#252e3f",
     font_color= "#edeff7",
+    height = 500,
     margin=dict(l=15, r=50, t=80, b=50)
     )
 
