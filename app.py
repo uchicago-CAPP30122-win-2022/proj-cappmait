@@ -108,7 +108,6 @@ def build_networkelements(is_exporter):
     Output:
         elements(list): A list of graph nodes and edges. 
     '''
-    #graph = net.construct_networkgraph()
     nodes, edges = graph.find_best_partners(1, is_exporter)
 
     graph_nodes = [
@@ -136,8 +135,6 @@ def draw_countrydashboard(val_selected):
 
     bar_plt = plot_bar(df, country_name)
 
-    #graph = net.construct_networkgraph()
-    #sankey_nodes, sankey_links = graph.draw_sankey(val_selected)
     sankey_plt = plot_sankey(val_selected, country_name)
 
     tree_plt = plot_dot(df, country_name)
@@ -167,22 +164,22 @@ def plot_bar(df, country_name):
         title=f'{country_name}\'s Total Trade Volume in before/after Covid',
         xaxis=dict(
             title= '',
-            titlefont_size=12,
-            tickfont_size=10,
+            titlefont_size=14,
+            tickfont_size=14,
             title_standoff=50
         ),
         yaxis=dict(
             title= 'Trade Volume',
-            titlefont_size=12,
-            tickfont_size=10,
+            titlefont_size=14,
+            tickfont_size=14,
         ),
         autosize=False,
         width=600,
-        height=350,
+        height=400,
         margin=dict(
             l=100,
             r=0,
-            b=50,
+            b=0,
             t=100,
             pad=4
         ),
@@ -239,7 +236,7 @@ def plot_sankey(val_selected, country_name):
             l=50,
             r=20,
             b=50,
-            t=120,
+            t=30,
             pad=4
         ),
         paper_bgcolor= 'rgba(0,0,0,0)',
@@ -288,12 +285,12 @@ def plot_dot(df, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=360,
+        height=323,
         margin=dict(
             l=50,
             r=20,
-            b=50,
-            t=120,
+            b=0,
+            t=50,
             pad=4
         ),
         paper_bgcolor= 'rgba(0,0,0,0)',
@@ -302,7 +299,7 @@ def plot_dot(df, country_name):
     fig.update_layout(legend=dict(
         orientation="h",
         yanchor="bottom",
-        y=1.02,
+        y=0.98,
         xanchor="right",
         x=1
     ))
