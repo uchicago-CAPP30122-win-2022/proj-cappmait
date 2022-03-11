@@ -391,7 +391,7 @@ app.layout = html.Div(
                                                                             {'label':'Importer view', 'value':False}], value=True, inline=True),
                             cyto.Cytoscape(id='network-graph',
                                 elements=build_networkelements(True),
-                                style={'width': '100%', 'height': '710px'},
+                                style={'width': '100%', 'height': '723px'},
                                 layout={'name': 'cose','animate': 'end'},
                                 stylesheet=network_stylesheet,
                                 autoungrabify=True,
