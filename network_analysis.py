@@ -124,7 +124,7 @@ class Graph:
             for i in range(num):
                 if i < len(best_partners):
                     self.edges.append((code, best_partners[i][0].country_code, \
-                    (best_partners[i][2] - best_partners[i][1])/best_partners[i][1]))
+                    (best_partners[i][2] - best_partners[i][1])))
         return self.nodes, self.edges
     
     def draw_sankey(self, country_code):
