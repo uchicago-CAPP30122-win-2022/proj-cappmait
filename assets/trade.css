@@ -54,7 +54,7 @@ p {
     margin: 2rem 0 3rem 0;
 }
 
-#slider-text, #chart-selector {
+#slider-text, #chart-selector, #dropdown-text {
     margin-bottom: 2rem !important;
     font-size: 2rem;
     color: #edeff7;
@@ -67,42 +67,38 @@ p {
     margin: 2rem 0 0 0;
     background-color: #252e3f;
     font-size: 2rem;
-    height: 80rem;
-    margin-left: 1.5rem;
 } 
 
 #network {
     margin: 2rem 0 0 0;
     background-color: #252e3f;
     font-size: 2rem;
-    height: 40rm;
-    margin-left: 1.5rem;
 } 
 
 #covidmap-title {
     margin-left: 4rem;
     padding: 1rem;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 #data-type-selected {
     margin-bottom: 1rem !important;
     margin-left: 6rem !important;
     width: 450px !important;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 
 #chart-selector-2 {
     margin-left: 4rem;
     padding: 1rem;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 #import-or-export {
     margin-bottom: 1rem !important;
     margin-left: 6rem !important;
     width: 450px !important;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 
 /* RHS
@@ -111,7 +107,6 @@ p {
     background-color: #252e3f;
     padding: 5rem;
     margin: 1.5rem;
-    height: 175rem;
 }
 
 
@@ -122,7 +117,7 @@ p {
 }
 
 .Select-control {
-    color: #edeff7 !important;
+    color: #252e3f !important;
 }
 
 .Select {
@@ -144,7 +139,7 @@ p {
 }
 
 .Select-value-label {
-    color: #edeff7 !important;
+    color: #252e3f !important;
 }
 
 .Select--single > .Select-control .Select-value, .Select-placeholder {
@@ -159,8 +154,6 @@ p {
     background-color: #252e3f;
     padding: 2rem 6rem 4rem 4rem;
     height: 8rem;
-    margin-left: 1.5rem;
-    font-size: 2rem;
 }
 
 .rc-slider-dot-active, .rc-slider-handle {
