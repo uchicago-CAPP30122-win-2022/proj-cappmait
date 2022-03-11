@@ -57,14 +57,12 @@ echo -e "Install is complete."
 echo -e "Running the application..."
 python3 app.py
 
-URL=http://127.0.0.1:8050/
+URL=http://127.0.0.1:3003/
 
 if [[ $PLATFORM == 'Linux' ]];  then
     xdg-open $URL
-
 elif [[ $PLATFORM == 'Darwin' ]];  then
     open $URL
-
 elif [[ $PLATFORM == 'Windows' ]];  then
     start $URL
 fi
