@@ -142,7 +142,7 @@ def plot_bar(df, country_name):
         ),
         autosize=False,
         width=600,
-        height=450,
+        height=500,
         margin=dict(
             l=100,
             r=0,
@@ -198,12 +198,12 @@ def plot_sankey(nodes, edges, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=700,
+        height=800,
         margin=dict(
             l=50,
             r=20,
             b=50,
-            t=50,
+            t=120,
             pad=4
         ),
         paper_bgcolor= 'rgba(0,0,0,0)',
@@ -283,6 +283,17 @@ app.layout = html.Div(
                 id="left-top",
                 children=[
                     html.Div(
+                        id = 'covidmap-container',
+                        children = [
+                            html.P(
+                                "Covid World Map",
+                                id="covidmap-title",),
+                                dcc.RadioItems(id='data-type-selected', value='Cumulative_deaths',
+                                options = [{'label': 'cumulative cases', 'value': 'Cumulative_cases'},
+                                            {'label': 'cumulative deaths', 'value': 'Cumulative_deaths'}]),
+                                dcc.Graph(id="covid-map")]
+                            ),
+                    html.Div(
                         id = 'slider-container',
                         children = [
                             html.P(
@@ -302,17 +313,6 @@ app.layout = html.Div(
                             ),
                         ],
                     ),
-                    html.Div(
-                        id = 'covidmap-container',
-                        children = [
-                            html.P(
-                                "Worldwide covid cases of selected quarter",
-                                id="covidmap-title",),
-                                dcc.RadioItems(id='data-type-selected', value='Cumulative_deaths',
-                                options = [{'label': 'cumulative cases', 'value': 'Cumulative_cases'},
-                                            {'label': 'cumulative deaths', 'value': 'Cumulative_deaths'}]),
-                                dcc.Graph(id="covid-map")]
-                            ),
                     
                     html.Div(
                         id="network",
@@ -396,11 +396,12 @@ def update_world_map(time_selected, val_selected):
                     colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
 
     fig.update_layout(
-    paper_bgcolor= "#252e3f",
-    plot_bgcolor = "#252e3f",
+    paper_bgcolor= "rgba(0,0,0,0)",
+    plot_bgcolor = "rgba(0,0,0,0)",
     font_color= "#edeff7",
     height = 500,
-    margin=dict(l=15, r=50, t=80, b=50)
+    geo_bgcolor="rgba(0,0,0,0)",
+    margin=dict(l=25, r=50, t=80, b=50)
     )
 
     return fig
