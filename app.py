@@ -261,7 +261,7 @@ def plot_dot(df, country_name):
     df_new = df[df["ProductCode"]!="TO"].pivot(index=["ReporterISO3A", "Reporter", "ProductCode", "Product"], values="Value", columns=["Indicator", "Year"]).reset_index()
     df_new["Total 2020"] = (df_new["Import"]["2020"] + df_new["Export"]["2020"])
     df_new["Total 2019"] = (df_new["Import"]["2019"] + df_new["Export"]["2019"])
-    df_new = df_new.sort_values("Total 2019").tail(8)
+    df_new = df_new.sort_values("Total 2019").tail(5)
     df_new["Product"] = df_new["Product"].str.replace("equipment", "")
 
     fig = go.Figure()
@@ -288,7 +288,7 @@ def plot_dot(df, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=400,
+        height=360,
         margin=dict(
             l=50,
             r=20,
@@ -393,7 +393,7 @@ app.layout = html.Div(
                                                                             {'label':'Importer view', 'value':False}], value=True, inline=True),
                             cyto.Cytoscape(id='network-graph',
                                 elements=build_networkelements(True),
-                                style={'width': '100%', 'height': '600px'},
+                                style={'width': '100%', 'height': '710px'},
                                 layout={'name': 'cose','animate': 'end'},
                                 stylesheet=network_stylesheet,
                                 autoungrabify=True,
