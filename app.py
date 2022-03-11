@@ -178,7 +178,7 @@ def plot_bar(df, country_name):
         ),
         autosize=False,
         width=600,
-        height=500,
+        height=350,
         margin=dict(
             l=100,
             r=0,
@@ -234,7 +234,7 @@ def plot_sankey(val_selected, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=800,
+        height=650,
         margin=dict(
             l=50,
             r=20,
@@ -288,7 +288,7 @@ def plot_dot(df, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=500,
+        height=400,
         margin=dict(
             l=50,
             r=20,
