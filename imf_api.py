@@ -1,5 +1,6 @@
 '''
 This module collects bilateral trade data for all countries by IMF API.
+To use this module, execute '$python3 imf_api.py' on your command line.
 
 Reference: https://www.bd-econ.com/imfapi1.html
 '''
@@ -8,9 +9,9 @@ import requests
 
 url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 
-def get_export_import_data(country_codes):
+def create_export_import_data():
     """
-    Get bilateral export dataset by running the extract_export_data function
+    Create bilateral export dataset by running the extract_export_data function
     to the every country and region in IMF dataset.
     And create bilateral export-import dataset from the export dataset.
 
@@ -29,7 +30,7 @@ def get_export_import_data(country_codes):
         one_country.insert(0, "from", code, True)
         df = pd.concat([df, one_country])
 
-    return df.to_csv('rawdata/imf_import_export.csv')
+    return df.to_csv('rawdata/imf_import_export_test.csv')
 
 
 def find_country_codes():
@@ -91,3 +92,13 @@ def get_imf_export_data(country_codes, target_country):
         df.sort_values(by=['2019'], inplace=True, ascending=False)
 
     return df
+
+
+def main():
+    print ("Start to create dataset.")
+    create_export_import_data()
+    print ("Dataset is ready.")
+
+
+if __name__ == "__main__":
+    main()
