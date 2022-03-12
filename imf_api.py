@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-import csv
 
 url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 
@@ -29,13 +28,11 @@ for i in range(4):
 def extract_export_data(target_country):
     '''
     Extract one country's trading data with its trading partners in 2019 and 2020.
+
     Inputs:
         target_country(str): a country's code
     Outputs:
         trading data(pd.DataFrame): trading data of the target country
-        missing_country(list):
-            country codes which the target country doesn't have data about
-            * including the case when there is data in either 2019 or 2020.
     '''
     trading_data = {}
     for k in key_d3:
@@ -60,9 +57,13 @@ def extract_export_data(target_country):
 
 
 def creating_export_import_data():
+    """
+    Create export-import dataset by running extract_export_data to the every country.
+
+    Return(csv file): export-import dataset 
+    """
     df = pd.DataFrame(index=[], columns=['from', 'to', '2019', '2020'])
     for code in country_codes.keys():
-#    for code in list(country_codes.keys())[:3]:
         print(code)
         one_country = extract_export_data(code)
         one_country.reset_index(level=0, inplace=True)
@@ -70,28 +71,3 @@ def creating_export_import_data():
         one_country.insert(0, "from", code, True)
         df = pd.concat([df, one_country])
     return df.to_csv('rawdata/imf_import_export.csv')
-
-
-def extract_import_data(target_country):
-    '''
-    Extract one country's trading data with its trading partners in 2019 and 2020.
-    Inputs:
-        target_country(str): a country's code
-    Outputs:
-        trading data(pd.DataFrame): trading data of the target country
-    '''
-    trading_data = {}
-    for k in key_d3:
-        key = f'CompactData/DOT/A.{k}.TMG_FOB_USD.{target_country}\
-            ?startPeriod=2019&endPeriod=2020'
-        data = requests.get(f'{url}{key}').json()['CompactData']['DataSet']['Series']
-        for s in data:
-            df_dict_col = {}
-            if type(s) != dict:
-                continue
-            if 'Obs' not in s.keys() or type(s['Obs']) != list:
-                continue
-            for i in s['Obs']:
-                df_dict_col[i['@TIME_PERIOD']] = round(float(i['@OBS_VALUE']), 1)
-            trading_data[s['@REF_AREA']] = df_dict_col
-    return pd.DataFrame(trading_data).T
