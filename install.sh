@@ -20,7 +20,9 @@ fi
 echo -e "\t--Your python version is above 3.8, which is enough for this application."
 
 # 2. What OS are we running on?
-PLATFORM=$($PYTHON -c 'import platform; print(platform.system())')
+PLATFORM=$($python3 -c 'import platform; print(platform.system())')
+
+echo -e $PLATFORM
 
 echo -e "2. Checking OS Platform..."
 echo -e "\t--OS=Platform=$PLATFORM"
@@ -55,7 +57,6 @@ echo -e "Install is complete."
 
 # 5. Run the application
 echo -e "Running the application..."
-python3 app.py
 
 URL=http://127.0.0.1:3003/
 
@@ -66,3 +67,5 @@ elif [[ $PLATFORM == 'Darwin' ]];  then
 elif [[ $PLATFORM == 'Windows' ]];  then
     start $URL
 fi
+
+python3 app.py
