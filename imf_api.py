@@ -57,7 +57,7 @@ def create_export_import_data(country_codes):
         one_country.insert(0, "from", code, True)
         df = pd.concat([df, one_country])
 
-    return df.to_csv('rawdata/imf_import_export_test.csv')
+    return df.to_csv('rawdata/imf_import_export.csv')
 
 
 def extract_export_data(country_codes, target_country):
