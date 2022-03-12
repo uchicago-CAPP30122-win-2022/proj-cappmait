@@ -15,7 +15,6 @@ def go():
     """
     country_codes = find_country_codes()
     create_export_import_data(country_codes)
-    create_country_codes_csv(country_codes)
 
 
 def find_country_codes():
@@ -99,16 +98,3 @@ def extract_export_data(country_codes, target_country):
         df.sort_values(by=['2019'], inplace=True, ascending=False)
 
     return df
-
-
-def create_country_codes_csv(country_codes):
-    """
-    Create a CSV file that shows the correspondence relationship
-    between country codes and country names.
-
-    Inputs:
-        country_codes: every country code in the target dataset.
-    """
-    with open('rawdata/imf_import_export_country_codes_test.csv', 'w') as f:
-        for key, val in country_codes.items():
-            f.write("%s;%s\n"%(key, val))
