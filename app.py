@@ -175,7 +175,7 @@ def plot_bar(df, country_name):
         ),
         autosize=False,
         width=600,
-        height=400,
+        height=380,
         margin=dict(
             l=100,
             r=0,
@@ -391,7 +391,7 @@ app.layout = html.Div(
                                                                             {'label':'Importer view', 'value':False}], value=True, inline=True),
                             cyto.Cytoscape(id='network-graph',
                                 elements=build_networkelements(True),
-                                style={'width': '100%', 'height': '723px'},
+                                style={'width': '100%', 'height': '700px'},
                                 layout={'name': 'cose','animate': 'end'},
                                 stylesheet=network_stylesheet,
                                 autoungrabify=True,
