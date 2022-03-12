@@ -9,12 +9,27 @@ import requests
 
 url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 
-def go():
+def create_export_import_data(country_codes):
     """
-    Execute functions and create the export-import dataset from IMF.
+    Create export-import dataset by running the extract_export_data function
+    to the every country and region in IMF dataset.
+
+    Inputs:
+        country_codes: every country code in the target dataset.
+    Output(csv file): export-import dataset
     """
     country_codes = find_country_codes()
-    create_export_import_data(country_codes)
+
+    df = pd.DataFrame(index=[], columns=['from', 'to', '2019', '2020'])
+    for code in country_codes:
+        print(f"Getting {code}'s export data...")
+        one_country = get_imf_export_data(country_codes, code)
+        one_country.reset_index(level=0, inplace=True)
+        one_country.rename(columns={'index': 'to'}, inplace=True)
+        one_country.insert(0, "from", code, True)
+        df = pd.concat([df, one_country])
+
+    return df.to_csv('rawdata/imf_import_export.csv')
 
 
 def find_country_codes():
@@ -38,33 +53,11 @@ def find_country_codes():
     return country_codes
 
 
-def create_export_import_data(country_codes):
-    """
-    Create export-import dataset by running the extract_export_data function
-    to the every country and region in IMF dataset.
-
-    Inputs:
-        country_codes: every country code in the target dataset.
-    Output(csv file): export-import dataset
-    """
-
-    df = pd.DataFrame(index=[], columns=['from', 'to', '2019', '2020'])
-    for code in country_codes:
-        print(f"Getting {code}'s export data...")
-        one_country = extract_export_data(country_codes, code)
-        one_country.reset_index(level=0, inplace=True)
-        one_country.rename(columns={'index': 'to'}, inplace=True)
-        one_country.insert(0, "from", code, True)
-        df = pd.concat([df, one_country])
-
-    return df.to_csv('rawdata/imf_import_export.csv')
-
-
-def extract_export_data(country_codes, target_country):
+def get_imf_export_data(country_codes, target_country):
     '''
-    Extract one country's trading data with its trading partners in 2019 and 2020.
-    This process separates the key to four short keys and execute individually
-    because there seems to be URL's length limitation.
+    Get one country's trading data with its trading partners in 2019 and 2020
+    by IMF API. This process separates the key to four short keys and execute
+    individually because there seems to be URL's length limitation.
 
     Inputs:
         country_codes: every country code in the target dataset.
