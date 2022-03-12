@@ -1,7 +1,13 @@
-import requests
-import pandas as pd
+'''
+This module collects IMF trade partner for all countries
+by IMF api.
+'''
 import csv
+import pandas as pd
+import requests
 
+# Could you try to make it as a function and add docstring?
+# Then could you run pylint and modify the suggestions?
 url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 
 key = 'DataStructure/DOT'
@@ -18,13 +24,14 @@ for code in code_list_d2:
 code_list = list(country_codes.keys())
 
 with open('rawdata/imf_import_export_country_codes.csv', 'w') as f:
-    for key in country_codes.keys():
+    for key in country_codes:
         f.write("%s;%s\n"%(key,country_codes[key]))
 
 # Separating the key because there seems to be URL's length limitation.
 key_d3 = []
 for i in range(4):
     key_d3.append('+'.join(code_list[i*70 : min((i+1)*70, len(country_codes))]))
+
 
 def extract_export_data(target_country):
     '''
@@ -58,11 +65,10 @@ def extract_export_data(target_country):
         df.sort_values(by=['2019'], inplace=True, ascending=False)
     return df
 
-
+# Could you make a docstirng?
 def creating_export_import_data():
     df = pd.DataFrame(index=[], columns=['from', 'to', '2019', '2020'])
-    for code in country_codes.keys():
-#    for code in list(country_codes.keys())[:3]:
+    for code in country_codes:
         print(code)
         one_country = extract_export_data(code)
         one_country.reset_index(level=0, inplace=True)
@@ -95,3 +101,6 @@ def extract_import_data(target_country):
                 df_dict_col[i['@TIME_PERIOD']] = round(float(i['@OBS_VALUE']), 1)
             trading_data[s['@REF_AREA']] = df_dict_col
     return pd.DataFrame(trading_data).T
+
+# if __name__ == "__main__":
+#     call function
