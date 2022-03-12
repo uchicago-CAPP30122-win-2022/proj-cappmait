@@ -1,6 +1,5 @@
 '''
-This module collects IMF trade partner for all countries
-by IMF api.
+This module collects bilateral trade data for all countries by IMF API.
 
 Reference: https://www.bd-econ.com/imfapi1.html
 '''
@@ -9,14 +8,15 @@ import requests
 
 url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 
-def create_export_import_data(country_codes):
+def get_export_import_data(country_codes):
     """
-    Create export-import dataset by running the extract_export_data function
+    Get bilateral export dataset by running the extract_export_data function
     to the every country and region in IMF dataset.
+    And create bilateral export-import dataset from the export dataset.
 
     Inputs:
         country_codes: every country code in the target dataset.
-    Output(csv file): export-import dataset
+    Output(csv file): bilateral export-import dataset
     """
     country_codes = find_country_codes()
 
