@@ -193,6 +193,57 @@ def call_un_comtrade(reporters_path, partners_path, csv_path):
     download_un_comtrade(csv_path, 2020, reporters, partners)
 
 
+# Concatenate all UN comtrade files and create new csv
+def concat_un_comtrade(raw_folder, csv_folder):
+    '''
+    concatenate all UN Comtrade files and export to csv
+
+    Args:
+        raw_folder (str): Folder that keeping the UN Comtrade csv file
+        csv_folder (str): Folder that we want to the csv kept
+    '''
+    df = pd.DataFrame()
+    dir_list = os.listdir(raw_folder)
+    for file in dir_list:
+        path = raw_folder + file
+        un_comtrade = pd.read_csv(path,
+                                  usecols = ['yr', 'rtCode', 'rtTitle', 
+                                             'rt3ISO', 'ptCode', 'ptTitle', 
+                                             'pt3ISO', 'cmdCode', 
+                                             'cmdDescE', 'TradeValue'],
+                                  dtype = {'rtCode': 'str', 'ptCode': 'str', 
+                                           'cmdCode': 'str'})
+        df = pd.concat([df, un_comtrade])
+    
+
+    f = open('rawdata/partnerAreas_top30.json', 'r')
+    major_importers = json.loads(f.read())
+    major_importers = pd.DataFrame(major_importers)
+    major_importers.head()
+
+    # Filter out not major importers
+    un_comtrade = pd.read_csv('rawdata/un_comtrade_top30.csv',
+                              dtype = {'rtCode': 'str', 'ptCode': 'str', 
+                                       'cmdCode': 'str'})
+
+    un_comtrade = un_comtrade.merge(major_importers, how = "inner", 
+                                    left_on = "ptCode", right_on="id")
+    un_comtrade = un_comtrade.loc[:, ~un_comtrade.columns.isin(['id', 'text'])]
+    un_comtrade.columns = ['year', 'reporter_code','reporter_title', 
+                           'reporter_iso', 'partner_code', 'partner_title', 
+                           'partner_iso', 'comm_code', 'comm_desc', 'trade_val']
+    un_comtrade = un_comtrade.sort_values(by = ['year', 'reporter_title', 
+                                                'partner_title', 'comm_code'])
+    
+    # Due to political reason, hard code for Taiwan ISO
+    un_comtrade.fillna({'reporter_iso':'TWN', 'partner_iso':'TWN'}, 
+                       inplace = True)
+    
+    # create csv file
+    filename = csv_folder + "un_comtrade_top30" + ".csv"
+    df.to_csv(filename, index = False)
+
+
 def check_error(path):
     '''
     List the error file
