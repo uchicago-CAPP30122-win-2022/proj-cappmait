@@ -15,10 +15,7 @@ from dash import Dash
 from dash import dcc
 from dash import html
 
-import json
 import networkx as nx
-import numpy as np
-import os
 import pandas as pd
 import plotly.express as px
 import statsmodels.api as sm
