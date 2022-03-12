@@ -11,7 +11,7 @@ url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 
 def go():
     """
-    Execute functions and create export-import datasets from IMF.
+    Execute functions and create the export-import dataset from IMF.
     """
     country_codes = find_country_codes()
     create_export_import_data(country_codes)
