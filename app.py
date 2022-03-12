@@ -1,3 +1,4 @@
+
 from platform import node
 import pandas as pd
 import numpy as np
@@ -36,7 +37,6 @@ def prepare_covid_data(time_selected):
     ii) Align country name to the standard names
     iii) Filter out "2020-12-31" data for all countries
     iv) Extract needed columns for plotting, e.g. alpha 3 code
-
     Input:
         None, running this py file would call this function and start
             data wrangling
@@ -62,10 +62,8 @@ def prepare_covid_data(time_selected):
 def plot_world_map(time_selected, val_selected):
     '''
     Plot worldwide covid cases situation
-
     Inputs:
         val_selected: the data type selected by user
-
     Outputs:
         fig: the world map graph
     '''
@@ -101,13 +99,12 @@ def build_networkelements(is_exporter):
     and target is the best trading partner. In the exporter view, the country serve as an exporter and 
     export the most to the best trading partner. In the importer view, the country serve as an importer and
     import the most from the best trading partner. 
-
     Input:
         is_exporter(boolean): True if the country node is exporter, and False otherwise. 
-
     Output:
         elements(list): A list of graph nodes and edges. 
     '''
+    graph = net.construct_networkgraph()
     nodes, edges = graph.find_best_partners(1, is_exporter)
 
     graph_nodes = [
@@ -123,7 +120,6 @@ def build_networkelements(is_exporter):
 def draw_countrydashboard(val_selected):
     '''
     Update graphs given the user selected country
-
     Inputs:
         val_selected(str) : The user selected country
     
@@ -145,10 +141,8 @@ def draw_countrydashboard(val_selected):
 def plot_bar(df, country_name):
     '''
     Create a bar graph object
-
     Inputs:
         df (Pandas Dataframe): a data of products
-
     Outputs:
         fig(a bar graph object)
     '''
@@ -175,7 +169,7 @@ def plot_bar(df, country_name):
         ),
         autosize=False,
         width=600,
-        height=380,
+        height=400,
         margin=dict(
             l=100,
             r=0,
@@ -195,11 +189,9 @@ def plot_bar(df, country_name):
 def plot_sankey(val_selected, country_name):
     '''
     Create a sankey graph object
-
     Inputs:
         node_df(Pandas Dataframe): a data of nodes
         links_df(Pandas Dataframe): a data of links
-
     Outputs:
         fig(a sankey graph object)
     '''
@@ -248,10 +240,8 @@ def plot_sankey(val_selected, country_name):
 def plot_dot(df, country_name):
     '''
     Create a dot graph object
-
     Inputs:
         df (Pandas Dataframe): a data of products
-
     Outputs:
         fig(a tree graph object)
     '''
@@ -391,7 +381,7 @@ app.layout = html.Div(
                                                                             {'label':'Importer view', 'value':False}], value=True, inline=True),
                             cyto.Cytoscape(id='network-graph',
                                 elements=build_networkelements(True),
-                                style={'width': '100%', 'height': '700px'},
+                                style={'width': '100%', 'height': '710px'},
                                 layout={'name': 'cose','animate': 'end'},
                                 stylesheet=network_stylesheet,
                                 autoungrabify=True,
@@ -448,10 +438,8 @@ def update_world_map(time_selected, val_selected):
 def update_networkgraph(val_selected):
     '''
     Update the network graph
-
     Inputs:
         val_selected(boolean): True if exporter view and false if importer view. 
-
     Output:
         elements(list): A list of graph nodes and edges. 
     '''
