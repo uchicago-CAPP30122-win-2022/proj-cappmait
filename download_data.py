@@ -105,9 +105,7 @@ def get_wto():
         regex={r'.+imports.+': 'Import', r'.+exports.+': 'Export'}, inplace=True)
 
     df.to_csv("rawdata/merchandise_values_annual_dataset.csv", sep=',', index=False)
-
-
-# Download WHO Covid data
+    
 
 # Download World Bank data
 def get_wb():
