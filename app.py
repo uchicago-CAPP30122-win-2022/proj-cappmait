@@ -5,7 +5,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import dash_html_components as html
 import dash_core_components as dcc
-from dash import dash_table
 from dash.exceptions import PreventUpdate
 from dash_extensions.enrich import DashProxy, MultiplexerTransform, Input, Output
 import dash_cytoscape as cyto
@@ -18,8 +17,71 @@ product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"V
 country_code = pd.read_csv("cleandata/countries_codes_and_coordinates_cleaned.csv")
 covid_data = pd.read_csv('cleandata/WHO-COVID-19-global-data_cleaned.csv')
 covid_data = pd.read_csv('cleandata/owid_covid_data_cleaned.csv')
-graph = net.construct_networkgraph()
-dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
+
+def network_legend():
+    fig = go.Figure()
+    fig.add_shape(type="circle",
+    line_color="grey", fillcolor="grey",
+    x0=1, y0=0, x1=1.03, y1=2
+    )
+
+    fig.add_trace(go.Scatter(
+    x=[1.15, 1.41, 1.63],
+    y=[1, 1, 1],
+    text=[": PageRank(=centrality) size", ": Trade Increased", ": Trade Decreased"],
+    mode="text",
+    textfont=dict(
+        color="#edeff7",
+        size=12,
+        )
+    ))
+
+    fig.add_shape(type="line",
+        x0=1.27, y0=1, x1=1.33, y1=1,
+        line=dict(
+            color="blue",
+            width=2,
+        )
+    )
+
+    fig.add_shape(type="line",
+        x0=1.49, y0=1, x1=1.55, y1=1,
+        line=dict(
+            color="red",
+            width=2,
+        )
+    )
+
+    fig.add_shape(type="line",
+        x0=1.77, y0=1, x1=1.84, y1=1,
+        line=dict(
+            color="rgba(0,0,0,0)",
+            width=2,
+        )
+    )
+
+    fig.update_xaxes(
+    showticklabels=False,
+        showgrid=False,
+        zeroline=False,
+    )
+
+    fig.update_yaxes(
+        showticklabels=False,
+        showgrid=False,
+        zeroline=False,
+    )
+    fig.update_layout(
+    paper_bgcolor= "rgba(0,0,0,0)",
+    plot_bgcolor = "rgba(0,0,0,0)",
+    font_color= "#edeff7",
+    height = 100,
+    width = 700,
+    geo_bgcolor="rgba(0,0,0,0)",
+    margin=dict(t=0, l=40)
+    )
+
+    return fig
 
 
 def plot_world_map(time_selected, val_selected):
@@ -30,7 +92,7 @@ def plot_world_map(time_selected, val_selected):
     Outputs:
         fig: the world map graph
     '''
-
+    dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
     dff = covid_data[covid_data.period == dic.get(time_selected)]
     dff['hover_text'] = dff['Country_name'] + ": " + dff[val_selected].apply(str)
 
@@ -97,9 +159,9 @@ def draw_countrydashboard(val_selected):
 
     sankey_plt = plot_sankey(val_selected, country_name)
 
-    tree_plt = plot_dot(df, country_name)
+    dot_plt = plot_dot(df, country_name)
 
-    return (bar_plt, sankey_plt, tree_plt)
+    return (bar_plt, sankey_plt, dot_plt)
 
 
 def plot_bar(df, country_name):
@@ -159,6 +221,8 @@ def plot_sankey(val_selected, country_name):
     Outputs:
         fig(a sankey graph object)
     '''
+
+    graph = net.construct_networkgraph()
     nodes, edges = graph.draw_sankey(val_selected)
     fig = go.Figure(data=[go.Sankey(
         node = dict(
@@ -210,32 +274,60 @@ def plot_dot(df, country_name):
         fig(a tree graph object)
     '''
     df_new = df[df["ProductCode"]!="TO"].pivot(index=["ReporterISO3A", "Reporter", "ProductCode", "Product"], values="Value", columns=["Indicator", "Year"]).reset_index()
-    df_new["Total 2020"] = (df_new["Import"]["2020"] + df_new["Export"]["2020"])
-    df_new["Total 2019"] = (df_new["Import"]["2019"] + df_new["Export"]["2019"])
-    df_new = df_new.sort_values("Total 2019").tail(5)
-    df_new["Product"] = df_new["Product"].str.replace("equipment", "")
 
-    fig = go.Figure()
-    fig.add_trace(go.Scatter(
-        x=df_new["Total 2019"],
-        y=df_new["Product"],
-        opacity=0.7,
-        marker=dict(color='#36559c', size=12, line=dict(color="#aab0bf",width=1)),
-        mode="markers",
-        name="2019",
-    ))
+    if len(df_new) > 0:
+        df_new["Total 2020"] = (df_new["Import"]["2020"] + df_new["Export"]["2020"])
+        df_new["Total 2019"] = (df_new["Import"]["2019"] + df_new["Export"]["2019"])
+        df_new = df_new.sort_values("Total 2019").tail(5)
+        df_new["Product"] = df_new["Product"].str.replace("equipment", "")
 
-    fig.add_trace(go.Scatter(
-        x=df_new["Total 2020"],
-        y=df_new["Product"],
-        opacity=0.7,
-        marker=dict(color='#b5442d', size=12, line=dict(color="#aab0bf",width=1)),
-        mode="markers",
-        name="2020",
-    ))
+        fig = go.Figure()
+        fig.add_trace(go.Scatter(
+            x=df_new["Total 2019"],
+            y=df_new["Product"],
+            opacity=0.7,
+            marker=dict(color='#36559c', size=12, line=dict(color="#aab0bf",width=1)),
+            mode="markers",
+            name="2019",
+        ))
+
+        fig.add_trace(go.Scatter(
+            x=df_new["Total 2020"],
+            y=df_new["Product"],
+            opacity=0.7,
+            marker=dict(color='#b5442d', size=12, line=dict(color="#aab0bf",width=1)),
+            mode="markers",
+            name="2020",
+        ))
+
+        fig.update_layout(
+            xaxis = dict(showgrid=False, showline=True),
+            xaxis_title="Total volume of import and export",
+            legend=dict(
+                    orientation="h",
+                    yanchor="bottom",
+                    y=0.98,
+                    xanchor="right",
+                    x=1
+            )
+        )
+
+    # If data is missing, show a message
+    else:
+        fig = go.Figure()
+        fig.update_layout(
+            xaxis = {"visible": False},
+            yaxis = {"visible": False},
+            annotations = [{
+                            "text": "Missing Data",
+                            "xref": "paper",
+                            "yref": "paper",
+                            "showarrow": False,
+                            "font": {"size": 20}}]            
+        )
+
     fig.update_layout(
-        title = f'{country_name}\'s Product Category Volume before/after Covid',
-        xaxis = dict(showgrid=False, showline=True),
+        title = f'{country_name}\'s Product Category before/after Covid',
         font_color="#e7ecf5",
         autosize=False,
         width=600,
@@ -248,15 +340,8 @@ def plot_dot(df, country_name):
             pad=4
         ),
         paper_bgcolor= 'rgba(0,0,0,0)',
-        plot_bgcolor='rgba(0,0,0,0)',
-        xaxis_title="Total volume of import and export")
-    fig.update_layout(legend=dict(
-        orientation="h",
-        yanchor="bottom",
-        y=0.98,
-        xanchor="right",
-        x=1
-    ))
+        plot_bgcolor='rgba(0,0,0,0)')
+
 
     return fig
 
@@ -350,12 +435,13 @@ app.layout = html.Div(
                                                                             {'label':'Importer view', 'value':False}], value=True, inline=True),
                             cyto.Cytoscape(id='network-graph',
                                 elements=build_networkelements(True),
-                                style={'width': '100%', 'height': '710px'},
+                                style={'width': '100%', 'height': '600px'},
                                 layout={'name': 'cose','animate': 'end'},
                                 stylesheet=network_stylesheet,
                                 autoungrabify=True,
                                 minZoom=0.4,
-                                maxZoom=1)
+                                maxZoom=1),
+                            dcc.Graph(id="network-legend", figure=network_legend()),
                                 ]
                             )],
                         ),
@@ -424,6 +510,7 @@ def update_networkgraph(val_selected):
 )
 
 def update_fromdropdown(val_selected):
+    print(val_selected)
     return draw_countrydashboard(val_selected)
 
 @app.callback(
