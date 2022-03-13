@@ -13,6 +13,7 @@ from zipfile import ZipFile
 from io import BytesIO
 import requests
 import pandas as pd
+import wbgapi as wb
 
 # Helper function
 def get_json(url, params = None):
@@ -108,12 +109,29 @@ def get_wto():
 # Download WHO Covid data
 
 # Download World Bank data
+def get_wb():
+    '''
+    Download World Bank data, which are real gdp, nominal gdp, 
+    inflation, tariff, exchange rate and total labor
+    '''
+
+    inds = ['NY.GDP.MKTP.CD', 'NY.GDP.MKTP.KD', 'FP.CPI.TOTL.ZG', 
+            'TM.TAX.MRCH.SM.AR.ZS', 'PA.NUS.FCRF', 'SL.TLF.TOTL.IN']
+    wb_data = wb.data.DataFrame(inds, time=[2019, 2020]).reset_index()
+    wb_data = wb_data.melt(['economy', 'series'])
+    wb_data = wb_data.pivot(['economy', 'variable'], 'series').reset_index()
+    wb_data.columns = ['country_code', 'time_code', 'inflation', 
+                       'nominal_gdp', 'real_gdp', 'exchange_rate', 
+                       'labor_force', 'tariff']
+    wb_data['time'] = wb_data['time_code'].str[2:]
+    wb_data.to_csv("rawdata/world-bank-econ-data.csv", index=False)
 
 
 def main():
     print ("Downloading csv data.")
     get_owid()
     get_wto()
+    get_wb()
     print ("Data is ready.")
 
 
