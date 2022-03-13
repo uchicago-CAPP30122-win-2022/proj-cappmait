@@ -13,6 +13,7 @@ from zipfile import ZipFile
 from io import BytesIO
 import requests
 import pandas as pd
+# pip install wbgapi to get world bank data
 import wbgapi as wb
 
 # Helper function
