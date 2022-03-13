@@ -53,13 +53,13 @@ def clean_imf(path="cleandata/imf_import_export_cleaned.csv"):
     df = df.iloc[: , 1:]
     df = df.merge(country_code, how ='right', left_on='from', right_on='Alpha-2code')\
                 .drop(['Alpha-2code','from','Numeric code', 'Latitude (average)', 'Longitude (average)'], axis = 1)
-    df.rename(columns={'Country':'from_name', 'Alpha-3code':'from_code'}, inplace = True)
+    df.rename(columns={'Country_name':'from_name', 'Alpha-3code':'from_code'}, inplace = True)
     df = df.merge(country_code, how ='right', left_on='to', right_on='Alpha-2code')\
                 .drop(['Alpha-2code','to','Numeric code', 'Latitude (average)', 'Longitude (average)'], axis = 1)
-    df.rename(columns={'Country':'to_name', 'Alpha-3code':'to_code'}, inplace = True)
+    df.rename(columns={'Country_name':'to_name', 'Alpha-3code':'to_code'}, inplace = True)
 
     df = df.dropna()
-    df = df[(df["2019"] > 0) | df["2020"] > 0]
+    df = df[(df["2019"] > 0.0) & df["2020"] > 0.0]
 
     df.to_csv(path, sep=',', index=False)
 
