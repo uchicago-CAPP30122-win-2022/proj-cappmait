@@ -7,7 +7,6 @@ import time
 import os
 import pandas as pd
 import requests
-#import pycountry as pc #what's this??
 
 # Helper function
 def get_json(url, params = None):
@@ -204,7 +203,8 @@ def concat_un_comtrade(raw_folder, csv_folder):
 
 def check_error(path):
     '''
-    List the error file
+    List the error file, use when we want to
+    check some files might be corrupted
 
     Input:
         path (str): a folder kept files
@@ -215,31 +215,9 @@ def check_error(path):
     dir_list = os.listdir(path)
     blank = []
     for file in dir_list:
-        path = "rawdata/uncomtrade/top30/2020/" + file
+        path = path + file
         df = pd.read_csv(path)
         if df.shape[0] == 0:
             blank.append(file)
     
     return blank
-
-
-def find_iso3a(country_list):
-    """
-    find ISO Alpha-3 Country Codes.
-
-    Arg: country_list (list or pd.series):
-            the names of country you need to find the ISO code. 
-    return: iso3a(list): list of the ISO codes.
-    """
-    iso3a = []
-    for c in country_list:
-        try:
-            addval = pc.countries.search_fuzzy(c)[0].alpha_3
-        except:
-            addval = 'Sorry, find by yourself!'
-        iso3a.append(addval)
-    
-    return iso3a
-
-# if __name__ == "__main__":
-#     call function
