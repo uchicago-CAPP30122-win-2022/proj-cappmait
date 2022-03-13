@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import dash_html_components as html
 import dash_core_components as dcc
+from dash import dash_table
 from dash.exceptions import PreventUpdate
 from dash_extensions.enrich import DashProxy, MultiplexerTransform, Input, Output
 import dash_cytoscape as cyto
@@ -14,49 +15,11 @@ app = DashProxy(transforms=[MultiplexerTransform()],prevent_initial_callbacks=Tr
 
 # Load Data
 product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"Value":"int", "Year":"category"})
-country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
+country_code = pd.read_csv("cleandata/countries_codes_and_coordinates_cleaned.csv")
+covid_data = pd.read_csv('cleandata/WHO-COVID-19-global-data_cleaned.csv')
+agg_data = pd.read_csv('cleandata/agg_covid_trade.csv')
+agg_data["id"] = agg_data["iso_code"]
 graph = net.construct_networkgraph()
-
-# go to another file? 
-def f(row):
-    if row['Date_reported'] == '2020/3/31':
-        val = '2020Q1'
-    elif row['Date_reported'] == '2020/6/30':
-        val = '2020Q2'
-    elif row['Date_reported'] == '2020/9/30':
-        val = '2020Q3'
-    else:
-        val = '2020Q4'
-    return val
-
-def prepare_covid_data(time_selected):
-    '''
-    Do data wrangling for covid data:
-    i) Join two datasets on 2 digit code
-    ii) Align country name to the standard names
-    iii) Filter out "2020-12-31" data for all countries
-    iv) Extract needed columns for plotting, e.g. alpha 3 code
-    Input:
-        None, running this py file would call this function and start
-            data wrangling
-    
-    Outputs:
-        dff: a cleaned dataframe for next step of plotting
-    '''
-
-    covid_data = pd.read_csv('rawdata/WHO-COVID-19-global-data.csv')
-    country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
-    country_code = country_code.rename({'Country': 'country_name'}, axis = 1)
-    dic = {'2020/3/31': '2020Q1', '2020/6/30': '2020Q2', '2020/9/30': '2020Q3', '2020/12/31': '2020Q4'}
-
-    df = covid_data.join(country_code.set_index('Alpha-2code'), on = 'Country_code')
-    dff = df[["country_name", "Date_reported", "Cumulative_cases", "Cumulative_deaths", "Alpha-3code"]]
-    dff = dff[dff.Date_reported.isin(dic.keys())]
-
-    dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
-    dff['Quarter'] = dff.apply(f, axis=1)
-
-    return dff[dff.Quarter == dic.get(time_selected)]
 
 def plot_world_map(time_selected, val_selected):
     '''
@@ -66,14 +29,14 @@ def plot_world_map(time_selected, val_selected):
     Outputs:
         fig: the world map graph
     '''
-
-    dff = prepare_covid_data(time_selected)
-    dff['hover_text'] = dff['country_name'] + ": " + dff[val_selected].apply(str)
+    dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
+    df = covid_data[covid_data.Quarter == dic.get(time_selected)]
+    df['hover_text'] = df['Country_name'] + ": " + df[val_selected].apply(str)
 
     fig = go.Figure(data = go.Choropleth(
-                    locations = dff['Alpha-3code'],
-                    z = np.log(dff[val_selected]), # need to fix log(0) here? maybe with list compre?
-                    text = dff['hover_text'],
+                    locations = df['Alpha-3code'],
+                    z = np.log(df[val_selected]), # need to fix log(0) here? maybe with list compre?
+                    text = df['hover_text'],
                     hoverinfo = 'text',
                     marker_line_color='black',
                     colorbar_title = 'Log Value',
@@ -85,9 +48,9 @@ def plot_world_map(time_selected, val_selected):
     paper_bgcolor= "rgba(0,0,0,0)",
     plot_bgcolor = "rgba(0,0,0,0)",
     font_color= "#edeff7",
-    height = 500,
+    height = 450,
     geo_bgcolor="rgba(0,0,0,0)",
-    margin=dict(l=25, r=50, t=80, b=50)
+    margin=dict(l=25, r=50, t=0, b=0)
     )
 
     return fig
@@ -168,7 +131,7 @@ def plot_bar(df, country_name):
         ),
         autosize=False,
         width=600,
-        height=400,
+        height=500,
         margin=dict(
             l=100,
             r=0,
@@ -222,7 +185,7 @@ def plot_sankey(val_selected, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=650,
+        height=670,
         margin=dict(
             l=50,
             r=20,
@@ -247,7 +210,7 @@ def plot_dot(df, country_name):
     df_new = df[df["ProductCode"]!="TO"].pivot(index=["ReporterISO3A", "Reporter", "ProductCode", "Product"], values="Value", columns=["Indicator", "Year"]).reset_index()
     df_new["Total 2020"] = (df_new["Import"]["2020"] + df_new["Export"]["2020"])
     df_new["Total 2019"] = (df_new["Import"]["2019"] + df_new["Export"]["2019"])
-    df_new = df_new.sort_values("Total 2019").tail(5)
+    df_new = df_new.sort_values("Total 2019").tail(7)
     df_new["Product"] = df_new["Product"].str.replace("equipment", "")
 
     fig = go.Figure()
@@ -274,7 +237,7 @@ def plot_dot(df, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=323,
+        height=400,
         margin=dict(
             l=50,
             r=20,
@@ -401,21 +364,23 @@ app.layout = html.Div(
                 children=[
                     html.P(
                             id = 'dropdown-text',
-                            children = 'Select Country: ',
+                            children = 'Country you are looking at: ',
                             ),
                     dcc.Dropdown(
                         id='slt_country',
                         options=[{'label': name, 'value': code} \
                                     for name, _, code, _, _, _ in country_code.itertuples(index=False)],
-                        searchable=True,),
-                    dcc.Graph(id="barplot", figure=plot_bar(product[product["ReporterISO3A"] == "JPN"] , "Japan")),
-                    dcc.Graph(id="sankeyplot", figure=plot_sankey("JPN", "Japan")),
-                    dcc.Graph(id="dotplot", figure=plot_dot(product[product["ReporterISO3A"] == "JPN"] , "Japan"))]
+                        searchable=True,
+                        value="USA"),
+                    dcc.Graph(id="barplot", figure=plot_bar(product[product["ReporterISO3A"] == "USA"] , "United States")),
+                    dcc.Graph(id="sankeyplot", figure=plot_sankey("USA", "United States")),
+                    dcc.Graph(id="dotplot", figure=plot_dot(product[product["ReporterISO3A"] == "USA"] , "United States"))]
                 )],
                 style={"display": "inline-block", "width": "40%", "vertical-align":"top"}
                 )
             ]
         )
+
 
 
 @app.callback(
@@ -444,7 +409,6 @@ def update_networkgraph(val_selected):
     '''
     return build_networkelements(val_selected)
 
-
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
@@ -458,26 +422,28 @@ def update_fromdropdown(val_selected):
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
-    Output(component_id="dotplot", component_property="figure")],
+    Output(component_id="dotplot", component_property="figure"),
+    Output(component_id="slt_country", component_property="value")],
     [Input(component_id="network-graph", component_property="tapNodeData")]
 )
 
 def update_fromnode(node_clicked):
     if node_clicked:
-        return draw_countrydashboard(node_clicked["id"])
+        return draw_countrydashboard(node_clicked["id"]) + (node_clicked["id"],)
     else:
         raise PreventUpdate
 
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
     Output(component_id="sankeyplot", component_property="figure"),
-    Output(component_id="dotplot", component_property="figure")],
+    Output(component_id="dotplot", component_property="figure"),
+    Output(component_id="slt_country", component_property="value")],
     [Input(component_id="covid-map", component_property="clickData")]
 )
 
 def update_frommap(map_clicked):
     if map_clicked:
-        return draw_countrydashboard(map_clicked["points"][0]["location"])
+        return draw_countrydashboard(map_clicked["points"][0]["location"]) + (map_clicked["points"][0]["location"],)
     else:
         raise PreventUpdate
 
