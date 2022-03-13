@@ -18,16 +18,16 @@ country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
 graph = net.construct_networkgraph()
 
 # go to another file? 
-def f(row):
-    if row['Date_reported'] == '2020/3/31':
-        val = '2020Q1'
-    elif row['Date_reported'] == '2020/6/30':
-        val = '2020Q2'
-    elif row['Date_reported'] == '2020/9/30':
-        val = '2020Q3'
-    else:
-        val = '2020Q4'
-    return val
+# def f(row):
+#     if row['Date_reported'] == '2020/3/31':
+#         val = '2020Q1'
+#     elif row['Date_reported'] == '2020/6/30':
+#         val = '2020Q2'
+#     elif row['Date_reported'] == '2020/9/30':
+#         val = '2020Q3'
+#     else:
+#         val = '2020Q4'
+#     return val
 
 def prepare_covid_data(time_selected):
     '''
@@ -44,19 +44,10 @@ def prepare_covid_data(time_selected):
         dff: a cleaned dataframe for next step of plotting
     '''
 
-    covid_data = pd.read_csv('rawdata/WHO-COVID-19-global-data.csv')
-    country_code = pd.read_csv("rawdata/countries_codes_and_coordinates_new.csv")
-    country_code = country_code.rename({'Country': 'country_name'}, axis = 1)
-    dic = {'2020/3/31': '2020Q1', '2020/6/30': '2020Q2', '2020/9/30': '2020Q3', '2020/12/31': '2020Q4'}
-
-    df = covid_data.join(country_code.set_index('Alpha-2code'), on = 'Country_code')
-    dff = df[["country_name", "Date_reported", "Cumulative_cases", "Cumulative_deaths", "Alpha-3code"]]
-    dff = dff[dff.Date_reported.isin(dic.keys())]
-
+    df = pd.read_csv('cleandata/owid_covid_data_cleaned.csv')
     dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
-    dff['Quarter'] = dff.apply(f, axis=1)
 
-    return dff[dff.Quarter == dic.get(time_selected)]
+    return df[df.period == dic.get(time_selected)]
 
 def plot_world_map(time_selected, val_selected):
     '''
@@ -68,11 +59,12 @@ def plot_world_map(time_selected, val_selected):
     '''
 
     dff = prepare_covid_data(time_selected)
-    dff['hover_text'] = dff['country_name'] + ": " + dff[val_selected].apply(str)
+    dff['hover_text'] = dff['Country_name'] + ": " + dff[val_selected].apply(str)
 
+    np.seterr(divide = 'ignore') 
     fig = go.Figure(data = go.Choropleth(
-                    locations = dff['Alpha-3code'],
-                    z = np.log(dff[val_selected]), # need to fix log(0) here? maybe with list compre?
+                    locations = dff['iso_code'],
+                    z = np.log(dff[val_selected]),
                     text = dff['hover_text'],
                     hoverinfo = 'text',
                     marker_line_color='black',
@@ -345,10 +337,10 @@ app.layout = html.Div(
                             html.P(
                                 "Covid World Map",
                                 id="covidmap-title",),
-                                dcc.RadioItems(id='data-type-selected', value='Cumulative_deaths',
-                                options = [{'label': 'cumulative cases', 'value': 'Cumulative_cases'},
-                                            {'label': 'cumulative deaths', 'value': 'Cumulative_deaths'}]),
-                                dcc.Graph(id="covid-map", figure=plot_world_map(4, 'Cumulative_deaths'))]
+                                dcc.RadioItems(id='data-type-selected', value='total_cases_per_million',
+                                options = [{'label': 'Total cases per million', 'value': 'total_cases_per_million'},
+                                            {'label': 'Total deaths per million', 'value': 'total_deaths_per_million'}]),
+                                dcc.Graph(id="covid-map", figure=plot_world_map(1, 'total_cases_per_million'))]
                             ),
                     html.Div(
                         id = 'slider-container',
@@ -366,7 +358,7 @@ app.layout = html.Div(
                                     3: '2020Q3',
                                     4: '2020Q4',
                                 },
-                                value = 4
+                                value = 1
                             ),
                         ],
                     ),
