@@ -17,9 +17,10 @@ app = DashProxy(transforms=[MultiplexerTransform()],prevent_initial_callbacks=Tr
 product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"Value":"int", "Year":"category"})
 country_code = pd.read_csv("cleandata/countries_codes_and_coordinates_cleaned.csv")
 covid_data = pd.read_csv('cleandata/WHO-COVID-19-global-data_cleaned.csv')
-agg_data = pd.read_csv('cleandata/agg_covid_trade.csv')
-agg_data["id"] = agg_data["iso_code"]
+covid_data = pd.read_csv('cleandata/owid_covid_data_cleaned.csv')
 graph = net.construct_networkgraph()
+dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
+
 
 def plot_world_map(time_selected, val_selected):
     '''
@@ -29,14 +30,15 @@ def plot_world_map(time_selected, val_selected):
     Outputs:
         fig: the world map graph
     '''
-    dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
-    df = covid_data[covid_data.Quarter == dic.get(time_selected)]
-    df['hover_text'] = df['Country_name'] + ": " + df[val_selected].apply(str)
 
+    dff = covid_data[covid_data.period == dic.get(time_selected)]
+    dff['hover_text'] = dff['Country_name'] + ": " + dff[val_selected].apply(str)
+
+    np.seterr(divide = 'ignore') 
     fig = go.Figure(data = go.Choropleth(
-                    locations = df['Alpha-3code'],
-                    z = np.log(df[val_selected]), # need to fix log(0) here? maybe with list compre?
-                    text = df['hover_text'],
+                    locations = dff['iso_code'],
+                    z = np.log(dff[val_selected]),
+                    text = dff['hover_text'],
                     hoverinfo = 'text',
                     marker_line_color='black',
                     colorbar_title = 'Log Value',
@@ -48,9 +50,9 @@ def plot_world_map(time_selected, val_selected):
     paper_bgcolor= "rgba(0,0,0,0)",
     plot_bgcolor = "rgba(0,0,0,0)",
     font_color= "#edeff7",
-    height = 450,
+    height = 500,
     geo_bgcolor="rgba(0,0,0,0)",
-    margin=dict(l=25, r=50, t=0, b=0)
+    margin=dict(l=25, r=50, t=80, b=50)
     )
 
     return fig
@@ -131,7 +133,7 @@ def plot_bar(df, country_name):
         ),
         autosize=False,
         width=600,
-        height=500,
+        height=400,
         margin=dict(
             l=100,
             r=0,
@@ -185,7 +187,7 @@ def plot_sankey(val_selected, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=670,
+        height=650,
         margin=dict(
             l=50,
             r=20,
@@ -210,7 +212,7 @@ def plot_dot(df, country_name):
     df_new = df[df["ProductCode"]!="TO"].pivot(index=["ReporterISO3A", "Reporter", "ProductCode", "Product"], values="Value", columns=["Indicator", "Year"]).reset_index()
     df_new["Total 2020"] = (df_new["Import"]["2020"] + df_new["Export"]["2020"])
     df_new["Total 2019"] = (df_new["Import"]["2019"] + df_new["Export"]["2019"])
-    df_new = df_new.sort_values("Total 2019").tail(7)
+    df_new = df_new.sort_values("Total 2019").tail(5)
     df_new["Product"] = df_new["Product"].str.replace("equipment", "")
 
     fig = go.Figure()
@@ -237,7 +239,7 @@ def plot_dot(df, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=400,
+        height=323,
         margin=dict(
             l=50,
             r=20,
@@ -280,6 +282,7 @@ network_stylesheet = [
     }
 ]
 
+
 # Define Layout (dash components inside)
 app.layout = html.Div(
     id="root",
@@ -306,12 +309,16 @@ app.layout = html.Div(
                         id = 'covidmap-container',
                         children = [
                             html.P(
+                            id = 'map-text',
+                            children = '1. Explore maps and click on country: ',
+                            ),
+                            html.P(
                                 "Covid World Map",
                                 id="covidmap-title",),
-                                dcc.RadioItems(id='data-type-selected', value='Cumulative_deaths',
-                                options = [{'label': 'cumulative cases', 'value': 'Cumulative_cases'},
-                                            {'label': 'cumulative deaths', 'value': 'Cumulative_deaths'}]),
-                                dcc.Graph(id="covid-map", figure=plot_world_map(4, 'Cumulative_deaths'))]
+                                dcc.RadioItems(id='data-type-selected', value='total_cases_per_million',
+                                options = [{'label': 'Total cases per million', 'value': 'total_cases_per_million'},
+                                            {'label': 'Total deaths per million', 'value': 'total_deaths_per_million'}]),
+                                dcc.Graph(id="covid-map", figure=plot_world_map(1, 'total_cases_per_million'))]
                             ),
                     html.Div(
                         id = 'slider-container',
@@ -329,7 +336,7 @@ app.layout = html.Div(
                                     3: '2020Q3',
                                     4: '2020Q4',
                                 },
-                                value = 4
+                                value = 1
                             ),
                         ],
                     ),
@@ -364,7 +371,7 @@ app.layout = html.Div(
                 children=[
                     html.P(
                             id = 'dropdown-text',
-                            children = 'Country you are looking at: ',
+                            children = '2. Country you are looking at: ',
                             ),
                     dcc.Dropdown(
                         id='slt_country',

@@ -131,3 +131,26 @@ def create_aggdata(path="cleandata/agg_covid_trade.csv"):
     whole_df = whole_df.sort_values("iso_code")
 
     whole_df.to_csv(path, sep=',', index=False)
+
+# Later delete.
+def clean_who(path="cleandata/WHO-COVID-19-global-data_cleaned.csv"):
+    '''
+    Clean WHO covid data. Add country code and drop irrelevant columns add quarter column. 
+    Inputs:
+        path (str): A csv path. Default is defined. 
+    
+    Outputs:
+        Save to csv. Return is None. 
+    '''
+    df = pd.read_csv('rawdata/WHO-COVID-19-global-data.csv')
+    country_code = pd.read_csv('rawdata/countries_codes_and_coordinates_new.csv').rename({'Country': 'Country_name'}, axis = 1)
+    dic = {'2020/3/31': '2020Q1', '2020/6/30': '2020Q2', '2020/9/30': '2020Q3', '2020/12/31': '2020Q4'}
+
+    df = df.join(country_code.set_index('Alpha-2code'), on = 'Country_code')
+    dff = df[["Country_name", "Date_reported", "Cumulative_cases", "Cumulative_deaths", "Alpha-3code", "Country_code"]]
+    dff = dff.rename(columns = {"Country_code":"Alpha-2code"})
+    dff = dff[dff.Date_reported.isin(dic.keys())]
+
+    dff['Quarter'] = dff["Date_reported"].map(dic)
+
+    dff.to_csv(path, sep=',', index=False)
