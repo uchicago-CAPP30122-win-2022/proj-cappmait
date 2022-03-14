@@ -31,3 +31,11 @@ for running our products
  - `dashboard` for open dashboards
  - `analysis` for open analysis report
  - `quit` for exit the program
+
+7. (Optional) To run data collection modules, run these commands. 
+```sh
+cd proj_cappmait/getdata/
+ipython3 un_api.py # Retrieve data from the UN
+ipython3 imf_api.py # Retrieve data from the IMF
+ipython3 getready_data.py # Download other files and clean data
+```
