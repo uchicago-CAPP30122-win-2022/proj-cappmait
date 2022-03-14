@@ -6,7 +6,7 @@ import numpy as np
 import random
 import csv
 
-def get_pagerank_data():
+def get_pagerank():
     '''
     Calculate the Page Rank value for all countries and save to csv file. 
     The Page Rank here is using the damping factor 0.9. 
@@ -15,17 +15,17 @@ def get_pagerank_data():
 
     Output: A list of tuple with country code and Page Rank. This data is also saved in csv.
     '''
-    partners = pd.read_csv("cleandata/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
+    partners = pd.read_csv("../data/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
 
     pagerank = PageRank(partners, 0.9)
     pagerank.compute_transition()
-    print("Running simulation, sorry it takes time...")
+    print("Running simulation.")
     pagerank_dct = pagerank.compute_pagerank(10000000, 1)
 
     pagerank_lst = [(pagerank.country_list[i], p) for i, p in pagerank_dct.items()]
     pagerank_lst = sorted(pagerank_lst, key=lambda x:x[1], reverse=True)
 
-    with open('cleandata/pagerank.csv', 'w') as f:
+    with open('../data/pagerank.csv', 'w') as f:
         write = csv.writer(f)
         for pagerank_tup in pagerank_lst:
             write.writerow(pagerank_tup)

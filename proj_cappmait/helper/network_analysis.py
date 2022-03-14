@@ -15,8 +15,8 @@ def construct_networkgraph():
 
     Output: A graph object. 
     '''
-    partners = pd.read_csv("cleandata/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
-    pagerank = pd.read_csv("cleandata/pagerank.csv", names=["country_code", "pagerank"], \
+    partners = pd.read_csv("proj_cappmait/data/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
+    pagerank = pd.read_csv("proj_cappmait/data/pagerank.csv", names=["country_code", "pagerank"], \
                 dtype={"country_code":"str", "pagerank":"float"})
 
     graph = Graph(partners)

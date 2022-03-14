@@ -20,8 +20,6 @@ product = pd.read_csv(
      dtype={"Value":"int", "Year":"category"})
 country_code = pd.read_csv(
     "proj_cappmait/data/countries_codes_and_coordinates_cleaned.csv")
-covid_data = pd.read_csv(
-    'proj_cappmait/data/WHO-COVID-19-global-data_cleaned.csv')
 covid_data = pd.read_csv('proj_cappmait/data/owid_covid_data_cleaned.csv')
 
 # Functions for drawing graphs

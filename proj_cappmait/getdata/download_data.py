@@ -1,10 +1,10 @@
 '''
-This module downloads data from websites. 
+This module downloads following data from websites. 
 Data Sources:
     WTO trade products
-    COVID OWID
-    WHO covid
+    OWID covid
     World Bank econ data
+    Country code data
 '''
 import json
 import time
@@ -13,7 +13,6 @@ from zipfile import ZipFile
 from io import BytesIO
 import requests
 import pandas as pd
-# pip install wbgapi to get world bank data
 import wbgapi as wb
 
 # Helper function
@@ -40,6 +39,7 @@ def get_json(url, params = None):
         return get_json(url, params)
     return []
 
+
 # Download COVID our world in data
 def owid_csv(data, path):
     '''
@@ -57,7 +57,6 @@ def owid_csv(data, path):
     df.insert(0, "iso_code", col)
 
     df.to_csv(path, index = False)
-
 
 def get_owid():
     '''
@@ -81,8 +80,8 @@ def get_owid():
                     covid_data.append(day)
         country_infos.append(country_info)
 
-    owid_csv(country_infos, "rawdata/owid_country_info.csv")
-    owid_csv(covid_data, "rawdata/owid_covid_data.csv")
+    owid_csv(country_infos, "../data/owid_country_info.csv")
+    owid_csv(covid_data, "../data/archived/owid_covid_data.csv")
 
 
 # Download WTO trade product data
@@ -104,16 +103,16 @@ def get_wto():
     df["Indicator"].replace(
         regex={r'.+imports.+': 'Import', r'.+exports.+': 'Export'}, inplace=True)
 
-    df.to_csv("rawdata/merchandise_values_annual_dataset.csv", sep=',', index=False)
+    df.to_csv("../data/merchandise_values_annual_dataset.csv", index=False)
     
 
 # Download World Bank data
 def get_wb():
     '''
     Download World Bank data, which are real gdp, nominal gdp, 
-    inflation, tariff, exchange rate and total labor
+    inflation, tariff, exchange rate and total labor.
+    Save it to csv.
     '''
-
     inds = ['NY.GDP.MKTP.CD', 'NY.GDP.MKTP.KD', 'FP.CPI.TOTL.ZG', 
             'TM.TAX.MRCH.SM.AR.ZS', 'PA.NUS.FCRF', 'SL.TLF.TOTL.IN']
     wb_data = wb.data.DataFrame(inds, time=[2019, 2020]).reset_index()
@@ -123,18 +122,23 @@ def get_wb():
                        'nominal_gdp', 'real_gdp', 'exchange_rate', 
                        'labor_force', 'tariff']
     wb_data['time'] = wb_data['time_code'].str[2:]
-    wb_data.to_csv("rawdata/world-bank-econ-data.csv", index=False)
+    wb_data.to_csv("../data/world-bank-econ-data.csv", index=False)
 
 
-def main():
-    print ("Downloading csv data.")
-    get_owid()
-    get_wto()
-    get_wb()
-    print ("Data is ready.")
+# Download Country code data
+def get_countrycode():
+    '''
+    Download country code data, which maps country name, 
+    country iso3, iso2 code.
+    Save it to csv.
+    '''
+    url = ('https://gist.githubusercontent.com/tadast/8827699/raw/'
+            'f5cac3d42d16b78348610fc4ec301e9234f82821/countries_codes_and_coordinates.csv')
 
+    df = pd.read_csv(url)
+    df.columns = df.columns.str.replace(' ','')
+    df.loc[:, "Alpha-2code":] = df.loc[:, "Alpha-2code":].replace(regex=r"[\" ]", value='')
+    df = df.drop_duplicates(subset='Alpha-3code', keep='last')
 
-if __name__ == "__main__":
-    main()
-
+    df.to_csv("../data/archived/countries_codes_and_coordinates.csv", index=False)
 
