@@ -3,11 +3,11 @@ from proj_cappmait.product import dashboard, analysis
 
 def run_dashboard():
     app = dashboard.app
-    app.run_server(debug=True, port=3009)
+    app.run_server(debug=False, port=3003)
 
 def run_analysis():
     app = analysis.app
-    app.run_server(debug=True, port=3008)
+    app.run_server(debug=False, port=3004)
 
 def run():
     '''
