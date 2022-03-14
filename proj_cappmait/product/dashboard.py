@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import dash_html_components as html
 import dash_core_components as dcc
+from dash import html
 from dash.exceptions import PreventUpdate
 from dash_extensions.enrich import DashProxy, MultiplexerTransform, Input, Output
 import dash_cytoscape as cyto
@@ -23,86 +24,19 @@ covid_data = pd.read_csv(
     'proj_cappmait/data/WHO-COVID-19-global-data_cleaned.csv')
 covid_data = pd.read_csv('proj_cappmait/data/owid_covid_data_cleaned.csv')
 
-def network_legend():
-    fig = go.Figure()
-    fig.add_shape(type="circle",
-    line_color="grey", fillcolor="grey",
-    x0=1, y0=0, x1=1.03, y1=2
-    )
-
-    fig.add_trace(go.Scatter(
-    x=[1.15, 1.41, 1.63],
-    y=[1, 1, 1],
-    text=[": PageRank(=centrality) size", 
-          ": Trade Increased", 
-          ": Trade Decreased"],
-    mode="text",
-    textfont=dict(
-        color="#edeff7",
-        size=12,
-        )
-    ))
-
-    fig.add_shape(type="line",
-        x0=1.27, y0=1, x1=1.33, y1=1,
-        line=dict(
-            color="blue",
-            width=2,
-        )
-    )
-
-    fig.add_shape(type="line",
-        x0=1.49, y0=1, x1=1.55, y1=1,
-        line=dict(
-            color="red",
-            width=2,
-        )
-    )
-
-    fig.add_shape(type="line",
-        x0=1.77, y0=1, x1=1.84, y1=1,
-        line=dict(
-            color="rgba(0,0,0,0)",
-            width=2,
-        )
-    )
-
-    fig.update_xaxes(
-    showticklabels=False,
-        showgrid=False,
-        zeroline=False,
-    )
-
-    fig.update_yaxes(
-        showticklabels=False,
-        showgrid=False,
-        zeroline=False,
-    )
-    fig.update_layout(
-    paper_bgcolor= "rgba(0,0,0,0)",
-    plot_bgcolor = "rgba(0,0,0,0)",
-    font_color= "#edeff7",
-    height = 100,
-    width = 700,
-    geo_bgcolor="rgba(0,0,0,0)",
-    margin=dict(t=0, l=40)
-    )
-
-    return fig
-
-
+# Functions for drawing graphs
 def plot_world_map(time_selected, val_selected):
     '''
     Plot worldwide covid cases situation
     Inputs:
-        val_selected: the data type selected by user
+        time_selected(int): the quarter selected by user
+        val_selected(str): the data type selected by user
     Outputs:
         fig: the world map graph
     '''
     dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
     dff = covid_data[covid_data.period == dic.get(time_selected)]
-    dff['hover_text'] = dff['Country_name'] + ": " + \
-                        dff[val_selected].apply(str)
+    dff['hover_text'] = dff['Country_name'] + ": " + dff[val_selected].apply(str)
 
     np.seterr(divide = 'ignore') 
     fig = go.Figure(data = go.Choropleth(
@@ -114,9 +48,7 @@ def plot_world_map(time_selected, val_selected):
                     colorbar_title = 'Log Value',
                     autocolorscale = False,
                     reversescale = True,
-                    colorscale = "RdBu", 
-                    marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}
-                    ))
+                    colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
 
     fig.update_layout(
     paper_bgcolor= "rgba(0,0,0,0)",
@@ -128,6 +60,7 @@ def plot_world_map(time_selected, val_selected):
     )
 
     return fig
+
 
 def build_networkelements(is_exporter):
     '''
@@ -159,31 +92,89 @@ def build_networkelements(is_exporter):
 
     return graph_nodes + graph_edges
 
-def draw_countrydashboard(val_selected):
+
+def network_legend():
     '''
-    Update graphs given the user selected country
-    Inputs:
-        val_selected(str) : The user selected country
-    
-    Outputs:
-        A tuple of graph objects
+    Draw a network map legend since legend is not
+    automatically created by cytoscape. 
+    Input: 
+        None
+    Output: 
+        fig(a graph legend object)
     '''
-    df = product[product["ReporterISO3A"] == val_selected] 
-    country_name = (country_code.loc[country_code["Alpha-3code"] == 
-        val_selected, "Country"].item())
+    fig = go.Figure()
+    fig.add_shape(type="circle",
+                line_color="grey", 
+                fillcolor="grey",
+                x0=1, y0=0, x1=1.03, y1=2
+    )
 
-    bar_plt = plot_bar(df, country_name)
+    fig.add_trace(go.Scatter(
+                x=[1.15, 1.41, 1.63],
+                y=[1, 1, 1],
+                text=[": PageRank(=centrality) size", 
+                      ": Trade Increased", 
+                      ": Trade Decreased"],
+                mode="text",
+                textfont=dict(
+                    color="#edeff7",
+                    size=12,
+                    )
+    ))
 
-    sankey_plt = plot_sankey(val_selected, country_name)
+    fig.add_shape(type="line",
+                x0=1.27, y0=1, x1=1.33, y1=1,
+                line=dict(
+                    color="blue",
+                    width=2,
+                    )
+    )
 
-    dot_plt = plot_dot(df, country_name)
+    fig.add_shape(type="line",
+                x0=1.49, y0=1, x1=1.55, y1=1,
+                line=dict(
+                    color="red",
+                    width=2,
+                )
+    )
 
-    return (bar_plt, sankey_plt, dot_plt)
+    fig.add_shape(type="line",
+                x0=1.77, y0=1, x1=1.84, y1=1,
+                line=dict(
+                    color="rgba(0,0,0,0)",
+                    width=2,
+                )
+    )
+
+    fig.update_xaxes(
+                showticklabels=False,
+                    showgrid=False,
+                    zeroline=False,
+    )
+
+    fig.update_yaxes(
+                showticklabels=False,
+                showgrid=False,
+                zeroline=False,
+    )
+
+    fig.update_layout(
+                paper_bgcolor= "rgba(0,0,0,0)",
+                plot_bgcolor = "rgba(0,0,0,0)",
+                font_color= "#edeff7",
+                height = 100,
+                width = 700,
+                geo_bgcolor="rgba(0,0,0,0)",
+                margin=dict(t=0, l=50)
+    )
+
+    return fig
 
 
 def plot_bar(df, country_name):
     '''
-    Create a bar graph object
+    Create a bar graph object, which represents 
+    trade volume of export/import in 2019/2020. 
     Inputs:
         df (Pandas Dataframe): a data of products
     Outputs:
@@ -197,33 +188,33 @@ def plot_bar(df, country_name):
                  )
 
     fig.update_layout(
-        font_color="#e7ecf5",
-        title=f'{country_name}\'s Total Trade Volume before/after Covid',
-        xaxis=dict(
-            title= '',
-            titlefont_size=14,
-            tickfont_size=14,
-            title_standoff=50
-        ),
-        yaxis=dict(
-            title= 'Trade Volume',
-            titlefont_size=14,
-            tickfont_size=14,
-        ),
-        autosize=False,
-        width=600,
-        height=400,
-        margin=dict(
-            l=100,
-            r=0,
-            b=0,
-            t=100,
-            pad=4
-        ),
-        paper_bgcolor= 'rgba(0,0,0,0)',
-        plot_bgcolor='rgba(0,0,0,0)',
-        bargap=0.15, # gap between bars of adjacent location coordinates.
-        bargroupgap=0.1 # gap between bars of the same location coordinate.
+                font_color="#e7ecf5",
+                title=f'{country_name}\'s Total Trade Volume before/after Covid',
+                xaxis=dict(
+                    title= '',
+                    titlefont_size=14,
+                    tickfont_size=14,
+                    title_standoff=50
+                ),
+                yaxis=dict(
+                    title= 'Trade Volume',
+                    titlefont_size=14,
+                    tickfont_size=14,
+                ),
+                autosize=False,
+                width=600,
+                height=400,
+                margin=dict(
+                    l=100,
+                    r=0,
+                    b=100,
+                    t=100,
+                    pad=4
+                ),
+                paper_bgcolor= 'rgba(0,0,0,0)',
+                plot_bgcolor='rgba(0,0,0,0)',
+                bargap=0.15,
+                bargroupgap=0.1
     )
 
     return fig
@@ -231,60 +222,62 @@ def plot_bar(df, country_name):
 
 def plot_sankey(val_selected, country_name):
     '''
-    Create a sankey graph object
+    Create a sankey graph object, which represents 
+    top10 trade flows of each export/import in 2019/2020. 
     Inputs:
         node_df(Pandas Dataframe): a data of nodes
         links_df(Pandas Dataframe): a data of links
     Outputs:
         fig(a sankey graph object)
     '''
-
     graph = net.construct_networkgraph()
     nodes, edges = graph.draw_sankey(val_selected)
+
     fig = go.Figure(data=[go.Sankey(
-        node = dict(
-        pad = 5,
-        thickness = 5,
-        line = dict(color = "#aab0bf", width = 0.5),
-        label = nodes,
-        color = "#aab0bf"
-        ),
-        link = dict(
-        source = [source for source, _, _, _ in edges], 
-        target = [target for _, target, _, _ in edges],
-        value =  [value for _, _, value, _ in edges],
-        color = [color for _, _, _, color in edges]
+                node = dict(
+                    pad = 5,
+                    thickness = 5,
+                    line = dict(color = "#aab0bf", width = 0.5),
+                    label = nodes,
+                    color = "#aab0bf"
+                ),
+                link = dict(
+                    source = [source for source, _, _, _ in edges], 
+                    target = [target for _, target, _, _ in edges],
+                    value =  [value for _, _, value, _ in edges],
+                    color = [color for _, _, _, color in edges]
     ))])
 
     fig.add_annotation(text="2019",
-                    xref="paper", yref="paper",
-                    x=0.2, y=1.00, showarrow=False), 
+                xref="paper", yref="paper",
+                x=0.2, y=1.00, showarrow=False), 
     fig.add_annotation(text="2020",
-                    xref="paper", yref="paper",
-                    x=0.75, y=1.00, showarrow=False)
+                xref="paper", yref="paper",
+                x=0.75, y=1.00, showarrow=False)
 
     fig.update_layout(
-        title = f'{country_name}\'s Trade Partners before/after Covid',
-        font_color="#e7ecf5",
-        autosize=False,
-        width=600,
-        height=650,
-        margin=dict(
-            l=50,
-            r=20,
-            b=50,
-            t=30,
-            pad=4
-        ),
-        paper_bgcolor= 'rgba(0,0,0,0)',
-        plot_bgcolor='rgba(0,0,0,0)'
+                title = f'{country_name}\'s Trade Partners before/after Covid',
+                font_color="#e7ecf5",
+                autosize=False,
+                width=600,
+                height=700,
+                margin=dict(
+                    l=50,
+                    r=20,
+                    b=50,
+                    t=30,
+                    pad=4
+                ),
+                paper_bgcolor= 'rgba(0,0,0,0)',
+                plot_bgcolor='rgba(0,0,0,0)'
     )
     return fig
 
 
 def plot_dot(df, country_name):
     '''
-    Create a dot graph object
+    Create a dot graph object, which represents 
+    total trade (import+export) in top5 product categories. 
     Inputs:
         df (Pandas Dataframe): a data of products
     Outputs:
@@ -303,48 +296,48 @@ def plot_dot(df, country_name):
         df_new["Product"] = df_new["Product"].str.replace("equipment", "")
 
         fig = go.Figure()
+
         fig.add_trace(go.Scatter(
-            x=df_new["Total 2019"],
-            y=df_new["Product"],
-            opacity=0.7,
-            marker=dict(color='#36559c', 
-                size=12, line=dict(color="#aab0bf",width=1)
-            ),
-            mode="markers",
-            name="2019",
+                    x=df_new["Total 2019"],
+                    y=df_new["Product"],
+                    opacity=0.7,
+                    marker=dict(color='#36559c', 
+                        size=12, line=dict(color="#aab0bf",width=1)
+                    ),
+                    mode="markers",
+                    name="2019",
         ))
 
         fig.add_trace(go.Scatter(
-            x=df_new["Total 2020"],
-            y=df_new["Product"],
-            opacity=0.7,
-            marker=dict(color='#b5442d', 
-                size=12, 
-                line=dict(color="#aab0bf",width=1)
-            ),
-            mode="markers",
-            name="2020",
+                    x=df_new["Total 2020"],
+                    y=df_new["Product"],
+                    opacity=0.7,
+                    marker=dict(color='#b5442d', 
+                        size=12, 
+                        line=dict(color="#aab0bf",width=1)
+                    ),
+                    mode="markers",
+                    name="2020",
         ))
 
         fig.update_layout(
-            xaxis = dict(showgrid=False, showline=True),
-            xaxis_title="Total volume of import and export",
-            legend=dict(
-                    orientation="h",
-                    yanchor="bottom",
-                    y=0.98,
-                    xanchor="right",
-                    x=1
-            )
-        )
+                    xaxis = dict(showgrid=False, showline=True),
+                    xaxis_title="Total volume of import and export",
+                    legend=dict(
+                            orientation="h",
+                            yanchor="bottom",
+                            y=0.98,
+                            xanchor="right",
+                            x=1
+        ))
 
     # If data is missing, show a message
     else:
         fig = go.Figure()
         fig.update_layout(
-            xaxis = {"visible": False},
-            yaxis = {"visible": False},
-            annotations = [{
+                    xaxis = {"visible": False},
+                    yaxis = {"visible": False},
+                    annotations = [{
                             "text": "Missing Data",
                             "xref": "paper",
                             "yref": "paper",
@@ -353,26 +346,46 @@ def plot_dot(df, country_name):
         )
 
     fig.update_layout(
-        title = f'{country_name}\'s Product Category before/after Covid',
-        font_color="#e7ecf5",
-        autosize=False,
-        width=600,
-        height=323,
-        margin=dict(
-            l=50,
-            r=20,
-            b=0,
-            t=50,
-            pad=4
-        ),
-        paper_bgcolor= 'rgba(0,0,0,0)',
-        plot_bgcolor='rgba(0,0,0,0)')
-
+                title = f'{country_name}\'s Product Category before/after Covid',
+                font_color="#e7ecf5",
+                autosize=False,
+                width=600,
+                height=314,
+                margin=dict(
+                    l=50,
+                    r=20,
+                    b=0,
+                    t=50,
+                    pad=4
+                ),
+                paper_bgcolor= 'rgba(0,0,0,0)',
+                plot_bgcolor='rgba(0,0,0,0)'
+    )
 
     return fig
 
 
+def update_countrydashboard(val_selected):
+    '''
+    Update country dashboard(RHS) given the user selected country. 
+    Inputs:
+        val_selected(str) : The user selected country code
+    Outputs:
+        A tuple of graph objects
+    '''
+    df = product[product["ReporterISO3A"] == val_selected] 
+    country_name = (country_code.loc[country_code["Alpha-3code"] == 
+        val_selected, "Country"].item())
 
+    bar_plt = plot_bar(df, country_name)
+
+    sankey_plt = plot_sankey(val_selected, country_name)
+
+    dot_plt = plot_dot(df, country_name)
+
+    return (bar_plt, sankey_plt, dot_plt)
+
+# Styl for network graph
 network_stylesheet = [
     {
         "selector": "node",
@@ -399,7 +412,7 @@ app.layout = html.Div(
     id="root",
     children=[
         html.Div(
-            id="header",
+        id="header",
         children=[
             html.H1("Dashboard of Covid Impact and World Trading"),
             html.P(id="description",
@@ -420,42 +433,37 @@ app.layout = html.Div(
                 id="left-top",
                 children=[
                     html.Div(
-                        id = 'covidmap-container',
-                        children = [
-                            html.P(
-                            id = 'map-text',
-                            children = '1. Explore maps and click on country: ',
-                            ),
-                            html.P(
-                                "Covid World Map",
-                                id="covidmap-title",),
-                                dcc.RadioItems(id='data-type-selected', 
-                                               value='total_cases_per_million',
+                    id = 'covidmap-container',
+                    children = [
+                        html.P(id = 'up-left-header',
+                                children = 'Clickable Board - Click Country of Interest',
+                        ),
+                        html.P(id="covidmap-title",
+                                children = "Covid World Map",
+                        ),
+                        dcc.RadioItems(id='data-type-selected', 
+                                value='total_cases_per_million',
                                 options = [
                                     {'label': 'Total cases per million', 
-                                     'value': 'total_cases_per_million'
+                                        'value': 'total_cases_per_million'
                                     },
                                     {'label': 'Total deaths per million', 
-                                     'value': 'total_deaths_per_million'
-                                    }
-                                ]),
-                                dcc.Graph(
-                                    id="covid-map", 
-                                    figure=plot_world_map(1, 
-                                        'total_cases_per_million'
-                                    )
-                                )
-                        ]
-                            ),
+                                        'value': 'total_deaths_per_million'
+                                    }]
+                        ),
+                        dcc.Graph(id="covid-map", 
+                                figure=plot_world_map(1, 
+                                    'total_cases_per_million'
+                                ) 
+                        )
+                    ]),
                     html.Div(
-                        id = 'slider-container',
-                        children = [
-                            html.P(
-                                id='slider-text',
+                    id = 'slider-container',
+                    children = [
+                        html.P(id='slider-text',
                                 children='Drag the slider to choose timespan: ',
-                            ),
-                            dcc.Slider(
-                                id = 'time-slider',
+                        ),
+                        dcc.Slider(id = 'time-slider',
                                 step=None,
                                 marks = {
                                     1: '2020Q1',
@@ -465,52 +473,61 @@ app.layout = html.Div(
                                 },
                                 value = 1
                             ),
-                        ],
-                    ),
+                    ]),
                     
                     html.Div(
                         id="network",
                         children=[
-                            html.P("Global Trading Network",
-                            id="chart-selector-2",),
+                            html.P(id = "bottom-left-header",
+                                    children = "Clickable Board - Click Country of Interest",
+                            ),
+                            html.P(id="chart-selector-2",
+                                    children = "Global Trading Network",
+                            ),
                             dcc.RadioItems(id='import-or-export', 
-                                options=[
-                                        {'label':'Exporter view', 'value':True},
-                                        {'label':'Importer view', 'value':False}
-                                    ], 
-                                    value=True, 
-                                    inline=True
-                                ),
+                                    options=[
+                                            {'label':'Exporter view', 'value':True},
+                                            {'label':'Importer view', 'value':False}
+                                        ], 
+                                        value=True, 
+                                        inline=True
+                            ),
                             cyto.Cytoscape(id='network-graph',
-                                elements=build_networkelements(True),
-                                style={'width': '100%', 'height': '600px'},
-                                layout={'name': 'cose','animate': 'end'},
-                                stylesheet=network_stylesheet,
-                                autoungrabify=True,
-                                minZoom=0.4,
-                                maxZoom=1),
+                                    elements=build_networkelements(True),
+                                    style={'width': '100%', 'height': '600px'},
+                                    layout={'name': 'cose','animate': 'end'},
+                                    stylesheet=network_stylesheet,
+                                    autoungrabify=True,
+                                    minZoom=0.4,
+                                    maxZoom=1
+                            ),
                             dcc.Graph(id="network-legend", 
-                                figure=network_legend()),
-                                ]
-                            )],
-                        ),
-                ],
-            style={"display": "inline-block", "width": "50%", 
-                   "vertical-align":"top"}
+                                    figure=network_legend()
+                            ),
+                        ]
+                    )]
+                )],
+            style={
+                "display": "inline-block", 
+                "width": "50%", 
+                "vertical-align":"top"
+            }
         ),
 
     # Right
         html.Div(
             id="graph-container",
-            children=[html.Div(
+            children=[
+                html.Div(
                 id="countrydashboard",
                 children=[
-                    html.P(
-                            id = 'dropdown-text',
-                            children = '2. Country you are looking at: ',
-                            ),
-                    dcc.Dropdown(
-                        id='slt_country',
+                    html.P(id = 'up-right-header', 
+                            children = 'Country Deep-Dive'
+                    ),
+                    html.P(id = 'dropdown-text',
+                            children = 'Select country:'
+                    ),
+                    dcc.Dropdown(id='slt_country',
                         options=[
                             {'label': name, 
                              'value': code
@@ -518,46 +535,49 @@ app.layout = html.Div(
                                 country_code.itertuples(index=False)
                         ],
                         searchable=True,
-                        value="USA"),
-                    dcc.Graph(
-                        id="barplot", 
+                        value="USA"
+                    ),
+                    dcc.Graph(id="barplot", 
                         figure=plot_bar(
                             product[product["ReporterISO3A"] == "USA"], 
                             "United States"
                         )
                     ),
-                    dcc.Graph(
-                        id="sankeyplot", 
+                    dcc.Graph(id="sankeyplot", 
                         figure=plot_sankey("USA", "United States")
                     ),
-                    dcc.Graph(
-                        id="dotplot", 
+                    dcc.Graph(id="dotplot", 
                         figure=plot_dot(
                             product[product["ReporterISO3A"] == "USA"], 
                             "United States"
                         )
-                    )
-                ]
+                    )]
                 )],
-                style={
-                    "display": "inline-block", 
-                    "width": "40%", 
-                    "vertical-align":"top"
-                }
-                )
-            ]
+            style={
+                "display": "inline-block", 
+                "width": "40%", 
+                "vertical-align":"top"
+            }
         )
+    ]
+)
 
-
-
+# Define user inputs and callbacks
 @app.callback(
     Output("covid-map", "figure"),
     [Input('time-slider', 'value'),
-    Input("data-type-selected", "value"),
-    ],
+    Input("data-type-selected", "value")],
 )
 
 def update_world_map(time_selected, val_selected):
+    '''
+    Update world map given user selected time and data.
+    Inputs:
+        time_selected(int): the quarter selected by user
+        val_selected(str): the data type selected by user
+    Output:
+        fig: updated world map graph
+    '''
     return plot_world_map(time_selected, val_selected)
 
 
@@ -568,11 +588,11 @@ def update_world_map(time_selected, val_selected):
 
 def update_networkgraph(val_selected):
     '''
-    Update the network graph
+    Update network graph given user selected data. 
     Inputs:
         val_selected(boolean): True if exporter view and false if importer view. 
     Output:
-        elements(list): A list of graph nodes and edges. 
+        fig: updated network graph
     '''
     return build_networkelements(val_selected)
 
@@ -584,22 +604,15 @@ def update_networkgraph(val_selected):
 )
 
 def update_fromdropdown(val_selected):
-    print(val_selected)
-    return draw_countrydashboard(val_selected)
-
-@app.callback(
-    [Output(component_id="barplot", component_property="figure"),
-    Output(component_id="sankeyplot", component_property="figure"),
-    Output(component_id="dotplot", component_property="figure"),
-    Output(component_id="slt_country", component_property="value")],
-    [Input(component_id="network-graph", component_property="tapNodeData")]
-)
-
-def update_fromnode(node_clicked):
-    if node_clicked:
-        return draw_countrydashboard(node_clicked["id"]) + (node_clicked["id"],)
-    else:
-        raise PreventUpdate
+    '''
+    Update country dashboard give user selected country
+    from dropdown list
+    Input:
+        val_selected(str): The user selected country code
+    Output:
+        figs: updated country dashboard
+    '''
+    return update_countrydashboard(val_selected)
 
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
@@ -610,8 +623,40 @@ def update_fromnode(node_clicked):
 )
 
 def update_frommap(map_clicked):
+    '''
+    Update country dashboard and dropdown list selection
+    given user selected country from world map
+    Input:
+        map_clicked(dict): The mouse clicked data
+    Output:
+        A tuple of updated country dashboard figs and a dropdown list value
+    '''
     if map_clicked:
-        return draw_countrydashboard(map_clicked["points"][0]["location"]) + \
-            (map_clicked["points"][0]["location"],)
+        val_selected = map_clicked["points"][0]["location"]
+        return update_countrydashboard(val_selected) + (val_selected,)
     else:
         raise PreventUpdate
+
+@app.callback(
+    [Output(component_id="barplot", component_property="figure"),
+    Output(component_id="sankeyplot", component_property="figure"),
+    Output(component_id="dotplot", component_property="figure"),
+    Output(component_id="slt_country", component_property="value")],
+    [Input(component_id="network-graph", component_property="tapNodeData")]
+)
+
+def update_fromnode(node_clicked):
+    '''
+    Update country dashboard and dropdown list selection
+    given user selected country from network map
+    Input:
+        node_clicked(dict): The mouse clicked data
+    Output:
+        A tuple of updated country dashboard figs and a dropdown list value
+    '''
+    if node_clicked:
+        val_selected = node_clicked["id"]
+        return update_countrydashboard(val_selected) + (val_selected,)
+    else:
+        raise PreventUpdate
+
