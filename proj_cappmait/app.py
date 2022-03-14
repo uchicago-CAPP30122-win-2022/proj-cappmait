@@ -14,10 +14,10 @@ def run():
     User type some arguments and we run a program
 
     '''
-    print("Welcome! to our Trade Dashboads and Analysis program")
+    print("Welcome to our Trade Dashboards and Analysis program!")
     user_input = input(
-        '''Please type 'dashboard' for Dashboards, 
-            'analysis' for analysis, 'quit' for quit program
+        '''Please type 'dashboard' for dashboard, 
+           'analysis' for analysis, 'quit' for quit program
         ''')
     if user_input == 'dashboard':
         run_dashboard()
