@@ -258,11 +258,15 @@ owid_country = pd.read_csv('proj_cappmait/data/owid_country_info.csv',
                          usecols = ['iso_code', 'continent', 'location', 
                                     'population'])
 
-wto_export = pd.read_csv("proj_cappmait/data/merchandise_values_annual_dataset.csv")
+wto_export = pd.read_csv(
+    "proj_cappmait/data/merchandise_values_annual_dataset.csv"
+)
 wto_export = wto_export[(wto_export['Indicator'] == 'Export') & 
                         (wto_export['ProductCode'] == 'TO')]  
 
-imf_ex_im = pd.read_csv("proj_cappmait/data/imf_import_export_cleaned.csv").dropna()
+imf_ex_im = pd.read_csv(
+    "proj_cappmait/data/imf_import_export_cleaned.csv"
+).dropna()
 
 wb_econ = pd.read_csv("proj_cappmait/data/world-bank-econ-data.csv") 
 
@@ -451,14 +455,16 @@ imf_undirect = undirected_export(imf_ex_im, 3 ,5)
 imf_undirect  = imf_undirect[['country_1', 'country_2', '2019', '2020']]
 imf_und_filter = imf_undirect[imf_undirect['2019'] > 5000]
 
-create_network(imf_und_filter,'2020', 0, 1, 3, 2, 'proj_cappmait/assets/imf_2020.html')
+create_network(imf_und_filter,'2020', 0, 1, 3, 2, 
+               'proj_cappmait/assets/imf_2020.html')
 
 ## UN Export
 un_undirect = undirected_export(un_comtrade_pivot, 0, 1)
 un_undirect.columns = ['year', 'relation', 'export_2019', 
                       'export_2020', 'country_1', 'country_2']
 
-create_network(un_undirect,'export_2020', 4, 5, 3, 2, 'proj_cappmait/assets/un_2020.html')
+create_network(un_undirect,'export_2020', 4, 5, 3, 2, 
+               'proj_cappmait/assets/un_2020.html')
 
 ## Example Some Product
 ### Pharmaceutical Products
@@ -749,7 +755,3 @@ app.layout = html.Div([
            'color': '#000000',
            'line-height': '150%'}
 )
-
-
-# if __name__ == '__main__':
-#    app.run_server(debug=True, port=3004)

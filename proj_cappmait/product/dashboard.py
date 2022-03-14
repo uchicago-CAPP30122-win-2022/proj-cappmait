@@ -615,8 +615,3 @@ def update_frommap(map_clicked):
             (map_clicked["points"][0]["location"],)
     else:
         raise PreventUpdate
-
-'''
-if __name__ == '__main__':
-    app.run_server(debug=True, port=3004)
-'''
