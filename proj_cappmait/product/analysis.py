@@ -378,8 +378,8 @@ q2_scat1 = px_scatter(
     hover_name="country_name",
     size='export_2019',
     labels=labels,
-    title_text = 'Relationship between the number of cases per population \
-                  to The Export Growth')
+    title_text = 
+        'Relationship between the cases per population to The Export Growth')
 
 q2_scat2 = px_scatter(
     q2_scat1_df, 
@@ -389,8 +389,8 @@ q2_scat2 = px_scatter(
     hover_name="country_name",
     size='export_2019',
     labels=labels,
-    title_text = 'Relationship between the Stringency Index \
-                  to the Export Growth')
+    title_text = 
+        'Relationship between the Stringency Index to the Export Growth')
 
 ## Commodities Scatterplot
 q2_scat2_df = un_comtrade_pivot.merge(owid_df, how = 'inner', 
@@ -456,7 +456,7 @@ imf_undirect  = imf_undirect[['country_1', 'country_2', '2019', '2020']]
 imf_und_filter = imf_undirect[imf_undirect['2019'] > 5000]
 
 create_network(imf_und_filter,'2020', 0, 1, 3, 2, 
-               'proj_cappmait/assets/imf_2020.html')
+               'assets/imf_2020.html')
 
 ## UN Export
 un_undirect = undirected_export(un_comtrade_pivot, 0, 1)
@@ -464,7 +464,7 @@ un_undirect.columns = ['year', 'relation', 'export_2019',
                       'export_2020', 'country_1', 'country_2']
 
 create_network(un_undirect,'export_2020', 4, 5, 3, 2, 
-               'proj_cappmait/assets/un_2020.html')
+               'assets/un_2020.html')
 
 ## Example Some Product
 ### Pharmaceutical Products
@@ -474,7 +474,7 @@ un_pharma.columns = ['year', 'relation', 'export_2019',
                       'export_2020', 'country_1', 'country_2']
 
 create_network(un_pharma,'export_2020', 4, 5, 3, 2, 
-               'proj_cappmait/assets/un_pharma_2020.html')
+               'assets/un_pharma_2020.html')
 
 ### Vehicle
 un_vehicle = un_comtrade_pivot[un_comtrade_pivot['comm_code'] == 87]
@@ -483,7 +483,7 @@ un_vehicle.columns = ['year', 'relation', 'export_2019',
                       'export_2020', 'country_1', 'country_2']
 
 create_network(un_vehicle,'export_2020', 4, 5, 3, 2, 
-               'proj_cappmait/assets/un_vehicle_2020.html')
+               'assets/un_vehicle_2020.html')
 
 ## Centrality
 imf_net = nx.from_pandas_edgelist(imf_undirect, 'country_1', 'country_2')
@@ -723,19 +723,19 @@ app.layout = html.Div([
     html.H2(topic3),
     html.P(content3_1),
     html.H3("Global Trading Network"),
-    html.Iframe(src="proj_cappmait/assets/imf_2020.html",
+    html.Iframe(src="assets/imf_2020.html",
                 style={"height": "600px", "width": "1200px"},
                 title="Global Trading Network"),
     html.P(content3_2),
     html.H3("Top 30 Exporters Trading Network"),
-    html.Iframe(src="proj_cappmait/assets/un_2020.html",
+    html.Iframe(src="assets/un_2020.html",
                 style={"height": "600px", "width": "1200px"}),
     html.P(content3_3),
     html.H3("Pharmaceutical Trading Network"),
-    html.Iframe(src="proj_cappmait/assets/un_pharma_2020.html",
+    html.Iframe(src="assets/un_pharma_2020.html",
                 style={"height": "600px", "width": "1200px"}),
     html.H3("Vehicle Trading Network"),
-    html.Iframe(src="proj_cappmait/assets/un_vehicle_2020.html",
+    html.Iframe(src="assets/un_vehicle_2020.html",
                 style={"height": "600px", "width": "1200px"}),
     html.H3(subtopic3_1),
     html.P(content3_1_1),
