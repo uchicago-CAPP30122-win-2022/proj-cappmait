@@ -15,7 +15,6 @@ app = DashProxy(transforms=[MultiplexerTransform()],prevent_initial_callbacks=Tr
 # Load Data
 product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"Value":"int", "Year":"category"})
 country_code = pd.read_csv("cleandata/countries_codes_and_coordinates_cleaned.csv")
-covid_data = pd.read_csv('cleandata/WHO-COVID-19-global-data_cleaned.csv')
 covid_data = pd.read_csv('cleandata/owid_covid_data_cleaned.csv')
 
 def network_legend():
@@ -88,6 +87,7 @@ def plot_world_map(time_selected, val_selected):
     '''
     Plot worldwide covid cases situation
     Inputs:
+        time_selected: the quarter selected by user
         val_selected: the data type selected by user
     Outputs:
         fig: the world map graph
@@ -199,7 +199,7 @@ def plot_bar(df, country_name):
         margin=dict(
             l=100,
             r=0,
-            b=0,
+            b=100,
             t=100,
             pad=4
         ),
@@ -251,7 +251,7 @@ def plot_sankey(val_selected, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=650,
+        height=700,
         margin=dict(
             l=50,
             r=20,
@@ -331,7 +331,7 @@ def plot_dot(df, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=323,
+        height=314,
         margin=dict(
             l=50,
             r=20,
@@ -394,9 +394,8 @@ app.layout = html.Div(
                         id = 'covidmap-container',
                         children = [
                             html.P(
-                            id = 'map-text',
-                            children = '1. Explore maps and click on country: ',
-                            ),
+                                "Clickable Board - Click Country of Interest",
+                                id = "up-left-header",),
                             html.P(
                                 "Covid World Map",
                                 id="covidmap-title",),
@@ -429,6 +428,8 @@ app.layout = html.Div(
                     html.Div(
                         id="network",
                         children=[
+                            html.P("Clickable Board - Click Country of Interest",
+                            id = "bottom-left-header",),
                             html.P("Global Trading Network",
                             id="chart-selector-2",),
                             dcc.RadioItems(id='import-or-export', options=[{'label':'Exporter view', 'value':True},
@@ -455,9 +456,11 @@ app.layout = html.Div(
             children=[html.Div(
                 id="countrydashboard",
                 children=[
+                    html.P(id = 'up-right-header', 
+                    children = 'Country Deep-Dive',),
                     html.P(
                             id = 'dropdown-text',
-                            children = '2. Country you are looking at: ',
+                            children = 'Select country:',
                             ),
                     dcc.Dropdown(
                         id='slt_country',
