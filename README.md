@@ -32,7 +32,7 @@ for running our products
  - `analysis` for open analysis report
  - `quit` for exit the program
 
-7. (Optional) To run data collection modules, run these commands. 
+7. (Optional) To execute data collection modules, run these commands. 
 ```sh
 cd proj_cappmait/getdata/
 ipython3 un_api.py # Retrieve data from the UN
