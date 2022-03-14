@@ -1,0 +1,460 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,40266,,,0
+1,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,376413,,,0
+2,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,52101,,,0
+3,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,28593,,,0
+4,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,275714,,,0
+5,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,5441,,,0
+6,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,641538,,,0
+7,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,16223512,,,0
+8,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,1331892,,,0
+9,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,133174630,,,0
+10,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,3114244,,,0
+11,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,131961079,,,0
+12,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,145486,,,0
+13,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,475762,,,0
+14,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,555608,,,0
+15,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,140328,,,0
+16,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,8227065,,,0
+17,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,304259,,,0
+18,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,14679,,,0
+19,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,655394,,,0
+20,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,15,,,0
+21,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,35738252,,,0
+22,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,1620803,,,0
+23,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,233133,,,0
+24,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,591003,,,0
+25,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,31524,,,0
+26,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,36595337,,,0
+27,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,21244976,,,0
+28,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,123896165,,,0
+29,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,3841755,,,0
+30,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,2338249,,,0
+31,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,140893364,,,0
+32,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,129662981,,,0
+33,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,880772334,,,0
+34,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1236525,,,0
+35,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,179642,,,0
+36,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,10704541,,,0
+37,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,5784681,,,0
+38,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1977316,,,0
+39,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1725656,,,0
+40,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,130,,,0
+41,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,5575735,,,0
+42,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,163266,,,0
+43,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,417281,,,0
+44,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,996301,,,0
+45,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,7157360,,,0
+46,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,1465745,,,0
+47,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,271803,,,0
+48,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,1162441,,,0
+49,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,1101797,,,0
+50,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,14555,,,0
+51,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,15791251,,,0
+52,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,6413091,,,0
+53,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,36315159,,,0
+54,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,2086628,,,0
+55,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,367212,,,0
+56,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,28100,,,0
+57,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,178323,,,0
+58,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,949536,,,0
+59,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,384,,,0
+60,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,241279,,,0
+61,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,107752,,,0
+62,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,45849,,,0
+63,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,4935456,,,0
+64,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,323372,,,0
+65,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,4270916,,,0
+66,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,26038,,,0
+67,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,93264804,,,0
+68,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,346766,,,0
+69,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,162987,,,0
+70,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,90281,,,0
+71,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,35327,,,0
+72,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,10319394,,,0
+73,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,804846,,,0
+74,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,21097150,,,0
+75,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,4282643,,,0
+76,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,18249378,,,0
+77,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,2296086,,,0
+78,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,932654,,,0
+79,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,5864865,,,0
+80,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,1152319,,,0
+81,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,4125719,,,0
+82,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,5285223,,,0
+83,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,5030646,,,0
+84,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,9662315,,,0
+85,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,10122212,,,0
+86,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,14136897,,,0
+87,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,50265065,,,0
+88,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,2919457,,,0
+89,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,172176299,,,0
+90,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,42222349,,,0
+91,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,21016071,,,0
+92,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,632907,,,0
+93,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,221853,,,0
+94,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,29249403,,,0
+95,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,4925498,,,0
+96,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,18850915,,,0
+97,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,223024,,,0
+98,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,258118,,,0
+99,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,14536123,,,0
+100,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,767578,,,0
+101,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,284122,,,0
+102,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,912760,,,0
+103,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,856493,,,0
+104,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,1612569,,,0
+105,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,220858,,,0
+106,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,2425969,,,0
+107,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,5906620,,,0
+108,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,92546,,,0
+109,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,9305498,,,0
+110,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,23552186,,,0
+111,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,17396530,,,0
+112,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,8927728,,,0
+113,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,17905949,,,0
+114,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,48973957,,,0
+115,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,12074548,,,0
+116,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,50573499,,,0
+117,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,17807528,,,0
+118,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,11501162,,,0
+119,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,2213785,,,0
+120,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,923097,,,0
+121,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,186241,,,0
+122,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,23509677,,,0
+123,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,58053,,,0
+124,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,473023623,,,0
+125,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,982188,,,0
+126,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,115061830,,,0
+127,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,23038521,,,0
+128,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,8049657,,,0
+129,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,72257222,,,0
+130,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,27662743,,,0
+131,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,46103291,,,0
+132,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,463658,,,0
+133,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,238827,,,0
+134,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,23875615,,,4
+135,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,4819133,,,0
+136,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,6286083,,,0
+137,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,615827202,,,0
+138,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,801297,,,0
+139,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,9332267,,,0
+140,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,33002508,,,0
+141,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,18627006,,,0
+142,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,531046,,,0
+143,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,12800,,,0
+144,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,182313,,,0
+145,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,466,,,0
+146,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,1601387,,,0
+147,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,7891403,,,0
+148,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,1577395,,,0
+149,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,4225248,,,0
+150,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,14863207,,,0
+151,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,37457412,,,0
+152,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,1298298,,,0
+153,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,604585,,,0
+154,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,53622945,,,0
+155,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,11179898,,,0
+156,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,40690252,,,0
+157,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,368452,,,0
+158,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,1338883,,,0
+159,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,35471720,,,0
+160,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,21757548,,,0
+161,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,43624661,,,0
+162,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,28369,,,0
+163,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,48440,,,0
+164,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,4923852,,,0
+165,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,2646545,,,0
+166,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,13200253,,,0
+167,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,503664,,,0
+168,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,2060,,,0
+169,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,162970,,,0
+170,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,13936,,,0
+171,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,145610,,,0
+172,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,2405620,,,0
+173,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,470413,,,0
+174,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,42030315,,,0
+175,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,15680064,,,0
+176,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,32326667,,,0
+177,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,9673473,,,0
+178,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,4323362,,,0
+179,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,135967009,,,0
+180,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,146980192,,,0
+181,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,186377584,,,0
+182,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,5335896,,,0
+183,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,2860551,,,0
+184,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,129969825,,,0
+185,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,108159802,,,0
+186,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,71112821,,,0
+187,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,9655008,,,0
+188,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,390960,,,0
+189,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,261707,,,0
+190,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,1076923,,,0
+191,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,2526491,,,0
+192,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,1343235,,,0
+193,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,9516,,,0
+194,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,18444743,,,0
+195,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,1406687,,,0
+196,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,11702657,,,0
+197,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,14046418,,,0
+198,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,80233,,,0
+199,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,1045634,,,0
+200,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,383254,,,0
+201,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,16513590,,,0
+202,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,161736,,,0
+203,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,26187096,,,0
+204,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,4679364,,,0
+205,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,1114618,,,0
+206,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,11542854,,,0
+207,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,87,,,0
+208,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,17,,,0
+209,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,434,,,0
+210,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,2902,,,0
+211,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,43302,,,0
+212,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1154,,,0
+213,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,16065,,,0
+214,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,10713,,,0
+215,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,53353,,,0
+216,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,8474,,,0
+217,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,16162,,,0
+218,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,2281,,,0
+219,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,141241,,,0
+220,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,843228,,,0
+221,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,75403,,,0
+222,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,31623654,,,0
+223,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,13876190,,,0
+224,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,19328370,,,0
+225,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,22324,,,0
+226,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,2949,,,0
+227,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,3960550,,,0
+228,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,690528,,,0
+229,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1348163,,,0
+230,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,3000,,,0
+231,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,109,,,0
+232,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,2069,,,0
+233,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,21138,,,0
+234,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,98665,,,0
+235,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,312585,,,0
+236,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1214859,,,0
+237,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1269877,,,0
+238,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,5695835,,,0
+239,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,629433,,,0
+240,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,29512563,,,0
+241,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,30933217,,,0
+242,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,29081075,,,0
+243,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,45854,,,0
+244,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,4992,,,0
+245,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,1239122,,,0
+246,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,315495,,,0
+247,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,402976,,,0
+248,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,1787658,,,0
+249,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,15470925,,,0
+250,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,119369673,,,0
+251,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,44517950,,,0
+252,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,38325810,,,0
+253,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,2377752,,,0
+254,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,194030,,,0
+255,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,15653901,,,0
+256,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,22619915,,,0
+257,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,38735189,,,0
+258,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,655989,,,0
+259,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,62345,,,0
+260,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,10244189,,,0
+261,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,27737805,,,0
+262,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,18590429,,,0
+263,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,838237,,,0
+264,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,41138,,,0
+265,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,10003694,,,0
+266,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,31437436,,,0
+267,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,21803714,,,0
+268,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1186279,,,0
+269,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,64931,,,0
+270,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,4833643,,,0
+271,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,23805818,,,0
+272,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,12093028,,,0
+273,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,2897910,,,0
+274,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,467996,,,0
+275,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,5126810,,,0
+276,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,18516390,,,0
+277,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,8180300,,,0
+278,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,1555760,,,0
+279,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,283737,,,0
+280,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,54699626,,,0
+281,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,67016540,,,0
+282,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,124450793,,,0
+283,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,10504103,,,0
+284,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,3076531,,,0
+285,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,528322315,,,0
+286,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,146622819,,,0
+287,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,109489541,,,0
+288,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,10223659,,,0
+289,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,1088137,,,0
+290,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,619928387,,,0
+291,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,136940312,,,0
+292,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,104390164,,,0
+293,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,890934,,,0
+294,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,873814,,,0
+295,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,119086910,,,0
+296,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,33597444,,,0
+297,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,32202107,,,0
+298,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,1718432,,,0
+299,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,30430,,,0
+300,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,24724348,,,0
+301,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,19357137,,,0
+302,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,65585810,,,0
+303,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,10054,,,0
+304,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,5583,,,0
+305,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,7217765,,,0
+306,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,1072818,,,0
+307,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,1280377,,,0
+308,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,440,,,0
+309,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,158904,,,0
+310,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,4380,,,0
+311,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,85240,,,0
+312,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,48349,,,0
+313,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,10034,,,0
+314,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,20115,,,0
+315,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,4713626,,,0
+316,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,655038,,,0
+317,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,7125682,,,0
+318,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,4891489,,,0
+319,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,15043301,,,0
+320,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,1429220,,,0
+321,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,598078,,,0
+322,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,33422420,,,0
+323,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,19072400,,,0
+324,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,15835227,,,0
+325,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,4017120,,,0
+326,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,1152264,,,0
+327,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,17987110,,,0
+328,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,28384895,,,0
+329,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,24595017,,,0
+330,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,3821455,,,0
+331,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1192,,,0
+332,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,74377683,,,0
+333,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,49705199,,,0
+334,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,18567593,,,0
+335,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,14139450,,,0
+336,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,25069032,,,0
+337,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,203470661,,,0
+338,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,60845124,,,0
+339,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,25500618,,,0
+340,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,11266870,,,0
+341,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,2803007,,,0
+342,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,130584241,,,0
+343,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,138483382,,,0
+344,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,146044339,,,0
+345,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,3311186,,,0
+346,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1491889,,,0
+347,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,12212988,,,0
+348,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,48481793,,,0
+349,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,25122204,,,0
+350,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1409482,,,0
+351,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,471617,,,0
+352,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,335189,,,0
+353,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,14231,,,0
+354,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,477409,,,0
+355,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,5108836,,,0
+356,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,402674,,,0
+357,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,104235592,,,0
+358,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,135789506,,,0
+359,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,26727839,,,0
+360,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,60120,,,0
+361,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,611,,,0
+362,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,243628,,,0
+363,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,1584803,,,0
+364,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,10935,,,0
+365,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,47087,,,0
+366,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,2160,,,0
+367,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,12918,,,0
+368,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,4534,,,0
+369,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,858,,,0
+370,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,2024961,,,0
+371,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,10987,,,0
+372,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,5969220,,,0
+373,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,1820,,,0
+374,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,4101,,,0
+375,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,1871610,,,0
+376,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,594929,,,0
+377,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,5290236,,,0
+378,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,2663995,,,0
+379,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,12024779,,,0
+380,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,2307422,,,0
+381,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,145755,,,0
+382,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,16997933,,,0
+383,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,22269079,,,0
+384,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,78337006,,,0
+385,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,91307263,,,0
+386,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,9866847,,,0
+387,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,330577253,,,0
+388,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,480623922,,,0
+389,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,618508062,,,0
+390,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,14639033,,,0
+391,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,6016872,,,0
+392,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,202776737,,,0
+393,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,234100517,,,0
+394,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,200288574,,,0
+395,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,6352,,,0
+396,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,41229,,,0
+397,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,139646,,,0
+398,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,18508642,,,0
+399,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,5437579,,,0
+400,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,21468594,,,0
+401,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,61763681,,,0
+402,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,479531138,,,0
+403,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,840117519,,,0
+404,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,350064961,,,0
+405,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,16441036,,,0
+406,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,525,,,0
+407,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,41127730,,,0
+408,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,7211528,,,0
+409,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,1597158,,,0
+410,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,24263,,,0
+411,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,2869,,,0
+412,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,59551268,,,0
+413,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,28925190,,,0
+414,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,136914677,,,0
+415,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,4506339,,,0
+416,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,1368241,,,0
+417,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,51355817,,,0
+418,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,23426228,,,0
+419,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,15661511,,,0
+420,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,145809,,,0
+421,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,1706,,,0
+422,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,755019,,,0
+423,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,338394,,,0
+424,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,815931,,,0
+425,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,421673,,,0
+426,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,13123,,,0
+427,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,493411,,,0
+428,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,102174,,,0
+429,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,91903,,,0
+430,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,94198,,,0
+431,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,175280,,,0
+432,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,842894,,,0
+433,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,1739088,,,0
+434,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,13190548,,,0
+435,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,3000482,,,0
+436,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,628863,,,0
+437,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,105672326,,,0
+438,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,31800949,,,0
+439,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,48114694,,,0
+440,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,684731,,,0
+441,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,98511,,,0
+442,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,2498787,,,0
+443,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,1303723,,,0
+444,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,2084852,,,0
+445,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,335995,,,0
+446,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,56437,,,0
+447,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,9460633,,,0
+448,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,12697977,,,0
+449,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,10125884,,,0
+450,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,610,,,0
+451,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,109246,,,0
+452,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,553327,,,0
+453,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,120571,,,0
+454,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,20774,,,0
+455,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,2118783,,,0
+456,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,1595553,,,0
+457,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,4600,,,0
+458,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,6259755,,,0

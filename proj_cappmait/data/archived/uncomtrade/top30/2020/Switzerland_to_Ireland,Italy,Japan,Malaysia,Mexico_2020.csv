@@ -1,0 +1,416 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,41503,,,0
+1,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,632721,,,4
+2,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,10820,,,4
+3,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,887135,,,0
+4,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,4547,,,0
+5,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,2484203,,,0
+6,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,2895,,,0
+7,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,5508,,,0
+8,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,19124,,,0
+9,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,78,,,0
+10,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,78807613,,,0
+11,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,10173044,,,0
+12,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,1525917,,,4
+13,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,962639,,,0
+14,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,684,,,0
+15,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1475607,,,0
+16,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,103395,,,0
+17,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,566367,,,4
+18,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,219675,,,4
+19,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,717,,,0
+20,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,2142113,,,4
+21,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,31883,,,4
+22,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,15429626,,,0
+23,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,164877552,,,4
+24,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,42111632,,,4
+25,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,1172777,,,0
+26,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,11236414,,,0
+27,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,585832,,,4
+28,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,304790,,,0
+29,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,10,,,0
+30,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,2121,,,0
+31,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,472538,,,4
+32,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,12030,,,4
+33,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,513545,,,4
+34,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,2745199,,,4
+35,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,2797760,,,4
+36,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,638879,,,4
+37,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,122451,,,4
+38,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,18883,,,4
+39,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,265,,,4
+40,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,484703,,,4
+41,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,4785236,,,4
+42,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,21590,,,0
+43,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,4968447,,,0
+44,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,154810,,,0
+45,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,10421,,,0
+46,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,1316,,,0
+47,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,39155,,,4
+48,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,5187133,,,4
+49,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,2107333,,,0
+50,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,72562,,,4
+51,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,23,,,0
+52,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,28534,,,4
+53,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,66991228,,,4
+54,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,9735385,,,4
+55,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,1945191,,,0
+56,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,127554,,,4
+57,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,1071860,,,0
+58,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,39328869,,,4
+59,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,1933490,,,0
+60,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2287674,,,0
+61,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,21474,,,0
+62,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,1,,,0
+63,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,6191520,,,4
+64,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,1170933,,,0
+65,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,138600,,,0
+66,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,15700,,,0
+67,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,1218514,,,4
+68,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,58109847,,,4
+69,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,5212263,,,4
+70,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,9764727,,,0
+71,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,8469599,,,4
+72,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,12200890,,,4
+73,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,18343551,,,4
+74,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,131353264,,,0
+75,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,267196,,,0
+76,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,1545149,,,4
+77,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,828921,,,0
+78,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,17580551,,,0
+79,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,2204598,,,0
+80,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,454396,,,0
+81,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,19099,,,0
+82,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,349,,,0
+83,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,2268574,,,4
+84,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,71307187,,,4
+85,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,6812690,,,0
+86,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,204,,,0
+87,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,38128,,,4
+88,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,10249575,,,4
+89,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,7530,,,4
+90,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,40562,,,0
+91,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,70555,,,0
+92,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,182226,,,0
+93,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,1159215,,,4
+94,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,,,891526109,,,4
+95,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,504414,,,4
+96,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,63303,,,4
+97,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,119508,,,4
+98,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,451128,,,4
+99,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,9233439,,,4
+100,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,1564214,,,4
+101,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,5652009,,,4
+102,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,313587,,,4
+103,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,285576235,,,4
+104,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,3334244650,,,4
+105,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,296020813,,,4
+106,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,3431305,,,4
+107,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,136241636,,,4
+108,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,312714000,,,4
+109,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,3468511512,,,4
+110,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,3530290552,,,4
+111,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,237503400,,,4
+112,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,472612219,,,4
+113,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,17676,,,0
+114,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,252011,,,4
+115,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,11832,,,4
+116,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,3825823,,,4
+117,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,47978815,,,4
+118,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,28512934,,,4
+119,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,21567695,,,4
+120,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,29948297,,,4
+121,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,25545690,,,4
+122,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,205178475,,,4
+123,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,25285340,,,4
+124,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,3084388,,,4
+125,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,40088493,,,4
+126,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,424352,,,4
+127,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,25008296,,,4
+128,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,7546122,,,4
+129,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,1154326,,,4
+130,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,2513106,,,4
+131,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,457064,,,4
+132,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,16768226,,,4
+133,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,2970959,,,4
+134,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1151253,,,4
+135,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1236150,,,4
+136,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,2241564,,,4
+137,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,53109,,,4
+138,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,297775,,,4
+139,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,1640,,,0
+140,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,550000,,,4
+141,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,32261,,,4
+142,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,67351,,,4
+143,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,7206,,,0
+144,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,1010700,,,4
+145,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,55086698,,,4
+146,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,39012595,,,4
+147,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,5127436,,,4
+148,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,7297263,,,4
+149,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,27799544,,,4
+150,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,360936427,,,4
+151,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,73800788,,,4
+152,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,9636538,,,4
+153,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,18639770,,,4
+154,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,610416,,,4
+155,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,20510103,,,4
+156,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,6724720,,,4
+157,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,893847,,,4
+158,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,2753010,,,4
+159,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,36515209,,,4
+160,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,5323,,,4
+161,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,24093,,,0
+162,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,139165,,,4
+163,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,809477,,,4
+164,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,109665347,,,4
+165,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,34166573,,,4
+166,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,1172986,,,4
+167,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,1975846,,,4
+168,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,4544980,,,4
+169,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,156119,,,4
+170,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,6559021,,,4
+171,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,64249718,,,4
+172,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,5859354,,,4
+173,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,,,220392,,,4
+174,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,697054,,,4
+175,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,327506,,,4
+176,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,239,,,0
+177,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,67,,,4
+178,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,259236,,,4
+179,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,120171,,,4
+180,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,4557,,,0
+181,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,1384959,,,0
+182,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,42,,,0
+183,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,1066,,,0
+184,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,390929,,,4
+185,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,78332907,,,4
+186,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,3903292,,,4
+187,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,56893533,,,4
+188,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,969498,,,4
+189,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,1232284,,,4
+190,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,10094685,,,4
+191,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,3671334,,,4
+192,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,3753520,,,4
+193,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,1430057,,,4
+194,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,137,,,4
+195,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,299444,,,4
+196,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,78026,,,4
+197,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,18764,,,0
+198,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,28,,,4
+199,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,2634565,,,4
+200,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,78971,,,4
+201,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,5,,,4
+202,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,38573,,,4
+203,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,11593,,,0
+204,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,8916418,,,4
+205,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,1214355,,,4
+206,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,56342,,,4
+207,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,21972,,,4
+208,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,13192,,,4
+209,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,499539,,,4
+210,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,29396,,,4
+211,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,11048,,,4
+212,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,21498555,,,4
+213,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,649911,,,4
+214,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,12239,,,4
+215,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,15580,,,0
+216,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,8489,,,4
+217,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,3443500,,,4
+218,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,1419214,,,4
+219,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,1206,,,0
+220,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,222990,,,4
+221,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,21162,,,4
+222,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,44003718,,,4
+223,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,291223,,,4
+224,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,543249,,,4
+225,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,151508,,,4
+226,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,84133,,,0
+227,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,1600936,,,4
+228,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,1166962,,,0
+229,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,223955,,,0
+230,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,165,,,0
+231,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,6394,,,4
+232,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,5974403,,,4
+233,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,787348,,,4
+234,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,42198,,,4
+235,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,23994,,,4
+236,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1108583,,,4
+237,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,18644293,,,4
+238,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,10239187,,,4
+239,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1660379,,,4
+240,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,2956698,,,4
+241,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,57,,,4
+242,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,4859871,,,4
+243,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,298608,,,4
+244,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,39889,,,0
+245,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,27747,,,0
+246,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,82349,,,4
+247,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,179017374,,,4
+248,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,7704919,,,4
+249,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,331007,,,4
+250,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,129923,,,4
+251,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,72513,,,4
+252,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,293593488,,,4
+253,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,16589057,,,4
+254,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,480622,,,4
+255,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,522501,,,4
+256,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,97940,,,4
+257,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,15816610,,,4
+258,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,2423316,,,4
+259,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,100736,,,4
+260,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,125682,,,4
+261,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,13995,,,0
+262,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,156977606,,,4
+263,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,4491207,,,4
+264,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,1010185,,,4
+265,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,100437,,,0
+266,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,11485,,,4
+267,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,4774462,,,4
+268,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,197560,,,4
+269,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,7083,,,4
+270,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,32500,,,0
+271,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,43413,,,0
+272,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,405155,,,4
+273,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,18728,,,4
+274,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,53889,,,0
+275,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,4363,,,0
+276,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,433,,,4
+277,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,21087,,,4
+278,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,6171,,,0
+279,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,185375,,,4
+280,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,19190171,,,4
+281,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,3362914,,,4
+282,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,777366,,,4
+283,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,1766843,,,4
+284,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,121574,,,4
+285,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,2680825,,,4
+286,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,1104944,,,4
+287,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,176686,,,4
+288,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,1295154,,,4
+289,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,2181109,,,4
+290,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,22795433,,,4
+291,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,7646245,,,4
+292,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,308245,,,4
+293,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,2423756,,,4
+294,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,91691183,,,4
+295,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,2010371929,,,4
+296,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,413941434,,,4
+297,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,514439713,,,4
+298,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,10923733,,,4
+299,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,611760,,,4
+300,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,247451599,,,4
+301,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,959761,,,4
+302,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,802641,,,4
+303,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,2104437,,,4
+304,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,6025386,,,4
+305,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,125069366,,,4
+306,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,27813362,,,4
+307,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,3881072,,,4
+308,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,41437721,,,4
+309,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,136124,,,4
+310,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,63420942,,,4
+311,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,3018161,,,4
+312,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,427122,,,4
+313,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,1448772,,,4
+314,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,7807,,,4
+315,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,18916553,,,4
+316,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,693802,,,4
+317,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,47367,,,4
+318,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,78357,,,4
+319,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,1762819,,,4
+320,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,146998843,,,4
+321,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,5320002,,,4
+322,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,3644113,,,4
+323,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,4594253,,,4
+324,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,354055,,,4
+325,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,360,,,0
+326,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,7176,,,0
+327,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,2257241,,,4
+328,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,275902,,,4
+329,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,1625,,,4
+330,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,780,,,4
+331,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,308791,,,4
+332,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,42014,,,4
+333,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,130331,,,0
+334,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,35,,,4
+335,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,489530,,,4
+336,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,5524475,,,4
+337,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,524782,,,4
+338,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,374728,,,4
+339,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,50418,,,4
+340,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,3064767,,,4
+341,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,52723048,,,4
+342,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,26784433,,,4
+343,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,5844529,,,4
+344,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,25422182,,,4
+345,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,619907,,,4
+346,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,11404471,,,4
+347,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,2585708,,,4
+348,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,829865,,,4
+349,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,400941,,,4
+350,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,122767612,,,4
+351,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,924205070,,,4
+352,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,493362967,,,4
+353,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,109308366,,,4
+354,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,215300405,,,4
+355,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,27032936,,,4
+356,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,441483124,,,4
+357,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,144464461,,,4
+358,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,99961417,,,4
+359,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,70461434,,,4
+360,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,961619,,,0
+361,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,47467753,,,4
+362,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,7188689,,,0
+363,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,423063,,,4
+364,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,5743,,,4
+365,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,21053662,,,0
+366,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,51419733,,,4
+367,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,4999585,,,4
+368,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,25172,,,0
+369,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,42981328,,,4
+370,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,13365008,,,4
+371,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,12696024,,,4
+372,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,1875332,,,4
+373,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,9908859,,,4
+374,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,37766,,,4
+375,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1214694,,,0
+376,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,219346994,,,4
+377,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,476259628,,,4
+378,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,662491168,,,4
+379,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,54411474,,,4
+380,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,35536325,,,4
+381,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,138846195,,,4
+382,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,690418496,,,4
+383,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1268059816,,,4
+384,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,55242581,,,4
+385,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,148391082,,,4
+386,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,24411,,,4
+387,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,294272,,,4
+388,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,1789705,,,4
+389,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,21065,,,0
+390,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,22725,,,0
+391,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,4014,,,4
+392,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,11235966,,,4
+393,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,784880,,,0
+394,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,3080087,,,0
+395,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,1407694,,,4
+396,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,21694480,,,4
+397,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,9090396,,,4
+398,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,557845,,,4
+399,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,414337,,,4
+400,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,34586,,,4
+401,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,12553838,,,4
+402,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,5318693,,,4
+403,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,218812,,,4
+404,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,44310,,,4
+405,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,901043,,,4
+406,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,42905750,,,4
+407,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,4854671,,,4
+408,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,333871,,,4
+409,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1733486,,,4
+410,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,306803,,,0
+411,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,25373104,,,4
+412,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,21493993,,,4
+413,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,5116,,,4
+414,H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,2297260,,,4

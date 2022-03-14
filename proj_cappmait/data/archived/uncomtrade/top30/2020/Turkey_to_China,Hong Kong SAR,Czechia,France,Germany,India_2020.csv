@@ -1,0 +1,462 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,269767,,,0
+1,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,2525,,,0
+2,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,4804,,,0
+3,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,830491,,,0
+4,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,420674,,,0
+5,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,50424962,,,0
+6,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,7066,,,0
+7,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,1369411,,,0
+8,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,14681645,,,0
+9,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,72479499,,,0
+10,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,6093017,,,0
+11,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,7650,,,0
+12,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,8299,,,0
+13,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,497029,,,0
+14,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,14942967,,,0
+15,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,537853,,,0
+16,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,2305601,,,0
+17,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,112252,,,0
+18,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,8286415,,,0
+19,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,11992557,,,0
+20,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,24930824,,,0
+21,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,34799,,,0
+22,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,301456,,,0
+23,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,9623995,,,0
+24,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,1350,,,0
+25,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,104468,,,0
+26,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,3051648,,,0
+27,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,20948288,,,0
+28,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,126219227,,,0
+29,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,307125,,,0
+30,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,14208214,,,0
+31,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,16738309,,,0
+32,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,197258931,,,0
+33,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,534468922,,,0
+34,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,15316791,,,0
+35,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,37109179,,,0
+36,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,174600,,,0
+37,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,10939986,,,0
+38,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,21025379,,,0
+39,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,181202,,,0
+40,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,2592197,,,0
+41,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,22277,,,0
+42,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,4177044,,,0
+43,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,4550666,,,0
+44,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,32231,,,0
+45,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,408802,,,0
+46,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,188094,,,0
+47,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,2512069,,,0
+48,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,10877643,,,0
+49,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,901585,,,0
+50,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,132847,,,0
+51,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,74286,,,0
+52,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,9659877,,,0
+53,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,38707849,,,0
+54,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,49133,,,0
+55,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,2079410,,,0
+56,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1577415,,,0
+57,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,6922025,,,0
+58,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1001298,,,0
+59,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,7589,,,0
+60,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,3686,,,0
+61,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,149814,,,0
+62,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,1153969,,,0
+63,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,407900,,,0
+64,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,1476169,,,0
+65,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,10198945,,,0
+66,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,8586470,,,0
+67,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,253929,,,0
+68,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,32246678,,,0
+69,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,7835285,,,0
+70,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,1347017,,,0
+71,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,4194642,,,0
+72,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,448,,,0
+73,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,4085101,,,0
+74,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,7337664,,,0
+75,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,30451366,,,0
+76,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,602308,,,0
+77,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,6965857,,,0
+78,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,1217128,,,0
+79,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,1581559,,,0
+80,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,5619821,,,0
+81,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,3214008,,,0
+82,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,6454415,,,0
+83,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,1517031,,,0
+84,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,8183462,,,0
+85,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,79811038,,,0
+86,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,4035728,,,0
+87,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,778168,,,0
+88,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,14875075,,,0
+89,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,77513593,,,0
+90,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,545714015,,,0
+91,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,1092445,,,0
+92,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,4125929,,,0
+93,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,31122596,,,0
+94,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,7791967,,,0
+95,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,46585601,,,0
+96,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,872599,,,0
+97,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,908610,,,0
+98,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,385819,,,0
+99,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,6794106,,,0
+100,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,58608987,,,0
+101,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,149037,,,0
+102,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,352652,,,0
+103,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,233,,,0
+104,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,230567,,,0
+105,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,2865858,,,0
+106,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,78653,,,0
+107,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,148639,,,0
+108,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,4484007,,,0
+109,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,2158326,,,0
+110,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,13448252,,,0
+111,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,6448874,,,0
+112,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,3295845,,,0
+113,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,2068338,,,0
+114,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,17381054,,,0
+115,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,37665281,,,0
+116,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,1896881,,,0
+117,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,95437192,,,0
+118,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,5293721,,,0
+119,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,12280193,,,0
+120,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,5673642,,,0
+121,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,87544,,,0
+122,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,46230804,,,0
+123,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,12930827,,,0
+124,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,5991388,,,0
+125,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,23037971,,,0
+126,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,115769,,,0
+127,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,31716454,,,0
+128,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,24438338,,,0
+129,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,1030869,,,0
+130,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,56387288,,,0
+131,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1040962,,,0
+132,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,10292998,,,4
+133,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,16575223,,,4
+134,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,80538,,,4
+135,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,16682386,,,0
+136,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,2690919,,,0
+137,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,16304385,,,0
+138,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,29239595,,,4
+139,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,16878796,,,0
+140,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,2354621,,,4
+141,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,545462,,,0
+142,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,6586143,,,0
+143,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,25216398,,,0
+144,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,1619788,,,0
+145,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,13101589,,,0
+146,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,20561875,,,0
+147,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,1189358,,,0
+148,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,6964777,,,0
+149,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,12705252,,,0
+150,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,25070192,,,0
+151,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,38895091,,,0
+152,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,6007416,,,0
+153,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,2363662,,,0
+154,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,8776491,,,0
+155,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,14558645,,,0
+156,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,42488068,,,0
+157,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,1360396,,,0
+158,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,1506210,,,0
+159,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,217997,,,0
+160,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,709959,,,0
+161,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,5618823,,,0
+162,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,2435,,,0
+163,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,685856,,,0
+164,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,938,,,0
+165,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1653,,,0
+166,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1547414,,,0
+167,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,1417579,,,0
+168,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,700,,,0
+169,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,327948,,,0
+170,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,5057,,,0
+171,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,124938,,,0
+172,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,2904765,,,0
+173,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,32767795,,,0
+174,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,53228065,,,0
+175,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,5283824,,,0
+176,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,14196116,,,0
+177,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,79000814,,,0
+178,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,212191047,,,0
+179,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,483953165,,,0
+180,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,3602378,,,0
+181,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,37161406,,,0
+182,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,26473122,,,0
+183,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,90338312,,,0
+184,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,512040480,,,0
+185,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,5551130,,,0
+186,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,6531494,,,0
+187,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,91452,,,0
+188,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,4053154,,,0
+189,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,13335822,,,0
+190,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,4337862,,,0
+191,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,20522084,,,0
+192,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,1104485,,,0
+193,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,23045147,,,0
+194,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,32556751,,,0
+195,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,3310442,,,0
+196,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,126033,,,0
+197,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,8391,,,0
+198,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,12995776,,,0
+199,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,5947031,,,0
+200,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,1351315,,,0
+201,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,1495778,,,0
+202,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,837992,,,0
+203,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,6927963,,,0
+204,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,14481506,,,0
+205,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,184944,,,0
+206,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,3369101,,,0
+207,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,921,,,0
+208,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,51599,,,0
+209,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,22380,,,0
+210,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,96,,,0
+211,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,23,,,0
+212,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,38470,,,0
+213,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,25067,,,0
+214,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,40825,,,0
+215,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,2997,,,0
+216,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,20375,,,0
+217,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,29934,,,0
+218,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,3846005,,,0
+219,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,5156297,,,0
+220,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,46635702,,,0
+221,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,70190249,,,0
+222,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,552623,,,0
+223,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,6353921,,,0
+224,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,129498,,,0
+225,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,13439610,,,0
+226,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,19062410,,,0
+227,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,8619,,,0
+228,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,60506,,,0
+229,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,31316,,,0
+230,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,41881,,,0
+231,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,221202,,,0
+232,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,2374,,,0
+233,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,110905,,,0
+234,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,666304,,,0
+235,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,10777690,,,0
+236,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,274144,,,0
+237,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,4607494,,,0
+238,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,12699233,,,0
+239,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,40059724,,,0
+240,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,105592757,,,0
+241,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,19279538,,,0
+242,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,9020087,,,0
+243,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,79834,,,0
+244,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,1490803,,,0
+245,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,3046112,,,0
+246,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,28587,,,0
+247,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,12198,,,0
+248,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,8478392,,,0
+249,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,9710745,,,0
+250,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,61037510,,,0
+251,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,3246598,,,0
+252,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,2604073,,,0
+253,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,5828802,,,0
+254,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,25315463,,,0
+255,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,55770958,,,0
+256,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,3104390,,,0
+257,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,12535302,,,0
+258,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,24664535,,,0
+259,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,13225729,,,0
+260,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,56397984,,,0
+261,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1638298,,,0
+262,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,3155626,,,0
+263,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,2954734,,,0
+264,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,21437934,,,0
+265,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,141172018,,,0
+266,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,50637,,,0
+267,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,9551851,,,0
+268,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,2457055,,,0
+269,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,7436766,,,0
+270,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,23649397,,,0
+271,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1226718,,,0
+272,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,6165498,,,0
+273,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,3505624,,,0
+274,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,6233742,,,0
+275,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,19852015,,,0
+276,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,384537,,,0
+277,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1086395,,,0
+278,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,8818078,,,0
+279,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,14289058,,,0
+280,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,53861176,,,0
+281,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,204471,,,0
+282,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,1298194,,,0
+283,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,61850079,,,0
+284,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,423052463,,,0
+285,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,1733117844,,,0
+286,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,9277451,,,0
+287,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,4724741,,,0
+288,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,38696376,,,0
+289,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,247779542,,,0
+290,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,960743569,,,0
+291,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,28882345,,,0
+292,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,3967049,,,0
+293,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,23172658,,,0
+294,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,146137068,,,0
+295,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,575377082,,,0
+296,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,5255083,,,0
+297,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,3652074,,,0
+298,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,4171379,,,0
+299,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,14696269,,,0
+300,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,59961293,,,0
+301,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,359085,,,0
+302,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,1388399,,,0
+303,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,101306,,,0
+304,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,1839904,,,0
+305,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,6549597,,,0
+306,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,20962,,,0
+307,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,236717,,,0
+308,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,4292,,,0
+309,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,1865824,,,0
+310,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,1143259,,,0
+311,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,1783,,,0
+312,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,43263,,,0
+313,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,252809,,,0
+314,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,1204,,,0
+315,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,1423011,,,0
+316,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,73673126,,,0
+317,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,48747972,,,0
+318,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,266366,,,0
+319,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,3091740,,,0
+320,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,9707657,,,0
+321,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,76248217,,,0
+322,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,180701737,,,0
+323,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,588049,,,0
+324,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,5938823,,,0
+325,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,5717568,,,0
+326,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,64531549,,,0
+327,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,88584501,,,0
+328,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,422846,,,0
+329,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,3106558,,,0
+330,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,47401352,,,0
+331,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,15434881,,,4
+332,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,490331182,,,4
+333,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,193242081,,,0
+334,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,5383738,,,0
+335,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,7319812,,,0
+336,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,62730341,,,0
+337,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,121795103,,,0
+338,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,267595199,,,0
+339,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,72800314,,,0
+340,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,45765306,,,0
+341,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,224330186,,,0
+342,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,651440381,,,0
+343,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,1763133,,,0
+344,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,14520735,,,0
+345,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,22897720,,,0
+346,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,68085556,,,0
+347,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,144668232,,,0
+348,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,156982,,,0
+349,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,4722458,,,0
+350,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,155,,,0
+351,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,3463988,,,0
+352,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1634790,,,0
+353,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,278786,,,0
+354,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,322662,,,0
+355,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,59003908,,,0
+356,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,122107840,,,0
+357,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,477826168,,,0
+358,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,229536,,,0
+359,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,3412715,,,0
+360,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,435424,,,0
+361,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,488455,,,0
+362,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,1046243,,,0
+363,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,806,,,0
+364,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,1270813,,,0
+365,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,621,,,0
+366,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,64805,,,0
+367,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,84922,,,0
+368,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,600,,,0
+369,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,52300,,,0
+370,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,8846,,,0
+371,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,129711,,,0
+372,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,3969,,,0
+373,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,9406292,,,0
+374,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,31633869,,,0
+375,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,6906,,,0
+376,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,1273970,,,0
+377,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,2027685,,,0
+378,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,14121188,,,0
+379,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,53273472,,,0
+380,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,892187,,,0
+381,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,697405,,,0
+382,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,8074720,,,0
+383,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,43362196,,,0
+384,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,64102789,,,4
+385,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,847566,,,0
+386,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,4831501,,,0
+387,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,130060800,,,0
+388,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,798367739,,,0
+389,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,2328486160,,,0
+390,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,17740434,,,0
+391,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,163863518,,,0
+392,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,109673248,,,0
+393,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,539245520,,,0
+394,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,996631700,,,0
+395,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,32646149,,,0
+396,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,39863771,,,0
+397,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,1044354,,,0
+398,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,12472389,,,0
+399,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,34583078,,,0
+400,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,302616,,,0
+401,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,172816517,,,0
+402,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,2807736666,,,0
+403,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,2516894112,,,0
+404,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,19387241,,,0
+405,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,21980092,,,0
+406,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,2360059,,,0
+407,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,10961707,,,0
+408,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,195642525,,,0
+409,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,13720,,,0
+410,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,5758981,,,0
+411,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,37297,,,0
+412,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,9674866,,,0
+413,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,8149968,,,0
+414,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,8200000,,,0
+415,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,83516,,,0
+416,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,5590341,,,0
+417,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,38056115,,,0
+418,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,172736766,,,4
+419,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,6521040,,,0
+420,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,16116622,,,0
+421,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,99448,,,0
+422,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,732601,,,0
+423,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,577950,,,4
+424,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,5090801,,,0
+425,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,13325,,,0
+426,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,92490,,,0
+427,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,182463,,,0
+428,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,5053837,,,0
+429,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,10250,,,0
+430,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,31938,,,0
+431,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,3599824,,,0
+432,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,11558800,,,0
+433,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,8202874,,,0
+434,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,44221,,,0
+435,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,364008,,,0
+436,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,64538514,,,0
+437,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,177123023,,,0
+438,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,366227415,,,0
+439,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,1005285,,,0
+440,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,8554712,,,0
+441,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,785079,,,0
+442,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,12475212,,,0
+443,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,4491646,,,0
+444,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,85889,,,0
+445,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,549547,,,0
+446,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,2009544,,,0
+447,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,5862824,,,0
+448,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,14929831,,,4
+449,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,492010,,,0
+450,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,1779125,,,0
+451,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,235449,,,0
+452,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1260755,,,0
+453,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1872940,,,0
+454,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,2258899,,,0
+455,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,393,,,0
+456,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,3037,,,0
+457,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,159065,,,0
+458,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,933927,,,0
+459,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,5549069,,,0
+460,H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,226936,,,0

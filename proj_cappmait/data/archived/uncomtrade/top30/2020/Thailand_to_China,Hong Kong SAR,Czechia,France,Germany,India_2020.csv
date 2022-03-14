@@ -1,0 +1,458 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,990,,,0
+1,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,5530,,,0
+2,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,34906,,,4
+3,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,892838,,,0
+4,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,683,,,0
+5,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,97,,,0
+6,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,12755730,,,0
+7,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,148793252,,,0
+8,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,75691,,,0
+9,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,186762,,,0
+10,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,3064141,,,4
+11,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,8591532,,,0
+12,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,47045064,,,0
+13,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,1341305,,,0
+14,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,6400,,,0
+15,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,1361,,,4
+16,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,164387,,,0
+17,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,34019204,,,4
+18,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,32878,,,0
+19,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,53624,,,0
+20,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,339946,,,4
+21,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,562674,,,0
+22,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,1027,,,0
+23,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,66337,,,0
+24,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,346727,,,0
+25,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,1092988,,,0
+26,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,470707,,,4
+27,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,1839147,,,0
+28,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,1524834,,,0
+29,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,2226759,,,0
+30,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,4528931,,,0
+31,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,11262042,,,4
+32,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,1306938,,,0
+33,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,874444,,,0
+34,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,2959755,,,0
+35,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,3273220,,,4
+36,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,361600085,,,4
+37,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,7504983,,,4
+38,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,23481,,,0
+39,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,408706,,,4
+40,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,648887,,,4
+41,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1143686,,,4
+42,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,2025604,,,0
+43,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,4754935,,,4
+44,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,67246180,,,4
+45,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,9159376,,,4
+46,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,191275430,,,4
+47,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1032238,,,0
+48,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,91703,,,0
+49,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,6227541,,,4
+50,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,3666686,,,4
+51,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,22495868,,,4
+52,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,435601,,,4
+53,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,22211,,,0
+54,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,2799314,,,4
+55,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,707066,,,4
+56,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,1283669,,,4
+57,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,18966607,,,4
+58,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,150216,,,4
+59,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,2187143,,,0
+60,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,233805,,,4
+61,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,9226145,,,0
+62,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,5085,,,0
+63,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,825634,,,4
+64,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,84544,,,0
+65,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,24279,,,0
+66,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,90405,,,0
+67,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,14137,,,0
+68,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,543040,,,4
+69,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,1310125,,,0
+70,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,9835740,,,4
+71,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,110023772,,,0
+72,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,1155,,,0
+73,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,19597829,,,0
+74,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,70505452,,,4
+75,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,83853561,,,4
+76,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,1662698,,,0
+77,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,60166,,,0
+78,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,1161520,,,4
+79,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,3542188,,,4
+80,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,31557919,,,4
+81,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,308955,,,4
+82,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,42775,,,0
+83,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,91642,,,0
+84,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,541525,,,0
+85,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,297253,,,0
+86,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,185705,,,0
+87,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,2184025,,,4
+88,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,33924792,,,4
+89,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,20275425,,,0
+90,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,40780318,,,4
+91,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,16704627,,,4
+92,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,1783784,,,0
+93,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,20023940,,,4
+94,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,34984621,,,4
+95,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,30347411,,,4
+96,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,10022018,,,4
+97,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,2838153,,,0
+98,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,34022298,,,4
+99,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,48640477,,,4
+100,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,47023114,,,4
+101,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,38092761,,,0
+102,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,109838,,,0
+103,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,4380783,,,4
+104,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,734989,,,4
+105,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,14758832,,,0
+106,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,5180081,,,0
+107,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,446811,,,0
+108,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,14787158,,,4
+109,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,51831646,,,4
+110,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,20336885,,,4
+111,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,67041714,,,0
+112,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,15778,,,0
+113,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,63098,,,4
+114,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,2381,,,4
+115,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,415334,,,4
+116,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,463379,,,4
+117,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,664,,,0
+118,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,8616,,,4
+119,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,48303,,,4
+120,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,398117,,,4
+121,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,17995203,,,0
+122,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,114047,,,0
+123,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,1890387,,,4
+124,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,52763,,,4
+125,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,27214223,,,0
+126,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,819,,,0
+127,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,133829,,,4
+128,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,3487603,,,4
+129,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,26799823,,,4
+130,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,90772270,,,4
+131,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,1492938,,,4
+132,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,4327500,,,4
+133,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,2545932,,,4
+134,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,33561478,,,4
+135,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1923443,,,4
+136,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1969352,,,4
+137,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,3186454,,,4
+138,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,359502310,,,4
+139,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,51079,,,4
+140,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,9963144,,,4
+141,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,3302169,,,4
+142,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,27624788,,,4
+143,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,799798,,,4
+144,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,5,,,0
+145,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,32,,,0
+146,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,3581,,,4
+147,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,771424,,,0
+148,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,6769,,,0
+149,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,51771,,,4
+150,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,2549188,,,4
+151,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,6925841,,,4
+152,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,50204079,,,4
+153,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,273388,,,4
+154,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,2688527,,,4
+155,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,8732574,,,4
+156,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,153746778,,,4
+157,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,19182351,,,4
+158,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,17590,,,4
+159,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,1736774,,,4
+160,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,10122860,,,4
+161,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,15539904,,,4
+162,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,22987465,,,4
+163,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,31433,,,0
+164,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,1137900,,,4
+165,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,15650889,,,4
+166,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,1167370,,,4
+167,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,24605085,,,4
+168,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,239222,,,0
+169,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,21656,,,0
+170,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,27025,,,4
+171,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,15269,,,0
+172,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,10266,,,4
+173,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,33806,,,4
+174,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,3379619,,,4
+175,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,66186,,,4
+176,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,1067,,,4
+177,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,463858,,,4
+178,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,2728544,,,4
+179,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,5208272,,,4
+180,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,108159679,,,4
+181,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,11443076,,,4
+182,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,24188176,,,4
+183,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,77500500,,,4
+184,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,129838614,,,4
+185,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,740390047,,,4
+186,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,9198489,,,4
+187,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,99326178,,,4
+188,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,273956981,,,4
+189,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,45248859,,,4
+190,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,257634526,,,4
+191,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,417,,,4
+192,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,25801,,,4
+193,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,282518,,,4
+194,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,52165304,,,4
+195,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,27281637,,,4
+196,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,164744,,,4
+197,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,12025701,,,4
+198,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,7314141,,,4
+199,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,27052947,,,4
+200,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,891272,,,4
+201,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,6920,,,0
+202,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,170715,,,0
+203,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,39238005,,,4
+204,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,37765,,,0
+205,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,28134,,,0
+206,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,5606546,,,4
+207,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,4911756,,,4
+208,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,2450187,,,4
+209,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,35638145,,,4
+210,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1065,,,0
+211,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,907,,,0
+212,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1671,,,0
+213,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1574,,,0
+214,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,133,,,0
+215,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,68864,,,4
+216,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,90382,,,4
+217,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1093870,,,4
+218,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,25917,,,0
+219,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,579,,,0
+220,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,3616753,,,0
+221,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,18965,,,4
+222,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,415955,,,4
+223,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,2287546,,,0
+224,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,6673479,,,4
+225,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,6990862,,,4
+226,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,1066173,,,4
+227,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,21527517,,,4
+228,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,42016764,,,4
+229,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,18645,,,4
+230,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,606967,,,4
+231,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,703316,,,4
+232,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,12271626,,,4
+233,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,558263,,,4
+234,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,380806,,,4
+235,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,98237,,,0
+236,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,141193,,,4
+237,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,13144,,,4
+238,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,254800,,,0
+239,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,4200,,,4
+240,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1277293,,,4
+241,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,108642,,,4
+242,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,460172,,,4
+243,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,5508,,,0
+244,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,211514,,,4
+245,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,1192316,,,4
+246,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,12620591,,,4
+247,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,17725942,,,0
+248,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,211483,,,0
+249,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,10443,,,0
+250,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,13995,,,4
+251,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,3046725,,,0
+252,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,1663475,,,4
+253,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,1968363,,,4
+254,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,15425230,,,4
+255,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,20194137,,,4
+256,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,13643,,,0
+257,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,1064465,,,4
+258,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,3162356,,,4
+259,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,2554783,,,4
+260,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,36251659,,,4
+261,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,137663,,,4
+262,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1093750,,,4
+263,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1405877,,,4
+264,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,3883294,,,4
+265,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,17261421,,,4
+266,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,50,,,0
+267,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,1044937,,,4
+268,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,1909193,,,4
+269,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,4209279,,,4
+270,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,16393490,,,4
+271,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,21617,,,0
+272,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,3579621,,,4
+273,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1287346,,,4
+274,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,7732390,,,4
+275,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,5462544,,,4
+276,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,68026,,,0
+277,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1085975,,,4
+278,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1156010,,,4
+279,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,2331597,,,4
+280,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,19108782,,,4
+281,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,16473,,,0
+282,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,228430,,,4
+283,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,7275038,,,4
+284,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,5883449,,,4
+285,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,2607617,,,4
+286,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,1548509,,,4
+287,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,28709135,,,4
+288,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,58952890,,,4
+289,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,11886412,,,4
+290,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,3803878,,,4
+291,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,546262,,,0
+292,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,17611435,,,4
+293,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,7563904,,,4
+294,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,58122249,,,4
+295,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,2457831,,,4
+296,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,8527593,,,4
+297,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,13869482,,,4
+298,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,13651347,,,4
+299,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,5511328,,,4
+300,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,3262430,,,4
+301,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,11964,,,0
+302,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,17675344,,,4
+303,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,7674043,,,4
+304,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,9440302,,,4
+305,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,13167705,,,4
+306,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,6157,,,0
+307,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,9246076,,,4
+308,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,858213,,,4
+309,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,1237480,,,4
+310,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,517752,,,4
+311,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,9,,,0
+312,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,91157,,,0
+313,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,78476,,,4
+314,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,25700,,,4
+315,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,96137,,,4
+316,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,9486,,,0
+317,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,372183,,,4
+318,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,546852,,,4
+319,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,453069,,,4
+320,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,31079,,,4
+321,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,12058487,,,4
+322,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,1161293,,,4
+323,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,3196895,,,4
+324,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,6854411,,,4
+325,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,18362205,,,4
+326,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,22101,,,4
+327,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,3701033,,,4
+328,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,19965255,,,4
+329,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,6100170,,,4
+330,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,6057432,,,4
+331,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,161723,,,4
+332,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,2206404,,,4
+333,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,3800715,,,4
+334,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,13422731,,,4
+335,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,27582923,,,4
+336,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1375324,,,4
+337,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,90942812,,,4
+338,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,565691506,,,4
+339,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1792336862,,,4
+340,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,414549128,,,4
+341,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,2889134,,,0
+342,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,960081,,,0
+343,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,15858255,,,4
+344,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,9383633,,,4
+345,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,129388854,,,4
+346,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,3720794,,,4
+347,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,18792956,,,4
+348,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,61842086,,,4
+349,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,23954370,,,4
+350,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,159422834,,,4
+351,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,24772300,,,4
+352,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1301160,,,4
+353,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,7696060,,,4
+354,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,13414720,,,4
+355,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,210216913,,,4
+356,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,775,,,0
+357,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1045121,,,4
+358,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,248924,,,0
+359,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,960,,,0
+360,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,4805370,,,4
+361,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,13257198,,,4
+362,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,13045341,,,4
+363,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,29965319,,,4
+364,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,118868072,,,4
+365,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,1733,,,0
+366,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,3827,,,0
+367,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,5189655,,,0
+368,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,5681,,,0
+369,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,461363,,,4
+370,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,19114,,,4
+371,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,7253576,,,0
+372,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,61340,,,4
+373,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,8097542,,,0
+374,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,1125603,,,4
+375,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,21299,,,0
+376,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,1208667,,,0
+377,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,31994,,,4
+378,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,2229820,,,4
+379,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,90810,,,4
+380,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,60471,,,4
+381,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,253462,,,4
+382,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,2070253,,,4
+383,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,4030928,,,4
+384,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,17268147,,,4
+385,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,5182092,,,4
+386,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,4274155,,,4
+387,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,3739195,,,4
+388,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,10432304,,,4
+389,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,4830101,,,4
+390,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,17960824,,,4
+391,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,229307468,,,4
+392,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,336702287,,,4
+393,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1115415393,,,4
+394,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,3059139575,,,4
+395,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1087988896,,,4
+396,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,231279709,,,4
+397,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,226897288,,,4
+398,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,857510473,,,4
+399,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,3590311382,,,4
+400,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,499362422,,,4
+401,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,270094,,,0
+402,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,33338796,,,0
+403,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,654293,,,4
+404,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,293207,,,0
+405,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,33503540,,,4
+406,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,146856250,,,4
+407,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,234684964,,,4
+408,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,26159778,,,4
+409,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,318442283,,,4
+410,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,261750,,,4
+411,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,67518430,,,0
+412,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,18244846,,,4
+413,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,436247032,,,4
+414,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,4867891,,,0
+415,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,7417499,,,0
+416,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,101187,,,0
+417,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,2291148,,,0
+418,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,115021,,,4
+419,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,7719065,,,4
+420,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,154748919,,,4
+421,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,189910744,,,4
+422,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,224366076,,,4
+423,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,78379946,,,4
+424,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,57726,,,4
+425,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,316451,,,4
+426,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,19860664,,,4
+427,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,174558323,,,4
+428,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,6491250,,,4
+429,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,50980,,,4
+430,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,103529,,,4
+431,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,3432772,,,4
+432,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,404382,,,4
+433,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,29289,,,4
+434,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,9,,,0
+435,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,18959,,,0
+436,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,51198,,,4
+437,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,6248716,,,0
+438,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,8662943,,,4
+439,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,18645338,,,4
+440,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,12127625,,,4
+441,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,21157315,,,4
+442,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,7498267,,,4
+443,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,24281291,,,4
+444,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,35949558,,,4
+445,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,16435011,,,4
+446,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,3924688,,,4
+447,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,25762,,,4
+448,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,9451888,,,4
+449,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,7468238,,,4
+450,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,9663667,,,4
+451,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,23481706,,,4
+452,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1809,,,0
+453,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,78602,,,4
+454,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,149446,,,4
+455,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,674274,,,4
+456,H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,197050,,,4

@@ -1,0 +1,352 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,242,,,0
+1,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,50885,,,0
+2,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,4112501,,,0
+3,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,36933468,,,0
+4,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,4544973195,,,0
+5,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,6413426,,,0
+6,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,6924,,,0
+7,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,2008422,,,0
+8,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,37398115,,,4
+9,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,705263,,,0
+10,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,1165985,,,0
+11,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,3905587,,,0
+12,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,635893,,,4
+13,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,1707859,,,0
+14,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,1764451,,,0
+15,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,6138731,,,0
+16,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,4503419,,,4
+17,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,81715,,,0
+18,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,227686,,,0
+19,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,8015,,,0
+20,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,67510,,,0
+21,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,359086,,,0
+22,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,416498,,,0
+23,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,1851907,,,0
+24,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,1911871,,,4
+25,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,31025997,,,0
+26,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,4944772,,,0
+27,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,50914522,,,0
+28,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,307232318,,,4
+29,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,110539926,,,4
+30,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,23689496,,,4
+31,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,21826,,,0
+32,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,7388196,,,0
+33,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,6142396,,,4
+34,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,11206619,,,0
+35,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,632452,,,0
+36,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,113029,,,0
+37,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,44316,,,0
+38,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,76199,,,4
+39,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,4154443,,,0
+40,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,1183750,,,0
+41,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,340047,,,0
+42,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,20453075727,,,4
+43,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,483238,,,0
+44,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,560858,,,0
+45,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,154974,,,0
+46,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,40188413,,,4
+47,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,29814,,,0
+48,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,2850090,,,0
+49,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,4507521,,,4
+50,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,3178289,,,0
+51,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,321740,,,0
+52,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,255543829,,,4
+53,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,2066930,,,0
+54,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,36226952,,,0
+55,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,9267282,,,0
+56,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,373559,,,4
+57,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,2605374,,,0
+58,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,5792499,,,0
+59,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,158477621,,,4
+60,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,390769734,,,4
+61,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,7074,,,0
+62,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,35268,,,0
+63,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,2695207,,,0
+64,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,559827,,,4
+65,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,314638,,,4
+66,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,69109,,,0
+67,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,466266,,,0
+68,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,223416,,,4
+69,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,28487652,,,0
+70,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,799100259,,,0
+71,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,7575400,,,4
+72,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,77361293,,,4
+73,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,6187450,,,0
+74,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,23912934,,,4
+75,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,15078507,,,4
+76,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,8140247,,,4
+77,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,201965,,,0
+78,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,191524,,,0
+79,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,317913,,,0
+80,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,747136,,,0
+81,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,6662199,,,0
+82,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,45029846,,,0
+83,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,1498165,,,0
+84,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,43792812,,,0
+85,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,8825,,,4
+86,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,516585786,,,0
+87,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,7512653,,,4
+88,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,385811950,,,4
+89,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,63433,,,4
+90,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,61591419,,,0
+91,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,29409215,,,4
+92,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,141432145,,,0
+93,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,11135,,,0
+94,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,122228349,,,0
+95,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,109799506,,,0
+96,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,14398242034,,,0
+97,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,1262148,,,4
+98,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,28481830,,,0
+99,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,45752677,,,4
+100,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,15519389437,,,0
+101,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,875922,,,0
+102,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,48318808,,,4
+103,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,1008504604,,,4
+104,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,14323890,,,0
+105,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,999286,,,0
+106,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,64648444,,,4
+107,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,31697737,,,0
+108,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,140769840,,,4
+109,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,16486649,,,4
+110,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,28368830,,,4
+111,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,14438370,,,4
+112,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,29095435,,,4
+113,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,1740,,,0
+114,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,747359,,,0
+115,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,73642,,,0
+116,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,357659,,,4
+117,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,943249,,,4
+118,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,416992,,,4
+119,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,6866693,,,4
+120,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,4378988,,,4
+121,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,936010,,,4
+122,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,6612628,,,4
+123,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,22075297,,,4
+124,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,590240,,,4
+125,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,9341832,,,4
+126,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,224379,,,0
+127,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,2799977,,,4
+128,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,14349820,,,4
+129,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,10318544,,,4
+130,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,4253855,,,0
+131,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,3559493,,,4
+132,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,7355,,,0
+133,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,13207,,,0
+134,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,7513,,,0
+135,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,42152,,,0
+136,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,41557,,,0
+137,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,1181154,,,0
+138,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,266807,,,4
+139,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,1908045,,,0
+140,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,7151646,,,4
+141,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,1161726,,,4
+142,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,24693268,,,4
+143,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,2926838,,,4
+144,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,136450497,,,4
+145,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,11751650,,,4
+146,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,187336683,,,4
+147,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,21956135,,,4
+148,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,8053662,,,4
+149,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,24765675,,,4
+150,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,32478757,,,4
+151,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,2515169,,,0
+152,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,102553,,,0
+153,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,5282481,,,0
+154,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,290229286,,,4
+155,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,379520,,,4
+156,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,48681,,,4
+157,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,517944,,,4
+158,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,232662,,,4
+159,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,732374,,,0
+160,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,175057,,,0
+161,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,553930,,,0
+162,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,2444069,,,0
+163,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,7712031,,,4
+164,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,89749901,,,4
+165,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,32676885,,,4
+166,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,175456787,,,4
+167,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,154,,,4
+168,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1,,,4
+169,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,77,,,0
+170,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,208,,,4
+171,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,2608,,,0
+172,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1007,,,0
+173,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1067,,,4
+174,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,20931915,,,0
+175,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,109970700,,,0
+176,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,5848755,,,4
+177,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,3250159259,,,0
+178,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,1293684,,,4
+179,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,18798650,,,4
+180,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,6467602,,,4
+181,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,56030963,,,4
+182,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,98676,,,4
+183,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,8129,,,4
+184,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,60195,,,4
+185,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,51169,,,4
+186,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,998953,,,0
+187,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,127060,,,0
+188,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1315562,,,0
+189,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,374282,,,0
+190,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,20081,,,0
+191,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,821232674,,,0
+192,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,238011,,,0
+193,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,26892768,,,0
+194,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,724,,,4
+195,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,5268150,,,4
+196,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,44467,,,4
+197,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,6168774,,,4
+198,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,41,,,4
+199,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,748,,,0
+200,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,6075,,,0
+201,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,1135,,,4
+202,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,80932,,,4
+203,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,74911,,,4
+204,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1183655,,,4
+205,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,360400,,,4
+206,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,3295,,,4
+207,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,100,,,0
+208,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,127232,,,0
+209,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,610,,,0
+210,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,3073,,,4
+211,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,5538,,,0
+212,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,201770,,,4
+213,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,142255,,,4
+214,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,586704,,,4
+215,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,622239,,,0
+216,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1159015,,,4
+217,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,49763,,,4
+218,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,4,,,4
+219,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,105153,,,0
+220,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,87032,,,4
+221,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,1001503,,,4
+222,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,199463,,,4
+223,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,786593,,,4
+224,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,272057,,,4
+225,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,361842,,,4
+226,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,85041,,,4
+227,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,327066,,,4
+228,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,125145,,,4
+229,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,59011,,,4
+230,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,114798,,,4
+231,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,528752,,,4
+232,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,140210,,,4
+233,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,22124766,,,4
+234,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,8214222,,,0
+235,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,5970698,,,4
+236,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,10476144,,,4
+237,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,17384,,,4
+238,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,3788,,,4
+239,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,26089,,,4
+240,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,141561,,,0
+241,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,167,,,0
+242,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,1197,,,0
+243,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,1725,,,0
+244,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,5658246,,,4
+245,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,3179724,,,4
+246,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,15579364,,,4
+247,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,11230255,,,4
+248,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,2139314,,,4
+249,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,2840826,,,0
+250,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,4980121,,,4
+251,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,1721437,,,4
+252,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,109937,,,4
+253,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,4306551,,,4
+254,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,903319,,,4
+255,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,598926,,,4
+256,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1976304,,,4
+257,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,241605355,,,4
+258,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1071527960,,,4
+259,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,24728783,,,4
+260,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,1315483,,,0
+261,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,208397861,,,4
+262,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,143149611,,,0
+263,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,1226863617,,,4
+264,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,1669360,,,4
+265,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,5799106,,,4
+266,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,56716448,,,4
+267,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,20237626,,,4
+268,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1272731,,,4
+269,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,4689366,,,4
+270,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1963348,,,4
+271,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,274951373,,,4
+272,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,357914,,,4
+273,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,8730,,,4
+274,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,2309976,,,4
+275,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,849821,,,4
+276,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,2114361,,,4
+277,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,5637354,,,4
+278,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,1740675,,,4
+279,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,347261,,,0
+280,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,171,,,4
+281,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,695373,,,4
+282,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,2711673,,,0
+283,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,342073,,,4
+284,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,2323332,,,4
+285,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,11614,,,4
+286,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,20261121,,,4
+287,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,1537575,,,4
+288,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,7133716,,,4
+289,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,894669,,,4
+290,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,3686181,,,4
+291,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,66850,,,4
+292,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,189487,,,4
+293,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,382823,,,4
+294,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,1220223,,,4
+295,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,120586975,,,4
+296,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,94276497,,,4
+297,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,200209838,,,4
+298,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,213717208,,,4
+299,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,18638586,,,4
+300,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,26570652,,,4
+301,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,53758207,,,4
+302,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,62929338,,,4
+303,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,106296,,,0
+304,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,165091,,,0
+305,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,4924977,,,0
+306,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,2736919,,,4
+307,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,54055488,,,4
+308,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,10238412,,,4
+309,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,14181085,,,4
+310,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,8227458,,,4
+311,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,496402,,,4
+312,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,40744100,,,0
+313,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,6590637,,,4
+314,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,1116289,,,4
+315,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,34034,,,0
+316,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,4442,,,0
+317,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,1962,,,0
+318,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,2226284,,,4
+319,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,22403983,,,4
+320,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,25623055,,,4
+321,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,19337497,,,4
+322,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,950,,,4
+323,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,12467,,,0
+324,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,4560,,,0
+325,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,17294,,,4
+326,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,18996,,,0
+327,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,234697,,,0
+328,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,52190,,,4
+329,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,27695,,,4
+330,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,476874,,,0
+331,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,2150292,,,0
+332,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,172583,,,0
+333,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,445,,,0
+334,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,430873,,,4
+335,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,1113562,,,4
+336,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,17390035,,,4
+337,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,2351698,,,4
+338,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,78735,,,0
+339,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,13244,,,0
+340,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,47739,,,0
+341,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,60781,,,4
+342,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,820545,,,4
+343,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,6496,,,4
+344,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,3848970,,,0
+345,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,223021,,,4
+346,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,5434,,,0
+347,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,2709287,,,0
+348,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,39210,,,0
+349,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1299500,,,0
+350,H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,3871,,,0

@@ -1,0 +1,470 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,2287789,,,0
+1,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,27211,,,0
+2,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,17259981,,,4
+3,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,8246659,,,0
+4,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,1537211,,,0
+5,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,2102050,,,0
+6,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,37090036,,,0
+7,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,6952036,,,0
+8,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,146974,,,0
+9,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,6592,,,0
+10,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,28630587,,,0
+11,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,253398,,,0
+12,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,50866,,,0
+13,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,42842203,,,0
+14,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,5798835,,,0
+15,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,115303021,,,4
+16,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,11025732,,,0
+17,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,25691460,,,0
+18,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,4596,,,0
+19,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,33106,,,0
+20,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,13374472,,,0
+21,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,126721,,,0
+22,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,345123,,,0
+23,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,312538,,,0
+24,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,47767,,,0
+25,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,5409277,,,0
+26,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,6771754,,,0
+27,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,304395,,,0
+28,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,4987708,,,0
+29,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,1722056,,,0
+30,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,54502579,,,0
+31,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,11309482,,,0
+32,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,81452,,,0
+33,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,919719,,,0
+34,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,232395,,,0
+35,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,76604032,,,0
+36,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,6958628,,,0
+37,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,89676,,,0
+38,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,567194,,,0
+39,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,147456,,,0
+40,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,8676966,,,0
+41,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1319148,,,0
+42,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,8673,,,0
+43,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,152397,,,0
+44,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,12607,,,0
+45,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1877401,,,0
+46,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,10291580,,,0
+47,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1139,,,0
+48,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,2012499,,,0
+49,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,4168960,,,4
+50,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,21346118,,,0
+51,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,3190877,,,0
+52,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,8251872,,,0
+53,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,6642,,,0
+54,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,1508,,,0
+55,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,6345247,,,0
+56,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,2514690,,,4
+57,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,62779,,,0
+58,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1473,,,0
+59,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,6167,,,0
+60,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1251144,,,0
+61,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,186944,,,0
+62,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,12219,,,0
+63,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,90,,,0
+64,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,47714,,,0
+65,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,88363,,,0
+66,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,1897534,,,0
+67,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,86765,,,0
+68,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,53097032,,,0
+69,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,1641009,,,0
+70,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,2268469,,,0
+71,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,369501,,,0
+72,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,41286470,,,0
+73,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,1265418,,,0
+74,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,81016,,,0
+75,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,3598506,,,0
+76,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,6660840,,,0
+77,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,45284541,,,0
+78,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,3023155,,,4
+79,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,2089825,,,0
+80,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,17545704,,,0
+81,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,2949303,,,0
+82,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,56696458,,,0
+83,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,11342484,,,0
+84,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,5060768,,,0
+85,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,11797603,,,0
+86,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,2401779,,,0
+87,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,95012605,,,0
+88,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,23430238,,,0
+89,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,1597408,,,0
+90,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,68773358,,,0
+91,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,2502585,,,0
+92,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,100763659,,,0
+93,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,5065686,,,0
+94,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,2583512,,,0
+95,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,12647861,,,0
+96,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,1660868,,,0
+97,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,72753106,,,0
+98,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,11628804,,,0
+99,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,2332907,,,0
+100,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,2232788,,,0
+101,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,17888345,,,0
+102,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,104328360,,,0
+103,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,15564591,,,0
+104,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,2408131,,,0
+105,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,8554023,,,0
+106,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,7923461,,,0
+107,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,36186062,,,0
+108,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,4743109,,,0
+109,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,12008503,,,0
+110,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,238,,,0
+111,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,37017,,,0
+112,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,44432313,,,4
+113,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,18672779,,,0
+114,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,7198,,,0
+115,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,2069271,,,0
+116,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,692285,,,0
+117,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,2063346,,,0
+118,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,4841344,,,0
+119,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,466413,,,0
+120,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,8660,,,0
+121,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,5996,,,0
+122,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,34412815,,,0
+123,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,847862,,,0
+124,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,251690,,,0
+125,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,32299375,,,0
+126,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,100284941,,,0
+127,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,120623624,,,4
+128,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,212917599,,,4
+129,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,2862983,,,0
+130,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,8100612,,,4
+131,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,6897567,,,4
+132,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,118318903,,,0
+133,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,13081716,,,4
+134,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,5071872,,,4
+135,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,126668908,,,4
+136,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,90628870,,,4
+137,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,299478421,,,0
+138,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,491025015,,,4
+139,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,25298672,,,4
+140,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,280202436,,,0
+141,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,214133817,,,0
+142,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,1592028391,,,0
+143,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,1047248955,,,0
+144,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,135672632,,,0
+145,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,5290589,,,0
+146,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,30643,,,0
+147,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,97119919,,,0
+148,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,3645408,,,0
+149,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,8477256,,,0
+150,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,14748381,,,4
+151,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,6087910,,,0
+152,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,112981404,,,0
+153,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,25390607,,,0
+154,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,19803346,,,0
+155,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,35502502,,,0
+156,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,14868908,,,0
+157,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,86886470,,,0
+158,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,88052463,,,0
+159,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,2695151,,,0
+160,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,12617746,,,0
+161,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,11078261,,,0
+162,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,89298291,,,0
+163,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,15373540,,,0
+164,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,3461450,,,0
+165,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,1454263,,,0
+166,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,2400517,,,0
+167,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,16773777,,,0
+168,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,12569808,,,4
+169,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,2668654,,,0
+170,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,45687,,,0
+171,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,181879,,,0
+172,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,3492211,,,0
+173,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,1247011,,,0
+174,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,4058630,,,0
+175,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,10523661,,,0
+176,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,6016896,,,0
+177,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,544050,,,0
+178,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,62634634,,,0
+179,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,19738071,,,0
+180,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,294741624,,,0
+181,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,42551594,,,0
+182,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,19748309,,,0
+183,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,143173573,,,4
+184,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,75085333,,,4
+185,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,621934025,,,4
+186,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,273990999,,,4
+187,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,44640988,,,4
+188,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,8014281,,,0
+189,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,5420746,,,0
+190,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,100823762,,,0
+191,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,29063470,,,4
+192,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,29071874,,,0
+193,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,570,,,0
+194,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,22118,,,0
+195,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,357511,,,4
+196,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,168027,,,0
+197,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,122090,,,4
+198,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,134825,,,0
+199,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,24400989,,,0
+200,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,6115586,,,4
+201,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,167076,,,0
+202,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,24,,,0
+203,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,1028,,,0
+204,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,31003,,,0
+205,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,22050,,,0
+206,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,3603099,,,0
+207,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,390486,,,0
+208,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,49941073,,,4
+209,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,17553124,,,0
+210,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,1055955,,,0
+211,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,2512,,,0
+212,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,82,,,0
+213,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,13539,,,0
+214,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,69648,,,0
+215,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,170,,,0
+216,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1860,,,0
+217,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,144,,,0
+218,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1092352,,,0
+219,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,409497,,,0
+220,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,159354,,,0
+221,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,36147,,,0
+222,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,2925847,,,0
+223,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,609536,,,0
+224,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,2628136,,,0
+225,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,2274328,,,4
+226,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,4064122,,,0
+227,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,52930320,,,0
+228,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,37200202,,,4
+229,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,11770422,,,0
+230,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,3240567,,,0
+231,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,144493,,,0
+232,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,11785965,,,0
+233,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,6407246,,,4
+234,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,928747,,,0
+235,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,4590,,,0
+236,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,6393,,,0
+237,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,33378,,,0
+238,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,20842,,,0
+239,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,145017,,,0
+240,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1864104,,,0
+241,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1014519,,,0
+242,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,2719,,,0
+243,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,20896,,,0
+244,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,2822805,,,4
+245,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,14001519,,,4
+246,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,22261,,,0
+247,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,6452,,,0
+248,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,34189,,,0
+249,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,3801393,,,0
+250,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,887512,,,0
+251,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,100496,,,0
+252,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,1049121,,,0
+253,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,63796,,,0
+254,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,16071021,,,4
+255,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,4862289,,,0
+256,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,615806,,,0
+257,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,300935,,,0
+258,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,9707,,,0
+259,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,14153575,,,4
+260,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,3022163,,,0
+261,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,355989,,,0
+262,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1306294,,,0
+263,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1555027,,,4
+264,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,10354075,,,0
+265,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,2699447,,,0
+266,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,1152298,,,0
+267,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,7338172,,,0
+268,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,1372405,,,0
+269,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,24372882,,,0
+270,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,13602473,,,0
+271,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,173177,,,0
+272,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,61833,,,0
+273,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,457400,,,0
+274,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,4735279,,,0
+275,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,832884,,,4
+276,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,589444,,,0
+277,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,2840442,,,0
+278,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,557004,,,0
+279,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,18271650,,,4
+280,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,7438633,,,0
+281,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,839195,,,0
+282,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,157965,,,0
+283,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,31800,,,0
+284,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,4373618,,,0
+285,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,580509,,,0
+286,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,42320,,,0
+287,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,79535,,,0
+288,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,198017,,,0
+289,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,28668468,,,4
+290,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,5433525,,,4
+291,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,301519,,,0
+292,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,317213,,,0
+293,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,760352,,,0
+294,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,39152353,,,0
+295,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,15198397,,,4
+296,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,2175420,,,0
+297,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,336699,,,0
+298,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,149680,,,0
+299,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,19177832,,,4
+300,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,7382600,,,0
+301,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,155046,,,0
+302,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,139395,,,0
+303,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,173799,,,0
+304,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,10156177,,,0
+305,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,1159702,,,0
+306,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,1513,,,0
+307,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,28803,,,0
+308,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,25214,,,0
+309,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,984554,,,0
+310,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,333093,,,0
+311,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,14250,,,0
+312,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,103040,,,0
+313,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,7982,,,0
+314,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,935566,,,0
+315,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,389263,,,0
+316,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,31,,,0
+317,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,793,,,0
+318,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,739,,,0
+319,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,1634836,,,0
+320,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,331674,,,0
+321,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,307591,,,0
+322,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,1262332,,,0
+323,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,11165542,,,0
+324,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,7706772,,,0
+325,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,612547,,,0
+326,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,505607,,,0
+327,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,285076,,,0
+328,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,7627809,,,0
+329,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,3902666,,,0
+330,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,449122,,,0
+331,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,3269320,,,4
+332,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,1185763,,,4
+333,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,64945577,,,4
+334,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,23491192,,,0
+335,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,2750620,,,4
+336,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,1596284,,,0
+337,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,318420144,,,4
+338,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,24425081,,,4
+339,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,606552196,,,0
+340,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,165584597,,,0
+341,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,20141220,,,4
+342,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,5848009,,,4
+343,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,278895592,,,4
+344,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,61780908,,,4
+345,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,8822112,,,0
+346,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,14601745,,,4
+347,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,5846392,,,4
+348,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,81135993,,,0
+349,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,25571142,,,4
+350,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,14201955,,,4
+351,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1980634,,,4
+352,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,10181451,,,4
+353,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,39691993,,,0
+354,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,9404181,,,4
+355,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,8675082,,,4
+356,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,148971,,,0
+357,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,1112235,,,0
+358,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,799775,,,0
+359,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,406994,,,0
+360,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,475280,,,0
+361,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,1015295,,,4
+362,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,517916,,,0
+363,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,47120895,,,0
+364,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,27078076,,,4
+365,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,4482233,,,0
+366,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,295721,,,0
+367,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,352,,,0
+368,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,7590435,,,0
+369,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,2149254,,,0
+370,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,242,,,0
+371,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,566451,,,0
+372,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,24675900,,,0
+373,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,21589231,,,0
+374,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,2749476,,,0
+375,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,834823,,,0
+376,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,3563,,,0
+377,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,2826,,,0
+378,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,5806324,,,0
+379,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,6361,,,0
+380,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,6133,,,0
+381,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,854,,,0
+382,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,94909,,,4
+383,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,1619261,,,0
+384,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,563734,,,4
+385,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,257032,,,0
+386,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,1770946,,,4
+387,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,7241681,,,4
+388,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,25397110,,,0
+389,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,10160271,,,4
+390,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,525681,,,0
+391,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,852337,,,0
+392,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,366297,,,4
+393,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,7205732,,,0
+394,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,5135217,,,4
+395,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,719954,,,0
+396,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,114838467,,,4
+397,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,174459664,,,4
+398,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,629138019,,,4
+399,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,220163782,,,4
+400,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,47249354,,,4
+401,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,37595973,,,4
+402,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,40498370,,,4
+403,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,359134703,,,4
+404,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,125293003,,,4
+405,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,42418626,,,4
+406,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,101458,,,0
+407,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,884682,,,0
+408,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,1369108,,,0
+409,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,2403675,,,0
+410,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,297228,,,0
+411,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,32716878,,,4
+412,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,10595228,,,4
+413,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1164288066,,,4
+414,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,381969182,,,4
+415,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,7159252,,,4
+416,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,116827,,,0
+417,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,212790,,,0
+418,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,7114838,,,0
+419,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,13028164,,,0
+420,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,146792,,,0
+421,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,21331,,,0
+422,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,116435,,,0
+423,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,214522,,,0
+424,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,239955,,,0
+425,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,925,,,0
+426,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,85468764,,,4
+427,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,45787689,,,4
+428,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,423240042,,,4
+429,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,194551850,,,4
+430,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,32760145,,,4
+431,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,219176,,,0
+432,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,688720,,,0
+433,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,1617234,,,4
+434,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,10302898,,,0
+435,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,295816,,,0
+436,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,1284,,,0
+437,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,45254,,,0
+438,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,620425,,,4
+439,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,211069,,,0
+440,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,788,,,0
+441,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,214615,,,0
+442,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,2824154,,,0
+443,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,67234,,,0
+444,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,2891014,,,0
+445,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,2220589,,,4
+446,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,38054233,,,0
+447,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,37420821,,,4
+448,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,1812144,,,0
+449,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,806503,,,0
+450,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,6636362,,,0
+451,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,20778916,,,0
+452,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,14861352,,,0
+453,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,192520,,,0
+454,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,11714881,,,4
+455,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,622860,,,4
+456,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,39938088,,,0
+457,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,15935863,,,4
+458,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,211948,,,0
+459,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,111279,,,0
+460,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,741139,,,0
+461,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,208447,,,0
+462,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,20384245,,,0
+463,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1227334,,,0
+464,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,108560077,,,0
+465,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,6064734,,,0
+466,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,40517563,,,0
+467,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,34607703,,,0
+468,H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,6673647,,,0

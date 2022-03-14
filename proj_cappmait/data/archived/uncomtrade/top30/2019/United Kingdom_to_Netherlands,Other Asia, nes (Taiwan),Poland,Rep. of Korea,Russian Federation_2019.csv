@@ -1,0 +1,476 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,4789791,,,0
+1,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,46275,,,0
+2,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,16724697,,,4
+3,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,5666584,,,0
+4,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,2068969,,,0
+5,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,3508337,,,0
+6,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,8635108,,,0
+7,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,268178944,,,0
+8,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,24065364,,,0
+9,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,31520,,,0
+10,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,23641330,,,0
+11,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,45879484,,,0
+12,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,94094867,,,0
+13,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,31409241,,,0
+14,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,111294,,,0
+15,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,3718661,,,4
+16,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,2030624,,,0
+17,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,315681541,,,4
+18,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,33442565,,,0
+19,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,10611134,,,0
+20,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,25859,,,0
+21,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,6989305,,,4
+22,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,33296701,,,0
+23,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,4171651,,,0
+24,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,327544,,,0
+25,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,65642,,,0
+26,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,23968163,,,0
+27,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,654631,,,0
+28,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,125344,,,0
+29,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,39825,,,4
+30,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,37205542,,,0
+31,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,20850441,,,0
+32,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,5210,,,0
+33,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,28031,,,0
+34,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,54355301,,,4
+35,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,9779109,,,0
+36,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,9710,,,0
+37,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,8338148,,,4
+38,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,2013335,,,0
+39,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,38633915,,,0
+40,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,16560640,,,0
+41,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,8164332,,,0
+42,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,180024,,,0
+43,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,160709614,,,0
+44,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,10113363,,,0
+45,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,750952,,,0
+46,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,,,1026000,,,4
+47,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,17040066,,,0
+48,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,7279704,,,4
+49,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,659401,,,0
+50,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,722051,,,4
+51,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,327037,,,0
+52,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,27703009,,,4
+53,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,4302385,,,4
+54,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,3902178,,,4
+55,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1644147,,,0
+56,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,164450,,,4
+57,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,9672787,,,0
+58,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,4112504,,,0
+59,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1270983,,,0
+60,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,55469,,,0
+61,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,129770,,,0
+62,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,11158,,,0
+63,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2244958,,,0
+64,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2315962,,,4
+65,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,163979992,,,4
+66,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,20280973,,,4
+67,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,545051,,,0
+68,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,27209205,,,0
+69,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,143848,,,0
+70,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,20724931,,,0
+71,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,3183799,,,0
+72,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,2191,,,0
+73,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,807821,,,4
+74,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,926926,,,0
+75,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,42046947,,,0
+76,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,13295699,,,4
+77,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,3567541,,,0
+78,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,2602955,,,0
+79,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,1235532,,,0
+80,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,129690040,,,0
+81,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,68745712,,,0
+82,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,73141,,,0
+83,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,4922470,,,4
+84,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,3197282,,,0
+85,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,117588306,,,0
+86,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,24446779,,,0
+87,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,8892833,,,0
+88,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,2719893,,,4
+89,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,557465,,,0
+90,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,64129910,,,0
+91,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,9532370,,,4
+92,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,9100768,,,4
+93,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,21751713,,,4
+94,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,7374700,,,4
+95,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,239015766,,,0
+96,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,95632485,,,4
+97,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,37259936,,,0
+98,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,140887947,,,4
+99,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,289683706,,,4
+100,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,360518746,,,0
+101,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,138160331,,,0
+102,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,48197232,,,0
+103,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,10558084,,,4
+104,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,4584602,,,0
+105,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,94831329,,,4
+106,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,31690457,,,4
+107,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,29426133,,,0
+108,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,6412316,,,0
+109,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,14467,,,0
+110,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,825034,,,0
+111,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,10403598,,,0
+112,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,15308069,,,0
+113,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,3776416,,,0
+114,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,1852035,,,4
+115,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,34518098,,,4
+116,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,13827478,,,4
+117,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,1200309,,,4
+118,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,1120494,,,0
+119,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,43726,,,0
+120,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,9491488,,,0
+121,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,13005760,,,0
+122,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,37704,,,0
+123,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,389630804,,,4
+124,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,2600634,,,4
+125,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,12094777965,,,4
+126,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,610840123,,,0
+127,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,7931777,,,4
+128,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,98858403,,,4
+129,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,12200261,,,4
+130,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,85632660,,,4
+131,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,17524407,,,4
+132,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,10757519,,,4
+133,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,104167414,,,4
+134,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,11279980,,,4
+135,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,1272099326,,,4
+136,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,93949449,,,4
+137,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,86956441,,,4
+138,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,250675208,,,4
+139,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,207204545,,,4
+140,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,1836939302,,,4
+141,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,176329647,,,4
+142,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,360983039,,,4
+143,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,446106,,,0
+144,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,236345,,,4
+145,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,29862791,,,4
+146,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,11546962,,,4
+147,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,1141956,,,0
+148,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,38265914,,,4
+149,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,14223312,,,4
+150,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,252277409,,,0
+151,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,139391578,,,0
+152,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,70921268,,,4
+153,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,50323618,,,4
+154,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,19285977,,,4
+155,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,291148779,,,0
+156,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,229751707,,,0
+157,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,56780848,,,4
+158,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,13780734,,,4
+159,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,6609955,,,4
+160,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,97265382,,,0
+161,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,61283464,,,0
+162,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,54575998,,,0
+163,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,6643602,,,4
+164,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,987766,,,4
+165,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,40366466,,,0
+166,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,18095437,,,0
+167,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,6198167,,,4
+168,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,92862,,,4
+169,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,4849663,,,0
+170,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,655598,,,0
+171,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,49037,,,0
+172,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,422699,,,0
+173,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,4414955,,,0
+174,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,66453305,,,4
+175,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,2769871,,,4
+176,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,2114533,,,4
+177,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,82414617,,,4
+178,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,70414302,,,4
+179,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,377942639,,,4
+180,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,176204881,,,0
+181,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,65835238,,,4
+182,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,112681231,,,4
+183,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,33149556,,,4
+184,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,749909260,,,4
+185,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,415194401,,,0
+186,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,83017475,,,4
+187,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,14305594,,,4
+188,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,7084134,,,4
+189,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,150667298,,,4
+190,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,60391458,,,0
+191,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,32465427,,,4
+192,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,195933,,,0
+193,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,133413,,,0
+194,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,7540409,,,0
+195,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,16628986,,,0
+196,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,191904,,,0
+197,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,72083088,,,4
+198,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,6162577,,,4
+199,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,53829216,,,0
+200,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,31900654,,,0
+201,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,4531335,,,4
+202,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,3325868,,,4
+203,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,53967,,,4
+204,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,924181,,,0
+205,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,257232,,,0
+206,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,294419,,,0
+207,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,553755,,,0
+208,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,2454759,,,4
+209,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,26554535,,,4
+210,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,3611745,,,4
+211,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,126614,,,4
+212,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,5434,,,0
+213,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,200968,,,0
+214,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,324998,,,0
+215,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,1312,,,0
+216,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,49178,,,0
+217,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,15530,,,4
+218,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,451222,,,0
+219,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,76370,,,0
+220,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,46205,,,4
+221,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,537398,,,0
+222,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,14244262,,,0
+223,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,34844917,,,0
+224,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,113278,,,4
+225,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,14268236,,,4
+226,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,9695662,,,4
+227,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,165823309,,,4
+228,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,85855693,,,4
+229,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,22372920,,,4
+230,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,16574069,,,4
+231,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,10398252,,,4
+232,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,170584667,,,0
+233,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,103957996,,,0
+234,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,20045217,,,4
+235,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,45731,,,0
+236,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,57173,,,0
+237,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,387404,,,0
+238,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,599215,,,0
+239,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,282107,,,0
+240,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,9688593,,,0
+241,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,1469623,,,0
+242,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,5971402,,,4
+243,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,18345473,,,4
+244,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,673420,,,4
+245,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,339666,,,4
+246,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,134275,,,4
+247,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,10073978,,,4
+248,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,2444464,,,4
+249,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,3941622,,,4
+250,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,447071,,,0
+251,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,59186,,,0
+252,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,1679550,,,0
+253,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,617086,,,4
+254,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,333453,,,0
+255,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,2167290,,,4
+256,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,220436,,,4
+257,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,162188112,,,0
+258,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,30427467,,,4
+259,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,492678,,,0
+260,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,7091321,,,0
+261,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2063742,,,4
+262,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,6643917,,,4
+263,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,6771951,,,4
+264,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2055535,,,0
+265,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,2123649,,,4
+266,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,407936,,,0
+267,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,27435939,,,0
+268,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,12923223,,,0
+269,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,1580951,,,4
+270,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,1633455,,,0
+271,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,277442,,,4
+272,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,39387594,,,0
+273,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,18063042,,,0
+274,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,2403168,,,0
+275,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,561181,,,4
+276,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,281189,,,0
+277,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,8545250,,,0
+278,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,10821835,,,0
+279,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,410136,,,4
+280,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,2233771,,,4
+281,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1022667,,,0
+282,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,29154949,,,4
+283,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,38607350,,,4
+284,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,586777,,,4
+285,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,204382,,,0
+286,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,12780,,,4
+287,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,4268663,,,0
+288,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,38626588,,,0
+289,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,144390,,,0
+290,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,30457534,,,4
+291,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,49988291,,,4
+292,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,181943221,,,4
+293,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,100669808,,,0
+294,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,47767632,,,4
+295,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,46121056,,,4
+296,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,27263795,,,4
+297,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,190427858,,,0
+298,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,90315999,,,4
+299,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,66977082,,,4
+300,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,2901673,,,4
+301,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,895894,,,4
+302,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,28823266,,,0
+303,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,72159947,,,0
+304,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,4895007,,,4
+305,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,25213887,,,4
+306,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,6218003,,,4
+307,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,148264902,,,4
+308,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,97365121,,,4
+309,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,16983342,,,4
+310,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1296415,,,4
+311,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1286185,,,4
+312,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,9541088,,,0
+313,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,6928166,,,4
+314,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1064510,,,0
+315,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,140574,,,0
+316,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,56968,,,0
+317,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,663556,,,0
+318,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,653842,,,0
+319,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,104809,,,0
+320,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,7587,,,0
+321,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,10788,,,0
+322,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,3282861,,,0
+323,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,1101529,,,0
+324,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,3517,,,0
+325,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,8821570,,,4
+326,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,5868095,,,4
+327,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,41264563,,,0
+328,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,31461783,,,4
+329,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,4669522,,,4
+330,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,28016153,,,4
+331,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,3655692,,,4
+332,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,26290376,,,0
+333,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,13277891,,,4
+334,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,5801416,,,4
+335,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,12144369,,,4
+336,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,3294481,,,4
+337,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,47131332,,,0
+338,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,29781963,,,4
+339,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,9074172,,,4
+340,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,153958782,,,4
+341,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,31023633,,,4
+342,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,43721366,,,4
+343,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,22126606,,,4
+344,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,23117185,,,4
+345,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,42769314,,,4
+346,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,60671404,,,4
+347,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,444876341,,,4
+348,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,62349467,,,4
+349,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,7964073,,,4
+350,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,31823074,,,4
+351,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,9680797,,,4
+352,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,311105832,,,4
+353,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,119028353,,,4
+354,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,31727736,,,4
+355,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,27552432,,,4
+356,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,12704879,,,4
+357,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,46452524,,,4
+358,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,9876948,,,0
+359,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,3565334,,,4
+360,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,10865740,,,4
+361,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,12735859,,,4
+362,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,24186301,,,4
+363,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,5576040,,,0
+364,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,3994791,,,4
+365,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,47751198,,,4
+366,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,11153021,,,4
+367,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,180765067,,,4
+368,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,43859934,,,4
+369,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,3106057,,,4
+370,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,91955,,,0
+371,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,8754178,,,4
+372,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,9141890,,,0
+373,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,20570715,,,0
+374,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,213997,,,0
+375,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,898178,,,0
+376,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,207457,,,0
+377,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,2964302,,,4
+378,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,3369732,,,0
+379,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,19855,,,4
+380,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,502469,,,4
+381,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,167674,,,0
+382,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,315492,,,0
+383,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,1904084,,,0
+384,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,24389,,,0
+385,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,15325141,,,4
+386,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,3678122,,,4
+387,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,13705802,,,0
+388,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,4771225,,,4
+389,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,464406,,,4
+390,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,7536934,,,4
+391,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,2150422,,,4
+392,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,53474498,,,0
+393,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,39376755,,,0
+394,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,3746429,,,4
+395,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,3577025,,,4
+396,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,2830413,,,4
+397,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,98090686,,,0
+398,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,31688649,,,0
+399,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,9530329,,,4
+400,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,1216961545,,,4
+401,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,282723841,,,4
+402,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,2873682497,,,4
+403,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,960346439,,,4
+404,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,685167443,,,4
+405,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,306938586,,,4
+406,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,100797496,,,4
+407,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,1480179407,,,4
+408,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,547854271,,,4
+409,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,224975147,,,4
+410,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,10078710,,,0
+411,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,371193,,,0
+412,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,5948004,,,0
+413,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,6785467,,,0
+414,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,3464170,,,0
+415,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,585292766,,,4
+416,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,182287009,,,4
+417,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,2096981966,,,4
+418,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,974456813,,,4
+419,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,733236953,,,4
+420,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,92712862,,,0
+421,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,33185849,,,0
+422,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,133189119,,,0
+423,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,57097400,,,0
+424,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,89436613,,,0
+425,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,6104594,,,0
+426,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,217414,,,0
+427,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,45381797,,,4
+428,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,2422314,,,0
+429,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,3049352,,,0
+430,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,406942356,,,4
+431,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,115044453,,,4
+432,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,926238847,,,4
+433,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,180971627,,,4
+434,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,137041862,,,4
+435,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1762727,,,4
+436,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1720739,,,4
+437,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,27930360,,,4
+438,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,9684959,,,4
+439,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,2214720,,,4
+440,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,2806387,,,4
+441,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,413949,,,4
+442,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,5868704,,,4
+443,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,3249028,,,4
+444,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,270584,,,4
+445,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,7867241,,,4
+446,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,351205,,,0
+447,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,5021932,,,0
+448,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,905203,,,0
+449,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,640532,,,0
+450,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,13183611,,,4
+451,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,5437681,,,4
+452,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,149137305,,,0
+453,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,48632899,,,0
+454,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,32838457,,,4
+455,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,4898925,,,0
+456,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,3778976,,,4
+457,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,137429480,,,4
+458,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,86224038,,,4
+459,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,5599796,,,4
+460,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,2311107,,,4
+461,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,727037,,,4
+462,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,33273542,,,4
+463,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,28369151,,,4
+464,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1555582,,,4
+465,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,75628105,,,0
+466,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,67422501,,,4
+467,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,33578163,,,0
+468,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,587443,,,0
+469,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,120953154,,,4
+470,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,3502870,,,0
+471,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,2660067,,,0
+472,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,36221855,,,0
+473,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,15476867,,,0
+474,H5,2019,2019,2019,2,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,9686386,,,0

@@ -1,0 +1,480 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,20984306,,,4
+1,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,4388280,,,4
+2,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,4435471,,,4
+3,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,01,Animals; live,1,No Quantity,,,0,,,,205884,,,4
+4,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,2471263,,,4
+5,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,2165581579,,,0
+6,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,827641222,,,0
+7,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,122691647,,,0
+8,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,326664,,,0
+9,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,6500,,,0
+10,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,421655894,,,0
+11,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,29328182,,,0
+12,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,281951197,,,0
+13,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,10518644,,,0
+14,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,12170,,,0
+15,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,325311614,,,4
+16,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,109800141,,,4
+17,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,8622981,,,4
+18,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,85741,,,0
+19,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,5473190,,,4
+20,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,27513755,,,4
+21,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,11176942,,,4
+22,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,12269940,,,4
+23,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,4042274,,,4
+24,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,18242482,,,4
+25,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1082175,,,4
+26,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,49034,,,4
+27,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,44145043,,,4
+28,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,55939,,,4
+29,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,20053,,,4
+30,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,36984323,,,0
+31,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,73631034,,,0
+32,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,75730434,,,0
+33,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,965136,,,0
+34,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,774148741,,,0
+35,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,270883952,,,0
+36,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,418227019,,,0
+37,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,29915362,,,0
+38,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,387746,,,0
+39,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,92052456,,,0
+40,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,32463920,,,0
+41,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,4348409,,,0
+42,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,309923,,,0
+43,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,940215,,,0
+44,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,1069691871,,,0
+45,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,529496339,,,0
+46,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,8256005,,,0
+47,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,1409599,,,0
+48,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,3381044,,,0
+49,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,10823744,,,0
+50,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,3393851,,,0
+51,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,2099296,,,0
+52,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,79890,,,0
+53,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,219932,,,0
+54,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,701973604,,,0
+55,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,682665447,,,0
+56,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,1260471579,,,0
+57,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,3871736,,,0
+58,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,25214620,,,0
+59,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,32141075,,,0
+60,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,5548349,,,0
+61,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,14419432,,,0
+62,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,875081,,,0
+63,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,3714605,,,0
+64,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,125206,,,4
+65,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,165203,,,4
+66,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1335990,,,4
+67,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,73000,,,0
+68,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,52997,,,4
+69,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,312822411,,,0
+70,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,13600046,,,0
+71,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,161952597,,,0
+72,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,764995,,,0
+73,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,5812949,,,0
+74,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,57977141,,,0
+75,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,11434560,,,0
+76,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,6220547,,,0
+77,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,15315,,,0
+78,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,40078710,,,0
+79,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,9234502,,,0
+80,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,26975030,,,4
+81,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,158203,,,0
+82,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,2275342,,,0
+83,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,66200990,,,0
+84,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,25768053,,,0
+85,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,16794221,,,0
+86,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,6244244,,,0
+87,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,82832421,,,4
+88,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,18960191,,,4
+89,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,18523202,,,4
+90,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,342213,,,0
+91,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,1482482,,,4
+92,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,237195500,,,4
+93,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,100353777,,,4
+94,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,95453714,,,4
+95,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,13264848,,,0
+96,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,8232008,,,0
+97,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,615927421,,,0
+98,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,196186728,,,0
+99,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,360135510,,,0
+100,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,22267379,,,0
+101,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,52581436,,,0
+102,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,311875460,,,0
+103,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,77735900,,,0
+104,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,398359794,,,0
+105,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,36850273,,,0
+106,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,7268348,,,0
+107,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,498438244,,,0
+108,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,179643489,,,0
+109,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,50778634,,,0
+110,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,4292147,,,0
+111,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,19906520,,,0
+112,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,43068632,,,4
+113,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,4285308,,,4
+114,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,10660148,,,4
+115,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,12560697,,,4
+116,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,30872200,,,4
+117,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,55768800,,,0
+118,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,36613322,,,0
+119,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,45242873,,,0
+120,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,5412274,,,0
+121,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,3841249,,,0
+122,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,443672102,,,4
+123,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,112468736,,,4
+124,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,403812176,,,0
+125,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,966756,,,0
+126,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,830461,,,0
+127,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,8582717130,,,4
+128,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,3376687461,,,4
+129,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,7996657450,,,4
+130,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,318575244,,,4
+131,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,17533517,,,0
+132,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,652861487,,,4
+133,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,341592401,,,4
+134,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,166754593,,,4
+135,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,43687392,,,4
+136,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,24334028,,,4
+137,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,2299490072,,,4
+138,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,930310589,,,4
+139,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,1711832648,,,4
+140,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,19549169,,,4
+141,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,42817766,,,4
+142,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,1044479797,,,4
+143,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,484941782,,,4
+144,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,5154396605,,,4
+145,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,32599653,,,0
+146,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,391789821,,,0
+147,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,116654269,,,0
+148,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,44500326,,,0
+149,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,8338892,,,0
+150,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,734767,,,0
+151,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,117028,,,0
+152,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,277792325,,,4
+153,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,88049846,,,4
+154,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,108640816,,,4
+155,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,13728565,,,4
+156,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,15470448,,,4
+157,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,353079478,,,0
+158,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,154738791,,,0
+159,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,628350017,,,0
+160,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,85308393,,,0
+161,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,139402077,,,0
+162,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,217204615,,,0
+163,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,225542355,,,0
+164,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,186024724,,,0
+165,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,9564055,,,4
+166,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,21644267,,,0
+167,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,106544994,,,0
+168,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,43945253,,,0
+169,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,209822149,,,0
+170,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,9522815,,,0
+171,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,14839267,,,0
+172,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,29563113,,,4
+173,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,6149341,,,4
+174,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,7002486,,,4
+175,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,2684374,,,4
+176,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,698042,,,4
+177,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,50955959,,,4
+178,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,173766121,,,4
+179,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,31725055,,,4
+180,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,8476936,,,4
+181,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,1527446,,,4
+182,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,1288262110,,,0
+183,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,627415517,,,0
+184,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,1501352119,,,0
+185,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,72440530,,,0
+186,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,166604258,,,0
+187,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,1433244760,,,4
+188,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,969381018,,,4
+189,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,1417216819,,,4
+190,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,185471600,,,4
+191,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,177002883,,,4
+192,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,216617174,,,4
+193,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,90084541,,,4
+194,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,178342929,,,4
+195,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,46080322,,,4
+196,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,96742604,,,4
+197,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,68453219,,,4
+198,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,14360479,,,4
+199,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,4240959,,,4
+200,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,2387131,,,4
+201,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,214918,,,4
+202,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,17245713,,,4
+203,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,5136936,,,4
+204,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,32663560,,,4
+205,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,1462343,,,4
+206,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,1827469,,,4
+207,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,131650,,,4
+208,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,45427,,,4
+209,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,9686,,,4
+210,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,546865,,,4
+211,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,206581,,,4
+212,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,87201290,,,4
+213,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,31336861,,,4
+214,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,97088645,,,4
+215,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,2784585,,,4
+216,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,3088369,,,4
+217,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,250831,,,0
+218,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,49950,,,0
+219,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,215452,,,0
+220,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,16004,,,0
+221,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,47086,,,4
+222,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,2760,,,4
+223,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,27701,,,4
+224,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,20004,,,4
+225,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,11560,,,0
+226,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,256504848,,,4
+227,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,195327661,,,4
+228,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,128751572,,,4
+229,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,95020517,,,4
+230,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,40192830,,,4
+231,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,257253359,,,4
+232,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,185497147,,,4
+233,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,190323297,,,4
+234,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,44639643,,,4
+235,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,10032628,,,4
+236,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,49857473,,,4
+237,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,38289330,,,4
+238,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,40442639,,,4
+239,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,10163827,,,4
+240,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,4056392,,,4
+241,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,278230,,,0
+242,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,6138,,,0
+243,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,15236,,,0
+244,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,11127,,,0
+245,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,14760,,,0
+246,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,343159,,,0
+247,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,79532,,,0
+248,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,247269,,,0
+249,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,30132,,,0
+250,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,35049,,,0
+251,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,111334870,,,0
+252,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,57879864,,,0
+253,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,6066991,,,0
+254,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,351173,,,0
+255,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,412465,,,0
+256,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,111096,,,0
+257,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,26100,,,0
+258,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,86600,,,0
+259,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,14299,,,0
+260,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,5476,,,0
+261,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,35840471,,,0
+262,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,12070859,,,0
+263,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,41423797,,,0
+264,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,10950494,,,0
+265,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,5785747,,,0
+266,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,34019874,,,4
+267,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,4254317,,,4
+268,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,151804313,,,0
+269,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,1305896,,,0
+270,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,8036620,,,0
+271,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,43173940,,,0
+272,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,16353888,,,0
+273,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,41661112,,,0
+274,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,10060988,,,0
+275,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,4685319,,,0
+276,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,5533690,,,0
+277,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,981704,,,0
+278,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,3959698,,,0
+279,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,482635,,,0
+280,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,871720,,,0
+281,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,1871482,,,0
+282,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,746304,,,0
+283,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,1951912,,,0
+284,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,1213562,,,0
+285,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,393846,,,0
+286,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,27655693,,,0
+287,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,12249816,,,0
+288,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,18797734,,,0
+289,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,9469310,,,0
+290,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1912260,,,0
+291,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,751615,,,0
+292,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,920265,,,0
+293,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,5397191,,,0
+294,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,1110012,,,0
+295,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,713561,,,0
+296,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,49517501,,,0
+297,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,12798465,,,0
+298,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,41335696,,,0
+299,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,1817886,,,0
+300,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,5133019,,,0
+301,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,35649084,,,0
+302,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,8532038,,,0
+303,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,30446869,,,0
+304,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,4488880,,,0
+305,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,9798730,,,0
+306,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,11445762,,,0
+307,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,6241353,,,0
+308,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,20249858,,,0
+309,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,14529113,,,0
+310,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,3165732,,,0
+311,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,20925597,,,4
+312,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,6177205,,,4
+313,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,15194149,,,4
+314,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,464411,,,4
+315,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2966922,,,4
+316,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,7851891,,,0
+317,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1842498,,,0
+318,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,12325895,,,0
+319,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1005210,,,0
+320,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,391984,,,0
+321,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,94128,,,4
+322,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,12210,,,4
+323,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,1943580,,,4
+324,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,22517,,,4
+325,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,132738,,,4
+326,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,46934,,,4
+327,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,1627650,,,4
+328,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,1079999,,,4
+329,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,37726,,,4
+330,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,89392384,,,4
+331,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,73165556,,,4
+332,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,91007719,,,4
+333,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,33034712,,,4
+334,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,5992068,,,4
+335,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,118248172,,,4
+336,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,87282470,,,4
+337,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,18378803,,,4
+338,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,15288485,,,4
+339,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,4008596,,,4
+340,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,157177794,,,4
+341,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,58852867,,,4
+342,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,38368100,,,4
+343,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,17428591,,,4
+344,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,12892414,,,4
+345,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,713044257,,,4
+346,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,440759938,,,4
+347,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,31411952,,,4
+348,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,6933286,,,4
+349,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,87564296,,,0
+350,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,251232779,,,4
+351,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,541891163,,,4
+352,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,14919728,,,4
+353,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,9072036,,,4
+354,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,7220032,,,4
+355,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,249277748,,,4
+356,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,88627465,,,4
+357,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,207741718,,,4
+358,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,49956976,,,4
+359,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,55163898,,,4
+360,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,363882838,,,4
+361,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,152614244,,,4
+362,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,36034316,,,4
+363,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,35099853,,,0
+364,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,40965232,,,4
+365,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,72695122,,,0
+366,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,41817136,,,0
+367,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,12318627,,,0
+368,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,27353485,,,0
+369,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,4944609,,,0
+370,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,570600491,,,4
+371,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,150499232,,,4
+372,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,48298341,,,4
+373,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,15932808,,,4
+374,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,42182664,,,4
+375,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,4207172,,,0
+376,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,235829,,,0
+377,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,486519,,,0
+378,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,66806,,,0
+379,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,670861,,,0
+380,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,4939090,,,0
+381,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,393295,,,0
+382,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,492866,,,0
+383,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,610686,,,0
+384,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,8638540,,,4
+385,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,13425368,,,4
+386,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,1359919,,,4
+387,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,2345847,,,4
+388,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,4000,,,0
+389,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,155880697,,,4
+390,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,36752492,,,0
+391,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,21004768,,,0
+392,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,10572830,,,0
+393,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,8540106,,,0
+394,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,47306353,,,4
+395,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,15770886,,,4
+396,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,87809058,,,4
+397,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,28790494,,,4
+398,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,22665297,,,4
+399,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,53516012,,,4
+400,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,22320093,,,4
+401,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,48530690,,,4
+402,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,14733234,,,0
+403,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,15139056,,,4
+404,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,7777228668,,,4
+405,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,5700946246,,,4
+406,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,4754526668,,,4
+407,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,760854869,,,4
+408,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,1089800874,,,4
+409,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,5737407454,,,4
+410,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,5255099949,,,4
+411,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,4507367834,,,4
+412,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,782519473,,,4
+413,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,386856479,,,4
+414,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,39866035,,,4
+415,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,7417485,,,4
+416,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,25253929,,,4
+417,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,6468496,,,4
+418,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,8401592,,,4
+419,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,2828753858,,,4
+420,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,937407980,,,4
+421,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,1026647375,,,4
+422,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,290276306,,,4
+423,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,612117948,,,4
+424,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,1020028693,,,4
+425,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,2110933565,,,4
+426,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,1342168466,,,4
+427,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,930625033,,,4
+428,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,365532296,,,4
+429,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,27411187,,,4
+430,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,84021001,,,4
+431,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,26495700,,,4
+432,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,11135215,,,4
+433,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,5098926,,,4
+434,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,3325223024,,,4
+435,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,2274067271,,,4
+436,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,7530521360,,,4
+437,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,348768595,,,4
+438,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,513504571,,,4
+439,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,3541712,,,4
+440,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,4007488,,,4
+441,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,8833902,,,4
+442,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1154244,,,4
+443,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,569783,,,4
+444,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,22948406,,,4
+445,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,6407028,,,4
+446,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,80628865,,,4
+447,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,3291852,,,4
+448,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,4726506,,,4
+449,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,168688998,,,4
+450,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,79044257,,,4
+451,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,25970089,,,4
+452,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,96425604,,,4
+453,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,872520,,,4
+454,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,87300352,,,4
+455,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,41395969,,,4
+456,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,133264222,,,4
+457,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,17694074,,,4
+458,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,67539756,,,4
+459,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,156613493,,,4
+460,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,39386691,,,4
+461,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,129847842,,,4
+462,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,15937616,,,4
+463,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,13888741,,,4
+464,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,29986993,,,4
+465,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,12731688,,,4
+466,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,19638754,,,4
+467,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,8254475,,,4
+468,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,2455767,,,4
+469,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,167907378,,,4
+470,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,69074147,,,4
+471,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,346035274,,,4
+472,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,7108718,,,4
+473,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,12539333,,,4
+474,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,724647581,,,0
+475,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,610119631,,,0
+476,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,844433297,,,0
+477,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,190172999,,,0
+478,H5,2020,2020,2020,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,77901558,,,0

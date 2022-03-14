@@ -1,0 +1,463 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,3601015,,,4
+1,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,13500,,,4
+2,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,47411638,,,0
+3,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,40824,,,4
+4,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,113,,,0
+5,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,303360721,,,0
+6,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,360039598,,,4
+7,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,956143650,,,0
+8,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,141099209,,,0
+9,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,61246023,,,4
+10,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,153927555,,,0
+11,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,1027574469,,,4
+12,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,192465,,,0
+13,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,183930805,,,4
+14,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,45244940,,,4
+15,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,507835429,,,0
+16,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,4709297,,,4
+17,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,1539043,,,0
+18,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,11222210,,,4
+19,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,24101212,,,4
+20,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,130102279,,,0
+21,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,31608482,,,0
+22,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,5673245,,,4
+23,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,4217119,,,4
+24,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,34963651,,,4
+25,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,58438662,,,4
+26,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,112556234,,,4
+27,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,305637197,,,4
+28,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,666,,,0
+29,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,107607,,,0
+30,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,51847205,,,4
+31,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,57459285,,,4
+32,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,307416545,,,4
+33,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,144230,,,0
+34,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,5144547,,,0
+35,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,43458852,,,4
+36,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,82667898,,,4
+37,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,83743612,,,4
+38,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,546933,,,0
+39,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,23688,,,0
+40,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,10649643,,,4
+41,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,8422586,,,4
+42,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,724658547,,,0
+43,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,13,,,0
+44,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,5613685,,,4
+45,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,9812690,,,4
+46,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,74218516,,,0
+47,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,1335155,,,0
+48,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,492983,,,0
+49,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,25871974,,,4
+50,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,27667490,,,4
+51,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,324939269,,,4
+52,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,89744,,,4
+53,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,171358,,,0
+54,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,887917,,,4
+55,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,301385,,,4
+56,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1797608,,,4
+57,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,71855,,,0
+58,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,81142,,,4
+59,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,236522,,,4
+60,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,710880,,,4
+61,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,71079466,,,4
+62,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,8055235,,,4
+63,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,188394179,,,4
+64,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,261502,,,0
+65,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,36768,,,0
+66,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,81381543,,,4
+67,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,145389373,,,4
+68,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,488099635,,,4
+69,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,1631124,,,0
+70,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,92,,,4
+71,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,30378631,,,4
+72,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,13339067,,,4
+73,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,177008504,,,0
+74,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,1959810,,,0
+75,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,1495263,,,0
+76,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,56339565,,,4
+77,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,179212910,,,0
+78,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,481302665,,,4
+79,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,2642245,,,0
+80,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,2049776,,,0
+81,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,104739374,,,0
+82,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,159400436,,,4
+83,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,544336742,,,0
+84,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,3406175,,,0
+85,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,150505,,,0
+86,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,74290453,,,0
+87,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,35602385,,,4
+88,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,414742738,,,4
+89,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,279393,,,0
+90,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,174356,,,0
+91,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,138290158,,,4
+92,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,194647748,,,4
+93,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,415681334,,,4
+94,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,519476,,,4
+95,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,807672,,,4
+96,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,54789089,,,4
+97,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,134104934,,,0
+98,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,169561578,,,0
+99,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,1650958,,,4
+100,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,224646,,,0
+101,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,105427030,,,0
+102,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,151524257,,,0
+103,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,564731241,,,0
+104,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,4750862,,,4
+105,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,358399,,,0
+106,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,120708575,,,4
+107,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,128033614,,,4
+108,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,1536303266,,,4
+109,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,42299,,,4
+110,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,1311,,,4
+111,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,44452366,,,4
+112,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,3669772,,,4
+113,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,70722646,,,4
+114,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,1043328,,,0
+115,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,97150,,,0
+116,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,3932952,,,0
+117,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,221496,,,0
+118,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,12064877,,,0
+119,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,268892,,,0
+120,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,736509811,,,4
+121,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,112728767,,,4
+122,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,569436625,,,4
+123,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,46674,,,0
+124,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,188887094,,,4
+125,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,147861020,,,4
+126,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,37751523,,,4
+127,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,238407428,,,4
+128,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,87037,,,4
+129,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,1082605,,,4
+130,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,109010265,,,4
+131,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,29587651,,,4
+132,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,473514703,,,4
+133,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,6200,,,4
+134,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,6266521,,,4
+135,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,239939865,,,4
+136,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,152163159,,,4
+137,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,1227140862,,,4
+138,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,5267809,,,4
+139,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,295306,,,4
+140,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,99445171,,,0
+141,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,25096775,,,4
+142,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,147996771,,,0
+143,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,20253,,,0
+144,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,1002382,,,0
+145,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,81436798,,,4
+146,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,54708780,,,4
+147,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,137882207,,,4
+148,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,39707,,,4
+149,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,985852,,,4
+150,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,305199780,,,4
+151,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,174304806,,,4
+152,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,675447647,,,4
+153,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,9636266,,,4
+154,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,3596344,,,4
+155,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,112883310,,,4
+156,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,143997702,,,4
+157,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,731608458,,,4
+158,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,1054097,,,4
+159,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,1719725,,,0
+160,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,5757450,,,0
+161,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,19425290,,,4
+162,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,51847018,,,4
+163,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,9460,,,4
+164,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,4143346,,,0
+165,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1358666,,,0
+166,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,2528348,,,0
+167,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,11068430,,,0
+168,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,22,,,4
+169,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,8815,,,0
+170,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,8084246,,,4
+171,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,540147,,,4
+172,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,10559176,,,4
+173,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,269568,,,0
+174,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,79,,,0
+175,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,414211451,,,4
+176,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,67143483,,,4
+177,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,1038040875,,,4
+178,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,3969390,,,4
+179,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,14493421,,,4
+180,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,797829884,,,4
+181,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,842119569,,,4
+182,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,3443614113,,,4
+183,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,3668619,,,4
+184,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,14239883,,,4
+185,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,216631237,,,4
+186,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,409089706,,,4
+187,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,1387538949,,,4
+188,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,11130052,,,4
+189,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,29852708,,,4
+190,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,4608168,,,4
+191,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,361130,,,0
+192,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,26226026,,,4
+193,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,276587,,,4
+194,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,6095608,,,0
+195,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,36817115,,,0
+196,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,22603419,,,0
+197,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,244840291,,,0
+198,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,5940011,,,4
+199,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,57842,,,4
+200,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,141573,,,0
+201,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,1138011,,,4
+202,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,5451797,,,4
+203,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,87337,,,4
+204,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,152773106,,,4
+205,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,238135987,,,4
+206,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,1149012083,,,0
+207,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,257268,,,4
+208,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,1836785,,,0
+209,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1904052,,,4
+210,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,264711,,,4
+211,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,2228145,,,4
+212,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,1180,,,0
+213,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,5650451,,,4
+214,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,925508,,,4
+215,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,25957428,,,4
+216,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,40,,,0
+217,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,6275352,,,0
+218,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,174335,,,0
+219,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,136640628,,,0
+220,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,1222168,,,0
+221,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,302227239,,,4
+222,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,263766402,,,4
+223,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,1494236525,,,4
+224,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,12989822,,,4
+225,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,11769331,,,4
+226,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,77229977,,,4
+227,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,91595555,,,4
+228,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,1419917926,,,4
+229,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,93025,,,4
+230,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,87348,,,4
+231,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,4530,,,0
+232,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,4621,,,4
+233,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,90908,,,4
+234,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,314580,,,4
+235,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,25101133,,,4
+236,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,4164,,,4
+237,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,4662074,,,4
+238,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,12324930,,,4
+239,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,4058026,,,4
+240,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,551,,,0
+241,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,50,,,4
+242,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,866130,,,4
+243,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,10435572,,,4
+244,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,3168251,,,4
+245,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,81,,,0
+246,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,5430162,,,4
+247,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,20764900,,,4
+248,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,48492324,,,4
+249,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,3059,,,0
+250,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,27199,,,0
+251,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,13800008,,,4
+252,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,7659735,,,4
+253,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,16847242,,,4
+254,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,325,,,0
+255,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,775,,,0
+256,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,29789131,,,4
+257,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,41199441,,,4
+258,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,97797692,,,4
+259,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,10088,,,0
+260,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,546253,,,4
+261,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,8339756,,,0
+262,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,10541264,,,4
+263,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,65565609,,,4
+264,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,1320,,,0
+265,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,119,,,0
+266,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1346283,,,4
+267,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1301951,,,4
+268,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,13595690,,,4
+269,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,2379,,,0
+270,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,77621,,,4
+271,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,22579523,,,4
+272,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,23824467,,,4
+273,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,55576313,,,4
+274,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,9493,,,4
+275,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,667522,,,4
+276,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,10927354,,,4
+277,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,1804420,,,4
+278,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,11309757,,,4
+279,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,31007,,,0
+280,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,205722357,,,4
+281,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,66412255,,,4
+282,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,2092452817,,,4
+283,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,3485358,,,4
+284,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,84415,,,4
+285,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,150917869,,,4
+286,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,70083358,,,4
+287,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,2642815520,,,4
+288,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,5530522,,,4
+289,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,100843,,,4
+290,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,68381969,,,0
+291,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,78258118,,,4
+292,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,575995800,,,0
+293,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,2422368,,,4
+294,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,1971993,,,0
+295,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,184295014,,,4
+296,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,65553209,,,4
+297,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,975740769,,,4
+298,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,6515220,,,4
+299,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,376393,,,0
+300,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,11130024,,,4
+301,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,6852633,,,4
+302,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,95786201,,,4
+303,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,224418,,,4
+304,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,80969,,,4
+305,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,3403166,,,0
+306,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,2354278,,,0
+307,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,11806052,,,4
+308,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,62604,,,0
+309,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,539,,,0
+310,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,3110471,,,4
+311,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,133472,,,4
+312,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,2344876,,,0
+313,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,60,,,0
+314,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,16483,,,4
+315,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,82927191,,,4
+316,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,79150875,,,4
+317,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,434611680,,,4
+318,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,448994,,,4
+319,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,4388177,,,4
+320,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,50520470,,,4
+321,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,84728428,,,4
+322,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,321523999,,,4
+323,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,19862,,,4
+324,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,3532534,,,0
+325,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,186393418,,,4
+326,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,123593420,,,4
+327,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,532906080,,,4
+328,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,125005,,,4
+329,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,723532,,,0
+330,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,161159655,,,4
+331,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,11305208,,,4
+332,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,202984821,,,4
+333,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,8234380,,,4
+334,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,268951,,,4
+335,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,963399290,,,4
+336,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,65353025,,,4
+337,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,885661416,,,4
+338,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,575,,,4
+339,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,36078733,,,4
+340,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,383848747,,,4
+341,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,372146602,,,4
+342,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,2818991337,,,4
+343,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,1443816,,,4
+344,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,7469614,,,4
+345,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,396272582,,,4
+346,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,177144736,,,4
+347,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1177228277,,,4
+348,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,1281319,,,4
+349,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,17951367,,,4
+350,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,4684230,,,4
+351,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,554252,,,4
+352,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,2538341,,,4
+353,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,240548,,,0
+354,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,388047753,,,4
+355,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,195378286,,,4
+356,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,1227502849,,,4
+357,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,137984,,,4
+358,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,10156896,,,4
+359,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,69780171,,,0
+360,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,4551727,,,4
+361,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,31593016,,,0
+362,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,130106,,,0
+363,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,504610,,,0
+364,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,23702665,,,0
+365,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,4992991,,,0
+366,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,83315074,,,4
+367,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,479041,,,0
+368,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,950427,,,4
+369,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,6837628,,,4
+370,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,22661466,,,0
+371,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,6818,,,0
+372,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,209,,,0
+373,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,5569621,,,4
+374,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,1072472,,,4
+375,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,8714114,,,4
+376,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,928,,,0
+377,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,142496,,,0
+378,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,53549110,,,4
+379,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,51776510,,,4
+380,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,370217963,,,4
+381,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,224148,,,4
+382,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,17221077,,,4
+383,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,132277965,,,0
+384,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,98499862,,,4
+385,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,549674947,,,0
+386,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,403086,,,4
+387,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,8474363,,,4
+388,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,1673991895,,,4
+389,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,2306561302,,,4
+390,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,8024300456,,,4
+391,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,80311252,,,4
+392,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,78545858,,,4
+393,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,1189711207,,,4
+394,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,2398349194,,,4
+395,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,9251089851,,,4
+396,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,31885480,,,4
+397,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,82414651,,,4
+398,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,42516623,,,4
+399,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,78242511,,,0
+400,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,370095303,,,0
+401,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,928453,,,0
+402,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1413504451,,,4
+403,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1298959574,,,4
+404,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,7963191535,,,4
+405,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,6219586,,,4
+406,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,8357311,,,4
+407,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,2170566,,,4
+408,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,53259280,,,4
+409,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,30933809,,,4
+410,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,95817,,,4
+411,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,59319,,,4
+412,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,4625453,,,0
+413,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,130167768,,,0
+414,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,378048249,,,0
+415,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,29714239,,,0
+416,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,176741,,,0
+417,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,227451677,,,4
+418,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,462389566,,,4
+419,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,1064451456,,,4
+420,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,10747883,,,4
+421,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,19424953,,,4
+422,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,3364470,,,4
+423,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,3120093,,,4
+424,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,71156797,,,4
+425,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,1697224,,,4
+426,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,24423,,,4
+427,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,1063732,,,4
+428,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,3385297,,,4
+429,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,19977414,,,4
+430,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,108415,,,4
+431,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,4745,,,4
+432,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,2864644,,,4
+433,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,1932593,,,4
+434,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,2339564,,,4
+435,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,74,,,0
+436,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,1691,,,0
+437,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,998578277,,,0
+438,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,873406789,,,0
+439,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,5051775547,,,0
+440,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,5316713,,,4
+441,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,2929286,,,0
+442,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,235075937,,,4
+443,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,107156602,,,4
+444,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,1233701625,,,4
+445,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,1402655,,,4
+446,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,1332316,,,4
+447,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,91337137,,,4
+448,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,47235823,,,4
+449,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,402609242,,,4
+450,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,1465120,,,4
+451,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,2807951,,,4
+452,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,67951,,,4
+453,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,121054,,,0
+454,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1685023,,,4
+455,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,197962,,,4
+456,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,801,,,0
+457,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,123983,,,0
+458,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,1101,,,0
+459,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,37057,,,0
+460,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,54663,,,0
+461,H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,59821,,,0

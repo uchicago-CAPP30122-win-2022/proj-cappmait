@@ -1,0 +1,387 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,2540627,,,0
+1,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,60193154,,,4
+2,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,84308,,,0
+3,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,1585779,,,0
+4,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,41065977,,,0
+5,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,461551825,,,0
+6,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,63669148,,,0
+7,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,50683,,,0
+8,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,3090569,,,0
+9,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,110953407,,,0
+10,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,16914614,,,4
+11,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,23831307,,,0
+12,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,1016340139,,,0
+13,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,33480930,,,0
+14,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,11538742,,,0
+15,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1328887,,,0
+16,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,30753719,,,4
+17,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,4273136,,,0
+18,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,102087,,,0
+19,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,453149,,,0
+20,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,13844241,,,4
+21,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,3988,,,4
+22,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,93527,,,0
+23,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,48333815,,,0
+24,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,396331410,,,0
+25,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,4019916,,,4
+26,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,21906,,,0
+27,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,13802554,,,0
+28,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,189609692,,,0
+29,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,4328289,,,0
+30,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,3116912,,,0
+31,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,17659955,,,0
+32,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,185440462,,,0
+33,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,1230188,,,4
+34,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,166625,,,0
+35,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,18166773,,,0
+36,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,531658494,,,0
+37,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,462171,,,0
+38,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,19171274,,,4
+39,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,3049356,,,0
+40,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,113902660,,,0
+41,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,1453760,,,0
+42,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,1966737,,,4
+43,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,12010097,,,0
+44,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,638340181,,,0
+45,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,284011,,,0
+46,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,7445102,,,4
+47,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1895551,,,0
+48,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,91821101,,,0
+49,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,780730,,,0
+50,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,4501442,,,4
+51,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,79221,,,0
+52,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1744377,,,0
+53,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,2163,,,0
+54,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,16669,,,0
+55,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,2406185,,,0
+56,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,152854906,,,0
+57,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,1310462,,,4
+58,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,3685105,,,0
+59,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,8029046,,,0
+60,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,163225284,,,0
+61,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,5678725,,,0
+62,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,98963,,,0
+63,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,12824819,,,0
+64,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,294673103,,,4
+65,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,1335963,,,4
+66,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,1750319,,,4
+67,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,10837388,,,0
+68,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,230326462,,,0
+69,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,5404347,,,4
+70,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,187269,,,4
+71,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,32476470,,,0
+72,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,539552612,,,0
+73,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,26834943,,,4
+74,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,1695372,,,4
+75,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,9739612,,,0
+76,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,222127563,,,0
+77,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,7816998,,,4
+78,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,1066843,,,0
+79,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,38718441,,,0
+80,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,350419727,,,0
+81,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,39284925,,,4
+82,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,5420555,,,4
+83,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,64218478,,,4
+84,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,1460837955,,,4
+85,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,638181392,,,4
+86,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,14298077,,,4
+87,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,24571926,,,0
+88,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,264248028,,,0
+89,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,3403098,,,4
+90,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,9606494,,,4
+91,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,56194,,,0
+92,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,19063891,,,0
+93,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,26209,,,0
+94,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,1171793,,,0
+95,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,6908483,,,0
+96,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,227323274,,,0
+97,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,365199,,,0
+98,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,3811186,,,4
+99,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,1101339,,,0
+100,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,50992264,,,0
+101,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,352421,,,0
+102,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,25582012,,,4
+103,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,1488143142,,,4
+104,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,1161650,,,4
+105,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,16756968,,,4
+106,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,19381135,,,4
+107,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,813768764,,,4
+108,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,6249304,,,4
+109,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,51447595,,,4
+110,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,34618819,,,0
+111,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,1394942255,,,4
+112,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,3075132,,,4
+113,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,198080253,,,4
+114,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,534269796,,,0
+115,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,3497529225,,,0
+116,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,143311970,,,4
+117,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,175469194,,,4
+118,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,1700840,,,0
+119,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,42619940,,,4
+120,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,139,,,0
+121,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,741824,,,4
+122,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,33439047,,,0
+123,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,425851871,,,0
+124,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,4107264,,,4
+125,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,23901515,,,4
+126,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,167497387,,,0
+127,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,2372351117,,,4
+128,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,409308575,,,4
+129,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,71852261,,,4
+130,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,78879347,,,0
+131,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,614926726,,,0
+132,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,21203013,,,4
+133,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,16976507,,,4
+134,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,17971662,,,0
+135,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,235840679,,,0
+136,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1225542,,,4
+137,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,20004958,,,4
+138,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,1399420,,,0
+139,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,11746022,,,0
+140,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,471123,,,4
+141,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,3002212,,,4
+142,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,1775073,,,0
+143,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,168500260,,,4
+144,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,6576008,,,0
+145,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,23224,,,0
+146,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,142727590,,,4
+147,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,1578712105,,,4
+148,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,33020935,,,4
+149,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,150855761,,,4
+150,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,353456438,,,4
+151,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,3777805670,,,4
+152,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,38365969,,,4
+153,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,168975575,,,4
+154,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,86818867,,,4
+155,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,1199916928,,,4
+156,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,12989067,,,4
+157,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,59870062,,,4
+158,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,145325,,,0
+159,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,12136139,,,4
+160,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,17359113,,,4
+161,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,3494886,,,4
+162,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,40757772,,,4
+163,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,556980162,,,0
+164,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,1288929621,,,4
+165,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,16971164,,,4
+166,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,1211081,,,0
+167,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,6251576,,,0
+168,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,12947315,,,4
+169,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,20204,,,4
+170,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,15387533,,,4
+171,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,303540271,,,4
+172,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,9324665,,,4
+173,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,3041657,,,4
+174,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,4513973,,,0
+175,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,7692677,,,0
+176,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,11616,,,4
+177,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,148503,,,0
+178,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,95207,,,0
+179,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,1688031,,,0
+180,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,436533,,,4
+181,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,103878,,,4
+182,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,2033134,,,4
+183,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,179160038,,,4
+184,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,1698666,,,0
+185,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,7224718,,,0
+186,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,60653470,,,0
+187,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,1134874953,,,0
+188,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,10254919,,,4
+189,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,33123565,,,4
+190,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,10184217,,,0
+191,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,144036196,,,4
+192,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,8764015,,,4
+193,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,15601086,,,4
+194,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,88105,,,0
+195,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,902954,,,4
+196,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,503686,,,4
+197,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,245282,,,4
+198,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,71372,,,0
+199,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,3460337,,,0
+200,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,538006,,,4
+201,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,208770,,,4
+202,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,2767667,,,0
+203,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,22777747,,,4
+204,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,1510636,,,4
+205,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,83819,,,4
+206,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,2833207,,,0
+207,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,7692066,,,0
+208,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,16555829,,,4
+209,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,34250011,,,4
+210,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,3647758,,,0
+211,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,44678914,,,4
+212,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,3975366,,,4
+213,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,733963,,,4
+214,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,6879680,,,0
+215,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,50311336,,,4
+216,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2520886,,,4
+217,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,4060506,,,4
+218,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,23232599,,,0
+219,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,132510557,,,0
+220,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,1485698,,,4
+221,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,2933713,,,4
+222,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,2395222,,,4
+223,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,33220670,,,4
+224,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,522609,,,4
+225,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,609374,,,4
+226,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,5031898,,,4
+227,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,24576777,,,0
+228,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,6303690,,,4
+229,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,1580497,,,4
+230,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,5244215,,,4
+231,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,53317955,,,4
+232,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,2645845,,,4
+233,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,2750033,,,4
+234,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,1251867,,,0
+235,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,19055918,,,0
+236,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,1054642,,,4
+237,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,363217,,,0
+238,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,31037557,,,4
+239,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,586180574,,,4
+240,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,202966876,,,4
+241,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,2400806,,,4
+242,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,47023089,,,4
+243,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,714086418,,,4
+244,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,345204795,,,4
+245,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,3727285,,,4
+246,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,8374427,,,4
+247,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,111427199,,,4
+248,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,6171121,,,4
+249,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,1423284,,,4
+250,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,42079779,,,4
+251,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,553901097,,,4
+252,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,193490720,,,4
+253,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,1630842,,,4
+254,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,3833088,,,4
+255,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,56286826,,,4
+256,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,4558979,,,4
+257,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,310794,,,4
+258,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,341059,,,0
+259,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,2448799,,,4
+260,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,20846,,,4
+261,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,480,,,4
+262,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,72504,,,0
+263,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,1008073,,,0
+264,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,218438,,,4
+265,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,11551,,,0
+266,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,22428599,,,0
+267,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,168742501,,,4
+268,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,2365202,,,4
+269,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,19274712,,,4
+270,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,5180129,,,4
+271,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,130829402,,,0
+272,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,8079291,,,4
+273,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,10573758,,,4
+274,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,52690129,,,4
+275,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,506887180,,,4
+276,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,11384516,,,4
+277,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,15451495,,,4
+278,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,82869322,,,4
+279,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,398973971,,,4
+280,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,356255048,,,4
+281,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,12138407,,,4
+282,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,201073741,,,4
+283,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,3172338631,,,0
+284,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,,,4628480,,,4
+285,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,123817722,,,4
+286,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,140352904,,,4
+287,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,1279926427,,,4
+288,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,27351954,,,4
+289,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,110344455,,,4
+290,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,18404461,,,0
+291,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,512322249,,,4
+292,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,14229182,,,4
+293,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,26749456,,,4
+294,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,19048040,,,0
+295,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,164067791,,,4
+296,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,10673133,,,4
+297,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,32065467,,,4
+298,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,60440020,,,4
+299,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,1095757255,,,4
+300,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,14027716,,,4
+301,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,32022346,,,4
+302,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,311925,,,0
+303,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,53721587,,,0
+304,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,24486,,,4
+305,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,1332305,,,4
+306,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,346667,,,0
+307,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,13382977,,,0
+308,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,3298901,,,4
+309,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,5350011,,,4
+310,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,587666,,,0
+311,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,12785173,,,0
+312,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,217571,,,0
+313,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,36354,,,4
+314,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,5636153,,,0
+315,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,166737179,,,0
+316,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,5533972,,,4
+317,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,21196459,,,4
+318,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,22728731,,,0
+319,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,173223189,,,4
+320,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,2315900,,,4
+321,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,19671512,,,4
+322,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,51016070,,,4
+323,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,215707748,,,0
+324,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,23806797,,,4
+325,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,16709690,,,4
+326,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,674404827,,,4
+327,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,10456941224,,,4
+328,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,130814254,,,4
+329,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,894328466,,,4
+330,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,704831242,,,4
+331,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,7803879122,,,4
+332,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,409635298,,,4
+333,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,597940606,,,4
+334,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,11283101,,,0
+335,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,86663771,,,4
+336,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,2316747,,,4
+337,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,9342634,,,0
+338,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,697802994,,,4
+339,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,10782903203,,,4
+340,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,17090177,,,4
+341,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,42722879,,,4
+342,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,15628924,,,0
+343,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,7196842693,,,0
+344,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,1203062631,,,4
+345,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,2479493476,,,4
+346,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,4039974,,,0
+347,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,44175747,,,0
+348,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,15244436,,,0
+349,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1749177,,,0
+350,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,165580025,,,4
+351,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,2118820875,,,4
+352,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,107371962,,,4
+353,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,316796441,,,4
+354,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,18688808,,,4
+355,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,301481020,,,4
+356,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,131291694,,,4
+357,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1232482,,,4
+358,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,1263569,,,4
+359,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,27906139,,,4
+360,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,7687958,,,4
+361,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,48172,,,0
+362,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,124096,,,0
+363,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,5203405,,,0
+364,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,50463,,,0
+365,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,105385,,,4
+366,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,36707732,,,0
+367,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,648817497,,,4
+368,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,34888514,,,4
+369,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,16126687,,,4
+370,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,26893674,,,4
+371,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,233851170,,,4
+372,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,5946275,,,4
+373,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,1286047,,,4
+374,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,22312555,,,4
+375,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,214022797,,,4
+376,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,13716413,,,4
+377,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,5555332,,,4
+378,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,539803,,,0
+379,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,18554686,,,0
+380,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,231118270,,,4
+381,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,1544857,,,0
+382,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,2837,,,0
+383,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,55557,,,0
+384,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,3291826,,,0
+385,H5,2019,2019,2019,2,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,3009170,,,0

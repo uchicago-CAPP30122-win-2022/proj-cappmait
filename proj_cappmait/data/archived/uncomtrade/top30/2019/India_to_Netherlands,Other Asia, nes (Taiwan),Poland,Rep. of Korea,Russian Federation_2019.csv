@@ -1,0 +1,456 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,934633,,,0
+1,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,61521815,,,0
+2,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,36517486,,,0
+3,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,66734773,,,4
+4,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,92972069,,,0
+5,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,10343639,,,0
+6,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,96113665,,,0
+7,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,67336,,,0
+8,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,901590,,,4
+9,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,2721242,,,4
+10,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,36616,,,0
+11,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,6060134,,,0
+12,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,791306,,,0
+13,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,328976,,,0
+14,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,13928,,,0
+15,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,16477,,,0
+16,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,331694,,,0
+17,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,126160,,,0
+18,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,10143148,,,0
+19,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1236354,,,0
+20,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,109268,,,4
+21,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,928742,,,4
+22,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,733828,,,0
+23,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,5707910,,,0
+24,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,3348763,,,0
+25,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,24264143,,,0
+26,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,5258549,,,0
+27,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,3003827,,,0
+28,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,225030195,,,0
+29,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,5519861,,,0
+30,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,44193757,,,0
+31,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,14886987,,,4
+32,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,11483095,,,0
+33,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,40800508,,,4
+34,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,23833379,,,4
+35,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,118316327,,,4
+36,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,590793,,,0
+37,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,1265775,,,0
+38,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,46219612,,,0
+39,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,1522159,,,0
+40,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,40668787,,,0
+41,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,8863897,,,0
+42,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,452860,,,0
+43,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,18888123,,,0
+44,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,138158,,,0
+45,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,29284,,,0
+46,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,51919723,,,4
+47,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,27257182,,,4
+48,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,58484798,,,0
+49,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,12200605,,,0
+50,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,42920098,,,0
+51,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,27844848,,,4
+52,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,3544685,,,4
+53,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,17677506,,,4
+54,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,3194009,,,4
+55,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,49417739,,,0
+56,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,693320,,,0
+57,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,98772,,,0
+58,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,275444,,,0
+59,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,143299,,,0
+60,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,219335,,,0
+61,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,19795450,,,4
+62,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,7114330,,,0
+63,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,174330985,,,0
+64,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,564953,,,0
+65,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,12495122,,,4
+66,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,2707284,,,0
+67,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,402522,,,4
+68,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,3073454,,,0
+69,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,34739,,,4
+70,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,3482477,,,0
+71,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,14370377,,,0
+72,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,2466669,,,4
+73,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,31867476,,,4
+74,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,2980,,,4
+75,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,327399,,,4
+76,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,14394,,,0
+77,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,6677,,,0
+78,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,4232260,,,0
+79,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,1012,,,0
+80,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,72402,,,0
+81,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2858243,,,0
+82,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,134676,,,0
+83,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,2505630,,,4
+84,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,157276,,,0
+85,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,628201,,,0
+86,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,3557418,,,0
+87,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,2074608,,,4
+88,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,62928514,,,4
+89,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,4454421,,,0
+90,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,20187424,,,0
+91,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,8367185,,,4
+92,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,7744088,,,0
+93,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,6239743,,,4
+94,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,25144807,,,0
+95,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,63669196,,,4
+96,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,150275,,,0
+97,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,77670,,,0
+98,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,20483295,,,0
+99,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,31897,,,0
+100,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,166474,,,0
+101,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,156372520,,,4
+102,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,26636935,,,0
+103,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,14260463,,,4
+104,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,2218020,,,4
+105,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,1474185,,,0
+106,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,28170299,,,0
+107,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,112331,,,4
+108,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,14234264,,,0
+109,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,17925292,,,4
+110,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,27588199,,,4
+111,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,51325641,,,4
+112,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,24221813,,,0
+113,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,7264917,,,4
+114,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,13837961,,,0
+115,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,3132598,,,4
+116,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,128902711,,,0
+117,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,59952381,,,0
+118,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,92987,,,0
+119,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,27117,,,0
+120,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,24298,,,0
+121,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,793134868,,,4
+122,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,186928821,,,4
+123,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,4428442307,,,4
+124,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,1449584,,,0
+125,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,6169666,,,4
+126,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,38666231,,,4
+127,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,29260685,,,4
+128,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,33528236,,,4
+129,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,10369973,,,4
+130,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,16564981,,,4
+131,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,447218804,,,4
+132,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,234526682,,,4
+133,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,522976001,,,4
+134,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,87280546,,,4
+135,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,195357984,,,4
+136,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,14369584,,,4
+137,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,9478851,,,4
+138,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,199797685,,,4
+139,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,44966879,,,4
+140,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,471649461,,,4
+141,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,378064,,,0
+142,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,158574,,,0
+143,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,4709505,,,0
+144,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,13,,,0
+145,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,101969936,,,4
+146,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,46401386,,,4
+147,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,114952077,,,4
+148,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,16113785,,,4
+149,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,30057537,,,4
+150,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,15389699,,,4
+151,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,3188680,,,4
+152,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,34481398,,,4
+153,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,9161326,,,4
+154,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,10235469,,,4
+155,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,2353652,,,4
+156,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,3552189,,,4
+157,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,6530478,,,4
+158,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,1860612,,,4
+159,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,5462387,,,4
+160,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,7460949,,,4
+161,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1140440,,,4
+162,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1694500,,,4
+163,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,273188,,,4
+164,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1048941,,,4
+165,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,863,,,0
+166,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,60957,,,4
+167,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,8940,,,0
+168,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,31845,,,4
+169,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,82867,,,4
+170,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,6062,,,4
+171,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,158551,,,0
+172,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,58258927,,,4
+173,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,22131594,,,4
+174,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,135721974,,,4
+175,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,14867007,,,4
+176,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,61999769,,,4
+177,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,46161352,,,4
+178,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,11305982,,,4
+179,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,84617730,,,4
+180,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,48011818,,,4
+181,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,41930103,,,4
+182,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,13975971,,,4
+183,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,4296527,,,4
+184,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,86715598,,,4
+185,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,47668144,,,4
+186,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,45075176,,,4
+187,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,31893374,,,0
+188,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,2169018,,,4
+189,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,11863975,,,0
+190,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,3696735,,,4
+191,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,8563192,,,0
+192,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,7452362,,,4
+193,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,2174234,,,4
+194,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,109795360,,,4
+195,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,23669421,,,4
+196,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,19091105,,,4
+197,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,23169,,,0
+198,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,384039,,,4
+199,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,2349423,,,4
+200,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,666572,,,4
+201,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,16450674,,,4
+202,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,1056841,,,4
+203,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,980263,,,4
+204,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,717,,,0
+205,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,24295,,,0
+206,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,1123,,,4
+207,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,4279,,,0
+208,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,62627,,,0
+209,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,6419,,,0
+210,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,3387215,,,0
+211,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,77415,,,0
+212,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,76430,,,0
+213,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,18916,,,0
+214,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,25240,,,0
+215,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,5601134,,,4
+216,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,2544350,,,4
+217,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,18667997,,,4
+218,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,3938256,,,4
+219,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,4367030,,,4
+220,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,246194,,,4
+221,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,148586,,,4
+222,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,5839749,,,4
+223,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,209407,,,4
+224,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,8064922,,,4
+225,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,205481,,,4
+226,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,9514,,,4
+227,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,646905,,,4
+228,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,68742,,,4
+229,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,18757,,,4
+230,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,26715992,,,4
+231,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,766324,,,4
+232,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,35798,,,4
+233,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,2403480,,,4
+234,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,143640,,,4
+235,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,188233267,,,4
+236,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,35306890,,,4
+237,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,5358535,,,4
+238,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,28233703,,,4
+239,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,4198815,,,4
+240,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,22636768,,,4
+241,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,588273,,,4
+242,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,36866278,,,4
+243,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,885814,,,4
+244,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,3163231,,,4
+245,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,41604664,,,4
+246,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,1875744,,,4
+247,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,7566631,,,4
+248,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,10707428,,,4
+249,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,13768207,,,4
+250,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,30258615,,,4
+251,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2294113,,,4
+252,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,3540802,,,4
+253,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,6044121,,,4
+254,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,10625168,,,4
+255,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,6719382,,,4
+256,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,1026813,,,4
+257,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,12470223,,,4
+258,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,5575584,,,4
+259,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,2884207,,,4
+260,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,4834946,,,4
+261,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,612849,,,4
+262,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,32801831,,,4
+263,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,10282211,,,4
+264,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,11174724,,,4
+265,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,1430179,,,4
+266,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,550622,,,4
+267,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,669740,,,4
+268,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,427197,,,4
+269,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,257193,,,4
+270,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1220799,,,4
+271,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,162656,,,4
+272,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,610636,,,4
+273,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,5361653,,,4
+274,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1150400,,,4
+275,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,3257320,,,0
+276,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,8216,,,4
+277,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,460926,,,4
+278,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,364388,,,0
+279,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,37165,,,0
+280,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,23232434,,,4
+281,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,6428996,,,4
+282,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,244389902,,,4
+283,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,170501829,,,4
+284,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,35311777,,,4
+285,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,26387599,,,4
+286,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,5040130,,,4
+287,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,210588362,,,4
+288,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,62890329,,,4
+289,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,39958305,,,4
+290,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,10198671,,,4
+291,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,5447391,,,4
+292,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,133022476,,,4
+293,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,42786742,,,4
+294,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,10500001,,,4
+295,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,24786873,,,4
+296,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2584448,,,4
+297,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,79163264,,,4
+298,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,79457795,,,4
+299,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,23368342,,,4
+300,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,54173,,,4
+301,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,64297,,,0
+302,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,867656,,,4
+303,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1149843,,,4
+304,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,240598,,,4
+305,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,1500,,,4
+306,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,185,,,4
+307,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,3389,,,4
+308,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,755,,,4
+309,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,224244,,,0
+310,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,2894,,,0
+311,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,810313,,,4
+312,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,335472,,,0
+313,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,345285,,,0
+314,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,8874835,,,0
+315,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,2497005,,,4
+316,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,28807558,,,4
+317,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,34453071,,,4
+318,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,11738929,,,4
+319,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,20205306,,,4
+320,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,33965167,,,4
+321,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,7045637,,,4
+322,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,36319855,,,4
+323,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,7903224,,,4
+324,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,4563565,,,4
+325,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,2466920,,,4
+326,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,14407842,,,4
+327,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,7406888,,,4
+328,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,4279024,,,4
+329,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,59907507,,,4
+330,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,11374457,,,4
+331,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,16156303,,,4
+332,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,12400314,,,4
+333,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,8366270,,,4
+334,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,313796826,,,4
+335,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,247933035,,,4
+336,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,134970612,,,4
+337,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,124301966,,,0
+338,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,105709237,,,4
+339,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,39520935,,,4
+340,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,6159001,,,4
+341,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,193365575,,,4
+342,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,59868250,,,4
+343,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,34959253,,,4
+344,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,15108519,,,4
+345,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,16370284,,,4
+346,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,9193584,,,4
+347,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,3147432,,,4
+348,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,4101112,,,4
+349,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,3287401,,,4
+350,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,161521,,,0
+351,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,3552170,,,0
+352,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,170777,,,0
+353,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,1332350,,,0
+354,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,834039713,,,4
+355,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,156811996,,,4
+356,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,79725046,,,4
+357,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,35142404,,,4
+358,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,2018084,,,0
+359,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,123010975,,,0
+360,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,20814602,,,0
+361,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,64042,,,0
+362,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,680,,,0
+363,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,114333290,,,4
+364,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,88594554,,,0
+365,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,82354,,,4
+366,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,8512,,,0
+367,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,146267,,,0
+368,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,2945856,,,4
+369,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,143547,,,0
+370,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,28185,,,0
+371,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,1923964,,,4
+372,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,171894,,,4
+373,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,1066764,,,0
+374,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,957546,,,0
+375,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,9973,,,0
+376,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,4703328,,,4
+377,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,2082661,,,4
+378,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,60800410,,,4
+379,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,8769441,,,4
+380,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,17501243,,,4
+381,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,6996379,,,4
+382,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,1300034,,,4
+383,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,14499338,,,4
+384,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,5604914,,,4
+385,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,3919295,,,4
+386,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,198222037,,,4
+387,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,64720089,,,4
+388,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,234235214,,,4
+389,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,141808715,,,4
+390,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,232577916,,,4
+391,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,175139340,,,4
+392,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,59815768,,,4
+393,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,374151722,,,4
+394,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,92802876,,,4
+395,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,542846141,,,4
+396,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,6446826,,,4
+397,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,494063,,,4
+398,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,1024549,,,4
+399,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,1178648,,,4
+400,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,795825,,,4
+401,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,95153435,,,4
+402,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,42315038,,,4
+403,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,60051819,,,4
+404,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,85114205,,,4
+405,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,102429891,,,4
+406,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,1706619,,,4
+407,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,396808,,,4
+408,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,8003558,,,4
+409,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,4520862,,,4
+410,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,31395139,,,4
+411,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,6603375,,,4
+412,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,41249326,,,4
+413,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,11237875,,,4
+414,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,58816397,,,4
+415,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,28528864,,,4
+416,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,38285600,,,4
+417,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,37645,,,4
+418,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,6630,,,4
+419,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,380266,,,4
+420,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,53803,,,4
+421,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,4357,,,4
+422,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,402345,,,4
+423,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,38005,,,4
+424,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,121547,,,4
+425,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,47659,,,4
+426,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,154706,,,4
+427,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,113700,,,4
+428,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,321462,,,4
+429,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,4400997,,,4
+430,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,4161200,,,4
+431,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,392336,,,4
+432,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,119845517,,,4
+433,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,10951558,,,4
+434,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,2737915,,,4
+435,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,1493392,,,4
+436,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,250541,,,4
+437,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,13200546,,,4
+438,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,10698149,,,4
+439,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,3568849,,,4
+440,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,11222017,,,4
+441,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,660987,,,4
+442,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,14982501,,,4
+443,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1993990,,,4
+444,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,8627869,,,4
+445,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,132375,,,4
+446,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,9918,,,4
+447,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,452414,,,4
+448,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,13570,,,4
+449,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,,,42353,,,4
+450,H5,2019,2019,2019,2,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,62982,,,0
+451,H5,2019,2019,2019,2,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,34814,,,0
+452,H5,2019,2019,2019,2,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,36157,,,0
+453,H5,2019,2019,2019,2,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,29661,,,0
+454,H5,2019,2019,2019,2,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,273398,,,0

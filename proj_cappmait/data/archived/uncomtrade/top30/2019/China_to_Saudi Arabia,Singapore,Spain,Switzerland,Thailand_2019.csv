@@ -1,0 +1,477 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,11,,,4
+1,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,181790,,,4
+2,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,6334,,,4
+3,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,599,,,4
+4,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0,,118406,,,0
+5,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0,,334543,,,0
+6,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,14892874,,,0
+7,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,80047346,,,0
+8,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,324744674,,,0
+9,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,579787,,,0
+10,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0,,666898681,,,0
+11,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,7437829,,,0
+12,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,15007338,,,0
+13,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,17050532,,,4
+14,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0,,20248037,,,0
+15,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,58371,,,0
+16,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,342271,,,4
+17,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,81743286,,,4
+18,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,4007838,,,4
+19,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0,,131132162,,,0
+20,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,860349,,,0
+21,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,11352408,,,0
+22,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,3889652,,,0
+23,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,16208,,,4
+24,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0,,14433730,,,0
+25,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,62119136,,,0
+26,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,116321136,,,0
+27,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,32956049,,,0
+28,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,4022834,,,0
+29,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0,,715514262,,,4
+30,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,17146658,,,0
+31,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,54984910,,,0
+32,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,11977718,,,4
+33,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,2152,,,0
+34,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0,,703990902,,,0
+35,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,44237716,,,0
+36,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,29948565,,,0
+37,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,141828667,,,4
+38,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,668705,,,0
+39,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,100095041,,,0
+40,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,241539,,,0
+41,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,384814,,,0
+42,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1259552,,,0
+43,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0,,1357381,,,0
+44,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,3412689,,,0
+45,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,13502560,,,0
+46,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,355636,,,0
+47,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,21674,,,0
+48,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0,,86121174,,,0
+49,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,29133036,,,0
+50,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,29869063,,,4
+51,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,64231641,,,4
+52,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,828219,,,4
+53,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0,,79574066,,,4
+54,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,989163,,,0
+55,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,7036721,,,0
+56,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,86228337,,,0
+57,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,1826646,,,0
+58,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0,,27701423,,,0
+59,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,188664,,,0
+60,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,1229824,,,0
+61,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,7356504,,,0
+62,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,71479,,,0
+63,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0,,1424602,,,0
+64,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,736067,,,0
+65,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,17949914,,,0
+66,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,104293667,,,0
+67,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,452916,,,0
+68,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0,,14970641,,,0
+69,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,26742999,,,0
+70,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,198616539,,,0
+71,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,107357845,,,0
+72,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,1022473,,,0
+73,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0,,322395788,,,0
+74,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,21176863,,,0
+75,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,22191279,,,0
+76,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,4908569,,,0
+77,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,769460,,,0
+78,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0,,99222176,,,0
+79,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,4988108,,,0
+80,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,8982852,,,0
+81,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,1950828,,,0
+82,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0,,13587964,,,0
+83,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,14332539,,,0
+84,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,24486026,,,4
+85,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,7797794,,,0
+86,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,1738341,,,0
+87,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0,,54018768,,,4
+88,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,64706034,,,0
+89,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,39458204,,,0
+90,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,94308769,,,0
+91,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,3957070,,,0
+92,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0,,256463128,,,0
+93,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,5089233,,,0
+94,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,88823428,,,0
+95,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,11464667,,,0
+96,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,861102,,,0
+97,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0,,284974632,,,0
+98,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,190877,,,0
+99,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,40134062,,,4
+100,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,6342884,,,0
+101,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,7976448,,,0
+102,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0,,18229374,,,0
+103,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,2046125,,,0
+104,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,13835032,,,4
+105,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,32628230,,,0
+106,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,3944452,,,0
+107,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0,,41743880,,,0
+108,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,115500,,,0
+109,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,68970732,,,0
+110,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,21000,,,0
+111,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,184,,,0
+112,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0,,2549765,,,0
+113,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,8152154,,,4
+114,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,21738246,,,4
+115,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,23069289,,,4
+116,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,294311,,,4
+117,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0,,83347796,,,4
+118,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,6671626,,,0
+119,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,2673607,,,0
+120,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,4948,,,0
+121,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0,,23463362,,,0
+122,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,104944683,,,4
+123,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,8622062801,,,0
+124,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,40815269,,,4
+125,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,33798355,,,0
+126,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0,,920876857,,,0
+127,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,115680145,,,4
+128,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,107779502,,,4
+129,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,150513165,,,4
+130,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,19692780,,,4
+131,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0,,805584186,,,0
+132,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,174031336,,,4
+133,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,865542639,,,4
+134,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1100613924,,,4
+135,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,554314298,,,4
+136,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0,,1185517463,,,4
+137,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,46602167,,,4
+138,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,95033033,,,4
+139,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,92380462,,,4
+140,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,87954905,,,4
+141,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0,,133410798,,,4
+142,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,9141154,,,0
+143,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,8783690,,,0
+144,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,15801055,,,4
+145,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0,,244807836,,,0
+146,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,62110614,,,4
+147,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,144725043,,,4
+148,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,129036108,,,4
+149,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,25628075,,,4
+150,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0,,240184774,,,0
+151,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,32949936,,,4
+152,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,190084959,,,4
+153,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,80450162,,,4
+154,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,32635621,,,4
+155,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0,,120710638,,,0
+156,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,51271283,,,4
+157,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,68449200,,,0
+158,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,23184445,,,4
+159,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,6043936,,,4
+160,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0,,118002352,,,4
+161,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,15893244,,,4
+162,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,58316048,,,4
+163,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,29340990,,,0
+164,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,920836,,,4
+165,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0,,130087489,,,4
+166,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,265923,,,0
+167,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,478061,,,0
+168,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,10461072,,,0
+169,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,1478415,,,0
+170,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0,,36385179,,,0
+171,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,3741419,,,4
+172,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,23189460,,,4
+173,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,19775196,,,4
+174,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,13408,,,4
+175,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0,,34446349,,,4
+176,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,76601082,,,4
+177,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,323471576,,,4
+178,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,203843129,,,4
+179,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,6679824,,,4
+180,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0,,939860947,,,4
+181,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,932574452,,,4
+182,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,1547439167,,,4
+183,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,769257531,,,4
+184,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,83787854,,,4
+185,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0,,2146234978,,,4
+186,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,663614086,,,4
+187,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,154648794,,,4
+188,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,293624893,,,4
+189,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,11504947,,,4
+190,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0,,373265078,,,4
+191,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,894570,,,4
+192,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,4687397,,,0
+193,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,5448854,,,4
+194,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,200908,,,4
+195,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0,,19319471,,,0
+196,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,584760488,,,4
+197,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,669357124,,,4
+198,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,745919904,,,0
+199,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,56078619,,,4
+200,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0,,363747855,,,4
+201,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,809159,,,0
+202,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,666773,,,4
+203,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,8110165,,,4
+204,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,1604222,,,0
+205,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0,,9811715,,,4
+206,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,236785836,,,0
+207,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,140928451,,,4
+208,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,136038650,,,0
+209,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,19742093,,,4
+210,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0,,221687711,,,0
+211,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,149962,,,0
+212,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,460735,,,0
+213,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,466037,,,0
+214,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,31662,,,0
+215,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0,,197416,,,4
+216,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,7870628,,,0
+217,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,15431806,,,0
+218,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,67600318,,,0
+219,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,1839144,,,4
+220,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0,,25009249,,,0
+221,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,43258,,,0
+222,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,207653,,,0
+223,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,150962,,,0
+224,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,1200926,,,0
+225,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0,,8955389,,,0
+226,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,413116617,,,4
+227,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,771256235,,,4
+228,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,191989663,,,4
+229,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,22980426,,,4
+230,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0,,463234607,,,4
+231,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,16293807,,,4
+232,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,42750740,,,4
+233,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,36734647,,,4
+234,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,3405406,,,4
+235,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0,,17786849,,,4
+236,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,2222464,,,0
+237,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,1667307,,,4
+238,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,1357242,,,4
+239,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,796617,,,4
+240,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,50,Silk,1,No Quantity,,,0,,0,,5345388,,,0
+241,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,169848,,,4
+242,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,8682790,,,4
+243,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,1542233,,,4
+244,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,8037,,,4
+245,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0,,60043341,,,0
+246,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,12771267,,,4
+247,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,22061851,,,4
+248,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,38065067,,,4
+249,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,574173,,,4
+250,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0,,213491968,,,4
+251,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,546522,,,4
+252,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,623490,,,4
+253,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,25261418,,,4
+254,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,15439,,,4
+255,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0,,20031242,,,4
+256,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,347901835,,,0
+257,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,25851360,,,4
+258,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,194126812,,,4
+259,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,1335245,,,4
+260,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0,,447354232,,,4
+261,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,126171252,,,0
+262,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,9291795,,,4
+263,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,104019880,,,4
+264,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,1312368,,,0
+265,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0,,151890291,,,4
+266,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,72260037,,,0
+267,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,49168961,,,0
+268,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,82017119,,,4
+269,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,4202968,,,4
+270,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0,,108359216,,,0
+271,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,113275491,,,4
+272,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,34740701,,,0
+273,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,55948497,,,0
+274,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,2899820,,,4
+275,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0,,51714472,,,0
+276,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,51526725,,,4
+277,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,22424770,,,4
+278,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,57571675,,,4
+279,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,1968440,,,4
+280,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0,,48824181,,,4
+281,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,50876022,,,0
+282,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,42558711,,,4
+283,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,82667743,,,4
+284,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,1563746,,,4
+285,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0,,337074280,,,4
+286,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,149446507,,,4
+287,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,21841696,,,4
+288,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,82103013,,,4
+289,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,503658,,,4
+290,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0,,231032859,,,4
+291,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,1440942763,,,4
+292,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,347764345,,,4
+293,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,1723380796,,,4
+294,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,114093094,,,4
+295,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0,,392708035,,,4
+296,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,1140581237,,,4
+297,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,320774829,,,4
+298,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,1676766317,,,4
+299,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,113891515,,,4
+300,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0,,284511872,,,4
+301,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,344408571,,,4
+302,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,176792837,,,4
+303,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,410939541,,,4
+304,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,37169376,,,4
+305,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0,,495971613,,,4
+306,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,658828353,,,4
+307,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,431141771,,,4
+308,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,943238257,,,4
+309,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,93135081,,,4
+310,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0,,364247188,,,4
+311,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,38581089,,,4
+312,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,26153257,,,4
+313,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,120792114,,,4
+314,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,13198709,,,4
+315,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0,,30089949,,,0
+316,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,10746779,,,0
+317,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,19705210,,,0
+318,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,56803899,,,0
+319,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,12291641,,,0
+320,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0,,87791953,,,0
+321,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,70250999,,,4
+322,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,279267509,,,0
+323,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,88965774,,,4
+324,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,2798817,,,4
+325,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0,,30363546,,,4
+326,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,157103254,,,4
+327,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,348726554,,,4
+328,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,71741473,,,4
+329,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,6770628,,,4
+330,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0,,158711734,,,4
+331,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,900807458,,,4
+332,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,1071314026,,,0
+333,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,418963424,,,0
+334,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,10066384,,,4
+335,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0,,477771873,,,0
+336,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,313434095,,,4
+337,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,274766013,,,4
+338,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,230060667,,,4
+339,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,12251536,,,4
+340,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0,,364973278,,,4
+341,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,67595786,,,4
+342,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,107889436,,,4
+343,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,57964145,,,4
+344,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,267575739,,,4
+345,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0,,81271831,,,4
+346,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,976369530,,,4
+347,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,503514394,,,4
+348,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,254042328,,,4
+349,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,5189577,,,4
+350,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0,,2374808752,,,4
+351,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,867812478,,,4
+352,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,1569024212,,,4
+353,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,699222269,,,4
+354,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,80554273,,,4
+355,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0,,1662971463,,,4
+356,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,34002776,,,4
+357,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,56039363,,,4
+358,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,81448594,,,4
+359,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,5630605,,,4
+360,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0,,743779078,,,4
+361,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,3712931,,,4
+362,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,146671785,,,4
+363,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,552499,,,4
+364,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,232927,,,4
+365,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0,,6231393,,,4
+366,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,396922772,,,0
+367,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,399838701,,,4
+368,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,305471572,,,0
+369,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,27527578,,,4
+370,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0,,901105250,,,4
+371,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,43328,,,4
+372,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,157584,,,4
+373,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,65552,,,4
+374,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,367,,,4
+375,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0,,3318413,,,0
+376,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,2722846,,,4
+377,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,7950318,,,0
+378,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,1927390,,,4
+379,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,373723,,,0
+380,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0,,12572497,,,0
+381,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,1106793,,,0
+382,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,1383471,,,0
+383,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,122206,,,4
+384,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,930,,,0
+385,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0,,1749697,,,0
+386,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,16030172,,,4
+387,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,8417846,,,4
+388,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,43530805,,,4
+389,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,11979561,,,4
+390,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0,,39593551,,,4
+391,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,168763816,,,4
+392,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,291356857,,,4
+393,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,251360735,,,4
+394,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,33560733,,,4
+395,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0,,270800712,,,4
+396,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,319096338,,,4
+397,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,474551785,,,4
+398,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,273514411,,,4
+399,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,27303066,,,4
+400,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0,,346584033,,,4
+401,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,2673830462,,,4
+402,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,8516553210,,,4
+403,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,3120566917,,,4
+404,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,999720994,,,4
+405,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0,,8024577740,,,4
+406,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,3479413019,,,4
+407,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,13612900876,,,4
+408,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,5189366272,,,4
+409,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,760928302,,,4
+410,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0,,9456854192,,,4
+411,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,22930229,,,0
+412,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,381977238,,,0
+413,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,49572824,,,0
+414,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,204564944,,,0
+415,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0,,103468701,,,4
+416,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1287660464,,,4
+417,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,227208703,,,4
+418,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,648158359,,,4
+419,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,88637043,,,4
+420,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0,,1441062435,,,4
+421,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,726916,,,4
+422,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,447019851,,,4
+423,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,234654839,,,4
+424,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,962307,,,4
+425,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0,,8988590,,,4
+426,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,148179663,,,0
+427,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,4334235423,,,0
+428,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,11685526,,,0
+429,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,2183279,,,0
+430,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0,,97213267,,,0
+431,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,201771710,,,4
+432,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,1121078703,,,4
+433,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,449595110,,,4
+434,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,161378645,,,4
+435,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0,,1130352339,,,4
+436,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,63167708,,,4
+437,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,46918402,,,4
+438,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,45244241,,,4
+439,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,210437505,,,4
+440,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0,,31038943,,,4
+441,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,3589157,,,4
+442,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,34835749,,,4
+443,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,16824362,,,4
+444,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,2120356,,,4
+445,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0,,21200081,,,4
+446,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,122028,,,4
+447,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,145030,,,0
+448,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,2158041,,,4
+449,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,73863,,,0
+450,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0,,1284765,,,4
+451,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,2076405971,,,4
+452,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,2601396992,,,0
+453,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,1455317659,,,0
+454,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,96838365,,,4
+455,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0,,1190078571,,,0
+456,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,739633429,,,4
+457,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,1393724516,,,4
+458,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,1418381439,,,4
+459,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,54206290,,,4
+460,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0,,536369579,,,4
+461,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,262601926,,,4
+462,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,142481476,,,4
+463,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,218269929,,,4
+464,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,23335454,,,4
+465,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0,,253011671,,,4
+466,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,880134,,,4
+467,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,12699322,,,4
+468,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,1830404,,,4
+469,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,7133298,,,4
+470,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0,,267611,,,4
+471,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,220704954,,,0
+472,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,224609828,,,0
+473,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,206962496,,,0
+474,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,36007739,,,0
+475,H5,2019,2019,2019,2,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0,,193682378,,,0

@@ -1,0 +1,482 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,35910,,,0
+1,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,12334259,,,0
+2,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,12777,,,0
+3,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,408726,,,0
+4,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,34597,,,0
+5,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,9013818,,,0
+6,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,93996452,,,0
+7,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,6099966,,,0
+8,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,33134317,,,0
+9,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,3581643725,,,0
+10,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,682764,,,0
+11,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,19882085,,,0
+12,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,5769517,,,0
+13,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,7681160,,,0
+14,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,64124455,,,0
+15,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,11003689,,,0
+16,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,31487345,,,0
+17,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,485247,,,0
+18,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,8333026,,,0
+19,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,86283606,,,0
+20,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,11026,,,0
+21,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,266509,,,4
+22,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,844802,,,0
+23,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1262712,,,0
+24,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,83632140,,,0
+25,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,294297,,,0
+26,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,11222568,,,0
+27,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1785393,,,0
+28,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,16287,,,0
+29,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1747944,,,0
+30,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,7706234,,,0
+31,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,230549909,,,0
+32,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,23383580,,,0
+33,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,33613855,,,0
+34,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,529423,,,0
+35,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,8184152,,,0
+36,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,299892361,,,0
+37,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,47082753,,,0
+38,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,75912838,,,0
+39,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,16121452,,,0
+40,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,6448331,,,4
+41,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,15450961,,,0
+42,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,4962763,,,0
+43,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,7417731,,,0
+44,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,873737,,,0
+45,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,1906539,,,0
+46,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,59702723,,,0
+47,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,111601,,,0
+48,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,1245696,,,0
+49,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,812058,,,0
+50,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,164294,,,0
+51,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,4114379,,,0
+52,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,1883898,,,0
+53,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,997316,,,0
+54,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,272016,,,0
+55,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,754763,,,0
+56,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,8833530,,,4
+57,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,8912904,,,4
+58,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,877880,,,4
+59,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,32341336,,,4
+60,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,6472087,,,0
+61,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,9658349,,,0
+62,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,12749024,,,0
+63,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,5003929,,,0
+64,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,12402068,,,0
+65,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,240947,,,0
+66,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,6659,,,0
+67,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,20609,,,0
+68,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,102628857,,,0
+69,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,50348401,,,0
+70,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,65888880,,,0
+71,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,52066590,,,0
+72,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,140158373,,,0
+73,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,9851560,,,0
+74,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,50665127,,,0
+75,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,2050455,,,0
+76,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,7523358,,,0
+77,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,2508371,,,0
+78,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,7510830,,,0
+79,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,13725106,,,0
+80,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,504682,,,0
+81,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,14933140,,,0
+82,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,2468319,,,0
+83,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,4197542,,,0
+84,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,26712252,,,0
+85,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,297368,,,0
+86,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,3534577,,,0
+87,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,4109886,,,0
+88,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,28599130,,,0
+89,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,71840360,,,0
+90,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,1704569,,,0
+91,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,5978451,,,0
+92,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,15287390,,,0
+93,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,21775656,,,0
+94,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,88139300,,,0
+95,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,15565491,,,0
+96,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,51083908,,,0
+97,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,31525718,,,0
+98,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,15612972,,,0
+99,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,33082537,,,0
+100,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,10246996,,,0
+101,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,10625296,,,0
+102,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,28123929,,,0
+103,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,38407700,,,0
+104,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,147277944,,,0
+105,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,27206300,,,0
+106,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,138927275,,,0
+107,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,155381793,,,0
+108,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,1148578,,,0
+109,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,11090730,,,0
+110,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,2814045,,,0
+111,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,2475418,,,0
+112,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,6442079,,,0
+113,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,12027,,,0
+114,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,16383142,,,0
+115,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,454,,,0
+116,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,433999,,,0
+117,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,171272,,,0
+118,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,2540577,,,4
+119,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,79961720,,,0
+120,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,22036073,,,0
+121,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,14673814,,,0
+122,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,33434611,,,0
+123,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,5330496,,,0
+124,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,31202264,,,0
+125,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,4926332,,,0
+126,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,1556,,,0
+127,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,783963426,,,0
+128,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,4564751,,,0
+129,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,467092752,,,0
+130,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,326590881,,,0
+131,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,86649994,,,0
+132,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,67105780,,,0
+133,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,5358666,,,4
+134,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,22674166,,,4
+135,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,108306924,,,4
+136,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,1787255,,,0
+137,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,8859759,,,4
+138,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,8467968,,,0
+139,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,126224846,,,4
+140,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,136173421,,,0
+141,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,48174838,,,4
+142,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,104685616,,,0
+143,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,174818268,,,0
+144,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,217709037,,,0
+145,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,112305349,,,0
+146,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,278555063,,,0
+147,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,414905059,,,0
+148,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,2423390,,,0
+149,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,5749823,,,0
+150,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,29740315,,,0
+151,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,846930,,,0
+152,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,13270824,,,0
+153,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,10071357,,,0
+154,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,61646277,,,0
+155,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,55883793,,,0
+156,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,7600514,,,0
+157,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,90244641,,,0
+158,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,52866249,,,0
+159,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,54869921,,,0
+160,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,51584828,,,0
+161,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,22699926,,,0
+162,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,202260393,,,0
+163,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,4723280,,,0
+164,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,31232444,,,0
+165,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,9839034,,,0
+166,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,1610791,,,0
+167,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,29726989,,,0
+168,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,191908,,,0
+169,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,22199050,,,0
+170,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,7156145,,,0
+171,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,350212,,,0
+172,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,10628567,,,0
+173,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,1502018,,,0
+174,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,84824,,,0
+175,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,2192382,,,0
+176,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,1722510,,,0
+177,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,3887,,,0
+178,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,7192,,,0
+179,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,473872,,,0
+180,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,41693,,,0
+181,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,285577,,,4
+182,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,831497,,,0
+183,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,13039068,,,0
+184,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,216745545,,,0
+185,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,211852521,,,0
+186,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,3874249,,,4
+187,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,102728944,,,0
+188,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,31147796,,,0
+189,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,282117112,,,4
+190,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,125742371,,,0
+191,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,31892359,,,0
+192,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,396847444,,,4
+193,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,41085021,,,0
+194,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,136472599,,,0
+195,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,35188226,,,0
+196,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,14432077,,,0
+197,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,68252578,,,0
+198,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,183732,,,0
+199,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,1390821,,,0
+200,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,664434,,,0
+201,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,162877,,,0
+202,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,63100388,,,0
+203,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,3493633,,,0
+204,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,14451172,,,0
+205,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,1509700,,,0
+206,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,7141340,,,0
+207,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,63609881,,,0
+208,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,47051,,,0
+209,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,184437,,,0
+210,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,10495,,,0
+211,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,128208,,,0
+212,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,8869235,,,0
+213,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,5775177,,,0
+214,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,20112424,,,4
+215,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,4113009,,,0
+216,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,12111330,,,0
+217,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,26280409,,,0
+218,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,2186257,,,0
+219,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,1191940,,,0
+220,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,198445,,,0
+221,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,476602,,,0
+222,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,2589450,,,0
+223,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,108190,,,0
+224,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,1079544,,,0
+225,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,91790,,,0
+226,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,311054,,,0
+227,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,940998,,,0
+228,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,,,2516,,,4
+229,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,1209802,,,0
+230,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,1204087,,,0
+231,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,8714,,,4
+232,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,89617407,,,0
+233,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,13667609,,,0
+234,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,56411093,,,0
+235,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,21791701,,,4
+236,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,15323811,,,0
+237,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,94580349,,,4
+238,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,764377,,,0
+239,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,14577728,,,0
+240,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,6270353,,,0
+241,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,1518539,,,0
+242,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,928205,,,0
+243,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,3674,,,0
+244,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,42095,,,0
+245,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,27364,,,0
+246,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,3917,,,0
+247,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,11141,,,0
+248,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,65464,,,0
+249,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,2829254,,,0
+250,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,257103,,,0
+251,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,11153827,,,0
+252,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,232568,,,0
+253,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,5533103,,,0
+254,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,421588,,,0
+255,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,248369,,,0
+256,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,1951597,,,0
+257,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,289025,,,0
+258,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,749294,,,0
+259,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,3510,,,0
+260,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,51240,,,0
+261,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,51610,,,0
+262,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,1303256,,,0
+263,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,15737642,,,0
+264,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,4782416,,,0
+265,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,527491,,,0
+266,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,2978901,,,0
+267,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2659230,,,0
+268,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,71234682,,,0
+269,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2430298,,,0
+270,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,2494870,,,0
+271,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,9330632,,,0
+272,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,539176,,,0
+273,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,10086386,,,0
+274,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,1489818,,,0
+275,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,2627374,,,0
+276,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,2862812,,,0
+277,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,405801,,,0
+278,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,3404998,,,0
+279,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,141355,,,0
+280,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,272595,,,0
+281,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,497471,,,0
+282,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,331331,,,0
+283,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,5119311,,,0
+284,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,33704,,,0
+285,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,204963,,,0
+286,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,1296987,,,0
+287,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,884162,,,0
+288,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,3518658,,,0
+289,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,7697001,,,0
+290,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,605958,,,0
+291,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1400736,,,0
+292,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,553205,,,0
+293,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,5723784,,,0
+294,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,634194,,,0
+295,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,302567,,,0
+296,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,713997,,,0
+297,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,19049903,,,0
+298,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,87574828,,,0
+299,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,19449289,,,0
+300,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,36394946,,,0
+301,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,129091830,,,0
+302,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,30128515,,,0
+303,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,111491534,,,0
+304,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,29198988,,,0
+305,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,50856425,,,0
+306,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,221356660,,,0
+307,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,312809,,,0
+308,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,19123786,,,0
+309,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,1875358,,,0
+310,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,1562739,,,0
+311,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,8582944,,,0
+312,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,19108344,,,0
+313,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,66562394,,,4
+314,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2648684,,,0
+315,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,32041464,,,0
+316,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,75989451,,,0
+317,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,189658,,,0
+318,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,2488747,,,0
+319,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,529847,,,0
+320,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,441050,,,0
+321,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1232539,,,0
+322,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,25215,,,0
+323,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,416098,,,0
+324,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,11176,,,0
+325,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,43839,,,0
+326,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,111488,,,0
+327,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,3150,,,0
+328,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,268931,,,0
+329,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,1598,,,0
+330,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,184341,,,0
+331,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,9858,,,0
+332,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,21472304,,,4
+333,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,37107200,,,0
+334,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,35949990,,,0
+335,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,26202987,,,4
+336,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,23951033,,,4
+337,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,38692967,,,0
+338,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,87589146,,,0
+339,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,12217163,,,0
+340,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,42017449,,,0
+341,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,47635093,,,0
+342,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,5035505,,,0
+343,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,33619181,,,0
+344,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,17539742,,,0
+345,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,20855455,,,0
+346,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,18389828,,,0
+347,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,2944267,,,0
+348,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,23581062,,,4
+349,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,163260,,,0
+350,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,2064143,,,0
+351,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,5039819,,,4
+352,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,3633503,,,4
+353,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,190040700,,,4
+354,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,25990041,,,4
+355,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,49458563,,,0
+356,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,12018843,,,0
+357,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,42982779,,,0
+358,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,111722944,,,0
+359,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,64065385,,,0
+360,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,46205382,,,0
+361,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,107171028,,,0
+362,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,1156727,,,0
+363,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,332097060,,,0
+364,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,7149114,,,0
+365,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,2263863,,,0
+366,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,325976669,,,0
+367,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,1009,,,0
+368,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,1819339,,,0
+369,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,327439,,,0
+370,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,49452,,,0
+371,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,1278778,,,0
+372,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,17193257,,,0
+373,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,109341623,,,4
+374,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,23034332,,,0
+375,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,16461132,,,0
+376,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,35392872,,,0
+377,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,222795,,,0
+378,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,366195,,,0
+379,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,147469,,,0
+380,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,16113,,,0
+381,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,450318,,,0
+382,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,35044481,,,0
+383,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,19198135,,,0
+384,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,41054,,,0
+385,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,7183439,,,0
+386,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,62199,,,0
+387,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,36866289,,,0
+388,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,9659,,,0
+389,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,560,,,0
+390,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,43544,,,0
+391,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,9148,,,0
+392,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,149747,,,0
+393,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,708576,,,0
+394,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,790055,,,0
+395,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,347946,,,0
+396,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,3007968,,,0
+397,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,7694647,,,0
+398,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,3374555,,,0
+399,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,4040567,,,0
+400,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,15858047,,,0
+401,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,11773073,,,0
+402,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,18896297,,,0
+403,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,8414268,,,0
+404,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,7434891,,,0
+405,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,5307055,,,0
+406,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,182978224,,,0
+407,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,344419511,,,4
+408,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,265690255,,,0
+409,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,433579623,,,0
+410,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,466924600,,,0
+411,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,101916070,,,4
+412,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,194506203,,,4
+413,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,219697186,,,0
+414,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,44309782,,,0
+415,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,226371413,,,0
+416,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,4290928,,,0
+417,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,20863690,,,0
+418,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,5178246,,,0
+419,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,1691539,,,0
+420,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,806580,,,0
+421,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,157764806,,,0
+422,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,,,2052040611,,,4
+423,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,64877532,,,0
+424,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,90746644,,,0
+425,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,399957413,,,0
+426,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,8279477,,,0
+427,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,170255228,,,0
+428,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,71977685,,,0
+429,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,139071268,,,0
+430,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,35243242,,,0
+431,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,276950933,,,0
+432,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1453851,,,0
+433,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,590026,,,0
+434,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,24904763,,,0
+435,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,545414,,,0
+436,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,15058439,,,0
+437,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,248971369,,,0
+438,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,21575115,,,0
+439,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,17815328,,,0
+440,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,121098049,,,0
+441,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,661336,,,0
+442,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,4468574,,,0
+443,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,185550,,,0
+444,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,569053,,,0
+445,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,8210023,,,0
+446,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,470062,,,0
+447,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,437890,,,0
+448,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,49384,,,0
+449,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,701865,,,0
+450,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,442416,,,0
+451,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,4184600,,,0
+452,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,3093249,,,0
+453,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,3647683,,,0
+454,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,1828187,,,0
+455,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,16934,,,0
+456,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,21422042,,,0
+457,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,91677094,,,0
+458,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,5738383,,,0
+459,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,11038210,,,0
+460,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,28886181,,,0
+461,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,5463158,,,0
+462,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,36928102,,,0
+463,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,636719,,,0
+464,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,3450026,,,0
+465,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,3407502,,,0
+466,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1077543,,,0
+467,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,26650099,,,0
+468,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,1044693,,,0
+469,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,528558,,,0
+470,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,5428253,,,0
+471,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,151489,,,0
+472,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,870371,,,0
+473,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,495631,,,0
+474,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,381477,,,0
+475,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,453712,,,0
+476,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,11618640,,,0
+477,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,488367668,,,0
+478,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,114458421,,,0
+479,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,18724054,,,0
+480,H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,22475366,,,0

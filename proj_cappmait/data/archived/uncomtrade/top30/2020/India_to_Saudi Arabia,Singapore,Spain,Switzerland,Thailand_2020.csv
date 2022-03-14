@@ -1,0 +1,468 @@
+,pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+0,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,01,Animals; live,1,No Quantity,,,0,,0.0,,11476,,,4
+1,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,110754989,,,0
+2,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,477805,,,0
+3,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,37665,,,0
+4,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,0,,0.0,,10841621,,,0
+5,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,4484676,,,0
+6,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,28982377,,,4
+7,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,143154495,,,0
+8,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,1139756,,,0
+9,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,,,0,,0.0,,169517600,,,0
+10,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,19199402,,,0
+11,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,15069240,,,0
+12,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,226447,,,0
+13,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,831,,,0
+14,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,,,0,,0.0,,997418,,,0
+15,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,65510,,,0
+16,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,39,,,0
+17,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,69273,,,0
+18,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,12083,,,0
+19,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,,,0,,0.0,,492989,,,0
+20,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,414245,,,0
+21,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1399603,,,0
+22,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,1128988,,,0
+23,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,49400,,,0
+24,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,,,0,,0.0,,253678,,,0
+25,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,39582492,,,0
+26,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,18715561,,,4
+27,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,18722377,,,0
+28,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,2861551,,,4
+29,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,,,0,,0.0,,6113060,,,0
+30,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,114281576,,,4
+31,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,14175706,,,0
+32,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,27160221,,,4
+33,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,2941511,,,4
+34,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,0,,0.0,,9004553,,,4
+35,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,80896348,,,4
+36,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,21235269,,,4
+37,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,20783162,,,4
+38,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,6242120,,,4
+39,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0.0,,128314927,,,0
+40,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,1102697906,,,0
+41,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,62012000,,,4
+42,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,6991451,,,0
+43,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,3383145,,,4
+44,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,10,Cereals,1,No Quantity,,,0,,0.0,,5432540,,,0
+45,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,7292644,,,4
+46,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,5240902,,,4
+47,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,1059395,,,0
+48,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,415091,,,0
+49,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,,,0,,0.0,,6192973,,,4
+50,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,11659718,,,0
+51,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,7575832,,,4
+52,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,10396617,,,0
+53,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,271095,,,4
+54,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,,,0,,0.0,,57959726,,,4
+55,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1606749,,,4
+56,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,3210699,,,4
+57,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,12666260,,,4
+58,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,1654136,,,4
+59,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,,,0,,0.0,,5419422,,,4
+60,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1572788,,,0
+61,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,44687,,,0
+62,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,720032,,,0
+63,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,1394,,,4
+64,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,,,0,,0.0,,811397,,,0
+65,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,7109169,,,4
+66,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,9203484,,,4
+67,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,3630478,,,0
+68,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,264202,,,4
+69,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,,,0,,0.0,,26127601,,,4
+70,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,198723,,,4
+71,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,5074257,,,0
+72,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,19334,,,0
+73,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,,,0,,0.0,,859466,,,0
+74,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,42634918,,,0
+75,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,15569038,,,4
+76,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,1653123,,,4
+77,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,28946,,,0
+78,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0,,0.0,,36256180,,,4
+79,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,8212245,,,0
+80,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,735820,,,4
+81,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,20009,,,0
+82,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,73727,,,0
+83,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,0,,0.0,,2592535,,,0
+84,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,13960808,,,0
+85,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,9270268,,,0
+86,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,322899,,,0
+87,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,432541,,,0
+88,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,,,0,,0.0,,3310821,,,4
+89,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,31168090,,,0
+90,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,4925417,,,4
+91,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,10246991,,,0
+92,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,1989080,,,0
+93,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,,,0,,0.0,,24838359,,,4
+94,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,15849662,,,0
+95,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,21508771,,,4
+96,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,3118790,,,4
+97,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,5085971,,,0
+98,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,0,,0.0,,10995724,,,0
+99,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,3861926,,,4
+100,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,29442447,,,4
+101,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,268263,,,0
+102,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,22071,,,0
+103,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,0,,0.0,,1515558,,,4
+104,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,1679207,,,0
+105,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,1141497,,,0
+106,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,8910200,,,0
+107,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,825213,,,0
+108,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,,,0,,0.0,,42938673,,,0
+109,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,14507966,,,4
+110,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,35206773,,,4
+111,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,52923,,,0
+112,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,160438,,,4
+113,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,0,,0.0,,20855947,,,4
+114,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,71035866,,,4
+115,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,4364057,,,4
+116,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,6070442,,,4
+117,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,242445,,,4
+118,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,,,0,,0.0,,18976524,,,4
+119,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,3463984,,,0
+120,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,748,,,0
+121,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,429568,,,4
+122,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,,,0,,0.0,,17520,,,0
+123,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,644711932,,,4
+124,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,3988500917,,,4
+125,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,72578522,,,4
+126,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,2,,,0
+127,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,0,,0.0,,20260655,,,4
+128,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,39622261,,,4
+129,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,7290340,,,4
+130,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,16742832,,,4
+131,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,26481301,,,4
+132,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,,,0,,0.0,,37453520,,,4
+133,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,556665941,,,4
+134,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,315030520,,,4
+135,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,520669111,,,4
+136,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,605987145,,,4
+137,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,29,Organic chemicals,1,No Quantity,,,0,,0.0,,283616518,,,4
+138,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,54042977,,,4
+139,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,84508163,,,4
+140,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,75364185,,,4
+141,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,19521343,,,4
+142,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,0,,0.0,,136884713,,,4
+143,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,241723,,,0
+144,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,13100,,,0
+145,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,85051,,,0
+146,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,28578,,,0
+147,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,31,Fertilizers,1,No Quantity,,,0,,0.0,,611244,,,0
+148,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,26061647,,,4
+149,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,55821933,,,4
+150,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,42861752,,,4
+151,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,20823577,,,4
+152,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,,,0,,0.0,,78743524,,,4
+153,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,43893762,,,4
+154,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,61732571,,,4
+155,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,20947362,,,4
+156,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,11240774,,,4
+157,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,,,0,,0.0,,16812190,,,4
+158,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,26450209,,,0
+159,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,19350263,,,4
+160,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,4575616,,,4
+161,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,243351,,,4
+162,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,,,0,,0.0,,9053084,,,4
+163,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,13940953,,,4
+164,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,699273,,,4
+165,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,3525682,,,0
+166,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,161414,,,4
+167,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,,,0,,0.0,,1962551,,,4
+168,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,1751618,,,0
+169,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,13755,,,4
+170,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,322183,,,0
+171,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,42,,,0
+172,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,,,0,,0.0,,2203472,,,0
+173,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,24891,,,4
+174,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,304850,,,4
+175,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,1692,,,4
+176,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,0,,0.0,,42917,,,4
+177,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,56207699,,,4
+178,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,51614243,,,4
+179,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,31176426,,,4
+180,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,2651136,,,4
+181,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,,,0,,0.0,,87262151,,,4
+182,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,105889452,,,4
+183,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,101885640,,,4
+184,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,99708549,,,4
+185,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,4023496,,,4
+186,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,0,,0.0,,61228319,,,4
+187,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,56050130,,,4
+188,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,10459168,,,4
+189,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,46302452,,,4
+190,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,5941555,,,4
+191,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,0,,0.0,,65578739,,,4
+192,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,8465,,,0
+193,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,210378,,,0
+194,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,6651053,,,0
+195,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,42057,,,0
+196,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,0,,0.0,,8553284,,,0
+197,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,6403739,,,4
+198,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,3642815,,,4
+199,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,109717395,,,4
+200,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,21182072,,,4
+201,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,,,0,,0.0,,1702819,,,4
+202,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,41640,,,0
+203,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,35092,,,0
+204,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,5939,,,0
+205,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,,,0,,0.0,,6719,,,0
+206,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,9757546,,,4
+207,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,2395054,,,4
+208,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,3520819,,,4
+209,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,1056697,,,4
+210,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,0,,0.0,,2792657,,,4
+211,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,391340,,,4
+212,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,21654,,,0
+213,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,1023,,,0
+214,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,1980,,,0
+215,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,0,,0.0,,85802,,,0
+216,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,951820,,,0
+217,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,22169,,,0
+218,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,983738,,,0
+219,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,,,0,,0.0,,248134,,,0
+220,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,11680,,,0
+221,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,1319,,,0
+222,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,,,0,,0.0,,38059,,,0
+223,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,44588400,,,4
+224,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,19902365,,,4
+225,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,4892118,,,4
+226,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,1176586,,,4
+227,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,,,0,,0.0,,28520874,,,4
+228,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,3521546,,,4
+229,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,1891474,,,4
+230,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,1970613,,,4
+231,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,101348,,,4
+232,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,,,0,,0.0,,1267465,,,4
+233,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,146929,,,4
+234,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,1461470,,,4
+235,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,243757,,,4
+236,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,182607,,,4
+237,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,50,Silk,1,No Quantity,,,0,,0.0,,204230,,,4
+238,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,376324,,,4
+239,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,359760,,,4
+240,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,280610,,,4
+241,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,4572,,,4
+242,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,,,0,,0.0,,210851,,,4
+243,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,8478627,,,4
+244,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,1781439,,,4
+245,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,12708637,,,4
+246,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,3261117,,,4
+247,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,52,Cotton,1,No Quantity,,,0,,0.0,,78897157,,,4
+248,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,5496543,,,4
+249,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,140330,,,4
+250,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,17482982,,,4
+251,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,503176,,,4
+252,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,,,0,,0.0,,936893,,,4
+253,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,26810201,,,4
+254,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,3970757,,,4
+255,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,15424980,,,4
+256,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,163796,,,4
+257,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,,,0,,0.0,,21186652,,,4
+258,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,17677306,,,4
+259,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,299105,,,4
+260,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,13915362,,,4
+261,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,1987,,,4
+262,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,55,Man-made staple fibres,1,No Quantity,,,0,,0.0,,5937920,,,4
+263,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,2607460,,,0
+264,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,7830218,,,4
+265,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,5013316,,,4
+266,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,556644,,,0
+267,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,,,0,,0.0,,3639995,,,4
+268,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,6814618,,,4
+269,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,5525855,,,4
+270,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,21805738,,,4
+271,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,2479833,,,4
+272,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,0,,0.0,,2355843,,,4
+273,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,2741769,,,4
+274,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,693014,,,4
+275,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,2231199,,,4
+276,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,74098,,,4
+277,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,,,0,,0.0,,7754067,,,4
+278,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,8933149,,,4
+279,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,659836,,,4
+280,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,1719611,,,4
+281,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,156016,,,0
+282,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,,,0,,0.0,,2753776,,,4
+283,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,785663,,,0
+284,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,37001,,,4
+285,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,144594,,,0
+286,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,804563,,,0
+287,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,,,0,,0.0,,3251566,,,0
+288,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,224348039,,,4
+289,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,6040843,,,4
+290,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,206864981,,,4
+291,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,27982058,,,4
+292,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,,,0,,0.0,,6371214,,,4
+293,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,154182596,,,4
+294,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,16692517,,,4
+295,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,318781370,,,4
+296,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,13813554,,,4
+297,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,,,0,,0.0,,17338598,,,4
+298,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,24591593,,,4
+299,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,7310372,,,4
+300,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,86258039,,,4
+301,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,10005583,,,4
+302,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,,,0,,0.0,,13237926,,,4
+303,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,20510588,,,4
+304,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,2124194,,,4
+305,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,72394726,,,4
+306,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,10572485,,,4
+307,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,,,0,,0.0,,3831358,,,4
+308,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,607806,,,4
+309,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,1518965,,,4
+310,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,809440,,,4
+311,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,123750,,,4
+312,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,0,,0.0,,448185,,,4
+313,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,5371,,,4
+314,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,1728,,,4
+315,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,589555,,,4
+316,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,,,0,,0.0,,120,,,4
+317,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,90054,,,0
+318,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,312910,,,4
+319,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,1153546,,,0
+320,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,643190,,,4
+321,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,,,0,,0.0,,9144,,,0
+322,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,55566157,,,4
+323,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,4029836,,,4
+324,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,13872811,,,4
+325,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,1083898,,,4
+326,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,,,0,,0.0,,16571097,,,4
+327,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,300666345,,,4
+328,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,3171907,,,4
+329,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,8934837,,,4
+330,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,153860,,,4
+331,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,69,Ceramic products,1,No Quantity,,,0,,0.0,,41847147,,,4
+332,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,8593040,,,4
+333,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,2313376,,,4
+334,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,27296608,,,4
+335,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,4697620,,,0
+336,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,70,Glass and glassware,1,No Quantity,,,0,,0.0,,3670106,,,4
+337,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,42778165,,,4
+338,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,280059974,,,4
+339,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,32793860,,,4
+340,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,269141002,,,4
+341,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,,,0,,0.0,,548237007,,,4
+342,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,128235919,,,4
+343,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,27245422,,,4
+344,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,180128164,,,4
+345,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,4061120,,,4
+346,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,72,Iron and steel,1,No Quantity,,,0,,0.0,,251361701,,,4
+347,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,261858552,,,4
+348,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,37151316,,,4
+349,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,88528255,,,4
+350,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,10921020,,,4
+351,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,73,Iron or steel articles,1,No Quantity,,,0,,0.0,,72915313,,,4
+352,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,27397974,,,4
+353,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,1837591,,,4
+354,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,5788036,,,4
+355,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,968729,,,4
+356,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,0,,0.0,,12356271,,,4
+357,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,2294843,,,0
+358,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,938397,,,0
+359,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,193284,,,0
+360,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,47152,,,0
+361,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,,,0,,0.0,,2129024,,,0
+362,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,43883611,,,4
+363,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,197925653,,,4
+364,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,53634054,,,4
+365,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,6071513,,,4
+366,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,0,,0.0,,63536429,,,4
+367,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,64939,,,0
+368,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,11586463,,,0
+369,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,174872,,,0
+370,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,0,,0.0,,30673005,,,0
+371,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,7936872,,,0
+372,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,164139113,,,0
+373,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,235772,,,0
+374,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,16779,,,0
+375,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,0,,0.0,,19880107,,,0
+376,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,334330,,,0
+377,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,190369,,,0
+378,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,80,Tin; articles thereof,1,No Quantity,,,0,,0.0,,927,,,0
+379,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,56058,,,0
+380,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,807291,,,4
+381,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,10057,,,4
+382,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,266085,,,0
+383,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,,,0,,0.0,,631638,,,4
+384,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,8400621,,,4
+385,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,14138912,,,4
+386,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,9716992,,,4
+387,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,1759505,,,4
+388,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,,,0,,0.0,,7455454,,,4
+389,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,14811364,,,4
+390,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,6614451,,,4
+391,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,7692183,,,4
+392,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,1292010,,,4
+393,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,,,0,,0.0,,10197381,,,4
+394,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,270041885,,,4
+395,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,686342044,,,4
+396,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,212806385,,,4
+397,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,36191601,,,4
+398,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,,,0,,0.0,,706953060,,,4
+399,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,149431374,,,4
+400,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,277550120,,,4
+401,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,160038302,,,4
+402,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,26278973,,,4
+403,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,,,0,,0.0,,129613343,,,4
+404,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,136945,,,4
+405,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,456442,,,4
+406,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,275799,,,4
+407,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,100964,,,4
+408,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,,,0,,0.0,,144460,,,4
+409,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,651318125,,,4
+410,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,18701624,,,4
+411,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,92499477,,,4
+412,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,4905002,,,4
+413,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,,,0,,0.0,,190214017,,,4
+414,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,767078,,,4
+415,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,118052439,,,4
+416,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,1844720,,,4
+417,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,16891242,,,4
+418,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,,,0,,0.0,,7414365,,,4
+419,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,200690894,,,4
+420,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,1142729904,,,4
+421,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,,,4263,,,4
+422,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,,,0,,0.0,,10745,,,4
+423,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,39987542,,,4
+424,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,189544776,,,4
+425,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,23718817,,,4
+426,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,17376967,,,4
+427,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,,,0,,0.0,,40007516,,,4
+428,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,362120,,,4
+429,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,1670063,,,4
+430,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,27889,,,4
+431,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,17592864,,,4
+432,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,0,,0.0,,52774,,,4
+433,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,23604,,,4
+434,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,9201,,,4
+435,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,95255,,,4
+436,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,37185,,,4
+437,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,,,0,,0.0,,18016,,,4
+438,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,120150,,,4
+439,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,,,10393,,,4
+440,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,0.0,,1375747,,,4
+441,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,,,0,,,,450,,,4
+442,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,24801794,,,4
+443,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,6595589,,,4
+444,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,27973728,,,4
+445,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,3643515,,,4
+446,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,,,0,,0.0,,3826791,,,4
+447,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,3364644,,,4
+448,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,4783856,,,4
+449,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,5184858,,,4
+450,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,2511729,,,4
+451,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,,,0,,0.0,,252446,,,4
+452,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,5647797,,,4
+453,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,2281236,,,4
+454,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,6554568,,,4
+455,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,368607,,,4
+456,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,0,,0.0,,11719189,,,4
+457,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,85405,,,4
+458,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,2007224,,,4
+459,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,75058,,,4
+460,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,1099130,,,4
+461,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,,,0,,0.0,,701943,,,4
+462,H5,2020,2020,2020,2,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,186272,,,0
+463,H5,2020,2020,2020,2,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,321005,,,0
+464,H5,2020,2020,2020,2,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,3379,,,0
+465,H5,2020,2020,2020,2,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,36655,,,0
+466,H5,2020,2020,2020,2,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,,,0,,0.0,,977918,,,0
