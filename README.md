@@ -1,6 +1,6 @@
 # What is this
 
-Coming soon...
+In our project, we analyze and reveal some important facts about the trade sector during pandemic by using dashboards and a report. We collected export data from international organizations’ databases (e.g. WB WITS API, WTO Database, UN comtrade and IMF trade flows), COVID-19 and economic indicators data (e.g. Our World in Data & World Bank). Then, we leveraged them by creating interactive dashboards and providing an analysis report. Both products use dash and plotly as the core packages. 
 
 
 # How to use
@@ -22,11 +22,12 @@ bash ./install.sh
 ```sh
 source env/bin/activate
 ```
-5. Launch the dashboard and open the address on the command line (the address would be `http://127.0.0.1:3003/`).
+5. Launch the dashboard and open the address on the command line
 ```sh
-python3 app.py
+ipython3 -m proj_cappmait
 ```
-6. Launch the analysis page and open the address on the command line (the address would be `http://127.0.0.1:3004/`)
-```sh
-python3 app_analysis.py
-```
+6. When you successfully run our program, please input either of these arguments
+for running our products
+ - `dashboard` for open dashboards
+ - `analysis` for open analysis report
+ - `quit` for exit the program
