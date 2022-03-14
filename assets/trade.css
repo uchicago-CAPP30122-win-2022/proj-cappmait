@@ -64,28 +64,43 @@ p {
 /* LHS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 #covidmap-container {
-    margin: 2rem 0 0 0;
+    margin-left: 2rem;
     background-color: #252e3f;
     font-size: 2rem;
 } 
 
 #network {
-    margin: 2rem 0 0 0;
+    margin-left: 2rem;
     background-color: #252e3f;
     font-size: 2rem;
 } 
 
-#map-text {
-    margin-left: 4rem;
-    padding-left: 1rem;
-    padding-top: 5rem;
-    font-size: 2rem;
+#up-left-header {
+    margin-left: 0rem;
+    margin-top: 0rem;
+    padding: 1rem;
+    font-size: 3rem;
+    background-color: #c4cbdb1e;
+}
+
+#slider-container {
+    margin-left: 2rem;
+    margin-top: 0rem;
+    padding: 0rem;
+    font-size: 3rem;
+    background-color: #2f313583;
+}
+#bottom-left-header {
+    margin-left: 0rem;
+    margin-top: 2rem;
+    padding: 1rem;
+    font-size: 3rem;
+    background-color: #c4cbdb1e;
 }
 
 #covidmap-title {
-    margin-left: 4rem;
-    margin-top: 4rem;
-    padding: 1rem;
+    margin-left: 3rem;
+    margin-top: 0rem;
     font-size: 2rem;
 }
 
@@ -97,8 +112,8 @@ p {
 }
 
 #chart-selector-2 {
-    margin-left: 4rem;
-    padding: 1rem;
+    margin-left: 3rem;
+    padding: 0rem;
     font-size: 2rem;
 }
 
@@ -117,6 +132,21 @@ p {
     margin: 1.5rem;
 }
 
+#dropdown-text {
+    margin-left: 2rem;
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+
+#up-right-header {
+    margin-left: 0rem;
+    margin-top: -4rem;
+    padding: 1rem;
+    font-size: 3rem;
+    text-align: center;
+}
+
 
 /* Dropdown
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -126,6 +156,7 @@ p {
 
 .Select-control {
     color: #252e3f !important;
+    margin-left: 2rem
 }
 
 .Select {
@@ -135,6 +166,7 @@ p {
 .Select-menu-outer {
     background-color: #252e3f !important;
     border: 1px solid #edeff7 !important;
+    margin-left: 2rem
 }
 
 .Select div {
@@ -178,16 +210,6 @@ p {
 
 /* Placement
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* #app-container {
-        display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
-        align-items: stretch;
-        height: 100rem;
-        margin-bottom: 5rem;
-    }
-     */
-
 #header {
     margin-left: 1.5%;
 }
