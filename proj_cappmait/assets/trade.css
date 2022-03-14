@@ -1,0 +1,215 @@
+/* downloaded from https://github.com/plotly/dash-sample-apps/blob/main/apps/dash-opioid-epidemic/assets/opioid.css */
+/* later extract the relevant parts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+html {
+    font-size: 50%;
+    background-color: #243144;
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0;
+}
+
+body {
+    font-size: 1.5rem; /* currently ems cause chrome bug misinterpreting rems on body element */
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #e7ecf5;
+    margin: 0;
+}
+
+#root {
+    margin: 0;
+}
+
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 300;
+    font-family: "Playfair Display", sans-serif;
+    font-size: 4rem;
+    line-height: 1.35;
+    letter-spacing: -.08rem;
+    margin-bottom: 1.2rem;
+    margin-top: 1.2rem;
+}
+
+p {
+    margin-top: 0;
+}
+
+#description {
+    font-size: 1.8rem;
+    border-left: #edeff7 solid 1rem;
+    padding-left: 1rem;
+    max-width: 169rem;
+    margin: 2rem 0 3rem 0;
+}
+
+#map-text, #slider-text, #chart-selector, #dropdown-text {
+    margin-bottom: 2rem !important;
+    font-size: 2rem;
+    color: #edeff7;
+}
+
+
+/* LHS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#covidmap-container {
+    margin-left: 2rem;
+    background-color: #252e3f;
+    font-size: 2rem;
+} 
+
+#network {
+    margin-left: 2rem;
+    background-color: #252e3f;
+    font-size: 2rem;
+} 
+
+#up-left-header {
+    margin-left: 0rem;
+    margin-top: 0rem;
+    padding: 1rem;
+    font-size: 3rem;
+    background-color: #c4cbdb1e;
+}
+
+#slider-container {
+    margin-left: 2rem;
+    margin-top: 0rem;
+    padding: 0rem;
+    font-size: 3rem;
+    background-color: #2f313583;
+}
+#bottom-left-header {
+    margin-left: 0rem;
+    margin-top: 2rem;
+    padding: 1rem;
+    font-size: 3rem;
+    background-color: #c4cbdb1e;
+}
+
+#covidmap-title {
+    margin-left: 3rem;
+    margin-top: 0rem;
+    font-size: 2rem;
+}
+
+#data-type-selected {
+    margin-bottom: 1rem !important;
+    margin-left: 6rem !important;
+    width: 450px !important;
+    font-size: 1.7rem;
+}
+
+#chart-selector-2 {
+    margin-left: 3rem;
+    padding: 0rem;
+    font-size: 2rem;
+}
+
+#import-or-export {
+    margin-bottom: 1rem !important;
+    margin-left: 6rem !important;
+    width: 450px !important;
+    font-size: 1.7rem;
+}
+
+/* RHS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#graph-container {
+    background-color: #252e3f;
+    padding: 5rem;
+    margin: 1.5rem;
+}
+
+#dropdown-text {
+    margin-left: 2rem;
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+
+#up-right-header {
+    margin-left: 0rem;
+    margin-top: -4rem;
+    padding: 1rem;
+    font-size: 3rem;
+    text-align: center;
+}
+
+
+/* Dropdown
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.Select-value {
+    cursor: pointer;
+}
+
+.Select-control {
+    color: #252e3f !important;
+    margin-left: 2rem
+}
+
+.Select {
+    color: #edeff7 !important;
+}
+
+.Select-menu-outer {
+    background-color: #252e3f !important;
+    border: 1px solid #edeff7 !important;
+    margin-left: 2rem
+}
+
+.Select div {
+    background-color: #252e3f !important;
+}
+
+.Select-menu-outer div:hover {
+    background-color: rgba(255, 255, 255, 0.01) !important;
+    cursor: pointer;
+}
+
+.Select-value-label {
+    color: #edeff7 !important;
+}
+
+.Select--single > .Select-control .Select-value, .Select-placeholder {
+    border: 1px solid #edeff7 !important;
+    border-radius: 4px !important;
+}
+
+/* Slider
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#slider-container {
+    background-color: #252e3f;
+    padding: 2rem 6rem 4rem 4rem;
+    height: 8rem;
+}
+
+.rc-slider-dot-active, .rc-slider-handle {
+    border-color: #edeff7 !important;
+}
+
+.rc-slider-track {
+    background-color: #49516ba6 !important
+}
+
+.rc-slider-rail {
+    background-color: #49516ba6 !important
+}
+
+/* Placement
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#header {
+    margin-left: 1.5%;
+}

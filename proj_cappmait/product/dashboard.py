@@ -8,20 +8,14 @@ import dash_core_components as dcc
 from dash.exceptions import PreventUpdate
 from dash_extensions.enrich import DashProxy, MultiplexerTransform, Input, Output
 import dash_cytoscape as cyto
-from proj_cappmait.helper import network_analysis as net
+import network_analysis as net
 
-app = DashProxy(transforms=[MultiplexerTransform()],
-                prevent_initial_callbacks=True)
+app = DashProxy(transforms=[MultiplexerTransform()],prevent_initial_callbacks=True)
 
 # Load Data
-product = pd.read_csv(
-    "proj_cappmait/data/merchandise_values_annual_dataset.csv",
-     dtype={"Value":"int", "Year":"category"})
-country_code = pd.read_csv(
-    "proj_cappmait/data/countries_codes_and_coordinates_cleaned.csv")
-covid_data = pd.read_csv(
-    'proj_cappmait/data/WHO-COVID-19-global-data_cleaned.csv')
-covid_data = pd.read_csv('proj_cappmait/data/owid_covid_data_cleaned.csv')
+product = pd.read_csv("rawdata/merchandise_values_annual_dataset.csv", dtype={"Value":"int", "Year":"category"})
+country_code = pd.read_csv("cleandata/countries_codes_and_coordinates_cleaned.csv")
+covid_data = pd.read_csv('cleandata/owid_covid_data_cleaned.csv')
 
 def network_legend():
     fig = go.Figure()
@@ -33,9 +27,7 @@ def network_legend():
     fig.add_trace(go.Scatter(
     x=[1.15, 1.41, 1.63],
     y=[1, 1, 1],
-    text=[": PageRank(=centrality) size", 
-          ": Trade Increased", 
-          ": Trade Decreased"],
+    text=[": PageRank(=centrality) size", ": Trade Increased", ": Trade Decreased"],
     mode="text",
     textfont=dict(
         color="#edeff7",
@@ -95,14 +87,14 @@ def plot_world_map(time_selected, val_selected):
     '''
     Plot worldwide covid cases situation
     Inputs:
+        time_selected: the quarter selected by user
         val_selected: the data type selected by user
     Outputs:
         fig: the world map graph
     '''
     dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
     dff = covid_data[covid_data.period == dic.get(time_selected)]
-    dff['hover_text'] = dff['Country_name'] + ": " + \
-                        dff[val_selected].apply(str)
+    dff['hover_text'] = dff['Country_name'] + ": " + dff[val_selected].apply(str)
 
     np.seterr(divide = 'ignore') 
     fig = go.Figure(data = go.Choropleth(
@@ -114,9 +106,7 @@ def plot_world_map(time_selected, val_selected):
                     colorbar_title = 'Log Value',
                     autocolorscale = False,
                     reversescale = True,
-                    colorscale = "RdBu", 
-                    marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}
-                    ))
+                    colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
 
     fig.update_layout(
     paper_bgcolor= "rgba(0,0,0,0)",
@@ -131,14 +121,12 @@ def plot_world_map(time_selected, val_selected):
 
 def build_networkelements(is_exporter):
     '''
-    Build a network elements. Node is each country. Source of edge 
-    is country node, and target is the best trading partner. In the exporter 
-    view, the country serve as an exporter and export the most to the best 
-    trading partner. In the importer view, the country serve as an importer and
+    Build a network elements. Node is each country. Source of edge is country node, 
+    and target is the best trading partner. In the exporter view, the country serve as an exporter and 
+    export the most to the best trading partner. In the importer view, the country serve as an importer and
     import the most from the best trading partner. 
     Input:
-        is_exporter(boolean): True if the country node is exporter, and False 
-            otherwise. 
+        is_exporter(boolean): True if the country node is exporter, and False otherwise. 
     Output:
         elements(list): A list of graph nodes and edges. 
     '''
@@ -146,15 +134,11 @@ def build_networkelements(is_exporter):
     nodes, edges = graph.find_best_partners(1, is_exporter)
 
     graph_nodes = [
-        {'data': {'id': node.country_code, 
-                  'label': node.label, 
-                  'pagerank': node.pagerank}} for node in nodes.values()
+        {'data': {'id': node.country_code, 'label': node.label, 'pagerank': node.pagerank}} for node in nodes.values()
     ]
 
     graph_edges = [
-        {'data': {'source': source, 
-                  'target': target, 
-                  'weight': weight}} for source, target, weight in edges
+        {'data': {'source': source, 'target': target, 'weight': weight}} for source, target, weight in edges
     ]
 
     return graph_nodes + graph_edges
@@ -169,8 +153,7 @@ def draw_countrydashboard(val_selected):
         A tuple of graph objects
     '''
     df = product[product["ReporterISO3A"] == val_selected] 
-    country_name = (country_code.loc[country_code["Alpha-3code"] == 
-        val_selected, "Country"].item())
+    country_name = country_code.loc[country_code["Alpha-3code"] == val_selected, "Country"].item()
 
     bar_plt = plot_bar(df, country_name)
 
@@ -216,7 +199,7 @@ def plot_bar(df, country_name):
         margin=dict(
             l=100,
             r=0,
-            b=0,
+            b=100,
             t=100,
             pad=4
         ),
@@ -268,7 +251,7 @@ def plot_sankey(val_selected, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=650,
+        height=700,
         margin=dict(
             l=50,
             r=20,
@@ -290,15 +273,11 @@ def plot_dot(df, country_name):
     Outputs:
         fig(a tree graph object)
     '''
-    df_new = df[df["ProductCode"]!="TO"].pivot(
-        index=["ReporterISO3A", "Reporter", "ProductCode", "Product"], 
-        values="Value", columns=["Indicator", "Year"]).reset_index()
+    df_new = df[df["ProductCode"]!="TO"].pivot(index=["ReporterISO3A", "Reporter", "ProductCode", "Product"], values="Value", columns=["Indicator", "Year"]).reset_index()
 
     if len(df_new) > 0:
-        df_new["Total 2020"] = (df_new["Import"]["2020"] + 
-            df_new["Export"]["2020"])
-        df_new["Total 2019"] = (df_new["Import"]["2019"] + 
-            df_new["Export"]["2019"])
+        df_new["Total 2020"] = (df_new["Import"]["2020"] + df_new["Export"]["2020"])
+        df_new["Total 2019"] = (df_new["Import"]["2019"] + df_new["Export"]["2019"])
         df_new = df_new.sort_values("Total 2019").tail(5)
         df_new["Product"] = df_new["Product"].str.replace("equipment", "")
 
@@ -307,9 +286,7 @@ def plot_dot(df, country_name):
             x=df_new["Total 2019"],
             y=df_new["Product"],
             opacity=0.7,
-            marker=dict(color='#36559c', 
-                size=12, line=dict(color="#aab0bf",width=1)
-            ),
+            marker=dict(color='#36559c', size=12, line=dict(color="#aab0bf",width=1)),
             mode="markers",
             name="2019",
         ))
@@ -318,10 +295,7 @@ def plot_dot(df, country_name):
             x=df_new["Total 2020"],
             y=df_new["Product"],
             opacity=0.7,
-            marker=dict(color='#b5442d', 
-                size=12, 
-                line=dict(color="#aab0bf",width=1)
-            ),
+            marker=dict(color='#b5442d', size=12, line=dict(color="#aab0bf",width=1)),
             mode="markers",
             name="2020",
         ))
@@ -357,7 +331,7 @@ def plot_dot(df, country_name):
         font_color="#e7ecf5",
         autosize=False,
         width=600,
-        height=323,
+        height=314,
         margin=dict(
             l=50,
             r=20,
@@ -403,12 +377,9 @@ app.layout = html.Div(
         children=[
             html.H1("Dashboard of Covid Impact and World Trading"),
             html.P(id="description",
-                    children='''Left-hand-side of the dashboard presents 
-                    worldwide situation of covid and trade network, 
-                    while right-hand-side dive into specific countries  
-                    trading volumes, partners and categories from 2019 to 2020.
-                    Users can interact with the dashboard through clicking into 
-                    covid & network map; or select / input in dropdown box.''',
+                    children="Left-hand-side of the dashboard presents worldwide situation of covid and trade network, while right-hand-side dive\
+                    into specific countries' trading volumes, partners and categories from 2019 to 2020.\
+                    Users can interact with the dashboard through clicking into covid & network map; or select / input in dropdown box.",
                 )]
         ),
 
@@ -423,36 +394,22 @@ app.layout = html.Div(
                         id = 'covidmap-container',
                         children = [
                             html.P(
-                            id = 'map-text',
-                            children = '1. Explore maps and click on country: ',
-                            ),
+                                "Clickable Board - Click Country of Interest",
+                                id = "up-left-header",),
                             html.P(
                                 "Covid World Map",
                                 id="covidmap-title",),
-                                dcc.RadioItems(id='data-type-selected', 
-                                               value='total_cases_per_million',
-                                options = [
-                                    {'label': 'Total cases per million', 
-                                     'value': 'total_cases_per_million'
-                                    },
-                                    {'label': 'Total deaths per million', 
-                                     'value': 'total_deaths_per_million'
-                                    }
-                                ]),
-                                dcc.Graph(
-                                    id="covid-map", 
-                                    figure=plot_world_map(1, 
-                                        'total_cases_per_million'
-                                    )
-                                )
-                        ]
+                                dcc.RadioItems(id='data-type-selected', value='total_cases_per_million',
+                                options = [{'label': 'Total cases per million', 'value': 'total_cases_per_million'},
+                                            {'label': 'Total deaths per million', 'value': 'total_deaths_per_million'}]),
+                                dcc.Graph(id="covid-map", figure=plot_world_map(1, 'total_cases_per_million'))]
                             ),
                     html.Div(
                         id = 'slider-container',
                         children = [
                             html.P(
-                                id='slider-text',
-                                children='Drag the slider to choose timespan: ',
+                                id = 'slider-text',
+                                children = 'Drag the slider to choose time span: ',
                             ),
                             dcc.Slider(
                                 id = 'time-slider',
@@ -471,16 +428,12 @@ app.layout = html.Div(
                     html.Div(
                         id="network",
                         children=[
+                            html.P("Clickable Board - Click Country of Interest",
+                            id = "bottom-left-header",),
                             html.P("Global Trading Network",
                             id="chart-selector-2",),
-                            dcc.RadioItems(id='import-or-export', 
-                                options=[
-                                        {'label':'Exporter view', 'value':True},
-                                        {'label':'Importer view', 'value':False}
-                                    ], 
-                                    value=True, 
-                                    inline=True
-                                ),
+                            dcc.RadioItems(id='import-or-export', options=[{'label':'Exporter view', 'value':True},
+                                                                            {'label':'Importer view', 'value':False}], value=True, inline=True),
                             cyto.Cytoscape(id='network-graph',
                                 elements=build_networkelements(True),
                                 style={'width': '100%', 'height': '600px'},
@@ -489,14 +442,12 @@ app.layout = html.Div(
                                 autoungrabify=True,
                                 minZoom=0.4,
                                 maxZoom=1),
-                            dcc.Graph(id="network-legend", 
-                                figure=network_legend()),
+                            dcc.Graph(id="network-legend", figure=network_legend()),
                                 ]
                             )],
                         ),
                 ],
-            style={"display": "inline-block", "width": "50%", 
-                   "vertical-align":"top"}
+            style={"display": "inline-block", "width": "50%", "vertical-align":"top"}
         ),
 
     # Right
@@ -505,45 +456,23 @@ app.layout = html.Div(
             children=[html.Div(
                 id="countrydashboard",
                 children=[
+                    html.P(id = 'up-right-header', 
+                    children = 'Country Deep-Dive',),
                     html.P(
                             id = 'dropdown-text',
-                            children = '2. Country you are looking at: ',
+                            children = 'Select country:',
                             ),
                     dcc.Dropdown(
                         id='slt_country',
-                        options=[
-                            {'label': name, 
-                             'value': code
-                            } for name, _, code, _, _, _ in \
-                                country_code.itertuples(index=False)
-                        ],
+                        options=[{'label': name, 'value': code} \
+                                    for name, _, code, _, _, _ in country_code.itertuples(index=False)],
                         searchable=True,
                         value="USA"),
-                    dcc.Graph(
-                        id="barplot", 
-                        figure=plot_bar(
-                            product[product["ReporterISO3A"] == "USA"], 
-                            "United States"
-                        )
-                    ),
-                    dcc.Graph(
-                        id="sankeyplot", 
-                        figure=plot_sankey("USA", "United States")
-                    ),
-                    dcc.Graph(
-                        id="dotplot", 
-                        figure=plot_dot(
-                            product[product["ReporterISO3A"] == "USA"], 
-                            "United States"
-                        )
-                    )
-                ]
+                    dcc.Graph(id="barplot", figure=plot_bar(product[product["ReporterISO3A"] == "USA"] , "United States")),
+                    dcc.Graph(id="sankeyplot", figure=plot_sankey("USA", "United States")),
+                    dcc.Graph(id="dotplot", figure=plot_dot(product[product["ReporterISO3A"] == "USA"] , "United States"))]
                 )],
-                style={
-                    "display": "inline-block", 
-                    "width": "40%", 
-                    "vertical-align":"top"
-                }
+                style={"display": "inline-block", "width": "40%", "vertical-align":"top"}
                 )
             ]
         )
@@ -611,7 +540,9 @@ def update_fromnode(node_clicked):
 
 def update_frommap(map_clicked):
     if map_clicked:
-        return draw_countrydashboard(map_clicked["points"][0]["location"]) + \
-            (map_clicked["points"][0]["location"],)
+        return draw_countrydashboard(map_clicked["points"][0]["location"]) + (map_clicked["points"][0]["location"],)
     else:
         raise PreventUpdate
+
+if __name__ == '__main__':
+    app.run_server(debug=True, port=3003)
