@@ -15,8 +15,6 @@ def create_export_import_data():
     to the every country and region in IMF dataset.
     And create bilateral export-import dataset from the export dataset.
 
-    Inputs:
-        country_codes: every country code in the target dataset.
     Output(csv file): bilateral export-import dataset
     """
     country_codes = find_country_codes()
