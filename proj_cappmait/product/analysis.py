@@ -475,7 +475,7 @@ deg_df = dict_to_df(deg_cent, ['country', 'deg_centrality'],
                     'deg_centrality', 20)
 deg_hbar = px_hbar(
     df=deg_df, x='deg_centrality', y='country', text='deg_centrality', 
-    range_x = [0.95,1], labels=labels, 
+    range_x = [0.9,1], labels=labels, 
     title_text="Top 20 of Countries Having the Highest Degree Centrality")
 
 bet_cent = nx.betweenness_centrality(imf_net)
@@ -483,7 +483,7 @@ bet_df = dict_to_df(bet_cent, ['country', 'bet_centrality'],
                     'bet_centrality', 20)
 bet_hbar = px_hbar(
     df=bet_df, x='bet_centrality', y='country', text='bet_centrality', 
-    range_x = [0.005,0.010], labels=labels, 
+    range_x = [0.005,0.015], labels=labels, 
     title_text="Top 20 of Countries Having the Highest Betweeness Centrality")
 
 rec_df = pot_triangle(imf_net, ['pairs', 'count'], 'count', 20)
@@ -654,14 +654,14 @@ content3_1_1 = '''We conclude this part with presents some key finding in
     The degree centrality gives you a number measuring the numbers of
     adjacent neighbors to each node. We plot the top 20 countries who have
     the highest degree centrality in the folowing graph. The Great Britain,
-    India, Spain and The Netherlands are the group of countries that are 
+    The Netherlands, Italy and USA  are the group of countries that are 
     important in terms of export (They are connected with lots of
     countries).'''
 content3_1_2 = '''Another number that measures centrality is called 
     betweeness centrality. The betweeness centrality quantifies 
     how many of times that the shortest path between any two nodes 
     cross this nodes. We plot the top countries below. Consistent to the
-    earlier result, The Great Britain, The Netherlands, Spain, and India
+    earlier result, The Great Britain, The Netherlands, USA, and Italy
     are the most important countries'''
 content3_1_3 = '''Suppose that the trading network is well-connected. There
     is still a room to tighten the network. In this part, we build a 
