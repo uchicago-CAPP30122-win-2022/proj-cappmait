@@ -1,6 +1,5 @@
 '''
 This module collects bilateral trade data for all countries by IMF API.
-To use this module, execute '$python3 imf_api.py' on your command line.
 
 Reference: https://www.bd-econ.com/imfapi1.html
 '''
