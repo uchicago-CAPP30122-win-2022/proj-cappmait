@@ -1,4 +1,6 @@
-from platform import node
+'''
+Module for interactive dashboard.
+'''
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -27,14 +29,15 @@ def plot_world_map(time_selected, val_selected):
     '''
     Plot worldwide covid cases situation
     Inputs:
-        time_selected(int): the quarter selected by user
+        time_selected(str): the quarter selected by user
         val_selected(str): the data type selected by user
     Outputs:
         fig: the world map graph
     '''
     dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
     dff = covid_data[covid_data.period == dic.get(time_selected)]
-    dff['hover_text'] = dff['Country_name'] + ": " + dff[val_selected].apply(str)
+    dff['hover_text'] = dff['Country_name'] + ": " + \
+                        dff[val_selected].apply(str)
 
     np.seterr(divide = 'ignore') 
     fig = go.Figure(data = go.Choropleth(
@@ -46,7 +49,8 @@ def plot_world_map(time_selected, val_selected):
                     colorbar_title = 'Log Value',
                     autocolorscale = False,
                     reversescale = True,
-                    colorscale = "RdBu", marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
+                    colorscale = "RdBu", 
+                    marker={'line': {'color': 'rgb(180,180,180)','width': 0.5}}))
 
     fig.update_layout(
     paper_bgcolor= "rgba(0,0,0,0)",
@@ -248,7 +252,7 @@ def plot_sankey(val_selected, country_name):
 
     fig.add_annotation(text="2019",
                 xref="paper", yref="paper",
-                x=0.2, y=1.00, showarrow=False), 
+                x=0.2, y=1.00, showarrow=False)
     fig.add_annotation(text="2020",
                 xref="paper", yref="paper",
                 x=0.75, y=1.00, showarrow=False)
@@ -286,10 +290,11 @@ def plot_dot(df, country_name):
         values="Value", columns=["Indicator", "Year"]).reset_index()
 
     if len(df_new) > 0:
-        df_new["Total 2020"] = (df_new["Import"]["2020"] + 
-            df_new["Export"]["2020"])
-        df_new["Total 2019"] = (df_new["Import"]["2019"] + 
-            df_new["Export"]["2019"])
+        df_new.columns = df_new.columns.map(' '.join).str.strip()
+        df_new["Total 2020"] = (df_new["Import 2020"] + 
+            df_new["Export 2020"])
+        df_new["Total 2019"] = (df_new["Import 2019"] + 
+            df_new["Export 2019"])
         df_new = df_new.sort_values("Total 2019").tail(5)
         df_new["Product"] = df_new["Product"].str.replace("equipment", "")
 
@@ -304,6 +309,12 @@ def plot_dot(df, country_name):
                     ),
                     mode="markers",
                     name="2019",
+                    customdata = df_new[["Import 2019", "Export 2019"]],
+                    hovertemplate=
+                        "<b>%{y}</b><br><br>" +
+                        "Import: %{customdata[0]}<br>" +
+                        "Export: %{customdata[1]}<br>" +
+                        "<extra></extra>",
         ))
 
         fig.add_trace(go.Scatter(
@@ -316,6 +327,12 @@ def plot_dot(df, country_name):
                     ),
                     mode="markers",
                     name="2020",
+                    customdata = df_new[["Import 2020", "Export 2020"]],
+                    hovertemplate=
+                        "<b>%{y}</b><br><br>" +
+                        "Import: %{customdata[0]}<br>" +
+                        "Export: %{customdata[1]}<br>" +
+                        "<extra></extra>",
         ))
 
         fig.update_layout(
@@ -383,7 +400,7 @@ def update_countrydashboard(val_selected):
 
     return (bar_plt, sankey_plt, dot_plt)
 
-# Styl for network graph
+# Style for network graph
 network_stylesheet = [
     {
         "selector": "node",
@@ -632,8 +649,7 @@ def update_frommap(map_clicked):
     if map_clicked:
         val_selected = map_clicked["points"][0]["location"]
         return update_countrydashboard(val_selected) + (val_selected,)
-    else:
-        raise PreventUpdate
+    raise PreventUpdate
 
 @app.callback(
     [Output(component_id="barplot", component_property="figure"),
@@ -655,6 +671,5 @@ def update_fromnode(node_clicked):
     if node_clicked:
         val_selected = node_clicked["id"]
         return update_countrydashboard(val_selected) + (val_selected,)
-    else:
-        raise PreventUpdate
+    raise PreventUpdate
 
