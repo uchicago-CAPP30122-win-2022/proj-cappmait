@@ -29,14 +29,15 @@ def plot_world_map(time_selected, val_selected):
     '''
     Plot worldwide covid cases situation
     Inputs:
-        time_selected(int): the quarter selected by user
+        time_selected(str): the quarter selected by user
         val_selected(str): the data type selected by user
     Outputs:
         fig: the world map graph
     '''
     dic = {1:'2020Q1', 2:'2020Q2', 3:'2020Q3', 4:'2020Q4'}
     dff = covid_data[covid_data.period == dic.get(time_selected)]
-    dff['hover_text'] = dff['Country_name'] + ": " + dff[val_selected].apply(str)
+    dff['hover_text'] = dff['Country_name'] + ": " + \
+                        dff[val_selected].apply(str)
 
     np.seterr(divide = 'ignore') 
     fig = go.Figure(data = go.Choropleth(
