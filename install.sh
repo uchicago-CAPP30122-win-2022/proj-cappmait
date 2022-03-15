@@ -46,3 +46,5 @@ source env/bin/activate
 pip3 install -r requirements.txt
 
 echo -e "Install is complete."
+
+deactivate
