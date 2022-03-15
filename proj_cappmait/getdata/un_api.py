@@ -151,14 +151,16 @@ def call_un_comtrade(reporters_path, partners_path, csv_path):
 
 
 # Concatenate all UN comtrade files and create new csv
-def concat_un_comtrade(raw_folder, csv_folder):
+def concat_un_comtrade(raw_folder, csv_folder, partners_path):
     '''
     concatenate all UN Comtrade files and export to csv
 
     Args:
         raw_folder (str): Folder that keeping the UN Comtrade csv file
         csv_folder (str): Folder that we want to the csv kept
+        partners_path (path): a path of partners file
     '''
+    
     df = pd.DataFrame()
     dir_list = os.listdir(raw_folder)
     for file in dir_list:
@@ -172,19 +174,12 @@ def concat_un_comtrade(raw_folder, csv_folder):
                                            'cmdCode': 'str'})
         df = pd.concat([df, un_comtrade])
     
-
-    f = open('rawdata/partnerAreas_top30.json', 'r')
-    major_importers = json.loads(f.read())
+    major_importers = un_comtrade_countries(partners_path) 
     major_importers = pd.DataFrame(major_importers)
-    major_importers.head()
 
     # Filter out not major importers
-    un_comtrade = pd.read_csv('rawdata/un_comtrade_top30.csv',
-                              dtype = {'rtCode': 'str', 'ptCode': 'str', 
-                                       'cmdCode': 'str'})
-
-    un_comtrade = un_comtrade.merge(major_importers, how = "inner", 
-                                    left_on = "ptCode", right_on="id")
+    un_comtrade = df.merge(major_importers, how = "inner", 
+                           left_on = "ptCode", right_on="id")
     un_comtrade = un_comtrade.loc[:, ~un_comtrade.columns.isin(['id', 'text'])]
     un_comtrade.columns = ['year', 'reporter_code','reporter_title', 
                            'reporter_iso', 'partner_code', 'partner_title', 
@@ -199,6 +194,20 @@ def concat_un_comtrade(raw_folder, csv_folder):
     # create csv file
     filename = csv_folder + "un_comtrade_top30" + ".csv"
     df.to_csv(filename, index = False)
+
+
+def create_un_data():
+    """
+    Create UN comtrade data
+    """
+
+    reporters = "proj_cappmait/data/archived/reporterAreas_top30.json"
+    partners = "proj_cappmait/data/archived/partnerAreas_top30.json"
+    raw_un_comtrade_path = ("proj_cappmait/data/data_from_prog" + 
+                            "/rawdata/uncomtrade/")
+    final_csv_path = "proj_cappmait/data/data_from_prog/rawdata/"
+    call_un_comtrade(reporters, partners, raw_un_comtrade_path)
+    concat_un_comtrade(raw_un_comtrade_path, final_csv_path, partners)
 
 
 def check_error(path):

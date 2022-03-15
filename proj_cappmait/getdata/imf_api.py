@@ -28,7 +28,9 @@ def create_export_import_data():
         one_country.insert(0, "from", code, True)
         df = pd.concat([df, one_country])
 
-    return df.to_csv('rawdata/imf_import_export_test.csv')
+    return df.to_csv(('proj_cappmait/data/data_from_prog/rawdata/' + 
+                     'imf_import_export.csv')
+    )
 
 
 def find_country_codes():
@@ -67,7 +69,10 @@ def get_imf_export_data(country_codes, target_country):
     key_d3 = []
     code_list = list(country_codes.keys())
     for i in range(4):
-        key_d3.append('+'.join(code_list[i*70 : min((i+1)*70, len(country_codes))]))
+        key_d3.append('+'.join(
+            code_list[i*70 : min((i+1)*70, len(country_codes))]
+            )
+        )
 
     trading_data = {}
     for k in key_d3:
@@ -82,7 +87,9 @@ def get_imf_export_data(country_codes, target_country):
             if 'Obs' not in s.keys() or not isinstance(s['Obs'], list):
                 continue
             for i in s['Obs']:
-                df_dict_col[i['@TIME_PERIOD']] = round(float(i['@OBS_VALUE']), 1)
+                df_dict_col[i['@TIME_PERIOD']] = round(
+                    float(i['@OBS_VALUE']), 1
+                )
             trading_data[s['@COUNTERPART_AREA']] = df_dict_col
 
     df = pd.DataFrame(trading_data).T
@@ -90,14 +97,3 @@ def get_imf_export_data(country_codes, target_country):
         df.sort_values(by=['2019'], inplace=True, ascending=False)
 
     return df
-
-
-def main():
-    """Execute this module"""
-    print ("Start to create dataset.")
-    create_export_import_data()
-    print ("Dataset is ready.")
-
-
-if __name__ == "__main__":
-    main()

@@ -17,7 +17,7 @@ import wbgapi as wb
 
 # Helper function
 def get_json(url, params = None):
-    '''
+    """
     Get JSON from the website
     
     Inputs:
@@ -26,7 +26,7 @@ def get_json(url, params = None):
     
     Output:
         (dict): the JSON data in terms of Python dict
-    '''
+    """
 
     resp = requests.get(url, params = params)
     time.sleep(5)
@@ -80,8 +80,14 @@ def get_owid():
                     covid_data.append(day)
         country_infos.append(country_info)
 
-    owid_csv(country_infos, "../data/owid_country_info.csv")
-    owid_csv(covid_data, "../data/archived/owid_covid_data.csv")
+    owid_csv(
+        country_infos, 
+        "proj_cappmait/data/data_from_prog/rawdata/owid_country_info.csv"
+    )
+    owid_csv(
+        covid_data, 
+        "proj_cappmait/data/data_from_prog/rawdata/owid_covid_data.csv"
+    )
 
 
 # Download WTO trade product data
@@ -91,19 +97,26 @@ def get_wto():
     2019 and 2020 of total imports and exports in each country.
     Save it to csv. 
     '''
-    r = requests.get("http://stats.wto.org/assets/UserGuide/merchandise_values_annual_dataset.zip")
+
+    r = requests.get("http://stats.wto.org/assets/UserGuide/" + 
+                     "merchandise_values_annual_dataset.zip")
     file = ZipFile(BytesIO(r.content))
     df = pd.read_csv(file.open("merchandise_values_annual_dataset.csv"), \
-        encoding = "ISO-8859-1", dtype="object")
-
+         encoding = "ISO-8859-1", dtype="object")
+ 
     df = df[(df["Year"]=="2019") | (df["Year"]=="2020")]
     df = df[df["Partner"]=="World"]
     df = df[["Indicator", "ReporterCode", "ReporterISO3A", \
         "Reporter", "ProductCode", "Product","Year", "Value"]]
     df["Indicator"].replace(
-        regex={r'.+imports.+': 'Import', r'.+exports.+': 'Export'}, inplace=True)
+        regex={r'.+imports.+': 'Import', r'.+exports.+': 'Export'}, 
+        inplace=True)
 
-    df.to_csv("../data/merchandise_values_annual_dataset.csv", index=False)
+    df.to_csv(
+        ("proj_cappmait/data/data_from_prog/rawdata/" + 
+         "merchandise_values_annual_dataset.csv"), 
+        index=False
+    )
     
 
 # Download World Bank data
@@ -122,7 +135,10 @@ def get_wb():
                        'nominal_gdp', 'real_gdp', 'exchange_rate', 
                        'labor_force', 'tariff']
     wb_data['time'] = wb_data['time_code'].str[2:]
-    wb_data.to_csv("../data/world-bank-econ-data.csv", index=False)
+    wb_data.to_csv(
+        "proj_cappmait/data/data_from_prog/rawdata/world-bank-econ-data.csv", 
+        index=False
+    )
 
 
 # Download Country code data
@@ -132,13 +148,19 @@ def get_countrycode():
     country iso3, iso2 code.
     Save it to csv.
     '''
-    url = ('https://gist.githubusercontent.com/tadast/8827699/raw/'
-            'f5cac3d42d16b78348610fc4ec301e9234f82821/countries_codes_and_coordinates.csv')
+    url = ("https://gist.githubusercontent.com/tadast/8827699/raw/" +
+           "f5cac3d42d16b78348610fc4ec301e9234f82821/" +
+           "countries_codes_and_coordinates.csv")
 
     df = pd.read_csv(url)
     df.columns = df.columns.str.replace(' ','')
-    df.loc[:, "Alpha-2code":] = df.loc[:, "Alpha-2code":].replace(regex=r"[\" ]", value='')
+    df.loc[:, "Alpha-2code":] = (df.loc[:, "Alpha-2code":]
+        .replace(regex=r"[\" ]", value=''))
     df = df.drop_duplicates(subset='Alpha-3code', keep='last')
 
-    df.to_csv("../data/archived/countries_codes_and_coordinates.csv", index=False)
+    df.to_csv(
+        ("proj_cappmait/data/data_from_prog/rawdata/" + 
+        "countries_codes_and_coordinates.csv"), 
+        index=False
+    )
 

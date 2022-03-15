@@ -15,7 +15,10 @@ def get_pagerank():
 
     Output: A list of tuple with country code and Page Rank. This data is also saved in csv.
     '''
-    partners = pd.read_csv("../data/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
+    partners = pd.read_csv(
+        ("proj_cappmait/data/data_from_prog/cleandata/" + 
+         "imf_import_export_cleaned.csv"), 
+        dtype={"2019":"float", "2020":"float"})
 
     pagerank = PageRank(partners, 0.9)
     pagerank.compute_transition()
@@ -25,7 +28,9 @@ def get_pagerank():
     pagerank_lst = [(pagerank.country_list[i], p) for i, p in pagerank_dct.items()]
     pagerank_lst = sorted(pagerank_lst, key=lambda x:x[1], reverse=True)
 
-    with open('../data/pagerank.csv', 'w') as f:
+    with open(
+        'proj_cappmait/data/data_from_prog/cleandata/pro/data/pagerank.csv', 
+        'w') as f:
         write = csv.writer(f)
         for pagerank_tup in pagerank_lst:
             write.writerow(pagerank_tup)
@@ -43,7 +48,8 @@ class PageRank:
         A constructor. 
 
         Input: 
-            partners(Pandas Dataframe): An IMF data of bi-trade (from exporter = source to importer = target) 
+            partners(Pandas Dataframe): An IMF data of bi-trade 
+                (from exporter = source to importer = target) 
             in 2019 and 2020. 
             d(float): A damping factor. Typically 0.9. 
 
