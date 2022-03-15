@@ -19,16 +19,8 @@ fi
 
 echo -e "\t--Your python version is above 3.8, which is enough for this application."
 
-# 2. What OS are we running on?
-PLATFORM=$($PYTHON -c 'import platform; print(platform.system())')
-
-echo -e $PLATFORM
-
-echo -e "2. Checking OS Platform..."
-echo -e "\t--OS=Platform=$PLATFORM"
-
-# 3. Create Virtual environment
-echo -e "3. Creating new virtual environment..."
+# 2. Create Virtual environment
+echo -e "2. Creating new virtual environment..."
 
 # Remove the env directory if it exists 
 if [[ -d env ]]; then
@@ -43,8 +35,8 @@ if [[ ! -d env ]]; then
     exit 1
 fi
 
-# 4. Install Requirements
-echo -e "4. Installing Requirements..."
+# 3. Install Requirements
+echo -e "3. Installing Requirements..."
 if [[ ! -e "requirements.txt" ]]; then 
     echo -e "\t--Need to requirements.txt to install packages."
     exit 1
