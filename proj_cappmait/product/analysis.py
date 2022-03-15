@@ -244,11 +244,6 @@ def pot_triangle(graph, col_names, sort_by, top_n):
 un_comtrade = pd.read_csv('proj_cappmait/data/un_comtrade_top30.csv',
                           dtype = {'rtCode': 'str', 'ptCode': 'str', 
                                    'cmdCode': 'str'})
-'''
-owid_covid = pd.read_csv('proj_cappmait/data/owid_covid_data.csv',
-                         usecols = ['iso_code', 'date', 'total_cases', 
-                                    'new_cases', 'stringency_index']) 
-'''
 
 owid_covid = pd.read_csv('proj_cappmait/data/owid_covid_data_cleaned.csv',
                          usecols = ['iso_code', 'period', 'total_cases', 
@@ -282,19 +277,6 @@ un_comtrade_pivot.columns = ['reporter_iso', 'partner_iso', 'comm_code',
 ## 2. Owid Covid Data
 owid_df = owid_covid[owid_covid['period'] == '2020']
 owid_df.rename(columns={'period':'year'}, inplace=True)
-
-
-'''
-owid_covid['year'] = owid_covid['date'].str[:4]
-owid_covid = owid_covid.loc[:, owid_covid.columns != 'date']
-
-agg = {'total_cases': 'last', 'new_cases': 'sum', 
-       'stringency_index': 'mean'}
-
-owid_covid_grouped = (owid_covid.groupby(['iso_code', 'year'])
-                      .agg(agg).reset_index())
-owid_df = owid_covid_grouped[owid_covid_grouped['year'] == '2020']
-'''
 
 ### Merge to owid_country and add total cases per population
 owid_df = owid_df.merge(owid_country, how = 'inner', on = 'iso_code')
@@ -563,8 +545,7 @@ content2_1 = '''In this part, we will focus on the correlation analysis between
     the growth in export. The scatterplot is shown below. We see that 
     there are some 'negative' correlation between the total cases 
     per population (%) to the export growth (2020 to 2019), although it 
-    somewhat vague. Spoiler: we will see more precisely impact on the trade 
-    sector in the next graph '''
+    somewhat vague.'''
 
 content2_2 = '''Note that the horizontal axis is total cases per population and 
     the vertical axis is the growth in export value (%YoY), and the color 
@@ -581,13 +562,14 @@ content2_2 = '''Note that the horizontal axis is total cases per population and
     We hypothesised that if countries imposed policies more tighter, 
     the level of export values value should lower as the business activities 
     had to temporarily shut down. As consistent to our hypothesis, the following 
-    graph show that, obviously, more tightening the policies are, more 
+    graph show that more tightening the policies are, more 
     decreasing in the economic activity, particularly in the export sector. 
-    This trend is quite strong, except for one country - China, which have a 
-    very high degree of lockdown, but still experience growth. The potential 
-    reason is that China can quickly control the pandemic (by implementing a 
-    high degree of lockdown), and limit the number of cases, and then boost 
-    its economy after the situation seemed recovered. '''
+    This trend is quite general for almost all country, 
+    except for one country - China, which have a very high degree of lockdown, 
+    but still experience growth. The potential reason is that China can quickly 
+    control the pandemic (by implementing a high degree of lockdown), and 
+    limit the number of cases, and then boost its economy after the situation 
+    seemed recovered. '''
 
 content2_3 = '''In the next subpart, we shift our analysis into the commodities
     side. We classify the products by using the standard HS Code that we got 
