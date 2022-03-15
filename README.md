@@ -1,6 +1,12 @@
 # What is this
 
-In our project, we analyze and reveal some important facts about the trade sector during pandemic by using dashboards and a report. We collected export data from international organizations’ databases (e.g. WB WITS API, WTO Database, UN comtrade and IMF trade flows), COVID-19 and economic indicators data (e.g. Our World in Data & World Bank). Then, we leveraged them by creating interactive dashboards and providing an analysis report. Both products use dash and plotly as the core packages. 
+In our project, we analyze and reveal some important facts about the trade 
+sector during pandemic by using dashboards and a report. We collected export 
+data from international organizations’ databases (e.g. WB WITS API, 
+WTO Database, UN comtrade and IMF trade flows), COVID-19 and economic 
+indicators data (e.g. Our World in Data & World Bank). Then, we leveraged them 
+by creating interactive dashboards and providing an analysis report. 
+Both products use dash and plotly as the core packages. 
 
 
 # How to use
@@ -30,12 +36,13 @@ ipython3 -m proj_cappmait
 for running our products
  - `dashboard` for open dashboards
  - `analysis` for open analysis report
- - `quit` for exit the program
+ - `getdata` for download data from various sources (optional)
+ - anything else for exit the program
 
-7. (Optional) To execute data collection modules, run these commands. 
-```sh
-cd proj_cappmait/getdata/
-ipython3 un_api.py # Retrieve data from the UN
-ipython3 imf_api.py # Retrieve data from the IMF
-ipython3 getready_data.py # Download other files and clean data
-```
+7. The `getdata` has subcommands. Users can input these arguments to 
+run the specific commands
+ - `loadcsv` for download other files (such as WTO, OWID, World bank) 
+   and clean these data
+ - `imfapi` for retrieve data from the IMF
+ - `unapi` for retrieve data from the UN
+ - anything else for exit the program
