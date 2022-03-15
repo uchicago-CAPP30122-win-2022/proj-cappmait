@@ -8,7 +8,7 @@ indicators data (e.g. Our World in Data & World Bank). Then, we leveraged them
 by creating interactive dashboards and providing an analysis report. 
 Both products use dash and plotly as the core packages. 
 
-## Built with
+### Built with
 * Python
 * Plotly
 * Dash/Cytoscape
