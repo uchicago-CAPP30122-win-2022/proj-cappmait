@@ -430,7 +430,6 @@ summary = results.summary()
 summary_table_html = summary.tables[1].as_html()
 
 
-
 # Part 3
 ## IMF whole world
 imf_undirect = undirected_export(imf_ex_im, 3 ,5)
@@ -438,7 +437,7 @@ imf_undirect  = imf_undirect[['country_1', 'country_2', '2019', '2020']]
 imf_und_filter = imf_undirect[imf_undirect['2019'] > 5000]
 
 create_network(imf_und_filter,'2020', 0, 1, 3, 2, 
-               'assets/imf_2020.html')
+               'proj_cappmait/product/assets/imf_2020.html')
 
 ## UN Export
 un_undirect = undirected_export(un_comtrade_pivot, 0, 1)
@@ -446,7 +445,7 @@ un_undirect.columns = ['year', 'relation', 'export_2019',
                       'export_2020', 'country_1', 'country_2']
 
 create_network(un_undirect,'export_2020', 4, 5, 3, 2, 
-               'assets/un_2020.html')
+               'proj_cappmait/product/assets/un_2020.html')
 
 ## Example Some Product
 ### Pharmaceutical Products
@@ -456,7 +455,7 @@ un_pharma.columns = ['year', 'relation', 'export_2019',
                       'export_2020', 'country_1', 'country_2']
 
 create_network(un_pharma,'export_2020', 4, 5, 3, 2, 
-               'assets/un_pharma_2020.html')
+               'proj_cappmait/product/assets/un_pharma_2020.html')
 
 ### Vehicle
 un_vehicle = un_comtrade_pivot[un_comtrade_pivot['comm_code'] == 87]
@@ -465,7 +464,7 @@ un_vehicle.columns = ['year', 'relation', 'export_2019',
                       'export_2020', 'country_1', 'country_2']
 
 create_network(un_vehicle,'export_2020', 4, 5, 3, 2, 
-               'assets/un_vehicle_2020.html')
+               'proj_cappmait/product/assets/un_vehicle_2020.html')
 
 ## Centrality
 imf_net = nx.from_pandas_edgelist(imf_undirect, 'country_1', 'country_2')
