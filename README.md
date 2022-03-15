@@ -16,12 +16,12 @@ and providing an analysis report.
 * HTML/CSS
 
 ### Data sources
-* [WTO Merchandise trade values annual dataset](https://www.wto.org/english/res_e/statis_e/trade_datasets_e.htm) : Dashboard/Analysis - overall trade volume in product details (SITC)
-* [IMF Direction of Trade Statistics (DOTS)](https://data.imf.org/?sk=9d6028d4-f14a-464c-a2f2-59b2cd424b85) : Dashboard/Analysis - trade flows for worldwide countries
-* [UN Comtrade](https://comtrade.un.org) : Analysis - trade flows between top30 countries in product details (HS code)
-* [Our World in Data Covid-19 data](https://github.com/owid/covid-19-data/tree/master/public/data) : Dashboard/Analysis - covid death/cases and stringent index
-* [World Bank World Development Indicators](https://databank.worldbank.org/source/world-development-indicators) : Analysis - gdp, inflation, exchange rate
-* [Country code](https://gist.github.com/tadast/8827699) : Dashboard/Analysis - map alpha 2/3 codes to country name
+* [WTO Merchandise trade values annual dataset](https://www.wto.org/english/res_e/statis_e/trade_datasets_e.htm) : overall trade volume in product details (SITC)
+* [IMF Direction of Trade Statistics (DOTS)](https://data.imf.org/?sk=9d6028d4-f14a-464c-a2f2-59b2cd424b85) : trade flows for worldwide countries
+* [UN Comtrade](https://comtrade.un.org) : trade flows between top30 countries in product details (HS code)
+* [Our World in Data Covid-19 data](https://github.com/owid/covid-19-data/tree/master/public/data) : covid death/cases and stringent index
+* [World Bank World Development Indicators](https://databank.worldbank.org/source/world-development-indicators) : gdp, inflation, exchange rate
+* [Country code](https://gist.github.com/tadast/8827699) : map alpha 2/3 codes to country name
 
 # How to use
 To use this application, run the following steps.
