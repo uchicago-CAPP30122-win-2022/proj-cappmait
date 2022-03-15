@@ -1,7 +1,12 @@
-'''
+"""
 This module collects UN trade product/partner detail for top30 countries
 by UN api.
-'''
+
+We retrieve each country files via call_un_comtrade function and concatinate
+these files together by using concat_un_comtrade, storing the result in 
+data/data_from_prog
+"""
+
 import json
 import time
 import os
@@ -205,7 +210,7 @@ def create_un_data():
     partners = "proj_cappmait/data/archived/partnerAreas_top30.json"
     raw_un_comtrade_path = ("proj_cappmait/data/data_from_prog" + 
                             "/rawdata/uncomtrade/")
-    final_csv_path = "proj_cappmait/data/data_from_prog/rawdata/"
+    final_csv_path = "proj_cappmait/data/data_from_prog/cleandata/"
     call_un_comtrade(reporters, partners, raw_un_comtrade_path)
     concat_un_comtrade(raw_un_comtrade_path, final_csv_path, partners)
 
