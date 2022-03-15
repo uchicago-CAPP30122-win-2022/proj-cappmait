@@ -6,6 +6,7 @@ Reference: https://www.bd-econ.com/imfapi1.html
 '''
 import pandas as pd
 import requests
+import time
 
 url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/'
 
@@ -24,13 +25,14 @@ def create_export_import_data():
     df = pd.DataFrame(index=[], columns=['from', 'to', '2019', '2020'])
     for code in country_codes:
         print(f"Getting {code}'s export data...")
+        time.sleep(3)
         one_country = get_imf_export_data(country_codes, code)
         one_country.reset_index(level=0, inplace=True)
         one_country.rename(columns={'index': 'to'}, inplace=True)
         one_country.insert(0, "from", code, True)
         df = pd.concat([df, one_country])
 
-    return df.to_csv('rawdata/imf_import_export_test.csv')
+    return df.to_csv('../data/archived/imf_import_export.csv')
 
 
 def find_country_codes():
