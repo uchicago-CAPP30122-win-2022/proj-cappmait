@@ -7,14 +7,14 @@ def run_dashboard():
     Running dashboard
     """
     app = dashboard.app
-    app.run_server(debug=False, port=3003)
+    app.run_server(debug=False, port=50005)
 
 def run_analysis():
     """
     Running analysis
     """
     app = analysis.app
-    app.run_server(debug=False, port=3004)
+    app.run_server(debug=False, port=50050)
 
 def run_un_api():
     """
