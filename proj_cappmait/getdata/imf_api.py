@@ -22,7 +22,7 @@ def create_export_import_data():
     df = pd.DataFrame(index=[], columns=['from', 'to', '2019', '2020'])
     for code in country_codes:
         print(f"Getting {code}'s export data...")
-        time.sleep(3)
+        time.sleep(5)
         one_country = get_imf_export_data(country_codes, code)
         one_country.reset_index(level=0, inplace=True)
         one_country.rename(columns={'index': 'to'}, inplace=True)
