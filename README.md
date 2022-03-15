@@ -41,8 +41,8 @@ for running our products
 
 7. The `getdata` has subcommands. Users can input these arguments to 
 run the specific commands
+ - `unapi` for retrieve data from the UN
+  - `imfapi` for retrieve data from the IMF
  - `loadcsv` for download other files (such as WTO, OWID, World bank) 
    and clean these data
- - `imfapi` for retrieve data from the IMF
- - `unapi` for retrieve data from the UN
  - anything else for exit the program
