@@ -3,7 +3,6 @@ Module to construct network & sankey diagram
 in the interactive dashboard
 '''
 import pandas as pd
-import numpy as np
 
 def construct_networkgraph():
     '''
@@ -15,9 +14,11 @@ def construct_networkgraph():
 
     Output: A graph object. 
     '''
-    partners = pd.read_csv("proj_cappmait/data/imf_import_export_cleaned.csv", dtype={"2019":"float", "2020":"float"})
-    pagerank = pd.read_csv("proj_cappmait/data/pagerank.csv", names=["country_code", "pagerank"], \
-                dtype={"country_code":"str", "pagerank":"float"})
+    partners = pd.read_csv("proj_cappmait/data/imf_import_export_cleaned.csv", \
+        dtype={"2019":"float", "2020":"float"})
+    pagerank = pd.read_csv("proj_cappmait/data/pagerank.csv", \
+        names=["country_code", "pagerank"], \
+        dtype={"country_code":"str", "pagerank":"float"})
 
     graph = Graph(partners)
     graph.update_network()
@@ -35,14 +36,16 @@ class Graph:
         A constructor. 
 
         Input: 
-            partners(Pandas Dataframe): An IMF data of bi-trade (from exporter = source to importer = target) 
+            partners(Pandas Dataframe): An IMF data of bi-trade
+            (from exporter = source to importer = target) 
             in 2019 and 2020. 
         
         Attribute:
             partners(Pandas Dataframe)
             nodes(list) : A list of country node objects for whole network graph
-            edges(list) : A tuple of edges for whole network graph. Each element is a tuple of 
-                        source(str), target(str), and growth rate of trade volume between 2020 and 2019(float). 
+            edges(list) : A tuple of edges for whole network graph. 
+                        Each element is a tuple of source(str), target(str), 
+                        and change of trade volume between 2020 and 2019(float). 
             sankeynodes(list) : A list of country node objects for sankey graph
             sankeyedges(list) : A list of edges for sankey graph. Each element is a tuple of
                         source(str), target(str), trade volume in either 2019 or 2020, and color. 
@@ -57,7 +60,8 @@ class Graph:
         '''
         Process the partner dataframe, and build up the country node objects. 
         '''
-        for volume_2019, volume_2020, from_name, from_code, to_name, to_code in self.partners.itertuples(index=False):
+        for volume_2019, volume_2020, from_name, from_code, to_name, to_code\
+            in self.partners.itertuples(index=False):
             if from_code not in self.nodes:
                 self.nodes[from_code] = Node(from_code, from_name)
             if to_code not in self.nodes:
@@ -65,19 +69,20 @@ class Graph:
             self.nodes[from_code].add_partner(True, self.nodes[to_code], volume_2019, volume_2020)
             self.nodes[to_code].add_partner(False, self.nodes[from_code], volume_2019, volume_2020)
 
-    def update_pagerank(self, pagerank):
+    def update_pagerank(self, pagerank_df):
         '''
         Process the pagerank dataframe, and add pagerank attribute to each country node. 
 
         Input:
-            pagerank(Pandas Dataframe): A pagerank for each country. 
+            pagerank_df(Pandas Dataframe): A pagerank for each country. 
         '''
-        for code, pagerank in pagerank.itertuples(index=False):
-            self.nodes[code].pagerank = pagerank
+        for code, value in pagerank_df.itertuples(index=False):
+            self.nodes[code].pagerank = value
 
     def find_best_partners(self, num, is_exporter):
         '''
-        Find the best trading partners and add to edges. And draw a whole world network graph. 
+        Find the best trading partners and add to edges. 
+        D draw a whole world network graph. 
 
         Input:
             num(int) : A number of best partner
@@ -85,7 +90,8 @@ class Graph:
 
         Output:
             nodes(list) : A list of country node objects
-            edges(list) : A tuple of source(str), target(str), and change of trade volume between 2020 and 2019(float). 
+            edges(list) : A tuple of source(str), target(str), 
+                        and change of trade volume between 2020 and 2019(float). 
         '''
         for code, node in self.nodes.items():
             if is_exporter:
@@ -100,26 +106,29 @@ class Graph:
     
     def draw_sankey(self, country_code):
         '''
-        Draw a sankey diagram. 
+        Draw a sankey diagram for top 10 trading parterns
+        in export/import, 2019/2020. 
 
         Input:
             country_code(str): A country code the user selected
 
         Output:
             sankeynodes(list) : A list of country node objects for sankey graph
-            sankeyedges(list) : A list of edges for sankey graph. Each element is a tuple of
-                        source index(int), target index(int), trade volume in either 2019 or 2020, and color. 
+            sankeyedges(list) : A list of edges for sankey graph. 
+                                Each element is a tuple of source index(int), 
+                                target index(int), trade volume in either 2019 or 2020, and color. 
         '''
         country_node = self.nodes[country_code]
+        country_label = country_node.label
 
         edges_2019_ex = self.construct_sankey(country_node, True, True)
-        self.sankeynodes.append(u'\u2190 Export \u2192')
+        self.sankeynodes.append(f'{country_label}'+'\n\u2190 Export \u2192')
     
         edges_2019_im = self.construct_sankey(country_node, False, True)
-        self.sankeynodes.append('\u2192 Import \u2190')
+        self.sankeynodes.append(f'{country_label}'+'\n\u2192 Import \u2190')
 
         importer_index = len(self.sankeynodes) - 1
-        for i, (source, target, vol, color) in enumerate(edges_2019_im):
+        for i, (source, _, vol, color) in enumerate(edges_2019_im):
             edges_2019_im[i] = (source, importer_index, vol, color)
 
         edges_2020_ex = self.construct_sankey(country_node, True, False, importer_index)
@@ -137,8 +146,9 @@ class Graph:
             country_code(str): A country code the user selected
             is_exporter(boolean): True if the country node is exporter, and False otherwise. 
             is_2019(boolean): True if interested in 2019, and False if 2020.
-            importer_index(int): The index of country serves as an importer in sankeynodes list. 
-                                First it is unknown until finish processing the whole trading partners
+            importer_index(int): The index of country serves as an importer 
+                                in sankeynodes list. First it is unknown until 
+                                finish processing the whole trading partners
                                 in 2019, so default is 0. 
 
         Output:
@@ -146,11 +156,11 @@ class Graph:
         '''
         link = list()
         partners_lst = country_node.sort_partners(is_exporter, is_2019)[:10]
-        for i, (partner, vol_2019, vol_2020) in enumerate(partners_lst):
+        for partner, vol_2019, vol_2020 in partners_lst:
             color = '#36559c' if is_exporter else '#b5442d'
 
-            # Set the index of country serves as an exporter to 10 because we only look up 
-            # top 10 partners. If the country serves as an importer, set to the given importer_index. 
+            # Set the index of country serves as an exporter to 10
+            # because we only look up top 10 partners. 
             middle = 10 if is_exporter else importer_index
 
             if is_exporter or partner.label not in self.sankeynodes:
@@ -200,7 +210,8 @@ class Node:
         Append a partner object to the partners list. 
 
         Input:
-            is_children(boolean): If True, append to the children list. Otherwise append to the parent list.
+            is_children(boolean): If True, append to the children list. 
+                                Otherwise append to the parent list.
             othernode(Node object): A node object of partner.
             volume_2019(float): A trading volume in 2019.
             volume_2020(float): A trading volume in 2020.
@@ -218,8 +229,10 @@ class Node:
         Sort the partners list.
 
         Input:
-            is_children(boolean): If True, sort to the children list. Otherwise sort to the parent list.
-            is_2019(boolean): If true, sort based on 2019 trading volume. Otherwise sort based on 2020. 
+            is_children(boolean): If True, sort to the children list. 
+                                Otherwise sort to the parent list.
+            is_2019(boolean): If true, sort based on 2019 trading volume. 
+                                Otherwise sort based on 2020. 
         
         Output:
             A sorted list
