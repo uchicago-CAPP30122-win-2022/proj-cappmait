@@ -65,7 +65,9 @@ def px_scatter(df, x, y, color, hover_name, size, labels, title_text):
     fig.update_layout(title_text=title_text,
                       font_family="Arial",
                       uniformtext_minsize=8,
-                      uniformtext_mode='hide')
+                      uniformtext_mode='hide',
+                      paper_bgcolor= "rgba(0,0,0,0)",
+                      plot_bgcolor = "rgba(0,0,0,0)")
     return fig
 
 def px_hbar(df, x, y, text, range_x, labels, title_text, hover_name=None):
@@ -92,7 +94,9 @@ def px_hbar(df, x, y, text, range_x, labels, title_text, hover_name=None):
     fig.update_layout(title_text=title_text,
                       font_family="Arial",
                       uniformtext_minsize=8,
-                      uniformtext_mode='hide')
+                      uniformtext_mode='hide',
+                      paper_bgcolor= "rgba(0,0,0,0)",
+                      plot_bgcolor = "rgba(0,0,0,0)")
     return fig
 
 
