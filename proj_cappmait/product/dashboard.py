@@ -433,7 +433,7 @@ app.layout = html.Div(
             html.P(id="description",
                     children='''Left-hand-side of the dashboard presents 
                     worldwide situation of covid and trade network, 
-                    while right-hand-side dive into specific countries  
+                    while right-hand-side dive into specific countries'  
                     trading volumes, partners and categories from 2019 to 2020.
                     Users can interact with the dashboard through clicking into 
                     covid & network map; or select / input in dropdown box.''',
