@@ -198,7 +198,7 @@ def concat_un_comtrade(raw_folder, csv_folder, partners_path):
     
     # create csv file
     filename = csv_folder + "un_comtrade_top30" + ".csv"
-    df.to_csv(filename, index = False)
+    un_comtrade.to_csv(filename, index = False)
 
 
 def create_un_data():
