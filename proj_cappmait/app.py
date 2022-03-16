@@ -46,14 +46,14 @@ def run_loadcsv():
 def run():
     """
     User type some arguments and we run a program
-
     """
     print("Welcome to our Trade Dashboards and Analysis program!")
     user_input = input(
-        """Please type 'dashboard' for dashboard, 
-           'analysis' for analysis, 'getdata' for download new data
-           'quit' or anything else for quit program.
-        """)
+        """Please type 
+            'dashboard' for dashboard, 
+            'analysis' for analysis, 
+            'getdata' for download new data
+            'quit' or anything else for quit program.""")
     if user_input == 'dashboard':
         print("running dashboard...")
         run_dashboard()
@@ -62,12 +62,12 @@ def run():
         run_analysis()
     elif user_input == 'getdata':
         getdata_user_input = input(
-            """Please type 'unapi' for download un api,
-            'imfapi' for download imf api,
-            'loadcsv' for download and clean WTO trade products, 
-            OWID covid, World Bank econ data and Country code data, 
-           'quit' or anything else for quit program
-           """)
+            """Please type 
+                'unapi' for download un api,
+                'imfapi' for download imf api,
+                'loadcsv' for download and clean WTO trade products, 
+                    OWID covid, World Bank econ data and Country code data, 
+                'quit' or anything else for quit program.""")
         if getdata_user_input == 'unapi':
             print("getting new data...")
             run_un_api()
