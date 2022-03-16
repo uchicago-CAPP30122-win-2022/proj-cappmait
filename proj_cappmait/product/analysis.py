@@ -672,7 +672,7 @@ CONTENT3_1_3 = '''Suppose that the trading network is well-connected. There
     polictical conflicts between two partners. For example, 
     the conflicts among lots of countries in the middle east makes the
     bilateral trading between Saudi Arabia to Qatar, Iran, Israel impossible.'''
-FOOTER = "\n Analysed by CAPPMAIT, part of the project in CAPP 30102"
+FOOTER = "\n Analysed by CAPPMAIT, part of the project in CAPP 30122"
 
 ############### Dash Report ########################
 app = Dash(__name__)
