@@ -1,6 +1,9 @@
 import sys
+import warnings
+warnings.filterwarnings("ignore")
 from proj_cappmait.product import dashboard, analysis
 from proj_cappmait.getdata import getready_data, imf_api, un_api
+
 
 def run_dashboard():
     """

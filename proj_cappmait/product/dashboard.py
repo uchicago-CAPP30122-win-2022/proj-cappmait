@@ -5,9 +5,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-import dash_html_components as html
-import dash_core_components as dcc
-from dash import html
+from dash import html, dcc
 from dash.exceptions import PreventUpdate
 from dash_extensions.enrich import DashProxy, MultiplexerTransform, Input, Output
 import dash_cytoscape as cyto
@@ -112,11 +110,11 @@ def network_legend():
     )
 
     fig.add_trace(go.Scatter(
-                x=[1.15, 1.41, 1.63],
+                x=[1.14, 1.41, 1.70],
                 y=[1, 1, 1],
                 text=[": PageRank(=centrality) size", 
-                      ": Trade Increased", 
-                      ": Trade Decreased"],
+                      ": Trade Increased(2019\u21922020)", 
+                      ": Trade Decreased(2019\u21922020)"],
                 mode="text",
                 textfont=dict(
                     color="#edeff7",
@@ -125,7 +123,7 @@ def network_legend():
     ))
 
     fig.add_shape(type="line",
-                x0=1.27, y0=1, x1=1.33, y1=1,
+                x0=1.26, y0=1, x1=1.29, y1=1,
                 line=dict(
                     color="blue",
                     width=2,
@@ -133,7 +131,7 @@ def network_legend():
     )
 
     fig.add_shape(type="line",
-                x0=1.49, y0=1, x1=1.55, y1=1,
+                x0=1.55, y0=1, x1=1.58, y1=1,
                 line=dict(
                     color="red",
                     width=2,
@@ -165,7 +163,7 @@ def network_legend():
                 plot_bgcolor = "rgba(0,0,0,0)",
                 font_color= "#edeff7",
                 height = 100,
-                width = 700,
+                width = 750,
                 geo_bgcolor="rgba(0,0,0,0)",
                 margin=dict(t=0, l=50)
     )
@@ -178,7 +176,8 @@ def plot_bar(df, country_name):
     Create a bar graph object, which represents 
     trade volume of export/import in 2019/2020. 
     Inputs:
-        df (Pandas Dataframe): a data of products
+        df (Pandas Dataframe): product data for the country
+        country_name(str): the country name
     Outputs:
         fig(a bar graph object)
     '''
@@ -227,8 +226,8 @@ def plot_sankey(val_selected, country_name):
     Create a sankey graph object, which represents 
     top10 trade flows of each export/import in 2019/2020. 
     Inputs:
-        node_df(Pandas Dataframe): a data of nodes
-        links_df(Pandas Dataframe): a data of links
+        val_selected(str): the country code
+        country_name(str): the country name
     Outputs:
         fig(a sankey graph object)
     '''
@@ -281,7 +280,8 @@ def plot_dot(df, country_name):
     Create a dot graph object, which represents 
     total trade (import+export) in top5 product categories. 
     Inputs:
-        df (Pandas Dataframe): a data of products
+        df (Pandas Dataframe): product data for the country
+        country_name(str): the country name
     Outputs:
         fig(a tree graph object)
     '''

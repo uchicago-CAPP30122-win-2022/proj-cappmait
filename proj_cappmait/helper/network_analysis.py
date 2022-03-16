@@ -25,7 +25,6 @@ def construct_networkgraph():
     graph.update_pagerank(pagerank)
     return graph
 
-
 class Graph:
     '''
     A class for network graph with nodes and edges. 
@@ -42,12 +41,12 @@ class Graph:
         
         Attribute:
             partners(Pandas Dataframe)
-            nodes(list) : A list of country node objects for whole network graph
-            edges(list) : A tuple of edges for whole network graph. 
+            nodes(list) : A list of node objects for whole network nodes. 
+            edges(list) : A list of tuple for whole network edges. 
                         Each element is a tuple of source(str), target(str), 
-                        and change of trade volume between 2020 and 2019(float). 
+                        and change of trade volume from 2019 to 2020(float). 
             sankeynodes(list) : A list of country node objects for sankey graph
-            sankeyedges(list) : A list of edges for sankey graph. Each element is a tuple of
+            sankeyedges(list) : A list of tuple for sankey graph edges. Each element is a tuple of
                         source(str), target(str), trade volume in either 2019 or 2020, and color. 
         '''
         self.partners = partners
@@ -82,7 +81,7 @@ class Graph:
     def find_best_partners(self, num, is_exporter):
         '''
         Find the best trading partners and add to edges. 
-        D draw a whole world network graph. 
+        Draw a whole world network graph. 
 
         Input:
             num(int) : A number of best partner
@@ -107,7 +106,17 @@ class Graph:
     def draw_sankey(self, country_code):
         '''
         Draw a sankey diagram for top 10 trading parterns
-        in export/import, 2019/2020. 
+        for each export & import, 2019 & 2020. 
+        However, total trading partners is unknown because export & import trading partners may overlap. 
+        To construct a sankey graph for plotly, we need nodes
+        with country label and edges with source, target, weight(volume), and color. 
+        The edge order should be 
+            1. Trading partners export to in 2019
+            2. The country as exporter
+            3. Trading partners import from in 2019
+            4. The country as importer
+            5. Trading partners export to in 2020
+            6. Trading partners import from in 2020
 
         Input:
             country_code(str): A country code the user selected
@@ -127,6 +136,8 @@ class Graph:
         edges_2019_im = self.construct_sankey(country_node, False, True)
         self.sankeynodes.append(f'{country_label}'+'\n\u2192 Import \u2190')
 
+        # Set the index of country as importer after revealing 
+        # total number of trading partners in 2019. 
         importer_index = len(self.sankeynodes) - 1
         for i, (source, _, vol, color) in enumerate(edges_2019_im):
             edges_2019_im[i] = (source, importer_index, vol, color)
@@ -146,7 +157,7 @@ class Graph:
             country_code(str): A country code the user selected
             is_exporter(boolean): True if the country node is exporter, and False otherwise. 
             is_2019(boolean): True if interested in 2019, and False if 2020.
-            importer_index(int): The index of country serves as an importer 
+            importer_index(int): The index of the country serves as an importer 
                                 in sankeynodes list. First it is unknown until 
                                 finish processing the whole trading partners
                                 in 2019, so default is 0. 
@@ -195,8 +206,12 @@ class Node:
         Attributes:
             country_code(str)
             label(str)
-            parents(list): A list of trading partners (node objects) which the country import from. 
-            children(list): A list of trading partners (node objects) which the country export to. 
+            parents(list): A list of tuple. Each element is
+                        trading partners (node objects) which the country import from,
+                        trading volume in 2019, and 2020. 
+            children(list): A list of tuple. Each element is
+                        trading partners (node objects) which the country export to,
+                        trading volume in 2019, and 2020. 
             pagerank(float): A pagerank value. 
         '''
         self.country_code = country_code

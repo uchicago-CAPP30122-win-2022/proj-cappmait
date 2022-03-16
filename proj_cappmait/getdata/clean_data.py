@@ -63,7 +63,6 @@ def clean_countrycode():
     2) Drop countries that do not appear in product dataset
     3) Drop duplicated country codes. 
     '''
-
     partners = pd.read_csv(
         ("proj_cappmait/data/data_from_prog/cleandata/" + 
          "imf_import_export_cleaned.csv"), 
@@ -79,19 +78,19 @@ def clean_countrycode():
         "countries_codes_and_coordinates.csv")
     )
 
-    dff = df.merge(partners["from_code"], 
+    df = df.merge(partners["from_code"], 
         left_on='Alpha-3code', 
         right_on='from_code', 
         how='right').drop('from_code', axis=1)
-    dff = dff.drop_duplicates().reset_index(drop=True)
-    dff = dff.merge(product["ReporterISO3A"], 
+    df = df.drop_duplicates().reset_index(drop=True)
+    df = df.merge(product["ReporterISO3A"], 
         left_on='Alpha-3code', 
         right_on='ReporterISO3A', 
         how='inner').drop('ReporterISO3A', axis=1)
-    dff = dff.drop_duplicates().reset_index(drop=True)
-    dff = dff.sort_values("Alpha-3code")
+    df = df.drop_duplicates().reset_index(drop=True)
+    df = df.sort_values("Alpha-3code")
 
-    dff.to_csv(
+    df.to_csv(
         ("proj_cappmait/data/data_from_prog/cleandata/" +
          "countries_codes_and_coordinates_cleaned.csv"), 
         index=False)
@@ -104,12 +103,6 @@ def clean_owid():
     3) Drop irrelevant columns
     4) Replace missing values with 0 
     5) Select data in 2020
-
-    Inputs:
-        path (str): A csv path. Default is defined. 
-
-    Outputs:
-        Save to csv. Return is None. 
     '''
     owid_covid = pd.read_csv(
         "proj_cappmait/data/data_from_prog/rawdata/owid_covid_data.csv"
@@ -155,4 +148,3 @@ def clean_owid():
         ("proj_cappmait/data/data_from_prog/cleandata/" + 
          "owid_covid_data_cleaned.csv"),
         index=False)
-

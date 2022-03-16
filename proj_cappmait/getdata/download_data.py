@@ -6,9 +6,7 @@ Data Sources:
     World Bank econ data
     Country code data
 '''
-import json
 import time
-import os
 from zipfile import ZipFile
 from io import BytesIO
 import requests

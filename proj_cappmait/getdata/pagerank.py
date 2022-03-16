@@ -1,10 +1,12 @@
 '''
 Module to calculate PageRank. 
+Code idea from 121 lecture note. 
+(https://classes.cs.uchicago.edu/archive/2021/fall/30121-1/modules/m2.html)
 '''
-import pandas as pd
-import numpy as np
 import random
 import csv
+import pandas as pd
+import numpy as np
 
 def get_pagerank():
     '''
@@ -13,7 +15,8 @@ def get_pagerank():
 
     Input: None
 
-    Output: A list of tuple with country code and Page Rank. This data is also saved in csv.
+    Output: A list of tuple with country code and Page Rank. 
+    This data is also saved in csv.
     '''
     partners = pd.read_csv(
         ("proj_cappmait/data/data_from_prog/cleandata/" + 
@@ -22,14 +25,16 @@ def get_pagerank():
 
     pagerank = PageRank(partners, 0.9)
     pagerank.compute_transition()
-    print("Running simulation.")
-    pagerank_dct = pagerank.compute_pagerank(10000000, 1)
 
-    pagerank_lst = [(pagerank.country_list[i], p) for i, p in pagerank_dct.items()]
-    pagerank_lst = sorted(pagerank_lst, key=lambda x:x[1], reverse=True)
+    print("Running simulation.")
+    pagerank_dct = pagerank.compute_pagerank(1000000, 1)
+
+    pagerank_lst = [(pagerank.country_list[i], p) for \
+                        i, p in pagerank_dct.items()]
+    pagerank_lst = sorted(pagerank_lst, key=lambda x : x[1], reverse=True)
 
     with open(
-        'proj_cappmait/data/data_from_prog/cleandata/pro/data/pagerank.csv', 
+        'proj_cappmait/data/data_from_prog/cleandata/pagerank.csv', 
         'w') as f:
         write = csv.writer(f)
         for pagerank_tup in pagerank_lst:
@@ -58,8 +63,10 @@ class PageRank:
             country_list: A list of country
             out_degree(1d numpy array): Count outflows from each country
             counts(2d numpy array): Count link between countries
-            markov(2d numpy array): A transition matrix from row country to column country
-            pagerank(dict): The key is country code and value is calculated pagerank value
+            markov(2d numpy array): A transition matrix from 
+                                    row country to column country
+            pagerank(dict): The key is country code and value is
+                                    calculated pagerank value
             d(float): A damping factor. 
         '''
         self.n = len(partners["from_code"].unique())
@@ -82,8 +89,8 @@ class PageRank:
         Build a markov chain matrix. 
         '''
         for i in range(self.n):
-            for j in range(self.n):
-                self.markov[i, j] = (self.d * self.counts[i,j]/self.out_degree[i]) + ((1-self.d)/self.n)
+            self.markov[i, :] = (self.d * self.counts[i, :]/\
+                    self.out_degree[i]) + ((1-self.d)/self.n)
 
     def compute_pagerank(self, trial, seed):
         '''
@@ -96,8 +103,7 @@ class PageRank:
         random.seed(seed)
         page = random.randint(0, self.n - 1)
         for _ in range(trial):
-            pre_pagerank = self.pagerank.get(page, 0)
-            self.pagerank[page] = pre_pagerank + 1/trial
+            self.pagerank[page] = self.pagerank.get(page, 0) + 1/trial
             r = random.uniform(0.0, 1.0)
             psum = 0.0
             for j in range(self.n):
